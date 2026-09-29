@@ -1362,3 +1362,58 @@ Third-party material may identify a lead. It must not establish current operatio
 - Use (B42): Cuba country chapter has sections on Pilotage, Pollution, Regulations, Prohibited Areas and Search and Rescue but no Vessel Traffic Service or Ship Reporting System section (other country chapters in the same volume carry such sections). Port approach reporting is to the Port Signal Station on VHF 16.
 - Locator: Cuba chapter pp.183 to 185 (Regulations; Search and Rescue).
 - Passage: "All vessels approaching Cuban ports should contact the Port Signal Station on VHF channel 16, or by light signals, to announce their presence, nationality, and characteristics."
+
+### SRC-146 — OP Notice to Shipping N-3-2026 Communication on Transit Activities
+
+- Authority: Panama Canal Authority (ACP), Vice Presidency for Operations.
+- URL: https://pancanal.com/wp-content/uploads/2021/08/N03-2026-Communication_BMV.pdf
+- Evidence class: Tier 2.
+- Edition or date: 1 January 2026.
+- Accessed: 29 September 2026.
+- Use (B43): ACP runs an Enhanced Vessel Traffic Management System (EVTMS) fed by VUMPA pre-arrival data: an information and scheduling system, with no service area or TSS coverage stated.
+- Locator: Section 3, p.3.
+- Passage: "this information is incorporated into the production database of the Enhanced Vessel Traffic Management System (EVTMS) and other operational systems."
+
+### SRC-147 — Pub. 148 Sailing Directions (Enroute) Caribbean Sea Volume II
+
+- Authority: US National Geospatial-Intelligence Agency (NGA).
+- URL: https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub148bk.pdf&type=view
+- Evidence class: Tier 3.
+- Edition or date: 19th Edition 2025, file updated 4 September 2026.
+- Accessed: 29 September 2026.
+- Use (B43): Notes the IMO TSS in the approaches to Puerto Cristobal; states the Panama Canal VTMS 'covers the approaches to Colon and its terminals' with no boundary, and gives the Cristobal Signal Station call point as 6 or 12 miles from the breakwaters, which conflicts with ACP N-2-2026 (8 NM).
+- Locator: Sector 4 paras 4.38 (p.120), 4.40 (p.123), 4.44 (pp.127 to 129).
+- Passage: "The Panama Canal Vessel Traffic Management System (VTMS) covers the approaches to Colon and its terminals."
+
+### SRC-148 — Order No. 1226-r: Traffic separation schemes in the territorial sea of the Russian Federation
+
+- Authority: Government of the Russian Federation (text on third-party host meganorm.ru).
+- URL: https://meganorm.ru/Data2/1/4293849/4293849842.htm
+- Evidence class: Lead only.
+- Edition or date: 2 September 2006.
+- Accessed: 29 September 2026.
+- Use (B43): National scheme No. 12 Proliv Bussol' and No. 13 Fourth Kuril Strait, with geometry matching the IMO schemes; the text sets lanes and directions only, with no VTS or reporting provision. Third-party reproduction of an official instrument; not verified on pravo.gov.ru.
+- Locator: Section 8 (scheme No. 12) and section 9 (scheme No. 13).
+- Passage: "Схема разделения движения № 13. Четвертый Курильский пролив (Курильские острова). Схема разделения движения включает две полосы движения, разделенные зоной"
+
+### SRC-149 — Pub. 155 Sailing Directions (Enroute) East Coast of Russia
+
+- Authority: US National Geospatial-Intelligence Agency (NGA).
+- URL: https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub155bk.pdf&type=view
+- Evidence class: Tier 3.
+- Edition or date: 16th Edition 2026, file updated 4 September 2026.
+- Accessed: 29 September 2026.
+- Use (B43): Notes the IMO TSS in Chetvertyy Kuril'skiy Proliv and in Proliv Bussol' with no VTS or reporting text (VTS are described elsewhere in the volume for Petropavlovsk-Kamchatskiy, Magadan, Zaliv Aniva, Vanino, Zaliv Petra Velikogo). Severo-Kuril'skiy (on Vtoroy Kuril'skiy Proliv, not the Fourth Strait) has only Port Control and pilots.
+- Locator: Sector 4 paras 4.1 (p.56), 4.6 (pp.58 to 59), 4.15 (p.61), 4.29 (p.65).
+- Passage: "An IMO-approved Traffic Separation Scheme lies in the waters of Chetvertyy Kuril'sky Proliv and may best be seen on the appropriate chart."
+
+### SRC-150 — Pub. 120 Sailing Directions (Planning Guide) Pacific Ocean and Southeast Asia, Russia chapter
+
+- Authority: US National Geospatial-Intelligence Agency (NGA).
+- URL: https://msi.nga.mil/api/publications/download?key=16694492/SFH00000/Pub120bk.pdf&type=view
+- Evidence class: Tier 3.
+- Edition or date: 15th Edition 2025, file updated 28 August 2026.
+- Accessed: 29 September 2026.
+- Use (B43): Lists Russian east coast TSS (including Proliv Bussol and Chetvertyy Kurilskiy Proliv as IMO approved) and lists 19 Russian VTS (Pacific: Zaliv Petra Velikogo, Nakhodka, Vladivostok, Zaliv Aniva, Vanino, Petropavlovsk-Kamchatskiy, Magadan) plus VTMS at Nevelsk and Okhotsk. None is in the Kuril Islands. Foreign secondary list, not an official Russian list.
+- Locator: Russia chapter pp.497 to 498 (Traffic Separation Schemes; Vessel Traffic Service).
+- Passage: "Vessel Traffic Management Systems are in operation in Nevelsk (46˝40'N., 141°51'E.) and Okhotsk (59°21'N., 143°11'E.)."
