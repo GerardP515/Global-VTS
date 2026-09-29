@@ -1,0 +1,1206 @@
+{
+ "group": "E",
+ "records": [
+  {
+   "record_id": "TSS-0111",
+   "source_label": "In the Singapore Strait (Main Strait)",
+   "official_name": "In the Singapore Strait (Main Strait)",
+   "batch": "B23",
+   "states": "Indonesia, Malaysia, Singapore (tripartite routeing system)",
+   "tss_identity_status": "Confirmed",
+   "grouped_components": [],
+   "operational_status": "In force",
+   "vts_finding": "Confirmed present",
+   "reporting_finding": "Confirmed present",
+   "reporting_scheme_keys": [
+    "RPT-straitrep"
+   ],
+   "voluntary_reporting": null,
+   "applicability_notes": "STRAITREP categories: 300 GT and above; 50 m or more in length; towing/pushing with combined 300 GT or 50 m; any tonnage carrying hazardous cargo; passenger vessels fitted with VHF (S5, S2).",
+   "provisional_complexity": "Complex",
+   "research_effort": "approx 14 web actions shared across TSS-0111 to 0114",
+   "tss_identity_note": "Amended scheme adopted MSC 69 (May 1998), implemented 0000 UTC 1 December 1998 (COLREG.2/Circ.44, amended by COLREG.2/Circ.54 of 28 May 2004), with precautionary area 'Off Pulau Sebarok/Pulau Belakang Padang'. Scheme coordinates run from about 103°32.96'E to about 103°50'E (S4, Annex 5).",
+   "vts_service_keys": [
+    "SVC-singapore-vts"
+   ],
+   "vts_relationship_basis": "Scheme spans roughly 103°33'E to 103°50'E. MPA defines Sector 7 as between the Tg Piai to Pulau Karimun Kecil line and 103°44.5'E, and Sector 8 as 103°44.5'E to 104°02.1'E (S3); both are Singapore VTS sectors (S1). West part in Sector 7 (VTIS West, Ch 73), east part in Sector 8 (VTIS Central, Ch 14). Not in Johor VTS Sector 6 or Klang VTS sectors.",
+   "reporting_relationship_basis": "STRAITREP operational area (100°40'E to 104°23'E) expressly includes the routeing system in the Straits (S5, S2); segment wholly within.",
+   "complexity_reason": "Tripartite scheme split across two Singapore VTS sectors with a mandatory IMO SRS.",
+   "source_ids": [
+    "S1",
+    "S2",
+    "S3",
+    "S4",
+    "S5"
+   ],
+   "open_questions": "Sector boundaries in MSC.73(69) appear only on chartlets; allocation relies on MPA longitudes (S3). Precise western boundary of the scheme relative to the Tg Piai line not plotted, but all scheme coordinates are east of 103°30.75'E."
+  },
+  {
+   "record_id": "TSS-0112",
+   "source_label": "Singapore Strait (Off St. John's Island)",
+   "official_name": "Singapore Strait (Off St. John's Island)",
+   "batch": "B23",
+   "states": "Indonesia, Malaysia, Singapore (tripartite routeing system)",
+   "tss_identity_status": "Confirmed",
+   "grouped_components": [],
+   "operational_status": "In force",
+   "vts_finding": "Confirmed present",
+   "reporting_finding": "Confirmed present",
+   "reporting_scheme_keys": [
+    "RPT-straitrep"
+   ],
+   "voluntary_reporting": null,
+   "applicability_notes": "STRAITREP categories: 300 GT and above; 50 m or more in length; towing/pushing with combined 300 GT or 50 m; any tonnage carrying hazardous cargo; passenger vessels fitted with VHF (S5, S2).",
+   "provisional_complexity": "Complex",
+   "research_effort": "approx 14 web actions shared across TSS-0111 to 0114",
+   "tss_identity_note": "New scheme adopted MSC 69 (1998), implemented 1 December 1998, with precautionary area 'Off St. John's Island/Pulau Sambu'; coordinates about 103°50.2'E to 103°52.7'E, deep-water route within eastbound lane (S4, Annex 6).",
+   "vts_service_keys": [
+    "SVC-singapore-vts"
+   ],
+   "vts_relationship_basis": "Whole scheme lies between 103°44.5'E and 104°02.1'E, i.e. STRAITREP Sector 8 (VTIS Central, Ch 14), a Singapore VTS sector (S3, S1).",
+   "reporting_relationship_basis": "Within STRAITREP operational area, which includes the routeing system (S5, S2).",
+   "complexity_reason": "Single VTS sector but part of tripartite system with mandatory SRS and deep-water route.",
+   "source_ids": [
+    "S1",
+    "S2",
+    "S3",
+    "S4",
+    "S5"
+   ],
+   "open_questions": "None material."
+  },
+  {
+   "record_id": "TSS-0113",
+   "source_label": "Singapore Strait (Off Changi/Pulau Batam)",
+   "official_name": "Singapore Strait (Off Changi/Pulau Batam)",
+   "batch": "B23",
+   "states": "Indonesia, Malaysia, Singapore (tripartite routeing system)",
+   "tss_identity_status": "Confirmed",
+   "grouped_components": [],
+   "operational_status": "In force",
+   "vts_finding": "Confirmed present",
+   "reporting_finding": "Confirmed present",
+   "reporting_scheme_keys": [
+    "RPT-straitrep"
+   ],
+   "voluntary_reporting": null,
+   "applicability_notes": "STRAITREP categories: 300 GT and above; 50 m or more in length; towing/pushing with combined 300 GT or 50 m; any tonnage carrying hazardous cargo; passenger vessels fitted with VHF (S5, S2).",
+   "provisional_complexity": "Complex",
+   "research_effort": "approx 14 web actions shared across TSS-0111 to 0114",
+   "tss_identity_note": "New scheme adopted MSC 69 (1998), implemented 1 December 1998, with precautionary area 'Off Tanjung Setapa/Pulau Bintan'; coordinates about 103°53.75'E to 104°03.35'E (S4, Annex 7).",
+   "vts_service_keys": [
+    "SVC-singapore-vts"
+   ],
+   "vts_relationship_basis": "Scheme runs from about 103°53.75'E to 104°03.35'E, crossing the Sector 8/9 boundary at 104°02.1'E (S3): mostly Sector 8 (VTIS Central, Ch 14), eastern tip in Sector 9 (VTIS East, Ch 10). Both Singapore VTS (S1).",
+   "reporting_relationship_basis": "Within STRAITREP operational area (S5, S2).",
+   "complexity_reason": "Straddles two Singapore VTS sectors; tripartite scheme with mandatory SRS.",
+   "source_ids": [
+    "S1",
+    "S2",
+    "S3",
+    "S4",
+    "S5"
+   ],
+   "open_questions": "Associated precautionary area 'Off Tanjung Setapa/Pulau Bintan' extends further east (to about 104°14.9'E), wholly in Sector 9."
+  },
+  {
+   "record_id": "TSS-0114",
+   "source_label": "At Horsburgh Lighthouse Area",
+   "official_name": "At Horsburgh Lighthouse Area",
+   "batch": "B23",
+   "states": "Indonesia, Malaysia, Singapore (tripartite routeing system)",
+   "tss_identity_status": "Confirmed",
+   "grouped_components": [],
+   "operational_status": "In force",
+   "vts_finding": "Confirmed present",
+   "reporting_finding": "Confirmed present",
+   "reporting_scheme_keys": [
+    "RPT-straitrep"
+   ],
+   "voluntary_reporting": null,
+   "applicability_notes": "STRAITREP categories: 300 GT and above; 50 m or more in length; towing/pushing with combined 300 GT or 50 m; any tonnage carrying hazardous cargo; passenger vessels fitted with VHF (S5, S2).",
+   "provisional_complexity": "Complex",
+   "research_effort": "approx 14 web actions shared across TSS-0111 to 0114",
+   "tss_identity_note": "Amended scheme adopted MSC 69 (1998), implemented 1 December 1998; coordinates 104°14.89'E to about 104°27.84'E (S4, Annex 8).",
+   "vts_service_keys": [
+    "SVC-singapore-vts"
+   ],
+   "vts_relationship_basis": "Part coverage only. Western part (104°14.89'E to 104°23.0'E) is in Sector 9 (VTIS East, Ch 10), Singapore VTS (S3, S1). The north-eastern end of the scheme (to about 104°27.8'E) lies east of the 104°23'E STRAITREP limit, where no sector is defined (S2, S3).",
+   "reporting_relationship_basis": "STRAITREP covers the scheme only west of 104°23'E (S2, S5). Horsburgh Lt (104°24.44'E) is itself a STRAITREP reference point just outside the limit; ships approaching from the east report on reaching Sector 9 (S5 para 3).",
+   "complexity_reason": "Scheme extends beyond the STRAITREP/Singapore VTS eastern limit; partial coverage.",
+   "source_ids": [
+    "S1",
+    "S2",
+    "S3",
+    "S4",
+    "S5"
+   ],
+   "open_questions": "No evidence found of any VTS or reporting duty for the part of the scheme east of 104°23'E (possible Malaysian or Indonesian coverage not researched)."
+  },
+  {
+   "record_id": "TSS-0115",
+   "batch": "B23",
+   "source_label": "In the Sunda Strait",
+   "official_name": "In the Sunda Strait",
+   "states": "Indonesia",
+   "tss_identity_status": "Confirmed",
+   "tss_identity_note": "Adopted MSC 101 (June 2019), COLREG.2/Circ.74 of 14 June 2019, implemented 1 July 2020 (S6); includes inshore traffic zone; national instrument KM 130 Tahun 2020 cited by DGST (S7). Indonesia's first TSS in an archipelagic sea lane (ALKI I).",
+   "grouped_components": [],
+   "operational_status": "In force",
+   "vts_finding": "Confirmed present",
+   "vts_service_keys": [
+    "SVC-merak-vts"
+   ],
+   "vts_relationship_basis": "DGST states ships in the Sunda Strait TSS communicate via VHF Ch 22 or 68 with call sign 'Merak VTS' (S7).",
+   "reporting_finding": "Confirmed present",
+   "reporting_scheme_keys": [
+    "RPT-sundarep"
+   ],
+   "reporting_relationship_basis": "SUNDAREP (Sistem Pelaporan dan Informasi Navigasi) is mandatory for all Indonesian-flagged ships transiting or crossing the TSS (S7). National scheme, not IMO-adopted SRS on evidence found.",
+   "voluntary_reporting": "Foreign ships entering the TSS are strongly encouraged ('sangat dianjurkan') to participate in SUNDAREP (S7).",
+   "applicability_notes": "Mandatory only for Indonesian-flagged ships; voluntary for foreign ships.",
+   "provisional_complexity": "Intermediate",
+   "complexity_reason": "Single VTS; flag-limited mandatory national reporting, voluntary for foreign ships.",
+   "source_ids": [
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "open_questions": "Text of KM 130/2020 not retrieved; VTS area limits of Merak VTS not retrieved.",
+   "research_effort": "approx 7 web actions (shared with TSS-0116)"
+  },
+  {
+   "record_id": "TSS-0116",
+   "batch": "B24",
+   "source_label": "In the Lombok Strait",
+   "official_name": "In the Lombok Strait",
+   "states": "Indonesia",
+   "tss_identity_status": "Confirmed",
+   "tss_identity_note": "Adopted MSC 101 (June 2019), COLREG.2/Circ.74 of 14 June 2019, implemented 1 July 2020 (S6); national instrument KM 129 Tahun 2020 (S7). ALKI II.",
+   "grouped_components": [],
+   "operational_status": "In force",
+   "vts_finding": "Confirmed present",
+   "vts_service_keys": [
+    "SVC-benoa-vts"
+   ],
+   "vts_relationship_basis": "DGST states ships in the Lombok Strait TSS communicate via VHF Ch 16 or 68 with call sign 'Benoa VTS' (S7).",
+   "reporting_finding": "Confirmed present",
+   "reporting_scheme_keys": [
+    "RPT-lombokrep"
+   ],
+   "reporting_relationship_basis": "LOMBOKREP mandatory for Indonesian-flagged ships transiting or crossing the TSS (S7).",
+   "voluntary_reporting": "Foreign ships strongly encouraged to participate in LOMBOKREP (S7).",
+   "applicability_notes": "Mandatory only for Indonesian-flagged ships; voluntary for foreign ships.",
+   "provisional_complexity": "Intermediate",
+   "complexity_reason": "Single VTS; flag-limited national reporting.",
+   "source_ids": [
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "open_questions": "Region hint referred to 'Lombok VTS'; the authority names the service Benoa VTS. Lombok annex of COLREG.2/Circ.74 not read in detail.",
+   "research_effort": "approx 2 additional web actions"
+  },
+  {
+   "record_id": "TSS-0117",
+   "batch": "B24",
+   "source_label": "In the East Lamma Channel",
+   "official_name": "East Lamma Channel Traffic Separation Scheme",
+   "states": "China (Hong Kong SAR)",
+   "tss_identity_status": "Confirmed",
+   "tss_identity_note": "Marine Department states it is one of two TSS in Hong Kong waters adopted by IMO (S11); adoption circular and date not retrieved.",
+   "grouped_components": [],
+   "operational_status": "In force",
+   "vts_finding": "Confirmed present",
+   "vts_service_keys": [
+    "SVC-hong-kong-vts"
+   ],
+   "vts_relationship_basis": "Hong Kong VTS covers all navigable waters of Hong Kong used by sea-going vessels (S9); the TSS lies in Hong Kong waters (S11). Lamma Patch is a calling-in point of the Eastern Approaches sector, Ch 12 (S10).",
+   "reporting_finding": "Unresolved",
+   "reporting_scheme_keys": [],
+   "reporting_relationship_basis": "No separate mandatory ship reporting system found. Mandatory VTS participation (vessels over 300 GT, Cap 313A reg 4) is an ordinary VTS reporting duty recorded under the service (S10).",
+   "voluntary_reporting": null,
+   "applicability_notes": "VTS participation required for vessels over 300 GT and smaller vessels as directed (Cap 313A reg 4); local vessels under Cap 548F s57 (S10).",
+   "provisional_complexity": "Simple",
+   "complexity_reason": "Single-authority VTS covering the whole scheme.",
+   "source_ids": [
+    "S9",
+    "S10",
+    "S11",
+    "S12"
+   ],
+   "open_questions": "IMO adoption instrument for Hong Kong schemes not retrieved; Dangan Channel No. 2 precautionary area connects to East Lamma per S14 (lead).",
+   "research_effort": "approx 6 web actions (shared with TSS-0118)"
+  },
+  {
+   "record_id": "TSS-0118",
+   "batch": "B24",
+   "source_label": "In the Tathong Channel",
+   "official_name": "Tathong Channel Traffic Separation Scheme",
+   "states": "China (Hong Kong SAR)",
+   "tss_identity_status": "Confirmed",
+   "tss_identity_note": "IMO-adopted per Marine Department (S11); adoption circular not retrieved.",
+   "grouped_components": [],
+   "operational_status": "In force",
+   "vts_finding": "Confirmed present",
+   "vts_service_keys": [
+    "SVC-hong-kong-vts"
+   ],
+   "vts_relationship_basis": "Hong Kong VTS covers all navigable waters of Hong Kong (S9); Tathong Channel Separation Buoy No. 1 is an Eastern Approaches (Ch 12) calling-in point (S10).",
+   "reporting_finding": "Unresolved",
+   "reporting_scheme_keys": [],
+   "reporting_relationship_basis": "No separate mandatory SRS found; VTS participation duties recorded under the service.",
+   "voluntary_reporting": null,
+   "applicability_notes": "As TSS-0117.",
+   "provisional_complexity": "Simple",
+   "complexity_reason": "Single VTS covering whole scheme.",
+   "source_ids": [
+    "S9",
+    "S10",
+    "S11",
+    "S12"
+   ],
+   "open_questions": "As TSS-0117.",
+   "research_effort": "shared with TSS-0117"
+  },
+  {
+   "record_id": "TSS-0119",
+   "batch": "B24",
+   "source_label": "In the Dangan Channel",
+   "official_name": "In Dangan Channel (担杆水道分道通航制)",
+   "states": "China",
+   "tss_identity_status": "Confirmed",
+   "tss_identity_note": "Existence and current use confirmed by Guangzhou MSA (S13) as part of the Pearl River Estuary routeing system (珠江口水域船舶定线制), comprising two traffic lanes, two separation zones, an inshore traffic zone and two precautionary areas. IMO adoption (COLREG.2/Circ.71, 25 May 2018, implemented 1 December 2018) is lead only: circular would not load.",
+   "grouped_components": [],
+   "operational_status": "In force",
+   "vts_finding": "Confirmed present",
+   "vts_service_keys": [
+    "SVC-guangzhou-vts"
+   ],
+   "vts_relationship_basis": "Guangzhou MSA illustrates the TSS with a Guangzhou MSA VTS radar screenshot and directs ships in the TSS to seek assistance from 广州交管中心 on VHF 08/09 (S13). News report (lead) says a 'Dangan' monitoring station began trial operation on 8 April 2026 to bring the TSS under routine VTS control (S14).",
+   "reporting_finding": "Unresolved",
+   "reporting_scheme_keys": [],
+   "reporting_relationship_basis": "Pearl River Estuary VTS has 21 reporting lines (S15) but no source places a reporting line or separate SRS on the Dangan TSS.",
+   "voluntary_reporting": null,
+   "applicability_notes": null,
+   "provisional_complexity": "Intermediate",
+   "complexity_reason": "VTS coverage recently extended; adjoins Hong Kong VTS (East Lamma) at the second precautionary area.",
+   "source_ids": [
+    "S13",
+    "S14",
+    "S15"
+   ],
+   "open_questions": "COLREG.2/Circ.71 (ics.org.ir copy) failed to load; Guangdong MSA page (S15) does not name Dangan; exact VTS area limits not retrieved; whether Shenzhen VTS has any role not established.",
+   "research_effort": "approx 7 web actions"
+  },
+  {
+   "record_id": "TSS-0120",
+   "batch": "B24",
+   "source_label": "In the waters off the Chengshan Jiao Promontory",
+   "official_name": "Off Chengshan Jiao Promontory",
+   "states": "China",
+   "tss_identity_status": "Confirmed",
+   "tss_identity_note": "IMO resolution MSC.389(94) refers to ships 'at anchor in the TSSs' within the Chengshan Jiao SRS area, confirming the schemes (S16). TSS adoption instrument and dates not retrieved.",
+   "grouped_components": [],
+   "operational_status": "In force",
+   "vts_finding": "Confirmed present",
+   "vts_service_keys": [
+    "SVC-chengshan-jiao-vts"
+   ],
+   "vts_relationship_basis": "The SRS area is the 24 nm radius around the Chengshan Jiao VTS Centre, which is the reporting authority, and the resolution addresses ships in the TSSs (S16).",
+   "reporting_finding": "Confirmed present",
+   "reporting_scheme_keys": [
+    "RPT-chengshan-jiao-srs"
+   ],
+   "reporting_relationship_basis": "IMO-adopted mandatory SRS 'Off Chengshan Jiao Promontory' (SOLAS V/11), amended by MSC.389(94), in force 1 June 2015 (S16).",
+   "voluntary_reporting": null,
+   "applicability_notes": "Passenger ships; oil tankers 150 GT and above and ships with hazardous cargo; LOA >200 m or draught >12 m; towing/pushing vessels; ships NUC or at anchor in the TSSs, RAM or with defective navigation equipment (S16).",
+   "provisional_complexity": "Intermediate",
+   "complexity_reason": "VTS plus IMO SRS with category thresholds.",
+   "source_ids": [
+    "S16"
+   ],
+   "open_questions": "Whether later amendments to the SRS or TSS (after 2015) exist not checked; TSS coordinates not plotted against the 24 nm circle.",
+   "research_effort": "approx 2 web actions"
+  },
+  {
+   "record_id": "TSS-0121",
+   "source_label": "In the Approaches to the Gulf of Nakhodka",
+   "official_name": null,
+   "batch": "B25",
+   "states": "Russian Federation",
+   "grouped_components": [],
+   "reporting_finding": "Unresolved",
+   "reporting_scheme_keys": [],
+   "voluntary_reporting": null,
+   "applicability_notes": null,
+   "tss_identity_status": "Provisional",
+   "tss_identity_note": "Not among the schemes in Government Directive 1226-r of 2006 as originally published (S17); a search snippet (Wikipedia, not fetched) describes an IMO scheme in the approaches to Zaliv Nakhodka (to Kozmino). May have been added by a later amendment of 1226-r (redaction of 15.07.2022 exists) or relate to scheme No. 3.",
+   "operational_status": "Not established",
+   "vts_finding": "Unresolved",
+   "vts_service_keys": [
+    "SVC-peter-the-great-gulf-rvts"
+   ],
+   "vts_relationship_basis": "Nakhodka port rules establish Regional VTS Sector 1B covering the approaches to Nakhodka Gulf (132°28'E to 133°43'E, to the territorial sea boundary, Ch 9) and Sector 2 inside the gulf (S18). Without the scheme's coordinates, coverage cannot be confirmed.",
+   "reporting_relationship_basis": "No mandatory reporting system identified; VTS communication duties only.",
+   "provisional_complexity": "Not assessed",
+   "complexity_reason": "Identity and position unresolved.",
+   "source_ids": [
+    "S17",
+    "S18",
+    "S19"
+   ],
+   "open_questions": "Need IMO circular or Russian NtM with coordinates; current Nakhodka and Vostochny port rules (Consultant/Garant paywalled, mintrans.gov.ru unreachable).",
+   "research_effort": "approx 7 web actions shared across Russian records"
+  },
+  {
+   "record_id": "TSS-0122",
+   "source_label": "Off the Ostrovnoi Point",
+   "official_name": "Схема разделения движения № 3: Между мысами Поворотный и Островной (from Peter the Great Gulf to Cape Belkina)",
+   "batch": "B25",
+   "states": "Russian Federation",
+   "grouped_components": [],
+   "reporting_finding": "Unresolved",
+   "reporting_scheme_keys": [],
+   "voluntary_reporting": null,
+   "applicability_notes": null,
+   "tss_identity_status": "Confirmed",
+   "tss_identity_note": "Established by Russian Government Directive 1226-r of 2 September 2006 as scheme No. 3 (three parts, about 133°17.5'E to 133°46.8'E); foreign ships prohibited in the lane north-west of part II separation zone (S17). IMO adoption not verified.",
+   "operational_status": "In force",
+   "vts_finding": "Confirmed present",
+   "vts_service_keys": [
+    "SVC-peter-the-great-gulf-rvts"
+   ],
+   "vts_relationship_basis": "Partial: Regional VTS Sector 1B covers the approaches to Nakhodka Gulf between 132°28'E and 133°43'E south to the territorial sea boundary (S18). Scheme parts I and III and most of part II lie within those meridians; the eastern end of part II (to 133°46.8'E) lies outside.",
+   "reporting_relationship_basis": "No mandatory SRS identified.",
+   "provisional_complexity": "Intermediate",
+   "complexity_reason": "Partial VTS coverage; national scheme with foreign-ship lane restriction.",
+   "source_ids": [
+    "S17",
+    "S18",
+    "S19"
+   ],
+   "open_questions": "Port rules text is the 2011 original (amended to 2017); current sector limits not confirmed. Directive 1226-r text is a third-party copy of the original 2006 version.",
+   "research_effort": "shared"
+  },
+  {
+   "record_id": "TSS-0123",
+   "source_label": "Off Mys Aniva (Off the Aniwa Cape)",
+   "official_name": "Схема разделения движения № 6: Район мыса Анива (пролив Лаперуза)",
+   "batch": "B25",
+   "states": "Russian Federation",
+   "grouped_components": [],
+   "reporting_finding": "Unresolved",
+   "reporting_scheme_keys": [],
+   "voluntary_reporting": null,
+   "applicability_notes": null,
+   "tss_identity_status": "Confirmed",
+   "tss_identity_note": "Scheme No. 6 in Government Directive 1226-r (2006): separation zone 4 miles wide, axis about 45°54'N 143°20'E to 45°58.8'N 143°40'E, plus inshore traffic zone (S17). IMO adoption not verified.",
+   "operational_status": "In force",
+   "vts_finding": "Unresolved",
+   "vts_service_keys": [
+    "SVC-korsakov-vts"
+   ],
+   "vts_relationship_basis": "Korsakov port VTS in Aniva Bay is a lead only; no source establishes coverage of the scheme off Cape Aniva.",
+   "reporting_relationship_basis": "No mandatory SRS identified.",
+   "provisional_complexity": "Not assessed",
+   "complexity_reason": "No VTS evidence.",
+   "source_ids": [
+    "S17"
+   ],
+   "open_questions": "Korsakov port mandatory regulations (mintrans.gov.ru) would not load.",
+   "research_effort": "shared"
+  },
+  {
+   "record_id": "TSS-0124",
+   "source_label": "In the Proliv Bussol'",
+   "official_name": "Схема разделения движения № 12: Пролив Буссоль (Курильские острова)",
+   "batch": "B25",
+   "states": "Russian Federation",
+   "grouped_components": [],
+   "reporting_finding": "Unresolved",
+   "reporting_scheme_keys": [],
+   "voluntary_reporting": null,
+   "applicability_notes": null,
+   "tss_identity_status": "Confirmed",
+   "tss_identity_note": "Scheme No. 12 in Government Directive 1226-r (2006), lanes 4 miles either side, directions 150°-330° (S17). IMO adoption not verified.",
+   "operational_status": "In force",
+   "vts_finding": "Unresolved",
+   "vts_service_keys": [],
+   "vts_relationship_basis": "No VTS identified for the central Kuril Islands.",
+   "reporting_relationship_basis": "No mandatory SRS identified.",
+   "provisional_complexity": "Not assessed",
+   "complexity_reason": "No VTS evidence.",
+   "source_ids": [
+    "S17"
+   ],
+   "open_questions": "Check Russian Notices to Mariners / Sailing Directions for any VTS or reporting.",
+   "research_effort": "shared"
+  },
+  {
+   "record_id": "TSS-0125",
+   "source_label": "Chetvertyy Kuril'skiy Proliv (In the Fourth Kuril Strait)",
+   "official_name": "Схема разделения движения № 13: Четвертый Курильский пролив",
+   "batch": "B25",
+   "states": "Russian Federation",
+   "grouped_components": [],
+   "reporting_finding": "Unresolved",
+   "reporting_scheme_keys": [],
+   "voluntary_reporting": null,
+   "applicability_notes": null,
+   "tss_identity_status": "Confirmed",
+   "tss_identity_note": "Scheme No. 13 in Government Directive 1226-r (2006), lanes 2 miles either side, directions 126°-306° (S17). IMO adoption not verified.",
+   "operational_status": "In force",
+   "vts_finding": "Unresolved",
+   "vts_service_keys": [],
+   "vts_relationship_basis": "No VTS identified; a Severo-Kurilsk port VTS was not evidenced.",
+   "reporting_relationship_basis": "No mandatory SRS identified.",
+   "provisional_complexity": "Not assessed",
+   "complexity_reason": "No VTS evidence.",
+   "source_ids": [
+    "S17"
+   ],
+   "open_questions": "As TSS-0124.",
+   "research_effort": "shared"
+  },
+  {
+   "record_id": "TSS-0126",
+   "source_label": "Off Southwest Australia",
+   "official_name": "Off the south-west coast of Australia (Cape Leeuwin TSS and Chatham Island TSS)",
+   "batch": "B26",
+   "states": "Australia",
+   "operational_status": "In force",
+   "vts_finding": "Unresolved",
+   "vts_service_keys": [],
+   "reporting_finding": "Confirmed present",
+   "reporting_scheme_keys": [
+    "RPT-mastrep"
+   ],
+   "voluntary_reporting": "Other vessels encouraged to participate in MASTREP (S21).",
+   "applicability_notes": "MASTREP mandatory for foreign vessels from arrival at first Australian port until departure from final Australian port, and for regulated Australian vessels in the MASTREP area; reports are automatic via AIS (S21).",
+   "tss_identity_status": "Confirmed",
+   "tss_identity_note": "AMSA lists the 'Cape Leeuwin Traffic Separation Scheme' among IMO-adopted TSS (S20). Grouped label: news/secondary leads say two schemes (off Cape Leeuwin and off Chatham Island) adopted MSC May 2016, effective 1 December 2016, use recommended; not confirmed from a primary source fetched.",
+   "grouped_components": [
+    "Off Cape Leeuwin",
+    "Off Chatham Island"
+   ],
+   "vts_relationship_basis": "No VTS found covering the schemes; REEFVTS not relevant. Absence not established.",
+   "reporting_relationship_basis": "Scheme lies in Australian waters where MASTREP (national, Navigation Act 2012 and MO 63) applies to specified vessel categories (S21). Not an IMO-adopted SRS.",
+   "provisional_complexity": "Simple",
+   "complexity_reason": "No VTS; national AIS-based reporting only.",
+   "source_ids": [
+    "S20",
+    "S21"
+   ],
+   "open_questions": "Australian Notices to Mariners (hydro.gov.au) timed out; Chatham Island component not confirmed from primary source.",
+   "research_effort": "approx 6 web actions shared across Australian records"
+  },
+  {
+   "record_id": "TSS-0127",
+   "source_label": "South of Wilsons Promontory in the Bass Strait",
+   "official_name": "South of Wilsons Promontory",
+   "batch": "B26",
+   "states": "Australia",
+   "grouped_components": [],
+   "operational_status": "In force",
+   "vts_finding": "Unresolved",
+   "vts_service_keys": [],
+   "reporting_finding": "Confirmed present",
+   "reporting_scheme_keys": [
+    "RPT-mastrep"
+   ],
+   "voluntary_reporting": "Other vessels encouraged to participate in MASTREP (S21).",
+   "applicability_notes": "MASTREP mandatory for foreign vessels from arrival at first Australian port until departure from final Australian port, and for regulated Australian vessels in the MASTREP area; reports are automatic via AIS (S21).",
+   "tss_identity_status": "Confirmed",
+   "tss_identity_note": "AMSA lists 'Gippsland and Wilsons Promontory TSS' among IMO-adopted TSS (S20); adoption date not retrieved.",
+   "vts_relationship_basis": "No VTS found; Port Phillip / Victorian port VTS not evidenced to cover it.",
+   "reporting_relationship_basis": "MASTREP applies to specified categories (S21).",
+   "provisional_complexity": "Simple",
+   "complexity_reason": "No VTS; national reporting only.",
+   "source_ids": [
+    "S20",
+    "S21"
+   ],
+   "open_questions": "Australian NtM No. 16 (IMO adopted TSS) would not load.",
+   "research_effort": "shared"
+  },
+  {
+   "record_id": "TSS-0128",
+   "source_label": "In the Bass Strait",
+   "official_name": null,
+   "batch": "B26",
+   "states": "Australia",
+   "grouped_components": [],
+   "operational_status": "In force",
+   "vts_finding": "Unresolved",
+   "vts_service_keys": [],
+   "reporting_finding": "Confirmed present",
+   "reporting_scheme_keys": [
+    "RPT-mastrep"
+   ],
+   "voluntary_reporting": "Other vessels encouraged to participate in MASTREP (S21).",
+   "applicability_notes": "MASTREP mandatory for foreign vessels from arrival at first Australian port until departure from final Australian port, and for regulated Australian vessels in the MASTREP area; reports are automatic via AIS (S21).",
+   "tss_identity_status": "Provisional",
+   "tss_identity_note": "AMSA refers to 'Gippsland and Wilsons Promontory TSS' and the Gippsland ATBA (S20); whether 'In the Bass Strait' denotes the Gippsland (off Gippsland oil and gas fields) scheme or another scheme could not be confirmed. Possible overlap with TSS-0127.",
+   "vts_relationship_basis": "No VTS found.",
+   "reporting_relationship_basis": "MASTREP applies to specified categories (S21).",
+   "provisional_complexity": "Simple",
+   "complexity_reason": "No VTS; national reporting only.",
+   "source_ids": [
+    "S20",
+    "S21"
+   ],
+   "open_questions": "Confirm scheme name and position from Australian NtM or IMO Ships' Routeing; check duplication with TSS-0127.",
+   "research_effort": "shared"
+  },
+  {
+   "record_id": "TSS-0129",
+   "batch": "B26",
+   "source_label": "In Prince William Sound",
+   "official_name": "In Prince William Sound",
+   "states": "United States",
+   "tss_identity_status": "Confirmed",
+   "tss_identity_note": "33 CFR 167.1700-167.1703: four parts (Prince William Sound TSS, Valdez Arm TSS, Cape Hinchinbrook and Bligh Reef precautionary areas) (S23). IMO adoption circular not retrieved.",
+   "grouped_components": [
+    "Prince William Sound TSS",
+    "Valdez Arm TSS",
+    "Cape Hinchinbrook precautionary area",
+    "Bligh Reef precautionary area"
+   ],
+   "operational_status": "In force",
+   "vts_finding": "Confirmed present",
+   "vts_service_keys": [
+    "SVC-vts-prince-william-sound"
+   ],
+   "vts_relationship_basis": "VTS area is north of the Cape Hinchinbrook Light to Schooner Rock Light line, 146°30'W to 147°20'W (S22); the TSS lanes (60°20.6'N to 60°58.9'N, about 146°46'W to 147°04'W) lie within it, and the Valdez Arm VTS Special Area is defined by the Valdez Arm TSS (S22). The VMRS monitoring area extends south to 60°00'N (S24). The Cape Hinchinbrook precautionary area extends to 59°51.8'N and 146°00'W, partly outside both.",
+   "reporting_finding": "Unresolved",
+   "reporting_scheme_keys": [],
+   "reporting_relationship_basis": "No separate mandatory SRS; VTS reporting points (Cape Hinchinbrook, Naked Island, Bligh Reef, Rocky Point, Entrance Island) are VTS duties under 33 CFR 161 (S22).",
+   "voluntary_reporting": null,
+   "applicability_notes": "VTS Special Area rules apply to vessels of 1600 GT or more and towing vessels 8 m or more (33 CFR 161.60(d)) (S22).",
+   "provisional_complexity": "Intermediate",
+   "complexity_reason": "VTS covers lanes fully, precautionary area partly; special area rules.",
+   "source_ids": [
+    "S22",
+    "S23",
+    "S24"
+   ],
+   "open_questions": "Southern part of Cape Hinchinbrook precautionary area lies outside the VTS and VMRS areas.",
+   "research_effort": "approx 3 web actions"
+  },
+  {
+   "record_id": "TSS-0130",
+   "batch": "B26",
+   "source_label": "In the Strait of Juan de Fuca and its Approaches",
+   "official_name": "In the Strait of Juan de Fuca and its approaches",
+   "states": "United States, Canada",
+   "tss_identity_status": "Confirmed",
+   "tss_identity_note": "Grouped label. 33 CFR 167.1300-167.1303 (approaches: western approach, southwestern approach, precautionary area 'JF') and 167.1310-167.1315 (Strait: western, southern, northern, eastern lanes and precautionary area 'PA') (S26). IMO adoption circular not retrieved.",
+   "grouped_components": [
+    "Approaches to the Strait of Juan de Fuca (western approach, southwestern approach, precautionary area JF)",
+    "Strait of Juan de Fuca (western, southern, northern, eastern lanes, precautionary area PA)"
+   ],
+   "operational_status": "In force",
+   "vts_finding": "Confirmed present",
+   "vts_service_keys": [
+    "SVC-vts-puget-sound",
+    "SVC-ccg-mcts-cvts-juan-de-fuca"
+   ],
+   "vts_relationship_basis": "CVTS for the Juan de Fuca Region: VTS Puget Sound and Canadian centres manage traffic irrespective of the boundary (S25). Seattle Traffic Ch 5A covers US waters east of 124°40'W; Prince Rupert Traffic Ch 74 covers waters west of 124°40'W within 12 nm of Vancouver Island, north of 48°N and east of 125°15'W, which contains the approaches TSS (about 125°00'W to 125°09'W) (S24). Canada's Victoria VTS Zone follows the boundary through Juan de Fuca Strait to 124°40'W; Prince Rupert VTS Zone lies west of 124°40'W to the territorial sea boundary (S27).",
+   "reporting_finding": "Unresolved",
+   "reporting_scheme_keys": [],
+   "reporting_relationship_basis": "No IMO SRS found. Canadian sailing plan and position reports (SOR/2025-275) and US VMRS reporting are VTS duties recorded under the services.",
+   "voluntary_reporting": null,
+   "applicability_notes": "Canadian VTS Zone rules apply to vessels of 300 GT or more, towing/pushing with combined 500 GT or more, and vessels carrying pollutants or dangerous goods (S27).",
+   "provisional_complexity": "Complex",
+   "complexity_reason": "Cross-border cooperative VTS with two national services and separate US and Canadian rule sets.",
+   "source_ids": [
+    "S24",
+    "S25",
+    "S26",
+    "S27"
+   ],
+   "open_questions": "Whether the southern parts of the approaches TSS (south of the international boundary, outside US territorial sea) fall in any VTS area not fully plotted; NAVCEN page not re-fetched.",
+   "research_effort": "approx 5 web actions"
+  }
+ ],
+ "services": [
+  {
+   "key": "SVC-singapore-vts",
+   "name": "Singapore VTS",
+   "area": "STRAITREP Sectors 7 to 9 (Singapore Strait, from the Tg Piai to Pulau Karimun Kecil line east to 104°23.0'E)",
+   "authority": "Maritime and Port Authority of Singapore",
+   "centre_sectors": "Sector 7 (VTIS West), Sector 8 (VTIS Central), Sector 9 (VTIS East)",
+   "vhf": "Sector 7 Ch 73; Sector 8 Ch 14; Sector 9 Ch 10",
+   "participation": "mandatory (via STRAITREP categories)",
+   "evidence_status": "Confirmed by primary source",
+   "source_ids": [
+    "S1",
+    "S3",
+    "S5"
+   ],
+   "note": "Existing register VTS-006. Sector longitudes from MPA arrivals page."
+  },
+  {
+   "key": "SVC-johor-vts",
+   "name": "Johor VTS",
+   "area": "STRAITREP Sector 6",
+   "authority": "Marine Department Malaysia",
+   "centre_sectors": "Sector 6",
+   "vhf": "Ch 88",
+   "participation": "mandatory (via STRAITREP)",
+   "evidence_status": "Confirmed by primary source",
+   "source_ids": [
+    "S1",
+    "S5"
+   ],
+   "note": "Existing register VTS-005. Not applicable to TSS-0111 to 0114 (all lie east of the Sector 6/7 line)."
+  },
+  {
+   "key": "SVC-klang-vts",
+   "name": "Klang VTS",
+   "area": "STRAITREP Sectors 1 to 5",
+   "authority": "Marine Department Malaysia",
+   "centre_sectors": "Sectors 1-5",
+   "vhf": "Ch 66, 88, 84, 61, 88",
+   "participation": "mandatory (via STRAITREP)",
+   "evidence_status": "Confirmed by primary source",
+   "source_ids": [
+    "S1"
+   ],
+   "note": "Existing register VTS-004. Not applicable to group E records."
+  },
+  {
+   "key": "SVC-merak-vts",
+   "name": "Merak VTS",
+   "area": "Sunda Strait TSS",
+   "authority": "Directorate General of Sea Transportation, Ministry of Transportation, Indonesia",
+   "centre_sectors": "Merak (Banten)",
+   "vhf": "Ch 22 or 68",
+   "participation": "Mandatory reporting for Indonesian-flagged ships; foreign ships strongly encouraged",
+   "evidence_status": "Confirmed by primary source",
+   "source_ids": [
+    "S7"
+   ],
+   "note": "Call sign 'Merak VTS'. Operates SUNDAREP."
+  },
+  {
+   "key": "SVC-benoa-vts",
+   "name": "Benoa VTS",
+   "area": "Lombok Strait TSS",
+   "authority": "Directorate General of Sea Transportation, Ministry of Transportation, Indonesia",
+   "centre_sectors": "Benoa (Bali)",
+   "vhf": "Ch 16 or 68",
+   "participation": "Mandatory reporting for Indonesian-flagged ships; foreign ships strongly encouraged",
+   "evidence_status": "Confirmed by primary source",
+   "source_ids": [
+    "S7"
+   ],
+   "note": "Call sign 'Benoa VTS' (not 'Lombok VTS'). Operates LOMBOKREP."
+  },
+  {
+   "key": "SVC-hong-kong-vts",
+   "name": "Hong Kong Vessel Traffic Service",
+   "area": "All navigable waters of Hong Kong used by sea-going vessels and ferries",
+   "authority": "Marine Department, HKSAR Government (Vessel Traffic Centre)",
+   "centre_sectors": "Vessel Traffic Centre; VHF sectors Eastern Approaches, Harbour East, Harbour, Western Approaches, Lantau South, Kwai Chung Control Station",
+   "vhf": "Eastern Approaches Ch 12; Harbour East Ch 02; Harbour Ch 14; Western Approaches Ch 67; Lantau South Ch 63; Kwai Chung Ch 74",
+   "participation": "mandatory (vessels over 300 GT and others as directed, Cap 313A reg 4)",
+   "evidence_status": "Confirmed by primary source",
+   "source_ids": [
+    "S9",
+    "S10",
+    "S12"
+   ],
+   "note": "Tathong Channel Separation Buoy No. 1 and Lamma Patch are Eastern Approaches calling-in points."
+  },
+  {
+   "key": "SVC-guangzhou-vts",
+   "name": "Guangzhou VTS Centre (广州海事局船舶交通管理中心, Pearl River Estuary VTS)",
+   "area": "Pearl River Estuary waters including the Dangan Channel TSS",
+   "authority": "Guangzhou Maritime Safety Administration (China MSA)",
+   "centre_sectors": "Guangzhou VTS Centre; 'Dangan' monitoring station on trial from 8 April 2026 (lead)",
+   "vhf": "Ch 08/09 (for assistance, per S13)",
+   "participation": "not stated for the TSS; 21 VTS reporting lines in Pearl River Estuary special area",
+   "evidence_status": "Confirmed by primary source",
+   "source_ids": [
+    "S13",
+    "S15",
+    "S14"
+   ],
+   "note": "Call name in S13: 广州交管中心. Shenzhen VTS not evidenced for Dangan."
+  },
+  {
+   "key": "SVC-chengshan-jiao-vts",
+   "name": "Chengshan Jiao VTS Centre",
+   "area": "Circle of 24 nm radius centred 37°23.65'N 122°42.12'E",
+   "authority": "Weihai Maritime Safety Administration, China",
+   "centre_sectors": "Chengshan Jiao VTS Centre",
+   "vhf": "Primary Ch 08; secondary Ch 09 or 65",
+   "participation": "mandatory (via IMO SRS categories)",
+   "evidence_status": "Confirmed by primary source",
+   "source_ids": [
+    "S16"
+   ],
+   "note": "Also operates the IMO mandatory SRS 'Off Chengshan Jiao Promontory'."
+  },
+  {
+   "key": "SVC-peter-the-great-gulf-rvts",
+   "name": "Regional VTS of Peter the Great Gulf (РСУДС залива Петра Великого), Nakhodka sector",
+   "area": "Sector 2 (Nakhodka Gulf) and Sector 1B (approaches, 132°28'E to 133°43'E, south to territorial sea boundary)",
+   "authority": "Captain of the seaport Nakhodka / Russian port administration (Ministry of Transport rules)",
+   "centre_sectors": "Sector 1B (Ch 9), Sector 2 (Ch 13, call sign 'Находка-Трафик')",
+   "vhf": "Ch 9 (sector 1B); Ch 13 and 16 (sector 2)",
+   "participation": "not stated (communication required in sectors)",
+   "evidence_status": "Confirmed by primary source",
+   "source_ids": [
+    "S18"
+   ],
+   "note": "Based on 2011 original text; amended to 2017 (S19); current consolidated text not retrieved."
+  },
+  {
+   "key": "SVC-korsakov-vts",
+   "name": "Korsakov port VTS (СУДС морского порта Корсаков)",
+   "area": "Korsakov seaport, Aniva Bay",
+   "authority": "Russian port administration (Ministry of Transport rules)",
+   "centre_sectors": "Not established",
+   "vhf": null,
+   "participation": "not stated",
+   "evidence_status": "Lead only",
+   "source_ids": [],
+   "note": "Only a search snippet; mintrans.gov.ru documents would not load. Coverage of the Aniva Cape TSS not evidenced."
+  },
+  {
+   "key": "SVC-vts-prince-william-sound",
+   "name": "VTS Prince William Sound (Valdez Traffic)",
+   "area": "Navigable waters north of the Cape Hinchinbrook Light to Schooner Rock Light line, 146°30'W to 147°20'W, including Valdez Arm, Narrows and Port Valdez; VMRS monitoring area south to 60°00'N",
+   "authority": "US Coast Guard",
+   "centre_sectors": "Valdez",
+   "vhf": "Ch 13 (156.650 MHz)",
+   "participation": "mandatory (VTS/VMRS users under 33 CFR 161)",
+   "evidence_status": "Confirmed by primary source",
+   "source_ids": [
+    "S22",
+    "S24"
+   ],
+   "note": "Existing register VTS-009."
+  },
+  {
+   "key": "SVC-vts-puget-sound",
+   "name": "VTS Puget Sound (Seattle Traffic)",
+   "area": "US navigable waters of the Salish Sea from Cape Flattery; participates in the US/Canada CVTS for the Juan de Fuca Region",
+   "authority": "US Coast Guard",
+   "centre_sectors": "Seattle",
+   "vhf": "Ch 14 (Puget Sound south); Ch 5A (US waters of the Salish Sea east of 124°40'W)",
+   "participation": "mandatory (VTS/VMRS users under 33 CFR 161)",
+   "evidence_status": "Confirmed by primary source",
+   "source_ids": [
+    "S25",
+    "S24"
+   ],
+   "note": "Existing register VTS-010."
+  },
+  {
+   "key": "SVC-ccg-mcts-cvts-juan-de-fuca",
+   "name": "Canadian Coast Guard MCTS Western VTS Zones (Victoria and Prince Rupert), within the Cooperative Vessel Traffic Service for the Juan de Fuca Region",
+   "area": "Victoria VTS Zone (Canadian waters of Juan de Fuca Strait east of 124°40'W and inland) and Prince Rupert VTS Zone (west coast of Vancouver Island west of 124°40'W to the territorial sea boundary)",
+   "authority": "Canadian Coast Guard (Marine Communications and Traffic Services), under Canada Shipping Act 2001",
+   "centre_sectors": "Victoria Traffic (Ch 11); Prince Rupert Traffic (Ch 74, offshore Juan de Fuca approaches within the CVTS)",
+   "vhf": "Ch 11 (Victoria Traffic); Ch 74 (Prince Rupert Traffic)",
+   "participation": "mandatory (vessels of 300 GT or more and other categories, SOR/2025-275)",
+   "evidence_status": "Confirmed by primary source",
+   "source_ids": [
+    "S27",
+    "S24",
+    "S25"
+   ],
+   "note": "Recorded separately from VTS Puget Sound as instructed. Victoria and Prince Rupert are separate VTS Zones in SOR/2025-275; grouped here as one Canadian service for the Juan de Fuca corridor (split if the register treats zones separately)."
+  }
+ ],
+ "reporting_schemes": [
+  {
+   "key": "RPT-straitrep",
+   "name": "STRAITREP",
+   "area": "Straits of Malacca and Singapore between 100°40'E and 104°23'E, 9 sectors",
+   "participation": "Mandatory",
+   "imo_instrument": "MSC.73(69), in force 1 December 1998",
+   "operating_service_keys": [
+    "SVC-klang-vts",
+    "SVC-johor-vts",
+    "SVC-singapore-vts"
+   ],
+   "evidence_status": "Confirmed by primary source",
+   "source_ids": [
+    "S2",
+    "S5",
+    "S1"
+   ],
+   "note": "Existing register SRS-004. Horsburgh Lighthouse (104°24.4'E) lies just east of the 104°23'E limit."
+  },
+  {
+   "key": "RPT-sundarep",
+   "name": "SUNDAREP (Sistem Pelaporan dan Informasi Navigasi, Selat Sunda)",
+   "area": "Sunda Strait TSS",
+   "participation": "Mandatory",
+   "imo_instrument": null,
+   "operating_service_keys": [
+    "SVC-merak-vts"
+   ],
+   "evidence_status": "Confirmed by primary source",
+   "source_ids": [
+    "S7"
+   ],
+   "note": "National system: mandatory for Indonesian-flagged ships only; foreign ships strongly encouraged. No IMO SRS resolution found."
+  },
+  {
+   "key": "RPT-lombokrep",
+   "name": "LOMBOKREP (Sistem Pelaporan dan Informasi Navigasi, Selat Lombok)",
+   "area": "Lombok Strait TSS",
+   "participation": "Mandatory",
+   "imo_instrument": null,
+   "operating_service_keys": [
+    "SVC-benoa-vts"
+   ],
+   "evidence_status": "Confirmed by primary source",
+   "source_ids": [
+    "S7"
+   ],
+   "note": "National system: mandatory for Indonesian-flagged ships only; foreign ships strongly encouraged."
+  },
+  {
+   "key": "RPT-chengshan-jiao-srs",
+   "name": "Mandatory ship reporting system 'Off Chengshan Jiao Promontory'",
+   "area": "24 nm radius around 37°23.65'N 122°42.12'E",
+   "participation": "Mandatory",
+   "imo_instrument": "MSC.389(94) (amended system, in force 1 June 2015); original system lead: MSC.93(72), 2000",
+   "operating_service_keys": [
+    "SVC-chengshan-jiao-vts"
+   ],
+   "evidence_status": "Confirmed by primary source",
+   "source_ids": [
+    "S16"
+   ],
+   "note": "Categories: passenger ships; oil tankers 150 GT+; ships with hazardous cargo; LOA >200 m or draught >12 m; towing/pushing; ships NUC or at anchor in the TSSs, RAM, or with defective navigation equipment."
+  },
+  {
+   "key": "RPT-mastrep",
+   "name": "MASTREP (Modernised Australian Ship Tracking and Reporting System)",
+   "area": "MASTREP area (Australian search and rescue region)",
+   "participation": "Mandatory",
+   "imo_instrument": null,
+   "operating_service_keys": [],
+   "evidence_status": "Confirmed by primary source",
+   "source_ids": [
+    "S21"
+   ],
+   "note": "National (Navigation Act 2012, Marine Order 63), AIS-based; mandatory only for foreign vessels between first and last Australian port and for regulated Australian vessels."
+  }
+ ],
+ "sources": [
+  {
+   "id": "S1",
+   "title": "Operational Areas (STRAITREP)",
+   "authority": "Maritime and Port Authority of Singapore (MPA)",
+   "url": "https://www.mpa.gov.sg/port-marine-ops/operations/vessel-traffic-information-system/operational-areas",
+   "date_shown": "Last Updated on 28 Sep 2026",
+   "evidence_class": "Primary",
+   "locator": "Sector table (Sector / VHF Channel / VTS Authority)",
+   "passage": "Sector 7 | VHF Channel 73 | SINGAPORE VTS; Sector 8 | VHF Channel 14 | SINGAPORE VTS; Sector 9 | VHF Channel 10 | SINGAPORE VTS (table rows; sectors 1-5 KLANG VTS, sector 6 JOHOR VTS)"
+  },
+  {
+   "id": "S2",
+   "title": "Vessel Traffic Information System",
+   "authority": "Maritime and Port Authority of Singapore (MPA)",
+   "url": "https://www.mpa.gov.sg/port-marine-ops/operations/vessel-traffic-information-system",
+   "date_shown": "Last Updated on 28 Sep 2026",
+   "evidence_class": "Primary",
+   "locator": "STRAITREP operational area",
+   "passage": "The operational area of STRAITREP covers the Straits of Malacca and Singapore between longitudes 100°40'E and 104°23'E."
+  },
+  {
+   "id": "S3",
+   "title": "Vessels Arriving in Singapore",
+   "authority": "Maritime and Port Authority of Singapore (MPA)",
+   "url": "https://www.mpa.gov.sg/port-marine-ops/arrivals-and-departures/vessels-arriving-in-singapore",
+   "date_shown": "Last Updated 28 Sep 2026",
+   "evidence_class": "Primary",
+   "locator": "VHF reporting stations table: VTIS West / Central / East",
+   "passage": "Reporting and listening by vessels in Sector 8, STRAITREP operational area (area between Long. 103°44.5'E and 104°02.1'E). [Sector 7: between the line joining Tg Piai and Pulau Karimun Kecil and Long. 103°44.5'E; Sector 9: between Long. 104°02.1'E and 104°23.0'E]"
+  },
+  {
+   "id": "S4",
+   "title": "Singapore Port Information 2025 (Updated to 1 Feb 2025): Straits of Malacca and Singapore Routeing System, Annexes 5 to 8",
+   "authority": "Maritime and Port Authority of Singapore (MPA)",
+   "url": "https://file.go.gov.sg/spi2025feb01.pdf",
+   "date_shown": "Updated to 1 Feb 2025",
+   "evidence_class": "Primary",
+   "locator": "Traffic Separation Schemes para 1.5 to 1.8 and 2; Annexes 'In the Singapore Strait (Main Strait)', 'Singapore Strait (Off St. John's Island)', 'Singapore Strait (Off Changi/Pulau Batam)', 'At Horsburgh Lighthouse Area'",
+   "passage": "The traffic separation schemes (listed above and detailed at Annexes 1 to 8) were implemented at 0000 hours UTC on 1 December 1998. Source: COLREG.2/Circ.44 ... with amendments from COLREG.2/Circ.54"
+  },
+  {
+   "id": "S5",
+   "title": "Resolution MSC.73(69) Mandatory ship reporting systems, Annex 10 (STRAITREP)",
+   "authority": "International Maritime Organization",
+   "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.73(69).pdf",
+   "date_shown": "Adopted 19 May 1998",
+   "evidence_class": "Primary",
+   "locator": "Annex, paras 1, 2.1, 3 and 4 (Authority)",
+   "passage": "The area includes the routeing system in the Straits of Malacca and Singapore. The area is divided into nine sectors, each has an assigned VHF channel"
+  },
+  {
+   "id": "S6",
+   "title": "COLREG.2/Circ.74 New Traffic Separation Schemes",
+   "authority": "International Maritime Organization (copy hosted by BIMCO)",
+   "url": "https://bimco.org/media/gusfhkrc/colreg2circ74-new-traffic-separation-schemes-secretariat.pdf",
+   "date_shown": "14 June 2019",
+   "evidence_class": "Primary",
+   "locator": "Paras 1 and 2; Annex 'In the Sunda Strait'",
+   "passage": "adopted ... new traffic separation schemes and associated measures listed in the annex as follows: .1 In the Sunda Strait; and .2 In the Lombok Strait. ... should be implemented on 1 July 2020."
+  },
+  {
+   "id": "S7",
+   "title": "Berlaku 1 Juli 2020, Kemenhub Jelaskan Sistem Pelaporan Kapal di TSS Selat Sunda dan Selat Lombok",
+   "authority": "Directorate General of Sea Transportation (Hubla), Ministry of Transportation, Indonesia",
+   "url": "https://hubla.dephub.go.id/home/post/read/7657/berlaku-1-juli-2020-kemenhub-jelaskan-sistem-pelaporan-kapal-di-tss-selat-sunda-dan-selat-lombok",
+   "date_shown": "Senin, 22 Juni 2020",
+   "evidence_class": "Primary",
+   "locator": "News release body",
+   "passage": "Sistem Pelaporan dan Informasi Navigasi di Selat Sunda dan Selat Lombok bersifat wajib, yaitu bagi semua kapal berbendera Indonesia ... TSS Selat Sunda melalui Radio VHF pada channel 22 atau 68 dengan nama panggil Merak VTS"
+  },
+  {
+   "id": "S8",
+   "title": "Pentingnya Bagan Pemisahan Alur Laut di Selat Sunda dan Selat Lombok bagi Indonesia",
+   "authority": "Directorate General of Sea Transportation (Hubla), Indonesia",
+   "url": "https://hubla.dephub.go.id/home/post/read/5132/pentingnya-bagan-pemisahan-alur-laut-di-selat-sunda-dan-selat-lombok-bagi-indonesia",
+   "date_shown": "Senin, 10 Juni 2019",
+   "evidence_class": "Supporting",
+   "locator": "News release body",
+   "passage": "Setelah TSS tersebut diadopsi dalam sidang IMO MSC ke 101, Indonesia harus mempersiapkan dengan sebaik-baiknya"
+  },
+  {
+   "id": "S9",
+   "title": "Hong Kong Fact Sheet: the Port",
+   "authority": "Marine Department, HKSAR Government",
+   "url": "https://www.mardep.gov.hk/en/materials-and-publications/publications/hk-fact-sheet/index.html",
+   "date_shown": "Undated (cites 2024/2025 data)",
+   "evidence_class": "Primary",
+   "locator": "Port fact sheet text",
+   "passage": "A comprehensive Vessel Traffic Service (VTS) ... covers all navigable waters of Hong Kong used by sea-going vessels and ferries."
+  },
+  {
+   "id": "S10",
+   "title": "Vessel Traffic Centre pamphlet: Vessels required to participate in Hong Kong Vessel Traffic Service",
+   "authority": "Marine Department, HKSAR Government",
+   "url": "https://www.mardep.gov.hk/filemanager/en/share/publications/pdf/materials/vtc_pamphlet.pdf",
+   "date_shown": "April 2025",
+   "evidence_class": "Primary",
+   "locator": "Participation (Cap 313A reg 4; Cap 548F s57); VHF sectors and calling-in points",
+   "passage": "Eastern Approaches Channel 12 ... Tathong Channel Separation Buoy No. 1 ... Lamma Patch; Pursuant to Regulation 4 of the Shipping and port control regulations, (Cap 313A), a vessel of over 300 gross tonnage"
+  },
+  {
+   "id": "S11",
+   "title": "Examination Guidebook on Hong Kong Waters",
+   "authority": "Marine Department, HKSAR Government",
+   "url": "https://www.mardep.gov.hk/filemanager/en/share/pub-services/pdf/hkwaterlk_guide.pdf",
+   "date_shown": "March 2026 Edition",
+   "evidence_class": "Primary",
+   "locator": "Traffic Separation Schemes",
+   "passage": "There are two traffic separation schemes (TSS) within Hong Kong waters which are adopted by IMO: (a) Tathong Channel (b) East Lamma Channel"
+  },
+  {
+   "id": "S12",
+   "title": "Hong Kong Vessel Traffic Service: VHF Sectors and Calling-in Points (Drawing No. 2025MAR032)",
+   "authority": "Hydrographic Office, Marine Department, HKSAR Government",
+   "url": "https://www.mardep.gov.hk/filemanager/en/share/pub-services/pdf/vts_vscp.pdf",
+   "date_shown": "September 2025",
+   "evidence_class": "Primary",
+   "locator": "Chart labels",
+   "passage": "Eastern Approaches VHF CH 12; Lantau South VHF CH 63; Western Approaches VHF CH 67; Harbour VHF CH 14; Harbour East VHF CH 02; Kwai Chung Control Station VHF CH 74"
+  },
+  {
+   "id": "S13",
+   "title": "航经担杆水道分道通航制及周围水域的船舶请注意！ (Guangdong MSA official account, supplied by Guangzhou MSA)",
+   "authority": "Guangdong Maritime Safety Administration / Guangzhou MSA (published on The Paper official account)",
+   "url": "https://m.thepaper.cn/newsDetail_forward_30326627",
+   "date_shown": "2025-03-06",
+   "evidence_class": "Primary",
+   "locator": "Article body (official MSA account)",
+   "passage": "船舶在担杆水道分道通航制及附近水域航行时，应严格遵守《珠江口水域船舶定线制》... 可在VHF08\\09频道上向广州交管中心请求协助"
+  },
+  {
+   "id": "S14",
+   "title": "“担杆”监管台投入运行 广州国产VTS再扩容",
+   "authority": "China News Service (chinanews.com.cn)",
+   "url": "https://www.chinanews.com.cn/dwq/2026/04-08/10600653.shtml",
+   "date_shown": "2026-04-08",
+   "evidence_class": "Lead only",
+   "locator": "News report",
+   "passage": "此次“担杆”监控台启用，将对担杆水道分道通航制、广东沿海主要公共航路、担杆水域渔船推荐航路等水域开展常态化VTS管控"
+  },
+  {
+   "id": "S15",
+   "title": "解读《广东海事局关于试行珠江口水上交通安全特别监管区交通组织一体化的通告》",
+   "authority": "Guangdong Maritime Safety Administration",
+   "url": "https://www.gd.msa.gov.cn/288d370277a13952929caab591b72d65/784a5ef27d1d402db548f019c88978b6.jhtml",
+   "date_shown": "发布时间：2023-12-20",
+   "evidence_class": "Supporting",
+   "locator": "Section on 船舶动态报告",
+   "passage": "珠江口VTS区域报告线共21条 ... 采用“报进不报出，报离不报靠”的原则"
+  },
+  {
+   "id": "S16",
+   "title": "Resolution MSC.389(94) Amendments to the existing mandatory ship reporting system 'Off Chengshan Jiao Promontory'",
+   "authority": "International Maritime Organization",
+   "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC%20389%2094.pdf",
+   "date_shown": "Adopted 21 November 2014",
+   "evidence_class": "Primary",
+   "locator": "Operative paras 1-2; Annex paras 1, 2, 3 (Authority), 6",
+   "passage": "The waters covered by the Ship Reporting System is the water area with the VTS Centre (geographical position is 37°23'.65N, 122°42'.12E) as the centre and 24 miles as the radius."
+  },
+  {
+   "id": "S17",
+   "title": "Распоряжение Правительства РФ от 2 сентября 2006 г. № 1226-р: Схемы разделения движения в территориальном море Российской Федерации",
+   "authority": "Government of the Russian Federation (text via meganorm.ru repository)",
+   "url": "https://meganorm.ru/Data2/1/4293849/4293849842.htm",
+   "date_shown": "2 September 2006 (original text; later amendments not checked)",
+   "evidence_class": "Supporting",
+   "locator": "Section II (Pacific: schemes 5, 6, 12, 13) and Section IV (Sea of Japan: scheme 3)",
+   "passage": "Схема разделения движения № 3. Между мысами Поворотный и Островной (от залива Петра Великого до мыса Белкина)."
+  },
+  {
+   "id": "S18",
+   "title": "Обязательные постановления в морском порту Находка (Приказ Минтранса России от 23.06.2011 № 169)",
+   "authority": "Ministry of Transport of the Russian Federation (official publication, Rossiyskaya Gazeta)",
+   "url": "https://rg.ru/documents/2011/07/05/naxodka-site-dok.html",
+   "date_shown": "5 July 2011 (original text; amended to 15.12.2017 per S19)",
+   "evidence_class": "Primary",
+   "locator": "Paras 52 to 55",
+   "passage": "На подходах к заливу Находка в секторе № 1 Б, который ограничен с юга границей территориального моря, с запада меридианом 132°28,00' ..., с востока меридианом 133°43,00' ..., связь с РСУДС осуществляется на канале 9 ОВЧ."
+  },
+  {
+   "id": "S19",
+   "title": "Приказ Минтранса России от 23.06.2011 N 169 (ред. от 15.12.2017) Об утверждении Обязательных постановлений в морском порту Находка (metadata only)",
+   "authority": "ConsultantPlus legal database",
+   "url": "https://www.consultant.ru/document/cons_doc_LAW_116506/dfe493850a134ba391cd60a9ae6bf84ebb6f7aa9/",
+   "date_shown": "ред. от 15.12.2017",
+   "evidence_class": "Lead only",
+   "locator": "Document header (body paywalled)",
+   "passage": "Об утверждении Обязательных постановлений в морском порту Находка (ред. от 15.12.2017)"
+  },
+  {
+   "id": "S20",
+   "title": "Offshore oil and gas exploration",
+   "authority": "Australian Maritime Safety Authority (AMSA)",
+   "url": "https://www.amsa.gov.au/safety-navigation/navigating-coastal-waters/offshore-oil-and-gas-exploration",
+   "date_shown": "Last updated 9 October 2023",
+   "evidence_class": "Primary",
+   "locator": "Sensitive areas lists (Southern Australia; South-West Australia)",
+   "passage": "Gippsland and Wilsons Promontory TSS ... Cape Leeuwin Traffic Separation Scheme ... not permitted within any charted International Maritime Organization-adopted Traffic Separation Scheme"
+  },
+  {
+   "id": "S21",
+   "title": "Modernised Australian Ship Tracking and Reporting System (MASTREP)",
+   "authority": "Australian Maritime Safety Authority (AMSA)",
+   "url": "https://www.amsa.gov.au/safety-navigation/navigation-systems/modernised-australian-ship-tracking-and-reporting-system",
+   "date_shown": "Last updated 23 December 2020",
+   "evidence_class": "Primary",
+   "locator": "Page body",
+   "passage": "Participation in MASTREP is mandatory for certain vessels ... foreign vessels from the arrival at its first port in Australia until its departure from its final port in Australia; all regulated Australian vessels while in the MASTREP area."
+  },
+  {
+   "id": "S22",
+   "title": "33 CFR 161.60 Vessel Traffic Service Prince William Sound",
+   "authority": "US Government (eCFR, current)",
+   "url": "https://www.ecfr.gov/current/title-33/part-161/section-161.60",
+   "date_shown": "eCFR current (accessed 2026-09-29)",
+   "evidence_class": "Primary",
+   "locator": "§161.60(a),(b),(e)",
+   "passage": "The VTS area consists of the navigable waters of the United States north of a line drawn from Cape Hinchinbrook Light to Schooner Rock Light, comprising that portion of Prince William Sound between 146°30′ W. and 147°20′ W."
+  },
+  {
+   "id": "S23",
+   "title": "33 CFR 167.1700 to 167.1703 In Prince William Sound (TSS)",
+   "authority": "US Government (eCFR, current)",
+   "url": "https://www.ecfr.gov/current/title-33/part-167/section-167.1700",
+   "date_shown": "eCFR current (accessed 2026-09-29)",
+   "evidence_class": "Primary",
+   "locator": "§§167.1700-167.1703",
+   "passage": "The Prince William Sound Traffic Separation Scheme consists of four parts: Prince William Sound Traffic Separation Scheme, Valdez Arm Traffic Separation Scheme, and two precautionary areas."
+  },
+  {
+   "id": "S24",
+   "title": "33 CFR 161.12 Table 161.12(c) VTS, VMRS centers, call signs/MMSI, designated frequencies and monitoring areas",
+   "authority": "US Government (eCFR, current)",
+   "url": "https://www.ecfr.gov/current/title-33/part-161/section-161.12",
+   "date_shown": "eCFR current (accessed 2026-09-29)",
+   "evidence_class": "Primary",
+   "locator": "Table 161.12(c) entries (9) Prince William Sound and (10) Puget Sound; note 7",
+   "passage": "Prince William Sound— Valdez Traffic ... 156.650 MHz (CH. 13) The navigable waters south of 61°05.00′ N., east of 147°20.00′ W., north of 60°00.00′ N., and west of 146°30.00′ W."
+  },
+  {
+   "id": "S25",
+   "title": "33 CFR 161.55 Vessel Traffic Service Puget Sound and the Cooperative Vessel Traffic Service for the Juan de Fuca Region",
+   "authority": "US Government (eCFR, current)",
+   "url": "https://www.ecfr.gov/current/title-33/part-161/section-161.55",
+   "date_shown": "eCFR current (accessed 2026-09-29)",
+   "evidence_class": "Primary",
+   "locator": "§161.55 intro and (a)",
+   "passage": "Canadian and United States Vessel Traffic Centers (Prince Rupert, B.C., Canada; Vancouver, B.C., Canada; and Seattle, WA) manage traffic within the CVTS area irrespective of the International Boundary."
+  },
+  {
+   "id": "S26",
+   "title": "33 CFR 167.1300 to 167.1303 (approaches to the Strait of Juan de Fuca) and 167.1310 (Strait of Juan de Fuca)",
+   "authority": "US Government (eCFR, current)",
+   "url": "https://www.ecfr.gov/current/title-33/part-167/section-167.1300",
+   "date_shown": "eCFR current (accessed 2026-09-29)",
+   "evidence_class": "Primary",
+   "locator": "§§167.1300-167.1303, 167.1310",
+   "passage": "The traffic separation scheme for the approaches to the Strait of Juan de Fuca consists of three parts: the western approach, the southwestern approach, and precautionary area “JF.”"
+  },
+  {
+   "id": "S27",
+   "title": "Vessel Traffic Services Zones Regulations (SOR/2025-275), Schedule 1 Western VTS Zones",
+   "authority": "Government of Canada (Justice Laws Website)",
+   "url": "https://laws-lois.justice.gc.ca/eng/regulations/SOR-2025-275/FullText.html",
+   "date_shown": "Current to 2026-09-21, last amended 2026-03-31",
+   "evidence_class": "Primary",
+   "locator": "Schedule 1 items 1 (Victoria) and 2 (Prince Rupert); application provisions",
+   "passage": "following the international boundary through the Strait of Georgia, Boundary Pass, Haro Strait and Juan de Fuca Strait to 48°28′36″ N, 124°40′00″ W"
+  }
+ ],
+ "batch_audits": [
+  {
+   "batch": "B23",
+   "evidence_check": "All Confirmed present findings rest on MPA pages (S1-S4) and IMO MSC.73(69) (S5) or IMO COLREG.2/Circ.74 and DGST (S6, S7). Passages re-checked.",
+   "classification_check": "TSS-0114 marked Confirmed present for VTS and reporting with explicit partial-coverage caveat (east of 104°23'E uncovered).",
+   "duplication_check": "Singapore VTS named consistently (SVC-singapore-vts = VTS-006); STRAITREP = SRS-004.",
+   "unresolved_items": "Coverage east of 104°23'E at Horsburgh.",
+   "closed": true
+  },
+  {
+   "batch": "B24",
+   "evidence_check": "Hong Kong: MarDep fact sheet, pamphlet, guidebook. Dangan: Guangzhou MSA official account (S13); chinanews used as lead only. Chengshan Jiao: IMO MSC.389(94).",
+   "classification_check": "Hong Kong and Dangan reporting left Unresolved (only VTS duties). Dangan IMO adoption treated as lead.",
+   "duplication_check": "One Hong Kong VTS for both TSS-0117 and 0118.",
+   "unresolved_items": "COLREG.2/Circ.71 not retrieved; HK TSS adoption dates.",
+   "closed": true
+  },
+  {
+   "batch": "B25",
+   "evidence_check": "TSS-0122 VTS Confirmed present rests on RG publication of Nakhodka port rules (2011) and scheme coordinates from Directive 1226-r; caveated as partial and possibly outdated.",
+   "classification_check": "All other Russian VTS and reporting findings Unresolved.",
+   "duplication_check": "TSS-0121 may overlap with TSS-0122 or be a later-added scheme; flagged.",
+   "unresolved_items": "Current port rules; IMO adoption of Russian schemes; Korsakov VTS coverage.",
+   "closed": false
+  },
+  {
+   "batch": "B26",
+   "evidence_check": "US: eCFR 33 CFR 161/167; Canada: SOR/2025-275; Australia: AMSA pages.",
+   "classification_check": "MASTREP recorded as national mandatory reporting (category-limited). Australian VTS Unresolved (not Confirmed absent). US/Canadian VTS reporting duties not counted as separate SRS.",
+   "duplication_check": "VTS-009 and VTS-010 reused; Canadian service recorded separately; TSS-0127/0128 possible overlap flagged.",
+   "unresolved_items": "Australian NtM unreachable; TSS-0128 identity.",
+   "closed": false
+  }
+ ],
+ "method_notes": "Access date 2026-09-29. MSC.73(69) sector limits exist only as chartlets; MPA 'Vessels Arriving in Singapore' page gives sector longitudes and is the key source for segment allocation, with Singapore Port Information (file.go.gov.sg) giving TSS coordinates. PDFs were text-extracted locally with pdfminer. Unreachable: hydro.gov.au (timeouts/503), mintrans.gov.ru (connection reset), ics.org.ir (COLREG.2/Circ.71), Admiralty MSI NM 17 (HTTP 500), garant.ru (blocked); consultant.ru body paywalled. Useful: eCFR API renderer for 33 CFR; Justice Laws for SOR/2025-275 (the older SOR/89-98 is repealed); rg.ru for official texts of Russian port rules; Hubla DGST news pages for Indonesian reporting. Suggest obtaining IMO Ships' Routeing (current edition) for adoption dates of Russian, Hong Kong, Australian and US schemes."
+}

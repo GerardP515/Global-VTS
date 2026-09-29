@@ -1,0 +1,906 @@
+{
+ "group": "F",
+ "records": [
+  {
+   "record_id": "TSS-0131",
+   "batch": "B27",
+   "source_label": "In Puget Sound and approaches in Haro Strait, Boundary Pass and in the Strait of Georgia",
+   "official_name": "In Puget Sound and its approaches in Haro Strait, Boundary Pass and in the Strait of Georgia",
+   "states": "United States; Canada",
+   "tss_identity_status": "Confirmed",
+   "tss_identity_note": "IMO name as amended by COLREG.2/Circ.55 (MSC 79, 15 December 2004; amendments implemented 1 July 2005). US statutory text splits it into 33 CFR 167.1320-1323 (Puget Sound and its approaches) and 167.1330-1332 (Haro Strait, Boundary Pass, Strait of Georgia). Grouped heading; the separate Strait of Juan de Fuca and approaches schemes (33 CFR 167.1300/1310) are not part of this label.",
+   "grouped_components": [
+    "Rosario Strait",
+    "Approaches to Puget Sound other than Rosario Strait",
+    "Puget Sound",
+    "Haro Strait and Boundary Pass",
+    "Strait of Georgia"
+   ],
+   "operational_status": "In force",
+   "vts_finding": "Confirmed present",
+   "vts_service_keys": [
+    "SVC-vts-puget-sound",
+    "SVC-ccg-mcts-victoria-vts"
+   ],
+   "vts_relationship_basis": "US parts: 33 CFR 161.55 defines the VTS Puget Sound area as US navigable waters of the Salish Sea to the US/Canada boundary, and Table 161.12(c) assigns Seattle Traffic Ch 14 (Puget Sound) and Ch 5A (US Salish Sea incl. Rosario Strait and US side of Haro Strait). Canadian parts: CCG RAMN 2026 Table 3-1 places Canadian waters through Haro Strait, Boundary Pass and the Strait of Georgia in Victoria VTS Zone Sector 1 (Victoria Traffic Ch 11). Both operate within the US/Canadian CVTS; the CVTS northern limit is 49°N, so the Strait of Georgia component north of 49°N is a Canadian-only VTS area.",
+   "reporting_finding": "Unresolved",
+   "reporting_scheme_keys": [],
+   "reporting_relationship_basis": "No IMO-adopted (SOLAS V/11) mandatory ship reporting system found for this area. 33 CFR 161 VMRS reporting (sailing plans, position and final reports) applies, but it is the ordinary participation duty of the VTS and is recorded with the service, not as a separate reporting system. A failed search does not establish absence. Canadian side: Vessel Traffic Services Zones Regulations (SOR/2025-275, replacing SOR/89-98) require sailing plans, including a 24-hour report when entering from outside Canadian waters; again VTS participation reporting.",
+   "voluntary_reporting": null,
+   "applicability_notes": "US: VMRS users per 33 CFR 161.16 (power-driven 40 m+, towing vessels 8 m+, passenger vessels certificated for 50+). Eastern San Juan Island Archipelago VTS Special Area rules (Rosario Strait) for vessels 100 m+ / 40,000 DWT+. Canada: vessels 300 GT+, tows 500 GT+ combined, pollutant/dangerous goods carriers; some provisions also to vessels 20 m+ (RAMN s3.5.1).",
+   "provisional_complexity": "Complex",
+   "complexity_reason": "Cross-border grouped scheme under two national VTS regimes within the CVTS, with sector-specific frequencies and a VTS Special Area.",
+   "source_ids": [
+    "S2",
+    "S3",
+    "S4",
+    "S5",
+    "S1",
+    "S10"
+   ],
+   "open_questions": "Confirm whether 33 CFR 161.55 reference to a Vancouver centre is obsolete (RAMN 2026 lists Victoria Traffic only). SOR/2025-275 full text not fetched (only the SOR/89-98 repeal note).",
+   "research_effort": "approx 7 web actions (eCFR parts 161/167 via API, NAVCEN, RAMN 2026, Justice Laws, IMO compilation)"
+  },
+  {
+   "record_id": "TSS-0132",
+   "batch": "B27",
+   "source_label": "Off San Francisco",
+   "official_name": "Off San Francisco",
+   "states": "United States",
+   "tss_identity_status": "Confirmed",
+   "tss_identity_note": "33 CFR 167.400-406: six parts (Precautionary Area, Northern, Southern and Western Approaches, Main Ship Channel, Area To Be Avoided). IMO adoption circular not separately retrieved.",
+   "grouped_components": [
+    "Precautionary area",
+    "Northern approach",
+    "Southern approach",
+    "Western approach",
+    "Main ship channel",
+    "Area to be avoided"
+   ],
+   "operational_status": "In force",
+   "vts_finding": "Confirmed present",
+   "vts_service_keys": [
+    "SVC-vts-san-francisco"
+   ],
+   "vts_relationship_basis": "33 CFR 161.50 VTS area includes seaward approaches within a 38 nm radius of Mount Tamalpais. Table 161.12(c) expressly includes the San Francisco Offshore Precautionary Area (Ch 14) and the offshore waters within 38 nm (Ch 12). All 33 CFR 167.401-406 coordinates lie within about 30 nm of Mount Tamalpais (computed), so the whole scheme is within the VTS area.",
+   "reporting_finding": "Unresolved",
+   "reporting_scheme_keys": [
+    "RPT-sf-ovmrs"
+   ],
+   "reporting_relationship_basis": "No IMO-adopted (SOLAS V/11) mandatory ship reporting system found for this area. 33 CFR 161 VMRS reporting (sailing plans, position and final reports) applies, but it is the ordinary participation duty of the VTS and is recorded with the service, not as a separate reporting system. A failed search does not establish absence.",
+   "voluntary_reporting": "Offshore Vessel Movement Reporting System (OVMRS), operated by VTS San Francisco; NAVCEN states it is completely voluntary (existing register SRS-008).",
+   "applicability_notes": "VMRS users per 33 CFR 161.16 (power-driven 40 m+, towing vessels 8 m+, passenger vessels certificated for 50+).",
+   "provisional_complexity": "Intermediate",
+   "complexity_reason": "Single VTS covers the whole scheme, but two sectors/frequencies and a separate voluntary offshore reporting system.",
+   "source_ids": [
+    "S1",
+    "S2",
+    "S3"
+   ],
+   "open_questions": "OVMRS geographic extent not stated on NAVCEN page; not confirmed whether it extends beyond the 38 nm VTS area.",
+   "research_effort": "approx 3 web actions (shared with TSS-0131/0133)"
+  },
+  {
+   "record_id": "TSS-0133",
+   "batch": "B27",
+   "source_label": "In the Santa Barbara Channel and in the Approaches to Los Angeles - Long Beach",
+   "official_name": "In the Santa Barbara Channel; In the approaches to Los Angeles-Long Beach",
+   "states": "United States",
+   "tss_identity_status": "Confirmed",
+   "tss_identity_note": "Grouped heading of two schemes: Santa Barbara Channel (33 CFR 167.450-452, Point Vicente to Point Arguello) and approaches to Los Angeles-Long Beach (33 CFR 167.500-503: precautionary area, western and southern approaches). IMO compilation shows later amendments to both (Santa Barbara Channel amended scheme; 'Approaches to Los Angeles - Long Beach' amended scheme), circular numbers not extracted.",
+   "grouped_components": [
+    "In the Santa Barbara Channel (Point Vicente to Point Conception; Point Conception to Point Arguello)",
+    "In the approaches to Los Angeles-Long Beach (precautionary area, western approach, southern approach)"
+   ],
+   "operational_status": "In force",
+   "vts_finding": "Confirmed present",
+   "vts_service_keys": [
+    "SVC-vts-los-angeles-long-beach"
+   ],
+   "vts_relationship_basis": "Partial coverage only. LA/LB approaches: 33 CFR Table 161.12(c) VMRS area (San Pedro Traffic) is 25 nm radius of Point Fermin Light; the precautionary area and western approach lie wholly inside and the southern approach almost wholly (its seaward end computed at about 25.7 nm). Santa Barbara Channel: only the south-eastern end of the lanes near Point Vicente (about 15 to 17 nm from Point Fermin) falls inside; the rest of the Santa Barbara Channel scheme (about 53 to 135 nm from Point Fermin) is outside any VTS area evidenced. Do not treat the Santa Barbara Channel scheme as VTS-covered.",
+   "reporting_finding": "Unresolved",
+   "reporting_scheme_keys": [],
+   "reporting_relationship_basis": "No IMO-adopted (SOLAS V/11) mandatory ship reporting system found for this area. 33 CFR 161 VMRS reporting (sailing plans, position and final reports) applies, but it is the ordinary participation duty of the VTS and is recorded with the service, not as a separate reporting system. A failed search does not establish absence. No reporting system for the Santa Barbara Channel part was evidenced.",
+   "voluntary_reporting": null,
+   "applicability_notes": "VMRS users per 33 CFR 161.16; Table 161.12(c) footnote exempts Los Angeles/Long Beach from the AIS-based requirement linked to MMSI areas.",
+   "provisional_complexity": "Complex",
+   "complexity_reason": "Grouped heading with split coverage: VTS/VMRS covers the LA/LB approaches but essentially not the Santa Barbara Channel scheme.",
+   "source_ids": [
+    "S1",
+    "S2",
+    "S3",
+    "S5"
+   ],
+   "open_questions": "Whether the Marine Exchange provides any information service in the Santa Barbara Channel outside the 25 nm VMRS area not checked.",
+   "research_effort": "approx 3 web actions (shared) plus coordinate computation"
+  },
+  {
+   "record_id": "TSS-0134",
+   "batch": "B27",
+   "source_label": "In the Approaches to Salina Cruz",
+   "official_name": "In the approaches to Salina Cruz",
+   "states": "Mexico",
+   "tss_identity_status": "Provisional",
+   "tss_identity_note": "New scheme adopted by MSC 63 (COLREG.2/Circ.40, 9 June 1994), implemented 24 November 1994: two parts (south-western approach for tankers to the SPMs/oil terminal; southern approach for ships over 500 GT). A.827(19) (1995) added a precautionary area and three circular areas to be avoided. Current status not checked in GISIS.",
+   "grouped_components": [
+    "Part I South-western approach",
+    "Part II Southern approach",
+    "Associated precautionary area and areas to be avoided (A.827(19))"
+   ],
+   "operational_status": "In force",
+   "vts_finding": "Unresolved",
+   "vts_service_keys": [
+    "SVC-salina-cruz-port-vessel-traffic-supervisor"
+   ],
+   "vts_relationship_basis": "IMO texts (1994/1995) state that ship movement in the port area is supervised by a Port Vessel Traffic Supervisor 24 h and ships using the TSS are requested to contact it on VHF Ch 6. This is historic and does not confirm a current VTS; no current SEMAR/Capitanía source found.",
+   "reporting_finding": "Unresolved",
+   "reporting_scheme_keys": [],
+   "reporting_relationship_basis": "No mandatory reporting system evidenced; the IMO note is a request to contact the supervisor (voluntary).",
+   "voluntary_reporting": "Ships intending to use the TSS requested to call the Salina Cruz Port Vessel (Traffic) Supervisor on VHF Ch 6 (IMO COLREG.2/Circ.40, 1994).",
+   "applicability_notes": "Southern approach recommended for ships over 500 GT; south-western approach for tankers to/from the SPMs or oil terminal.",
+   "provisional_complexity": "Not assessed",
+   "complexity_reason": "VTS status unresolved.",
+   "source_ids": [
+    "S5",
+    "S7"
+   ],
+   "open_questions": "Need current SEMAR / Capitanía de Puerto de Salina Cruz source on any VTS (a gob.mx port PDF was image-only and unreadable).",
+   "research_effort": "approx 5 web actions"
+  },
+  {
+   "record_id": "TSS-0135",
+   "batch": "B27",
+   "source_label": "Landfall and Approaches to Talara Bay",
+   "official_name": "Landfall and approaches to Talara Bay",
+   "states": "Peru",
+   "tss_identity_status": "Provisional",
+   "tss_identity_note": "New scheme adopted by MSC 73, COLREG.2/Circ.49 (19 January 2001), implemented 1 June 2001. Adopted by IMO MSC; implementation date as stated. Current status after later circulars (post COLREG.2/Circ.69) not checked in GISIS; treated as provisional pending a current Peruvian (HIDRONAV/DICAPI) or IMO Ships' Routeing check.",
+   "grouped_components": [],
+   "operational_status": "In force",
+   "vts_finding": "Unresolved",
+   "vts_service_keys": [],
+   "vts_relationship_basis": "No current primary Peruvian source found establishing a VTS covering this TSS or its approach. DICAPI resolutions checked (anchorages) do not mention a VTS.",
+   "reporting_finding": "Unresolved",
+   "reporting_scheme_keys": [],
+   "reporting_relationship_basis": "No IMO-adopted or national mandatory ship reporting system specific to this area evidenced. Lead: SIMTRAC (Supreme Decree 008-2011-DE) is a DICAPI monitoring system requiring positioning devices, found only via search results; not treated as a reporting system.",
+   "voluntary_reporting": null,
+   "applicability_notes": null,
+   "provisional_complexity": "Not assessed",
+   "complexity_reason": "VTS status unresolved.",
+   "source_ids": [
+    "S6",
+    "S5"
+   ],
+   "open_questions": "No DICAPI/Capitanía de Talara VTS source found.",
+   "research_effort": "approx 2 web actions (shared Peru searches)"
+  },
+  {
+   "record_id": "TSS-0136",
+   "batch": "B28",
+   "source_label": "Landfall and Approaches to Bahía de Paita",
+   "official_name": "Landfall and approaches to Paita Bay",
+   "states": "Peru",
+   "tss_identity_status": "Provisional",
+   "tss_identity_note": "New scheme adopted by MSC 72, COLREG.2/Circ.48 (1 June 2000), implemented 1 December 2000. Adopted by IMO MSC; implementation date as stated. Current status after later circulars (post COLREG.2/Circ.69) not checked in GISIS; treated as provisional pending a current Peruvian (HIDRONAV/DICAPI) or IMO Ships' Routeing check.",
+   "grouped_components": [],
+   "operational_status": "In force",
+   "vts_finding": "Unresolved",
+   "vts_service_keys": [],
+   "vts_relationship_basis": "No current primary Peruvian source found establishing a VTS covering this TSS or its approach. DICAPI resolutions checked (anchorages) do not mention a VTS.",
+   "reporting_finding": "Unresolved",
+   "reporting_scheme_keys": [],
+   "reporting_relationship_basis": "No IMO-adopted or national mandatory ship reporting system specific to this area evidenced. Lead: SIMTRAC (Supreme Decree 008-2011-DE) is a DICAPI monitoring system requiring positioning devices, found only via search results; not treated as a reporting system.",
+   "voluntary_reporting": null,
+   "applicability_notes": null,
+   "provisional_complexity": "Not assessed",
+   "complexity_reason": "VTS status unresolved.",
+   "source_ids": [
+    "S5",
+    "S13"
+   ],
+   "open_questions": "No DICAPI/Capitanía de Paita VTS source found.",
+   "research_effort": "approx 2 web actions (shared)"
+  },
+  {
+   "record_id": "TSS-0137",
+   "batch": "B28",
+   "source_label": "Landfall off Puerto Salaverry",
+   "official_name": "Landfall Off Puerto Salaverry",
+   "states": "Peru",
+   "tss_identity_status": "Provisional",
+   "tss_identity_note": "New scheme adopted by MSC 73, COLREG.2/Circ.49 (19 January 2001), implemented 1 June 2001. Adopted by IMO MSC; implementation date as stated. Current status after later circulars (post COLREG.2/Circ.69) not checked in GISIS; treated as provisional pending a current Peruvian (HIDRONAV/DICAPI) or IMO Ships' Routeing check.",
+   "grouped_components": [],
+   "operational_status": "In force",
+   "vts_finding": "Unresolved",
+   "vts_service_keys": [],
+   "vts_relationship_basis": "No current primary Peruvian source found establishing a VTS covering this TSS or its approach. DICAPI resolutions checked (anchorages) do not mention a VTS.",
+   "reporting_finding": "Unresolved",
+   "reporting_scheme_keys": [],
+   "reporting_relationship_basis": "No IMO-adopted or national mandatory ship reporting system specific to this area evidenced. Lead: SIMTRAC (Supreme Decree 008-2011-DE) is a DICAPI monitoring system requiring positioning devices, found only via search results; not treated as a reporting system.",
+   "voluntary_reporting": null,
+   "applicability_notes": null,
+   "provisional_complexity": "Not assessed",
+   "complexity_reason": "VTS status unresolved.",
+   "source_ids": [
+    "S6",
+    "S5"
+   ],
+   "open_questions": "No VTS source for Salaverry found.",
+   "research_effort": "approx 1 web action (shared)"
+  },
+  {
+   "record_id": "TSS-0138",
+   "batch": "B28",
+   "source_label": "Landfall and Approaches to Ferrol Bay (Puerto Chimbote)",
+   "official_name": "Landfall and approaches to Ferrol Bay (Puerto Chimbote)",
+   "states": "Peru",
+   "tss_identity_status": "Provisional",
+   "tss_identity_note": "New scheme adopted by MSC 73, COLREG.2/Circ.49 (19 January 2001), implemented 1 June 2001 (circular list misspells 'Puerto Chimbotu'; annex heading reads Puerto Chimbote). Adopted by IMO MSC; implementation date as stated. Current status after later circulars (post COLREG.2/Circ.69) not checked in GISIS; treated as provisional pending a current Peruvian (HIDRONAV/DICAPI) or IMO Ships' Routeing check.",
+   "grouped_components": [],
+   "operational_status": "In force",
+   "vts_finding": "Unresolved",
+   "vts_service_keys": [],
+   "vts_relationship_basis": "No current primary Peruvian source found establishing a VTS covering this TSS or its approach. DICAPI resolutions checked (anchorages) do not mention a VTS.",
+   "reporting_finding": "Unresolved",
+   "reporting_scheme_keys": [],
+   "reporting_relationship_basis": "No IMO-adopted or national mandatory ship reporting system specific to this area evidenced. Lead: SIMTRAC (Supreme Decree 008-2011-DE) is a DICAPI monitoring system requiring positioning devices, found only via search results; not treated as a reporting system.",
+   "voluntary_reporting": null,
+   "applicability_notes": null,
+   "provisional_complexity": "Not assessed",
+   "complexity_reason": "VTS status unresolved.",
+   "source_ids": [
+    "S6",
+    "S5"
+   ],
+   "open_questions": "No VTS source for Chimbote found.",
+   "research_effort": "approx 1 web action (shared)"
+  },
+  {
+   "record_id": "TSS-0139",
+   "batch": "B28",
+   "source_label": "Approaches to Puerto Callao",
+   "official_name": "Approaches to Puerto Callao",
+   "states": "Peru",
+   "tss_identity_status": "Provisional",
+   "tss_identity_note": "New scheme adopted by MSC 72, COLREG.2/Circ.48 (1 June 2000), implemented 1 December 2000; three parts (Part I northwest approaches etc.). Adopted by IMO MSC; implementation date as stated. Current status after later circulars (post COLREG.2/Circ.69) not checked in GISIS; treated as provisional pending a current Peruvian (HIDRONAV/DICAPI) or IMO Ships' Routeing check.",
+   "grouped_components": [],
+   "operational_status": "In force",
+   "vts_finding": "Unresolved",
+   "vts_service_keys": [
+    "SVC-vts-callao"
+   ],
+   "vts_relationship_basis": "Leads indicate a 'VTS Callao' operated under the Peruvian maritime authority (Revista de Marina 2023 article, 404 on fetch; industry reports of a 2019/2020 Wartsila VTS order), but no primary source fetched establishes its operation or coverage of the TSS. DICAPI anchorage resolutions for Callao (2025, 2026) do not mention it.",
+   "reporting_finding": "Unresolved",
+   "reporting_scheme_keys": [],
+   "reporting_relationship_basis": "No IMO-adopted or national mandatory ship reporting system specific to this area evidenced. Lead: SIMTRAC (Supreme Decree 008-2011-DE) is a DICAPI monitoring system requiring positioning devices, found only via search results; not treated as a reporting system.",
+   "voluntary_reporting": null,
+   "applicability_notes": null,
+   "provisional_complexity": "Not assessed",
+   "complexity_reason": "VTS status unresolved.",
+   "source_ids": [
+    "S5",
+    "S12",
+    "S13"
+   ],
+   "open_questions": "Obtain DICAPI resolution establishing VTS Callao (area, VHF channel, participation) and check whether it covers the TSS parts.",
+   "research_effort": "approx 6 web actions"
+  },
+  {
+   "record_id": "TSS-0140",
+   "batch": "B28",
+   "source_label": "In the Approaches to Puerto Pisco",
+   "official_name": "In the approaches to Puerto Pisco",
+   "states": "Peru",
+   "tss_identity_status": "Provisional",
+   "tss_identity_note": "Adopted as 'Landfall and approaches to Puerto San Martin' (COLREG.2/Circ.48, 1 June 2000, implemented 1 December 2000); amended and renamed 'In the approaches to Puerto Pisco' by COLREG.2/Circ.55 (15 December 2004), implemented 1 July 2005; two parts. Adopted by IMO MSC; implementation date as stated. Current status after later circulars (post COLREG.2/Circ.69) not checked in GISIS; treated as provisional pending a current Peruvian (HIDRONAV/DICAPI) or IMO Ships' Routeing check.",
+   "grouped_components": [],
+   "operational_status": "In force",
+   "vts_finding": "Unresolved",
+   "vts_service_keys": [],
+   "vts_relationship_basis": "No current primary Peruvian source found establishing a VTS covering this TSS or its approach. DICAPI resolutions checked (anchorages) do not mention a VTS.",
+   "reporting_finding": "Unresolved",
+   "reporting_scheme_keys": [],
+   "reporting_relationship_basis": "No IMO-adopted or national mandatory ship reporting system specific to this area evidenced. Lead: SIMTRAC (Supreme Decree 008-2011-DE) is a DICAPI monitoring system requiring positioning devices, found only via search results; not treated as a reporting system.",
+   "voluntary_reporting": null,
+   "applicability_notes": null,
+   "provisional_complexity": "Not assessed",
+   "complexity_reason": "VTS status unresolved.",
+   "source_ids": [
+    "S5"
+   ],
+   "open_questions": "Renamed scheme: merge with any register entry for Puerto San Martín. No VTS source for Pisco found.",
+   "research_effort": "approx 1 web action (shared)"
+  },
+  {
+   "record_id": "TSS-0141",
+   "batch": "B29",
+   "source_label": "Landfall and Approaches to San Nicolás Bay",
+   "official_name": "Landfall and approaches to San Nicolas Bay",
+   "states": "Peru",
+   "tss_identity_status": "Provisional",
+   "tss_identity_note": "New scheme adopted by MSC 73, COLREG.2/Circ.49 (19 January 2001), implemented 1 June 2001. Adopted by IMO MSC; implementation date as stated. Current status after later circulars (post COLREG.2/Circ.69) not checked in GISIS; treated as provisional pending a current Peruvian (HIDRONAV/DICAPI) or IMO Ships' Routeing check.",
+   "grouped_components": [],
+   "operational_status": "In force",
+   "vts_finding": "Unresolved",
+   "vts_service_keys": [],
+   "vts_relationship_basis": "No current primary Peruvian source found establishing a VTS covering this TSS or its approach. DICAPI resolutions checked (anchorages) do not mention a VTS.",
+   "reporting_finding": "Unresolved",
+   "reporting_scheme_keys": [],
+   "reporting_relationship_basis": "No IMO-adopted or national mandatory ship reporting system specific to this area evidenced. Lead: SIMTRAC (Supreme Decree 008-2011-DE) is a DICAPI monitoring system requiring positioning devices, found only via search results; not treated as a reporting system.",
+   "voluntary_reporting": null,
+   "applicability_notes": null,
+   "provisional_complexity": "Not assessed",
+   "complexity_reason": "VTS status unresolved.",
+   "source_ids": [
+    "S6",
+    "S5"
+   ],
+   "open_questions": "No VTS source for San Nicolás found.",
+   "research_effort": "approx 1 web action (shared)"
+  },
+  {
+   "record_id": "TSS-0142",
+   "batch": "B29",
+   "source_label": "Landfall and Approaches to Puerto Ilo",
+   "official_name": "Landfall and approaches to Puerto Ilo",
+   "states": "Peru",
+   "tss_identity_status": "Provisional",
+   "tss_identity_note": "New scheme adopted by MSC 72, COLREG.2/Circ.48 (1 June 2000), implemented 1 December 2000. Adopted by IMO MSC; implementation date as stated. Current status after later circulars (post COLREG.2/Circ.69) not checked in GISIS; treated as provisional pending a current Peruvian (HIDRONAV/DICAPI) or IMO Ships' Routeing check.",
+   "grouped_components": [],
+   "operational_status": "In force",
+   "vts_finding": "Unresolved",
+   "vts_service_keys": [],
+   "vts_relationship_basis": "No current primary Peruvian source found establishing a VTS covering this TSS or its approach. DICAPI resolutions checked (anchorages) do not mention a VTS.",
+   "reporting_finding": "Unresolved",
+   "reporting_scheme_keys": [],
+   "reporting_relationship_basis": "No IMO-adopted or national mandatory ship reporting system specific to this area evidenced. Lead: SIMTRAC (Supreme Decree 008-2011-DE) is a DICAPI monitoring system requiring positioning devices, found only via search results; not treated as a reporting system.",
+   "voluntary_reporting": null,
+   "applicability_notes": null,
+   "provisional_complexity": "Not assessed",
+   "complexity_reason": "VTS status unresolved.",
+   "source_ids": [
+    "S5"
+   ],
+   "open_questions": "No VTS source for Ilo found.",
+   "research_effort": "approx 1 web action (shared)"
+  },
+  {
+   "record_id": "TSS-0143",
+   "batch": "B29",
+   "source_label": "In the Approaches to Arica",
+   "official_name": "In the approaches to Arica",
+   "states": "Chile",
+   "tss_identity_status": "Provisional",
+   "tss_identity_note": "New scheme adopted by MSC 55, COLREG.2/Circ.32 (16 May 1988), implemented 15 October 1988. Current status not checked in GISIS or SHOA publications; treated as provisional.",
+   "grouped_components": [],
+   "operational_status": "In force",
+   "vts_finding": "Unresolved",
+   "vts_service_keys": [],
+   "vts_relationship_basis": "No DIRECTEMAR source found establishing a VTS covering this TSS.",
+   "reporting_finding": "Unresolved",
+   "reporting_scheme_keys": [
+    "RPT-chilrep"
+   ],
+   "reporting_relationship_basis": "No mandatory ship reporting system for foreign ships evidenced. CHILREP is stated by DIRECTEMAR to be voluntary (mandatory position reports for Chilean-flag ships only); national 24 h arrival notice for foreign ships is a port pre-arrival duty.",
+   "voluntary_reporting": "CHILREP (voluntary for foreign ships in the Chilean SAR region; DIRECTEMAR/MRCC Chile).",
+   "applicability_notes": null,
+   "provisional_complexity": "Not assessed",
+   "complexity_reason": "VTS status unresolved.",
+   "source_ids": [
+    "S5",
+    "S8"
+   ],
+   "open_questions": "Check SHOA Pub. 3008/3018 or Capitanía de Puerto de Arica resolutions for VTS/port control.",
+   "research_effort": "approx 2 web actions (shared Chile searches)"
+  },
+  {
+   "record_id": "TSS-0144",
+   "batch": "B29",
+   "source_label": "In the Approaches to Iquique",
+   "official_name": "In the approaches to Iquique",
+   "states": "Chile",
+   "tss_identity_status": "Provisional",
+   "tss_identity_note": "New scheme adopted by MSC 55 (COLREG.2/Circ.32, 1988, implemented 15 October 1988); amended by MSC 72 (COLREG.2/Circ.48, 1 June 2000, implemented 1 December 2000). Current status not checked in GISIS or SHOA publications; treated as provisional.",
+   "grouped_components": [],
+   "operational_status": "In force",
+   "vts_finding": "Unresolved",
+   "vts_service_keys": [],
+   "vts_relationship_basis": "No DIRECTEMAR source found establishing a VTS covering this TSS.",
+   "reporting_finding": "Unresolved",
+   "reporting_scheme_keys": [
+    "RPT-chilrep"
+   ],
+   "reporting_relationship_basis": "No mandatory ship reporting system for foreign ships evidenced. CHILREP is stated by DIRECTEMAR to be voluntary (mandatory position reports for Chilean-flag ships only); national 24 h arrival notice for foreign ships is a port pre-arrival duty.",
+   "voluntary_reporting": "CHILREP (voluntary for foreign ships in the Chilean SAR region; DIRECTEMAR/MRCC Chile).",
+   "applicability_notes": null,
+   "provisional_complexity": "Not assessed",
+   "complexity_reason": "VTS status unresolved.",
+   "source_ids": [
+    "S5",
+    "S8"
+   ],
+   "open_questions": "No VTS source for Iquique found.",
+   "research_effort": "approx 1 web action (shared)"
+  },
+  {
+   "record_id": "TSS-0145",
+   "batch": "B29",
+   "source_label": "In the Approaches to Antofagasta",
+   "official_name": "In the approaches to Antofagasta",
+   "states": "Chile",
+   "tss_identity_status": "Provisional",
+   "tss_identity_note": "Listed among schemes implemented 15 May 1978 (COLREG.2/Circ.5, 6 March 1978, OCR copy); amended by MSC 55 (COLREG.2/Circ.32, implemented 15 October 1988). Current status not checked in GISIS or SHOA publications; treated as provisional.",
+   "grouped_components": [],
+   "operational_status": "In force",
+   "vts_finding": "Unresolved",
+   "vts_service_keys": [],
+   "vts_relationship_basis": "No DIRECTEMAR source found establishing a VTS covering this TSS.",
+   "reporting_finding": "Unresolved",
+   "reporting_scheme_keys": [
+    "RPT-chilrep"
+   ],
+   "reporting_relationship_basis": "No mandatory ship reporting system for foreign ships evidenced. CHILREP is stated by DIRECTEMAR to be voluntary (mandatory position reports for Chilean-flag ships only); national 24 h arrival notice for foreign ships is a port pre-arrival duty.",
+   "voluntary_reporting": "CHILREP (voluntary for foreign ships in the Chilean SAR region; DIRECTEMAR/MRCC Chile).",
+   "applicability_notes": null,
+   "provisional_complexity": "Not assessed",
+   "complexity_reason": "VTS status unresolved.",
+   "source_ids": [
+    "S5",
+    "S8"
+   ],
+   "open_questions": "No VTS source for Antofagasta found.",
+   "research_effort": "approx 1 web action (shared)"
+  },
+  {
+   "record_id": "TSS-0146",
+   "batch": "B30",
+   "source_label": "In the Approaches to Quintero Bay",
+   "official_name": "In the approaches to Quintero Bay",
+   "states": "Chile",
+   "tss_identity_status": "Provisional",
+   "tss_identity_note": "Implemented 15 May 1978 (COLREG.2/Circ.5, OCR copy); amended by MSC 55 (COLREG.2/Circ.32, implemented 15 October 1988). Current status not checked in GISIS or SHOA publications; treated as provisional.",
+   "grouped_components": [],
+   "operational_status": "In force",
+   "vts_finding": "Unresolved",
+   "vts_service_keys": [],
+   "vts_relationship_basis": "No DIRECTEMAR source found establishing a VTS covering this TSS.",
+   "reporting_finding": "Unresolved",
+   "reporting_scheme_keys": [
+    "RPT-chilrep"
+   ],
+   "reporting_relationship_basis": "No mandatory ship reporting system for foreign ships evidenced. CHILREP is stated by DIRECTEMAR to be voluntary (mandatory position reports for Chilean-flag ships only); national 24 h arrival notice for foreign ships is a port pre-arrival duty.",
+   "voluntary_reporting": "CHILREP (voluntary for foreign ships in the Chilean SAR region; DIRECTEMAR/MRCC Chile).",
+   "applicability_notes": null,
+   "provisional_complexity": "Not assessed",
+   "complexity_reason": "VTS status unresolved.",
+   "source_ids": [
+    "S5",
+    "S8"
+   ],
+   "open_questions": "Whether VTS Valparaíso or a Quintero port control covers Quintero Bay approaches not established.",
+   "research_effort": "approx 1 web action (shared)"
+  },
+  {
+   "record_id": "TSS-0147",
+   "batch": "B30",
+   "source_label": "In the Approaches to Valparaíso",
+   "official_name": "In the approaches to Valparaiso",
+   "states": "Chile",
+   "tss_identity_status": "Provisional",
+   "tss_identity_note": "Implemented 15 May 1978 (COLREG.2/Circ.5, OCR copy); amended by MSC 55 (COLREG.2/Circ.32, implemented 15 October 1988). Current status not checked in GISIS or SHOA publications; treated as provisional.",
+   "grouped_components": [],
+   "operational_status": "In force",
+   "vts_finding": "Unresolved",
+   "vts_service_keys": [
+    "SVC-vts-valparaiso"
+   ],
+   "vts_relationship_basis": "Lead: a 2018 DIRECTEMAR anchorage resolution (seen only via vLex) requires vessels to confirm with 'VTS Valparaíso (Vessel Trafic Service)/CBV-20' two hours ahead on Ch 16. Service area and coverage of the TSS not evidenced.",
+   "reporting_finding": "Unresolved",
+   "reporting_scheme_keys": [
+    "RPT-chilrep"
+   ],
+   "reporting_relationship_basis": "No mandatory ship reporting system for foreign ships evidenced. CHILREP is stated by DIRECTEMAR to be voluntary (mandatory position reports for Chilean-flag ships only); national 24 h arrival notice for foreign ships is a port pre-arrival duty.",
+   "voluntary_reporting": "CHILREP (voluntary for foreign ships in the Chilean SAR region; DIRECTEMAR/MRCC Chile).",
+   "applicability_notes": null,
+   "provisional_complexity": "Not assessed",
+   "complexity_reason": "VTS coverage unresolved.",
+   "source_ids": [
+    "S5",
+    "S8",
+    "S9"
+   ],
+   "open_questions": "Obtain the original DIRECTEMAR resolution (12.000/934 of 2018) or a Gobernación Marítima de Valparaíso source defining VTS Valparaíso's area.",
+   "research_effort": "approx 4 web actions"
+  },
+  {
+   "record_id": "TSS-0148",
+   "batch": "B30",
+   "source_label": "In the Approaches to Concepción Bay (Bahía Concepción)",
+   "official_name": "In the approaches to Concepcion Bay",
+   "states": "Chile",
+   "tss_identity_status": "Provisional",
+   "tss_identity_note": "Implemented 15 May 1978 (COLREG.2/Circ.5, OCR copy); amended by MSC 55 (COLREG.2/Circ.32, implemented 15 October 1988). Current status not checked in GISIS or SHOA publications; treated as provisional.",
+   "grouped_components": [],
+   "operational_status": "In force",
+   "vts_finding": "Unresolved",
+   "vts_service_keys": [],
+   "vts_relationship_basis": "No DIRECTEMAR source found establishing a VTS covering this TSS.",
+   "reporting_finding": "Unresolved",
+   "reporting_scheme_keys": [
+    "RPT-chilrep"
+   ],
+   "reporting_relationship_basis": "No mandatory ship reporting system for foreign ships evidenced. CHILREP is stated by DIRECTEMAR to be voluntary (mandatory position reports for Chilean-flag ships only); national 24 h arrival notice for foreign ships is a port pre-arrival duty.",
+   "voluntary_reporting": "CHILREP (voluntary for foreign ships in the Chilean SAR region; DIRECTEMAR/MRCC Chile).",
+   "applicability_notes": null,
+   "provisional_complexity": "Not assessed",
+   "complexity_reason": "VTS status unresolved.",
+   "source_ids": [
+    "S5",
+    "S8"
+   ],
+   "open_questions": "Check Gobernación Marítima de Talcahuano sources.",
+   "research_effort": "approx 1 web action (shared)"
+  },
+  {
+   "record_id": "TSS-0149",
+   "batch": "B30",
+   "source_label": "In the Approaches to San Vicente Bay (Bahía San Vicente)",
+   "official_name": "In the approaches to San Vicente Bay",
+   "states": "Chile",
+   "tss_identity_status": "Provisional",
+   "tss_identity_note": "Implemented 15 May 1978 (COLREG.2/Circ.5, OCR copy); amended by MSC 55 (COLREG.2/Circ.32, implemented 15 October 1988). Current status not checked in GISIS or SHOA publications; treated as provisional.",
+   "grouped_components": [],
+   "operational_status": "In force",
+   "vts_finding": "Unresolved",
+   "vts_service_keys": [],
+   "vts_relationship_basis": "DIRECTEMAR San Vicente terminal resolutions (2018, 2020) direct communications to the Capitanía de Puerto de San Vicente (CBT-23) on Ch 16; no VTS is named.",
+   "reporting_finding": "Unresolved",
+   "reporting_scheme_keys": [
+    "RPT-chilrep"
+   ],
+   "reporting_relationship_basis": "No mandatory ship reporting system for foreign ships evidenced. CHILREP is stated by DIRECTEMAR to be voluntary (mandatory position reports for Chilean-flag ships only); national 24 h arrival notice for foreign ships is a port pre-arrival duty.",
+   "voluntary_reporting": "CHILREP (voluntary for foreign ships in the Chilean SAR region; DIRECTEMAR/MRCC Chile).",
+   "applicability_notes": null,
+   "provisional_complexity": "Not assessed",
+   "complexity_reason": "VTS status unresolved.",
+   "source_ids": [
+    "S5",
+    "S8",
+    "S11"
+   ],
+   "open_questions": "Port captaincy radio contact is not a VTS; confirm whether any VTS operates at San Vicente/Talcahuano.",
+   "research_effort": "approx 2 web actions"
+  },
+  {
+   "record_id": "TSS-0150",
+   "batch": "B30",
+   "source_label": "In the Approaches to Puntas Arenas",
+   "official_name": "In the approaches to Punta Arenas",
+   "states": "Chile",
+   "tss_identity_status": "Provisional",
+   "tss_identity_note": "Official spelling 'Punta Arenas' (source label 'Puntas Arenas' is an error). New scheme adopted by MSC 55 (COLREG.2/Circ.32, implemented 15 October 1988); amended and moved east by MSC 72 (COLREG.2/Circ.48, 1 June 2000, implemented 1 December 2000): two lanes (entry 296°, exit 129°) and one separation zone. Current status not checked in GISIS or SHOA publications; treated as provisional.",
+   "grouped_components": [],
+   "operational_status": "In force",
+   "vts_finding": "Unresolved",
+   "vts_service_keys": [],
+   "vts_relationship_basis": "No DIRECTEMAR source found establishing a VTS covering this TSS.",
+   "reporting_finding": "Unresolved",
+   "reporting_scheme_keys": [
+    "RPT-chilrep"
+   ],
+   "reporting_relationship_basis": "No mandatory ship reporting system for foreign ships evidenced. CHILREP is stated by DIRECTEMAR to be voluntary (mandatory position reports for Chilean-flag ships only); national 24 h arrival notice for foreign ships is a port pre-arrival duty.",
+   "voluntary_reporting": "CHILREP (voluntary for foreign ships in the Chilean SAR region; DIRECTEMAR/MRCC Chile).",
+   "applicability_notes": null,
+   "provisional_complexity": "Not assessed",
+   "complexity_reason": "VTS status unresolved.",
+   "source_ids": [
+    "S5",
+    "S8"
+   ],
+   "open_questions": "Check Gobernación Marítima de Punta Arenas / Strait of Magellan traffic control arrangements.",
+   "research_effort": "approx 1 web action (shared)"
+  }
+ ],
+ "services": [
+  {
+   "key": "SVC-vts-puget-sound",
+   "name": "VTS Puget Sound (Seattle Traffic)",
+   "area": "US navigable waters of the Salish Sea east of Cape Flattery/Tatoosh to the US/Canada boundary (33 CFR 161.55); participates in the US/Canadian CVTS for the Juan de Fuca Region",
+   "authority": "US Coast Guard (Sector Puget Sound)",
+   "centre_sectors": "Vessel Traffic Center, Pier 36, Seattle; Table 161.12(c) sectors: Puget Sound south of Admiralty Inlet (Ch 14) and US Salish Sea waters incl. Rosario Strait and US side of Haro Strait (Ch 5A)",
+   "vhf": "Ch 14 (156.700 MHz); Ch 5A (156.250 MHz)",
+   "participation": "mandatory",
+   "evidence_status": "Confirmed by primary source",
+   "source_ids": [
+    "S1",
+    "S2",
+    "S4"
+   ],
+   "note": "Existing register VTS-010. VMRS reporting under 33 CFR 161 applies to power-driven vessels 40 m+, towing vessels 8 m+, passenger vessels certificated for 50+ (s161.16)."
+  },
+  {
+   "key": "SVC-ccg-mcts-victoria-vts",
+   "name": "Victoria Traffic (CCG MCTS Victoria, Victoria VTS Zone)",
+   "area": "Victoria VTS Zone Sector 1: Canadian waters from 124°40'W through Strait of Juan de Fuca, Haro Strait, Boundary Pass and Strait of Georgia (plus Sectors 2 to 4: Fraser River, Vancouver harbour/Howe Sound, northern Strait of Georgia to Cape Caution)",
+   "authority": "Canadian Coast Guard, Marine Communications and Traffic Services",
+   "centre_sectors": "Victoria MCTS Centre; Sector 1 Ch 11, Sector 2 Ch 74, Sector 3 Ch 12, Sector 4 Ch 71; Seattle Traffic Ch 5A for CIPs 1, 3, 5, 8 in Sector 1",
+   "vhf": "Ch 11 (Sector 1); Ch 74; Ch 12; Ch 71",
+   "participation": "mandatory",
+   "evidence_status": "Confirmed by primary source",
+   "source_ids": [
+    "S4",
+    "S2",
+    "S1"
+   ],
+   "note": "Separate Canadian service for TSS-0131. 33 CFR 161.55 still names a Vancouver centre; CCG RAMN 2026 lists Victoria Traffic for these sectors. Applies under Vessel Traffic Services Zones Regulations SOR/2025-275 (vessels 300 GT+, tows 500 GT+, pollutant/dangerous goods carriers)."
+  },
+  {
+   "key": "SVC-vts-san-francisco",
+   "name": "VTS San Francisco (San Francisco Traffic)",
+   "area": "San Francisco Bay region and seaward approaches within 38 nm radius of Mount Tamalpais (33 CFR 161.50)",
+   "authority": "US Coast Guard",
+   "centre_sectors": "Vessel Traffic Center, Yerba Buena Island; inner sector incl. Offshore Precautionary Area (Ch 14), offshore sector west of 122°42'W / south of 37°40'N (Ch 12)",
+   "vhf": "Ch 14 (156.700 MHz); Ch 12 (156.600 MHz)",
+   "participation": "mandatory",
+   "evidence_status": "Confirmed by primary source",
+   "source_ids": [
+    "S1",
+    "S2"
+   ],
+   "note": "Existing register VTS-011. Also operates voluntary OVMRS."
+  },
+  {
+   "key": "SVC-vts-los-angeles-long-beach",
+   "name": "VTS Los Angeles-Long Beach (San Pedro Traffic)",
+   "area": "VMRS area: navigable waters within 25 nm radius of Point Fermin Light (33 CFR Table 161.12(c))",
+   "authority": "US Coast Guard and Marine Exchange of Los Angeles-Long Beach (joint)",
+   "centre_sectors": "Vessel Traffic Center, San Pedro",
+   "vhf": "Ch 14 (156.700 MHz)",
+   "participation": "mandatory",
+   "evidence_status": "Confirmed by primary source",
+   "source_ids": [
+    "S1",
+    "S2"
+   ],
+   "note": "Existing register VTS-012. 33 CFR designates the area a Vessel Movement Reporting System Area; NAVCEN names it VTS LA/LB."
+  },
+  {
+   "key": "SVC-salina-cruz-port-vessel-traffic-supervisor",
+   "name": "Salina Cruz Port Vessel Traffic Supervisor",
+   "area": "Salina Cruz port area and approaches TSS/precautionary area",
+   "authority": "Mexico (port authority/Capitanía de Puerto, not stated in source)",
+   "centre_sectors": "Not stated",
+   "vhf": "Ch 6 (as of 1994/1995 IMO texts)",
+   "participation": "voluntary (ships 'requested to contact')",
+   "evidence_status": "Lead only",
+   "source_ids": [
+    "S5",
+    "S7"
+   ],
+   "note": "Described in IMO COLREG.2/Circ.40 (1994) and A.827(19) (1995) as supervising the port area 24 h; current existence, name and status as a VTS not verified from a current Mexican (SEMAR) source."
+  },
+  {
+   "key": "SVC-vts-callao",
+   "name": "VTS Callao",
+   "area": "Port of Callao (extent not established)",
+   "authority": "DICAPI / Capitanía de Puerto del Callao (Marina de Guerra del Perú)",
+   "centre_sectors": "Not established",
+   "vhf": null,
+   "participation": "not stated",
+   "evidence_status": "Lead only",
+   "source_ids": [],
+   "note": "Search leads only: Revista de Marina 2023 article 'Los servicios de tráfico marítimo del Callao - VTS Callao' (URL returned 404) and Wartsila/Marine Log reports (2020) of a VTS order by DIRCOMAT (article 404 on fetch; industry reports not fetched). No coverage of the Callao TSS evidenced."
+  },
+  {
+   "key": "SVC-vts-valparaiso",
+   "name": "VTS Valparaíso (CBV-20)",
+   "area": "Valparaíso Bay (extent not established)",
+   "authority": "DIRECTEMAR / Gobernación Marítima de Valparaíso (inferred)",
+   "centre_sectors": "Call sign CBV-20",
+   "vhf": "Ch 16 (per 2018 anchorage resolution)",
+   "participation": "not stated",
+   "evidence_status": "Lead only",
+   "source_ids": [
+    "S9"
+   ],
+   "note": "Only evidenced via vLex reproduction of a DIRECTEMAR anchorage resolution requiring 2-hour arrival confirmation; coverage of the Valparaíso TSS not evidenced."
+  }
+ ],
+ "reporting_schemes": [
+  {
+   "key": "RPT-sf-ovmrs",
+   "name": "Offshore Vessel Movement Reporting System (OVMRS), San Francisco",
+   "area": "Offshore of San Francisco (extent not stated on NAVCEN page)",
+   "participation": "Voluntary",
+   "imo_instrument": null,
+   "operating_service_keys": [
+    "SVC-vts-san-francisco"
+   ],
+   "evidence_status": "Confirmed by primary source",
+   "source_ids": [
+    "S1"
+   ],
+   "note": "Existing register SRS-008. Broadcast system based on participant information."
+  },
+  {
+   "key": "RPT-chilrep",
+   "name": "CHILREP (Sistema de Notificación de la Situación de las Naves)",
+   "area": "Chilean SAR region",
+   "participation": "Voluntary",
+   "imo_instrument": null,
+   "operating_service_keys": [],
+   "evidence_status": "Confirmed by primary source",
+   "source_ids": [
+    "S8"
+   ],
+   "note": "SAR ship reporting system run by MRCC Chile under D.S. (M) 550 of 1983; voluntary for foreign ships, but Chilean-flag ships must report position at 12:00Z and 24:00Z, and national rules require foreign ships bound for a Chilean port to give 24 h arrival notice and report at 12:00Z/24:00Z in internal waters. Not an IMO-adopted SOLAS V/11 system."
+  }
+ ],
+ "sources": [
+  {
+   "id": "S1",
+   "title": "Vessel Traffic Services locations",
+   "authority": "USCG Navigation Center (NAVCEN)",
+   "url": "https://www.navcen.uscg.gov/vessel-traffic-services-locations",
+   "date_shown": "Undated",
+   "evidence_class": "Primary",
+   "locator": "Entries: VTS Puget Sound; VTS San Francisco; VTS Los Angeles/Long Beach",
+   "passage": "VTS San Francisco also operates an Offshore Vessel Movement Reporting System (OVMRS). The OVMRS is completely voluntary and operates using a broadcast system with information provided by participants."
+  },
+  {
+   "id": "S2",
+   "title": "33 CFR Part 161, Vessel Traffic Management (Table 161.12(c); ss 161.16, 161.50, 161.55)",
+   "authority": "US Government, eCFR (Office of the Federal Register)",
+   "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-09-01/title-33.xml?part=161",
+   "date_shown": "eCFR point-in-time text as of 2026-09-01; s161.55 last amended 84 FR 30880, 28 June 2019",
+   "evidence_class": "Primary",
+   "locator": "Table 161.12(c) rows (4) Los Angeles-Long Beach, (10) Puget Sound, (11) San Francisco; s161.50; s161.55; s161.16",
+   "passage": "Vessel Movement Reporting System Area: The navigable waters within a 25 nautical mile radius of Point Fermin Light"
+  },
+  {
+   "id": "S3",
+   "title": "33 CFR Part 167, Offshore Traffic Separation Schemes (ss 167.400-406, 167.450-452, 167.500-503, 167.1320-1332)",
+   "authority": "US Government, eCFR (Office of the Federal Register)",
+   "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-09-01/title-33.xml?part=167",
+   "date_shown": "eCFR point-in-time text as of 2026-09-01",
+   "evidence_class": "Primary",
+   "locator": "s167.400 Off San Francisco; s167.450 Santa Barbara Channel; s167.500 approaches to Los Angeles-Long Beach; s167.1320 Puget Sound and its approaches; s167.1330 Haro Strait, Boundary Pass, Strait of Georgia",
+   "passage": "The traffic separation scheme in Haro Strait, Boundary Pass, and the Strait of Georgia consists of a series of traffic separation schemes, two-way routes, and five precautionary areas."
+  },
+  {
+   "id": "S4",
+   "title": "Radio Aids to Marine Navigation 2026, Part 3 (Western VTS Zones; Victoria VTS Zone; CVTS Agreement)",
+   "authority": "Canadian Coast Guard (MCTS)",
+   "url": "https://www.canada.ca/content/dam/ccg-gcc/documents/publications/mcts-sctm/ramn-arnm-2026-eng.pdf",
+   "date_shown": "Annual Edition 2026, Version #8, 2026-09-25",
+   "evidence_class": "Primary",
+   "locator": "s3.5.1; Table 3-1 and Table 3-2 (Victoria VTS Zone), p.3-15; s3.5.4, p.3-28",
+   "passage": "Participation with Prince Rupert, Seattle and Victoria Traffic is mandatory within Canadian and United States territorial waters."
+  },
+  {
+   "id": "S5",
+   "title": "Compilation of IMO COLREG.2 circulars (new and amended traffic separation schemes), incl. COLREG.2/Circ.32 (16 May 1988), Circ.40 (9 June 1994), Circ.48 (1 June 2000), Circ.55 (15 December 2004)",
+   "authority": "IMO circulars, hosted by Transportstyrelsen (Swedish Transport Agency)",
+   "url": "https://www.transportstyrelsen.se/globalassets/global/sjofart/dokument/sjotrafik_dok/imo_colreg.2_cirkular.pdf?id=58526",
+   "date_shown": "Undated compilation; circular dates as stated",
+   "evidence_class": "Primary",
+   "locator": "COLREG.2/Circ.32 para 1-2; Circ.40 para 1 and annex (Salina Cruz); Circ.48 para 1-2; Circ.55 para 1 and annex 7",
+   "passage": "\"Landfall and approaches to Paita Bay\" (new scheme); .4 \"Approaches to Puerto Callao\" (new scheme); .5 \"Landfall and approaches to Puerto San Martin\" (new scheme); .6 \"Landfall and approaches to Puerto Ilo\" (new scheme)"
+  },
+  {
+   "id": "S6",
+   "title": "COLREG.2/Circ.49, New and amended traffic separation schemes (19 January 2001)",
+   "authority": "IMO (copy hosted by Shanghai Maritime University CIMRC)",
+   "url": "https://cimrc.shmtu.edu.cn/_upload/article/files/63/dc/35c66be74d12873254dc88a2ef00/4e997831-d3e8-440e-962a-5d1aaac44e37.pdf",
+   "date_shown": "19 January 2001",
+   "evidence_class": "Primary",
+   "locator": "Paras 1-2 and annexes 1-4",
+   "passage": ".1 “Landfall and approaches to Talara Bay” (new scheme); .2 “Landfall Off Puerto Salaverry” (new scheme); .3 “Landfall and approaches to Ferrol Bay (Puerto Chimbotu)” (new scheme); .4 “Landfall and approaches to San Nicolas Bay” (new scheme)"
+  },
+  {
+   "id": "S7",
+   "title": "Resolution A.827(19) Ships' routeing (A 19/Res.827/Rev.1)",
+   "authority": "IMO Assembly",
+   "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.827(19).pdf",
+   "date_shown": "Adopted 23 November 1995; Rev.1 dated 1 August 1996",
+   "evidence_class": "Primary",
+   "locator": "Annex 1, para 1.5 In the approaches to Salina Cruz, Note",
+   "passage": "Ship movement in the port area is monitored and supervised by a Port Vessel Traffic Supervisor on a 24-hour basis."
+  },
+  {
+   "id": "S8",
+   "title": "CHILREP, Sistema de Notificación de la Situación de las Naves (actualización agosto 2020)",
+   "authority": "DIRECTEMAR, Servicio de Búsqueda y Salvamento Marítimo, MRCC Chile",
+   "url": "https://www.directemar.cl/directemar/site/docs/20200515/20200515201601/chilrep_v2_espa__ol.pdf",
+   "date_shown": "Agosto 2020",
+   "evidence_class": "Primary",
+   "locator": "Introductory section, pp.5-6",
+   "passage": "El CHILREP es un sistema voluntario “positivo” ... Los buques de bandera chilena deben notificar su posición a las 12:00Z y 24:00Z diariamente."
+  },
+  {
+   "id": "S9",
+   "title": "Resolución Nº 12.000/934 D.G.T.M. y M.M. (4 October 2018), anchorage points in Valparaíso Bay",
+   "authority": "DIRECTEMAR text reproduced by vLex Chile (commercial legal database)",
+   "url": "https://vlex.cl/vid/resolucion-n-12-000-927122110",
+   "date_shown": "4 October 2018",
+   "evidence_class": "Lead only",
+   "locator": "Operative provisions (as summarised by fetch tool)",
+   "passage": "las naves deberán confirmar con VTS Valparaíso (Vessel Trafic Service)/CBV-20 con 2 horas de anticipación vía radial (Canal 16 VHF)."
+  },
+  {
+   "id": "S10",
+   "title": "Vessel Traffic Services Zones Regulations (SOR/89-98), status page",
+   "authority": "Government of Canada, Justice Laws Website",
+   "url": "https://laws-lois.justice.gc.ca/eng/regulations/SOR-89-98/FullText.html",
+   "date_shown": "Current to 2026-09-21",
+   "evidence_class": "Supporting",
+   "locator": "Regulation status note",
+   "passage": "[Repealed, SOR/2025-275, s. 39]"
+  },
+  {
+   "id": "S11",
+   "title": "Resolución 12600/94 (24-08-2020), San Vicente terminal (Capitanía de Puerto de San Vicente)",
+   "authority": "DIRECTEMAR",
+   "url": "https://www.directemar.cl/directemar/site/docs/20200825/20200825090936/09__12600_94_240820_san_vicente.pdf",
+   "date_shown": "24 August 2020",
+   "evidence_class": "Supporting",
+   "locator": "Communications provisions",
+   "passage": "Capitanía de Puerto de San Vicente (CBT-23), canal 16 VHF."
+  },
+  {
+   "id": "S12",
+   "title": "Resolución Directoral Nº 839-2025 MGP/DICAPI (anchorages, Callao)",
+   "authority": "DICAPI, published in El Peruano",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2458852-1",
+   "date_shown": "13 November 2025 (published 15 November 2025)",
+   "evidence_class": "Supporting",
+   "locator": "Whole text (fetch tool reported no VTS or TSS mention)",
+   "passage": "Establecen reubicación de áreas de fondeaderos en la bahía de Puerto del Callao, y dictan otras disposiciones"
+  },
+  {
+   "id": "S13",
+   "title": "Japan Association of Marine Safety compilation of IMO NAV 45 documents (Peru TSS proposals)",
+   "authority": "Nippon Foundation Library (secondary host)",
+   "url": "https://nippon.zaidan.info/seikabutsu/1999/00484/contents/225.htm",
+   "date_shown": "FY1999 (Heisei 11)",
+   "evidence_class": "Lead only",
+   "locator": "Landfall and approaches to Paita Bay; Approaches to Puerto Callao",
+   "passage": "The traffic separation scheme for the approaches to Puerto Callao consists of three parts: Part I Northwest approaches"
+  }
+ ],
+ "batch_audits": [
+  {
+   "batch": "B27",
+   "evidence_check": "TSS-0131/0132/0133 'Confirmed present' each rest on 33 CFR 161 area definitions (S2) plus NAVCEN (S1) and, for Canada, CCG RAMN 2026 Table 3-1/3-2 (S4); passages re-checked. TSS-0133 coverage limited to LA/LB approaches and the SE tip of the Santa Barbara Channel scheme, stated in basis.",
+   "classification_check": "US VMRS reporting treated as VTS participation duty, so reporting 'Unresolved' (no IMO SOLAS V/11 system found). OVMRS recorded as voluntary. Salina Cruz supervisor only historic IMO evidence, so Unresolved.",
+   "duplication_check": "Service keys aligned to existing register VTS-010/011/012 names; Canadian Victoria Traffic recorded as a separate service; OVMRS aligned to SRS-008.",
+   "unresolved_items": "TSS-0134 VTS and reporting; reporting for TSS-0131 to 0133.",
+   "closed": true
+  },
+  {
+   "batch": "B28",
+   "evidence_check": "No 'Confirmed present' findings. TSS identities supported by IMO circulars (S5, S6).",
+   "classification_check": "VTS Callao held as Lead only (fetch of article failed; only search snippets).",
+   "duplication_check": "TSS-0140 renamed from 'Puerto San Martin' to 'Puerto Pisco' (Circ.55); check register for a duplicate San Martín entry.",
+   "unresolved_items": "All VTS and reporting findings for TSS-0136 to 0140.",
+   "closed": true
+  },
+  {
+   "batch": "B29",
+   "evidence_check": "No 'Confirmed present' findings. CHILREP voluntary status from DIRECTEMAR manual (S8).",
+   "classification_check": "CHILREP recorded as voluntary, not as mandatory reporting.",
+   "duplication_check": "RPT-chilrep shared across all Chilean records.",
+   "unresolved_items": "All VTS and mandatory reporting findings for TSS-0141 to 0145.",
+   "closed": true
+  },
+  {
+   "batch": "B30",
+   "evidence_check": "No 'Confirmed present' findings. VTS Valparaíso evidence is a vLex reproduction, held as Lead only.",
+   "classification_check": "Port captaincy VHF contact (San Vicente) not treated as a VTS.",
+   "duplication_check": "TSS-0150 spelling corrected to 'Punta Arenas'.",
+   "unresolved_items": "All VTS and mandatory reporting findings for TSS-0146 to 0150.",
+   "closed": true
+  }
+ ],
+ "method_notes": "eCFR HTML is awkward to fetch; the versioner API (https://www.ecfr.gov/api/versioner/v1/full/<date>/title-33.xml?part=161) works with an Accept-Encoding header and gives full text, allowing coverage checks by computing distances from TSS coordinates (33 CFR 167) to VTS reference points (33 CFR 161). CCG Radio Aids to Marine Navigation 2026 (PDF) is the best single source for Canadian Pacific VTS sectors and the CVTS. Canada's VTSZ Regulations SOR/89-98 were repealed by SOR/2025-275 (new text not fetched). The Transportstyrelsen compilation of IMO COLREG.2 circulars (up to about Circ.69) is very useful for adoption and implementation dates of Latin American schemes, though pre-2000 pages are poor OCR. Peru (DICAPI) and Chile (DIRECTEMAR) have no accessible consolidated VTS list; several pages returned HTML error pages or 404 (Revista de Marina VTS Callao article, congreso.gob.pe DICAPI presentation, DIRECTEMAR D.S. 550 PDF). A Mexican gob.mx Salina Cruz PDF was image-only. Suggested method change: for South America, consult national Lists of Lights/Radio Signals equivalents (SHOA Pub. 3008 'Radioayudas', HIDRONAV 'Radioayudas'), or the IALA/UKHO ALRS Vol 6 entries, which are likely to settle VTS existence faster than web searching. Current status of all non-US schemes should be confirmed in IMO GISIS/Ships' Routeing (not accessed)."
+}
