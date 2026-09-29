@@ -142,3 +142,51 @@ Third-party material may identify a lead. It must not establish current operatio
 - Enters into force: 1 October 2026.
 - Accessed: 29 September 2026.
 - Use: Near-term Swedish VTS/SRS regulatory cross-check. Does not create a Kalmarsund or Öland offshore VTS area.
+
+### SRC-033 — Swedish Ufs A, monitoring of TSS
+
+- Authority: Swedish Maritime Administration (Sjöfartsverket).
+- URL: https://ufs.sjofartsverket.se/pdf/Ufs_A_en.pdf
+- Evidence class: Primary national navigational publication.
+- Accessed: 29 September 2026.
+- Use: Distinguishes TSS monitoring from VTS. States that Off Falsterborev and The Sound are monitored by Sound VTS and the remaining Swedish TSS by Sweden Traffic.
+
+### SRC-034 — Navigation through Danish Waters
+
+- Authority: Danish Maritime Authority.
+- URL: https://www.soefartsstyrelsen.dk/Media/637977139358837038/Navigation%20through%20Danish%20Water%20version%2015%20%28SEP%202022%29.pdf
+- Evidence class: Primary national navigation guide.
+- Accessed: 29 September 2026.
+- Use: Treats Bornholmsgat and Adlergrund as Baltic routeing measures and separately identifies the Danish VTS/SRS operational areas.
+
+### SRC-035 — VTS Zatoka Gdańska
+
+- Authority: Maritime Office in Gdynia.
+- URL: https://www.umgdy.gov.pl/en/marine-safety/vts-zatoka-gdanska-en/
+- Evidence class: Primary operating-authority source.
+- Accessed: 29 September 2026.
+- Use: VTS area, H24 operation, VHF 71, direct identification of TSS EAST and TSS WEST, and confirmation that the VTS area's external limits are those of compulsory GDANREP.
+
+### SRC-036 — VTS Ławica Słupska / VTS Slupska Bank
+
+- Authority: Maritime Office in Gdynia.
+- URL: https://www.umgdy.gov.pl/en/marine-safety/vts-zatoka-gdanska-en/vts-slupska-bank/
+- Evidence class: Primary operating-authority source.
+- Accessed: 29 September 2026.
+- Use: Direct confirmation that VTS Ławica Słupska supervises vessel traffic in the Słupska Bank TSS area; H24 duty service and VHF 73/16.
+
+### SRC-037 — BSH VTS Guide Germany, VTS Centre Warnemünde extract
+
+- Authority: German Federal Maritime and Hydrographic Agency (BSH).
+- URL: https://linchart60.bsh.de/chartserver/pdf_version/VTS-Guide_from_S-127_Extract.pdf
+- Evidence class: Primary official VTS publication.
+- Accessed: 29 September 2026.
+- Use: Current overview chart of VTS Centre Warnemünde sectors, including the Sassnitz Traffic service area.
+
+### SRC-038 — BSH NfS 30-31/2021, TSS Adlergrund
+
+- Authority: German Federal Maritime and Hydrographic Agency (BSH) / WSA Ostsee.
+- URL: https://www2.bsh.de/daten/NFS/NfS2021/nfs-heft30-31-2021.pdf
+- Evidence class: Primary official navigational notice.
+- Accessed: 29 September 2026.
+- Use: Direct operational reference to VTS Warnemünde / Sassnitz Traffic for activity within TSS Adlergrund. Used with the current BSH VTS-area chart, not by itself, to establish present association.
