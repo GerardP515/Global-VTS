@@ -1538,3 +1538,78 @@ Third-party material may identify a lead. It must not establish current operatio
 - Use (B45): Media report of Salvamento Marítimo statistics: CCS Las Palmas and CCS Tenerife 'controlled' ships transiting the eastern and western Canary TSS (lead for a traffic-monitoring function; not a VTS designation)
 - Locator: Article body.
 - Passage: "El Centro de Coordinación de Salvamento ubicado en Las Palmas controló 2.023 buques a su paso por el Dispositivo de Separación de Tráfico de Canarias oriental"
+
+### SRC-162 — Radio Aids to Marine Navigation 2026, Part 2 (facilities information): 2.1.1 Halifax, Nova Scotia
+
+- Authority: Canadian Coast Guard.
+- URL: https://www.canada.ca/en/canadian-coast-guard/corporate/publications/radio-aids-marine-navigation/facilities-information.html
+- Evidence class: Tier 3.
+- Edition or date: 2026 edition (accessed 2026-09-29).
+- Accessed: 29 September 2026.
+- Use (B40): Fundy Traffic is provided from Halifax MCTS Centre.
+- Locator: 2.1.1 Halifax.
+- Passage: "For Vessel Traffic Services, call Halifax Traffic ( Part 3.7.3.4 of this publication) or Fundy Traffic ( Part 3.7.3.7 of this publication)."
+
+### SRC-163 — US Coast Pilot 1, Chapter 9
+
+- Authority: NOAA Office of Coast Survey.
+- URL: https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp1/CPB1_C09_WEB.pdf
+- Evidence class: Tier 3.
+- Edition or date: Current edition (27 Sep 2026).
+- Accessed: 29 September 2026.
+- Use (B40): Approach described with no VTS (Coast Pilot) / complete list of operating US VTS incl. Tampa (NAVCEN); added at Pass 4 by the independent checker
+- Locator: Chapter text on the approach.
+
+### SRC-164 — 33 CFR Part 169 Subpart B Establishment of two mandatory ship reporting systems for the protection of northern right whales
+
+- Authority: US Coast Guard / eCFR.
+- URL: https://www.ecfr.gov/api/versioner/v1/full/2026-09-01/title-33.xml?part=169
+- Evidence class: Tier 1.
+- Edition or date: eCFR point-in-time 2026-09-01 (accessed 2026-09-29).
+- Accessed: 29 September 2026.
+- Use (B40): WHALESNORTH and WHALESSOUTH areas, season, participants (self-propelled ships of 300 GT or more), shore-based authority (USCG); these are the only mandatory ship reporting systems in 33 CFR 169 Subpart B.
+- Locator: 169.100, 169.102, 169.105, 169.110, 169.115, 169.125, 169.130.
+- Passage: "then south to 41°00' N, 68°31' W; then west to 41°00' N, 69°17' W; then northeast to 42°05' N, 70°02' W"
+
+### SRC-165 — US Coast Pilot 2, Chapter 7
+
+- Authority: NOAA Office of Coast Survey.
+- URL: https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp2/CPB2_C07_WEB.pdf
+- Evidence class: Tier 3.
+- Edition or date: Current edition (27 Sep 2026).
+- Accessed: 29 September 2026.
+- Use (B40): Approach described with no VTS (Coast Pilot) / complete list of operating US VTS incl. Tampa (NAVCEN); added at Pass 4 by the independent checker
+- Locator: Chapter text on the approach.
+
+### SRC-166 — 33 CFR 165.100 (RNA, USCG Northeast District) and 165.501 (Chesapeake Bay entrance and Hampton Roads RNA)
+
+- Authority: US Coast Guard / eCFR.
+- URL: https://www.ecfr.gov/api/versioner/v1/full/2026-09-01/title-33.xml?part=165&section=165.501
+- Evidence class: Tier 1.
+- Edition or date: eCFR point-in-time 2026-09-01 (accessed 2026-09-29).
+- Accessed: 29 September 2026.
+- Use (B40): Regulated navigation areas contain situational notification duties (impairments, emergencies, movements under RNA conditions) and repeat VMRS Buzzards Bay rules; they do not establish a named ship reporting scheme for the TSS.
+- Locator: 165.100(d); 165.501.
+- Passage: "A vessel over 100 gross tons, which is underway in the Regulated Navigation Area, that has its ability to maneuver become impaired for any reason, shall, as soon as possible, report the impairment to the Captain of the Port."
+
+### SRC-167 — Vessel Traffic Service New York User's Manual
+
+- Authority: USCG Sector New York, VTS New York.
+- URL: https://www.navcen.uscg.gov/sites/default/files/pdf/VTS%20User%20Guides/VTS_NY_UserManuaFeb2023.pdf
+- Evidence class: Tier 2.
+- Edition or date: Revised January 2023 (current link on NAVCEN, accessed 2026-09-29).
+- Accessed: 29 September 2026.
+- Use (B40): VTS New York area boundary (Breezy Point to entrance buoys of Ambrose, Swash and Sandy Hook Channels to Sandy Hook); towing vessels may call VTS on entering the offshore Precautionary Zone (guidance, not an area extension).
+- Locator: Area chartlet legend (p.19); Guidelines for Ambrose Channel Tug and Barge Operations.
+- Passage: "These calls may be made upon entering the offshore "Precautionary Zone" or anytime thereafter."
+
+### SRC-168 — Local Notice to Mariners, District 1, 06/10/2025 (Ambrose Channel proposed ATON changes)
+
+- Authority: USCG First District / NAVCEN.
+- URL: https://navcen.uscg.gov/sites/default/files/pdf/lnms/lnm01242025.pdf
+- Evidence class: Tier 3.
+- Edition or date: LNM dated 2025-06-10; proposal window 2025-04-03 to 2026-10-03.
+- Accessed: 29 September 2026.
+- Use (B40): Positions of Ambrose Channel Lighted Buoy 1 (40.46876 N, 73.87223 W), Lighted Bell Buoy 2 (40.47293 N, 73.86755 W) and Lighted Whistle Buoy A (40.45778 N, 73.83673 W); all proposed for discontinuance.
+- Locator: Ambrose Channel / ATON Proposed Notice of Change, LLNR 34785, 34796, 34797.
+- Passage: "Location: 40.46876° N / 73.87223° W Aid Name: Ambrose Channel Lighted"
