@@ -1131,3 +1131,69 @@ Third-party material may identify a lead. It must not establish current operatio
 - Use (B34): Statutory Victoria VTS Zone limits (southern limit along the International Boundary through Strait of Georgia, Boundary Pass, Haro Strait and Juan de Fuca Strait to 124°40'W); application thresholds s.3(1) and s.9
 - Locator: s.3(1), s.7, s.9(1), Schedule 1 item 1.
 - Passage: "thence following the international boundary through the Strait of Georgia, Boundary Pass, Haro Strait and Juan de Fuca Strait to 48°28′36″ N, 124°40′00″ W"
+
+### SRC-125 — data/authoritative/IMO_2025_Mandatory_Reporting_Systems.csv
+
+- Authority: Global VTS project (derived from IMO Ships' Routeing 2025 Part I).
+- URL: 
+- Evidence class: Tier 1.
+- Edition or date: Project baseline; read 2026-09-29.
+- Accessed: 29 September 2026.
+- Use (B35): Complete list of IMO-adopted mandatory ship reporting systems (VRS-0001 to VRS-0023); none covers the North American Pacific coast or Mexico (VRS-0021 is the US Atlantic right whale system)
+- Locator: rows VRS-0001 to VRS-0023.
+- Passage: "I-I/21,Off the north-eastern and south-eastern coasts of the United States"
+
+### SRC-126 — VTS San Francisco User Manual
+
+- Authority: USCG Vessel Traffic Service San Francisco.
+- URL: https://www.navcen.uscg.gov/sites/default/files/pdf/VTS%20User%20Guides/VTS_SF_UserManual_APR2025.pdf
+- Evidence class: Tier 2.
+- Edition or date: Updated 1 April 2025; accessed 2026-09-29.
+- Accessed: 29 September 2026.
+- Use (B35): Offshore Sector = navigable waters within 38 nm of Mount Tamalpais; names the San Francisco Offshore TSS in the traffic routing system of the VTS area; offshore sector reporting to VTS (MSIB 13-04); notes part of the 38 nm arc lies outside navigable waters
+- Locator: Part I s.1(a), s.2 (p.6); Part J s.1 (p.7); traffic routing system s.3(c) (p.12).
+- Passage: "San Francisco Offshore Traffic Separation Scheme (TSS) is adopted by the International Maritime Organization (IMO). This TSS includes the Northern, Western, and Southern traffic lanes"
+
+### SRC-127 — Vessel Traffic Service Los Angeles-Long Beach (VTS LA-LB) User Manual
+
+- Authority: Marine Exchange of Southern California and USCG (VTS LA-LB).
+- URL: https://www.navcen.uscg.gov/sites/default/files/pdf/VTS%20User%20Guides/VTS_LALB_UserManual_210331.pdf
+- Evidence class: Tier 2.
+- Edition or date: Revised 1 April 2021 (current edition linked from NAVCEN on 2026-09-29).
+- Accessed: 29 September 2026.
+- Use (B35): VTS LA-LB coverage 25 nm seaward of Point Fermin to berth; San Pedro Traffic jointly operated by USCG and Marine Exchange; only portions of the LA-LB TSS inside VTS area; TSS rules include Santa Barbara TSS amendment; manual lists LA-LB in 33 CFR 161 as a VMRS
+- Locator: Introduction p.ii; Appendix A.2-A.4 pp. A-4 to A-6.
+- Passage: "Portions of the Traffic Separation Scheme in the Northern and Southern approaches to Los Angeles and Long Beach are within the VTS area."
+
+### SRC-128 — LA/LB Harbor Safety Plan, Chapter I Geographical Boundaries
+
+- Authority: Los Angeles/Long Beach Harbor Safety Committee (published by Marine Exchange of Southern California).
+- URL: https://mxsocal.org/assets/pdf/hsp/10-lalb-hsp-chap-i-geographic-boundaries-2018-rev-2026-260318090043.pdf
+- Evidence class: Tier 4.
+- Edition or date: June 30, 2018, Rev. 2026; accessed 2026-09-29.
+- Accessed: 29 September 2026.
+- Use (B35): Confirms partial VTS coverage of the LA-LB TSS; describes a 'Northern Approach' (Santa Barbara Channel) separation zone to about 33°48.9'N 118°46.6'W, which conflicts with the IMO COLREG.2/Circ.64 junction point
+- Locator: pp. I-1 to I-3, items A.2 and A.4.
+- Passage: "portions of the TSS in the western and southern approaches to the LA/LB Harbors lie within the VTS Area of Responsibility."
+
+### SRC-129 — Auditoría 2024-0006: Administración del Sistema Portuario Nacional Salina Cruz (Cuenta Pública 2024)
+
+- Authority: Auditoría Superior de la Federación (Mexico).
+- URL: https://www.asf.gob.mx/Trans/Informes/IR2024b/Documentos/Auditorias/2024_0006_a.pdf
+- Evidence class: Lead only.
+- Edition or date: Cuenta Pública 2024 audit (review to August 2025); accessed 2026-09-29.
+- Accessed: 29 September 2026.
+- Use (B35): Equipment for a Centro de Control de Tráfico Marítimo del Puerto de Salina Cruz procured in 2024 (100% physical progress reported); does not define a VTS area, service status or relation to the TSS
+- Locator: Antecedentes section.
+- Passage: "El Centro de Control de Tráfico Marítimo del Puerto de Salina Cruz, Oaxaca, se ubica en las coordenadas de georreferenciación: latitud 16.161638 y longitud -95.203713."
+
+### SRC-130 — Modernización y ampliación del Puerto de Salina Cruz
+
+- Authority: Government of Mexico (gob.mx, port modernisation presentation).
+- URL: https://www.gob.mx/cms/uploads/attachment/file/883619/SALINA_CRUZ.pdf
+- Evidence class: Lead only.
+- Edition or date: Undated (2024 milestones); accessed 2026-09-29.
+- Accessed: 29 September 2026.
+- Use (B35): Traffic regulation centre construction planned for December 2024
+- Locator: p.2.
+- Passage: "Construcción de centro regulador de tráfico y reconfiguración de accesos terrestres. Diciembre 2024"
