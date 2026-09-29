@@ -67,6 +67,11 @@ def main(batches):
         if not m or m.group(1) not in batches:
             continue
         old = row[:8]
+        if "Canonical normalisation of legacy" in row:
+            # legacy v0.2 service: keep its fixed ID; if main already holds it, keep main's row
+            if old not in main_vts:
+                my_ent_rows.append(row)
+            continue
         new = f"VTS-{next_vts:04d}"
         next_vts += 1
         vts_map[old] = new
