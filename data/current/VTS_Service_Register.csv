@@ -1,1 +1,3 @@
 vts_id,vts_name,authority,centre,sectors,area_description,operational_evidence,source_ids,first_batch
+VTS-0101,Finisterre VTS (call sign 'Finisterre Traffic'),"Sociedad de Salvamento y Seguridad Marítima (SASEMAR, Salvamento Marítimo), Ministerio de Transportes y Movilidad Sostenible","Centro de Coordinación de Salvamento (CCS) Finisterre, Monte Enxa",,,,SRC-B19-04; SRC-B19-05; SRC-B19-06; SRC-B15-01,B19
+VTS-0102,VTS costeiro do continente (Coast of Portugal VTS; call sign 'Roca Control'),"Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM); statute names IPTM, I.P. (predecessor)","Centro de Controlo de Tráfego Marítimo do Continente (CCTMC), Paço de Arcos",,,,SRC-B19-07; SRC-B18-03; SRC-B19-08; SRC-B19-09; SRC-B19-10,B19
