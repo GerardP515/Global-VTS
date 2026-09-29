@@ -1494,3 +1494,47 @@ Third-party material may identify a lead. It must not establish current operatio
 - Use (B44): Chengshan Jiao VTS area includes the routeing lanes and precautionary areas (added at Pass 4 by the independent checker)
 - Locator: Notice text on fishing within the VTS area.
 - Passage: "VTS区域内的警戒区及通航分道"
+
+### SRC-158 — Resolution MSC.213(81): Mandatory ship reporting system for the Canary Islands (CANREP)
+
+- Authority: IMO Maritime Safety Committee.
+- URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.213(81).pdf
+- Evidence class: Tier 1.
+- Edition or date: Adopted 12 May 2006; in force 0000 UTC 1 December 2006.
+- Accessed: 29 September 2026.
+- Use (B45): VRS-0023 reporting area polygon (points A-N), participating ships (tankers 600 dwt and above carrying heavy grades), MRCC Las Palmas / MRCC Tenerife as report recipients split at 015°30'W
+- Locator: Annex 1, paras 1.1, 2.1, 3.4.1; Appendix 1.
+- Passage: "The proposed maritime area is bounded by a polygonal line connecting points along the outer limit of the territorial sea (12 nautical miles) that surrounds the archipelago"
+
+### SRC-159 — COLREG.2/Circ.57 New and amended existing traffic separation schemes, Annex 1: New traffic separation schemes for the Canary Islands
+
+- Authority: IMO (COLREG.2/Circ.57; copy hosted by Shanghai Maritime University CIMRC).
+- URL: https://cimrc.shmtu.edu.cn/_upload/article/files/63/dc/35c66be74d12873254dc88a2ef00/8c6a3c5f-5a85-4450-980a-5534de9fcd0a.pdf
+- Evidence class: Tier 1.
+- Edition or date: 26 May 2006; implemented 0000 UTC 1 December 2006.
+- Accessed: 29 September 2026.
+- Use (B45): Coordinates of the Eastern TSS (between Grand Canary and Fuerteventura) and Western TSS (between Grand Canary and Tenerife); voluntary notification via Las Palmas MRCC / Tenerife MRCC on VHF 16
+- Locator: Annex 1, sections 2 and 3, Notes.
+- Passage: "Note: Ships that so wish may give voluntary notification of entry to and departure from the TSS via the Las Palmas Regional MRCC, using VHF channel 16."
+
+### SRC-160 — Visita el Centro de Coordinación de Salvamento Marítimo en Las Palmas de Gran Canaria
+
+- Authority: Government of Spain (La Moncloa press office, Ministry of Transport).
+- URL: https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/transportes/Paginas/2020/201120-salvamento.aspx
+- Evidence class: Tier 4.
+- Edition or date: 20 November 2020.
+- Accessed: 29 September 2026.
+- Use (B45): CCS Las Palmas (Salvamento Marítimo) coordinates maritime safety and SAR and monitors traffic in the eastern Canary Islands; no VTS designation or TSS-specific VTS area stated
+- Locator: Press release body.
+- Passage: "Desde el CCS Las Palmas se coordinan las actuaciones para proteger la seguridad marítima y la vida humana en la mar en la parte oriental del archipiélago canario."
+
+### SRC-161 — Salvamento Marítimo auxilió en 2023 a 43.994 personas en Canarias, 20.997 migrantes
+
+- Authority: RTVC / EFE (media).
+- URL: https://rtvc.es/salvamento-maritimo-auxilio-en-2023-a-43-994-personas-en-canarias-20-997-migrantes/
+- Evidence class: Lead only.
+- Edition or date: 2 February 2024.
+- Accessed: 29 September 2026.
+- Use (B45): Media report of Salvamento Marítimo statistics: CCS Las Palmas and CCS Tenerife 'controlled' ships transiting the eastern and western Canary TSS (lead for a traffic-monitoring function; not a VTS designation)
+- Locator: Article body.
+- Passage: "El Centro de Coordinación de Salvamento ubicado en Las Palmas controló 2.023 buques a su paso por el Dispositivo de Separación de Tráfico de Canarias oriental"
