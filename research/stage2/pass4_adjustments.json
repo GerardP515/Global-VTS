@@ -339,6 +339,70 @@
   "TSS-0224": {
    "unresolved_issue": "Salvamento Marítimo website unavailable (TLS/503), so its own description of CCS functions and any Spanish designation of a coastal VTS for the Canary TSS could not be checked; ALRS Vol 6 not consulted. CANREP chartlet not inspected (coordinate check used instead). Pass 4: Salvamento Maritimo reportedly says its Las Palmas and Tenerife centres 'controlled' ships in the TSS in 2025; its website was unreachable, so a Spanish coastal VTS designation is not fully ruled out (lead).",
    "_reason": "Pass 4."
+  },
+  "TSS-0197": {
+   "vts_source_ids": [
+    "Z1-S1",
+    "Z1-S4",
+    "Z1-S5",
+    "Z1-P4-CP1-9"
+   ],
+   "_reason": "Pass 4 correction.",
+   "vts_boundary_basis": "No USCG VTS or VMRS is established for this area: Table 1 to 33 CFR 161.12(c) lists every VTS and VMRS centre and monitoring area and has none here, and 33 CFR 161.2 defines a VTS as a service implemented by the USCG. NAVCEN's enumerated list of Coast Guard Vessel Traffic Centers and its VTS Locations page also have none. Together these are treated as an official complete list of US VTS that excludes this TSS. Pass 4 correction: 33 CFR 161.12 Table 1 is not a complete list of US VTS (it omits VTS Tampa, which operates jointly with the Tampa Port Authority outside Part 161). VTS absence rests on 33 CFR 161.2 (VTS is a Coast Guard service), 33 CFR 161.6 (federal pre-emption of state VTS), the NAVCEN VTS Locations page (12 operating VTS including Tampa) and the current US Coast Pilot chapter for this approach, which describes it with no VTS."
+  },
+  "TSS-0199": {
+   "vts_source_ids": [
+    "Z1-S1",
+    "Z1-S2",
+    "Z1-S4",
+    "Z1-S5",
+    "Z1-P4-CP2-7"
+   ],
+   "_reason": "Pass 4.",
+   "vts_boundary_basis": "No USCG VTS or VMRS is established for this area: Table 1 to 33 CFR 161.12(c) lists every VTS and VMRS centre and monitoring area and has none here, and 33 CFR 161.2 defines a VTS as a service implemented by the USCG. NAVCEN's enumerated list of Coast Guard Vessel Traffic Centers and its VTS Locations page also have none. Together these are treated as an official complete list of US VTS that excludes this TSS. VMRS Buzzards Bay ('Buzzards Bay Control', Ch 11) is a USCG mandatory VMRS, not a VTS. Its area is east and north of the line Sakonnet Point (41°27.20'N 71°11.70'W) to Buzzards Bay Entrance Light (41°23.48'N 71°02.5'W) to Cuttyhunk (41°24.60'N 70°57.00'W). Own calculation: the Buzzards Bay approach separation zone ends at 41°21.80'N 71°07.10'W, about 3.5 NM south of that line, and the lane corners are about 3.3 to 3.8 NM short of it. The Narragansett approach and its precautionary areas (071°23.3'W) are west of Sakonnet Point, so also outside. The VMRS begins beyond the end of the TSS; it adjoins the route but does not cover it. Pass 4 correction: 33 CFR 161.12 Table 1 is not a complete list of US VTS (it omits VTS Tampa, which operates jointly with the Tampa Port Authority outside Part 161). VTS absence rests on 33 CFR 161.2 (VTS is a Coast Guard service), 33 CFR 161.6 (federal pre-emption of state VTS), the NAVCEN VTS Locations page (12 operating VTS including Tampa) and the current US Coast Pilot chapter for this approach, which describes it with no VTS.",
+   "reporting_boundary_basis": "VMRS Buzzards Bay does not cover the TSS (see above). WHALESNORTH does not extend west of 69°17'W south of 42°N or south of 41°00'N, so it does not reach this TSS. 33 CFR 165.100 (Northeast District RNA) repeats the VMRS Buzzards Bay rules and does not add a reporting scheme for the TSS. Pass 4: the Buzzards Bay VMRS line lies about 2.9 to 3.4 nm beyond the approach end (not 3.3 to 3.8 nm); notices of arrival (33 CFR 160), regulated navigation areas (33 CFR 165) and the Block Island Sound speed zone are not ship reporting schemes."
+  },
+  "TSS-0201": {
+   "vts_source_ids": [
+    "Z1-S1",
+    "Z1-S4",
+    "Z1-S5",
+    "Z1-P4-CP3-6"
+   ],
+   "_reason": "Pass 4.",
+   "vts_boundary_basis": "No USCG VTS or VMRS is established for this area: Table 1 to 33 CFR 161.12(c) lists every VTS and VMRS centre and monitoring area and has none here, and 33 CFR 161.2 defines a VTS as a service implemented by the USCG. NAVCEN's enumerated list of Coast Guard Vessel Traffic Centers and its VTS Locations page also have none. Together these are treated as an official complete list of US VTS that excludes this TSS. Pass 4 correction: 33 CFR 161.12 Table 1 is not a complete list of US VTS (it omits VTS Tampa, which operates jointly with the Tampa Port Authority outside Part 161). VTS absence rests on 33 CFR 161.2 (VTS is a Coast Guard service), 33 CFR 161.6 (federal pre-emption of state VTS), the NAVCEN VTS Locations page (12 operating VTS including Tampa) and the current US Coast Pilot chapter for this approach, which describes it with no VTS.",
+   "voluntary_reporting": "Yes: Delaware Pilots' voluntary vessel traffic information service (Ch 14) and recommended reports to the Maritime Exchange (US Coast Pilot 3 ch. 6)",
+   "vts_leads": "Delaware Pilots' voluntary vessel traffic information service (pilots' association, not a VTS); Maritime Exchange for the Delaware River and Bay"
+  },
+  "TSS-0202": {
+   "vts_source_ids": [
+    "Z1-S1",
+    "Z1-S4",
+    "Z1-S5",
+    "Z1-P4-CP3-9"
+   ],
+   "_reason": "Pass 4.",
+   "vts_boundary_basis": "No USCG VTS or VMRS is established for this area: Table 1 to 33 CFR 161.12(c) lists every VTS and VMRS centre and monitoring area and has none here, and 33 CFR 161.2 defines a VTS as a service implemented by the USCG. NAVCEN's enumerated list of Coast Guard Vessel Traffic Centers and its VTS Locations page also have none. Together these are treated as an official complete list of US VTS that excludes this TSS. Pass 4 correction: 33 CFR 161.12 Table 1 is not a complete list of US VTS (it omits VTS Tampa, which operates jointly with the Tampa Port Authority outside Part 161). VTS absence rests on 33 CFR 161.2 (VTS is a Coast Guard service), 33 CFR 161.6 (federal pre-emption of state VTS), the NAVCEN VTS Locations page (12 operating VTS including Tampa) and the current US Coast Pilot chapter for this approach, which describes it with no VTS.",
+   "reporting_boundary_basis": "TSS at about 36°48'N to 36°58'N (33 CFR 167.201-203); outside WHALESNORTH and WHALESSOUTH. 33 CFR 165.501 (Chesapeake Bay entrance RNA) imposes only situational reports (e.g. impaired manoeuvrability, emergencies) to the COTP, not a named ship reporting scheme. The DW route has only a recommended VHF 16 announcement (167.203(h)). Pass 4: the 33 CFR 165.501 regulated navigation area contains the TSS, but its duties are situational reports (e.g. impaired manoeuvrability, emergencies), not a ship reporting scheme."
+  },
+  "TSS-0203": {
+   "vts_source_ids": [
+    "Z1-S1",
+    "Z1-S4",
+    "Z1-S5",
+    "Z1-P4-CP4-6",
+    "Z1-P4-CP4-5"
+   ],
+   "_reason": "Pass 4 correction.",
+   "vts_boundary_basis": "No USCG VTS or VMRS is established for this area: Table 1 to 33 CFR 161.12(c) lists every VTS and VMRS centre and monitoring area and has none here, and 33 CFR 161.2 defines a VTS as a service implemented by the USCG. NAVCEN's enumerated list of Coast Guard Vessel Traffic Centers and its VTS Locations page also have none. Together these are treated as an official complete list of US VTS that excludes this TSS. Pass 4 correction: 33 CFR 161.12 Table 1 is not a complete list of US VTS (it omits VTS Tampa, which operates jointly with the Tampa Port Authority outside Part 161). VTS absence rests on 33 CFR 161.2 (VTS is a Coast Guard service), 33 CFR 161.6 (federal pre-emption of state VTS), the NAVCEN VTS Locations page (12 operating VTS including Tampa) and the current US Coast Pilot chapter for this approach, which describes it with no VTS."
+  },
+  "TSS-0200": {
+   "vts_boundary_basis": "Partial. 33 CFR 161.25 bounds VTS New York to the south by a line from Breezy Point through the entrance buoys of Ambrose, Swash and Sandy Hook Channels to Sandy Hook Point. The Table 1 monitoring areas use the same line. Ambrose Channel Lighted Buoy 1 is at 40.46876N 73.87223W (D1 LNM 06/10/2025), about 1.95 NM from the centre of the 7 NM circular precautionary area at 40°27.50'N 73°49.90'W (33 CFR 167.151(a)), so the VTS boundary line runs through the precautionary area. Own approximate estimate: the north-western part of the circle, roughly 8% of its area, lies inside the VTS area. All traffic lanes and separation zones (Eastern, South-eastern and Southern approaches ending at about 40°20'N to 40°28'N, 073°41'W to 073°48'W) and the Nantucket approach and junction area lie outside. Pass 4 correction: roughly 5 to 10 per cent of the precautionary area (not about 8 per cent) lies inside the VTS area; all lanes are outside.",
+   "_reason": "Pass 4 correction."
+  },
+  "TSS-0205": {
+   "unresolved_issue": "The ASIPONA pages do not use the term VTS and give no legal designation or mandatory participation rule; the service type should be confirmed from SEMAR/Capitanía or ALRS Vol 6. Partial coverage rests on 1996 TSS coordinates, not checked against any amendment in Ships' Routeing 2025. National mandatory reporting search was not exhaustive (SEMAR sources not located). Pass 4: the port traffic centre's defined area names the TSS, meeting association standards 1 and 3, though it is not designated a VTS; confirm with SEMAR or ALRS Vol 6.",
+   "_reason": "Pass 4."
   }
  },
  "pass4_notes": {
@@ -365,7 +429,9 @@
   "B42": "No positive or Neither confirmed classification to re-check. Coordinator confirmed every Unresolved record states what remains unknown.",
   "B43": "No positive or Neither confirmed classification to re-check. Coordinator confirmed every Unresolved record states what remains unknown.",
   "B44": "An independent checker re-opened MSC.389(94), MSC.213(81), COLREG.2/Circ.57 and 66 and the La Moncloa release, found the Shandong MSA 2024 VTS notice, and re-did the 24 nm and CANREP geometry. All six positives upheld; TSS-0221 wording corrected (research/stage2/pass4/chk_Z3_result.json).",
-  "B45": "An independent checker re-opened MSC.389(94), MSC.213(81), COLREG.2/Circ.57 and 66 and the La Moncloa release, found the Shandong MSA 2024 VTS notice, and re-did the 24 nm and CANREP geometry. All six positives upheld; TSS-0221 wording corrected (research/stage2/pass4/chk_Z3_result.json)."
+  "B45": "An independent checker re-opened MSC.389(94), MSC.213(81), COLREG.2/Circ.57 and 66 and the La Moncloa release, found the Shandong MSA 2024 VTS notice, and re-did the 24 nm and CANREP geometry. All six positives upheld; TSS-0221 wording corrected (research/stage2/pass4/chk_Z3_result.json).",
+  "B40": "An independent checker re-opened eCFR 33 CFR 161, 167 and 169, NAVCEN, SOR/2025-275, the ASIPONA Veracruz pages and the current US Coast Pilot chapters. Nothing downgraded; the Neither confirmed basis corrected (33 CFR 161 Table 1 omits VTS Tampa) and re-sourced to 161.2, 161.6, NAVCEN and Coast Pilot; Delaware voluntary service added (research/stage2/pass4/chk_Z1_result.json).",
+  "B41": "An independent checker re-opened eCFR 33 CFR 161, 167 and 169, NAVCEN, SOR/2025-275, the ASIPONA Veracruz pages and the current US Coast Pilot chapters. Nothing downgraded; the Neither confirmed basis corrected (33 CFR 161 Table 1 omits VTS Tampa) and re-sourced to 161.2, 161.6, NAVCEN and Coast Pilot; Delaware voluntary service added (research/stage2/pass4/chk_Z1_result.json)."
  },
  "audit_result": {},
  "vts_alias": {

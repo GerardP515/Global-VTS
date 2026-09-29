@@ -1,0 +1,727 @@
+{
+ "group": "Z1",
+ "records": [
+  {
+   "vts_name": "Fundy Traffic (Bay of Fundy VTS Zone)",
+   "vts_authority": "Canadian Coast Guard (MCTS); zone established by Transport Canada regulation SOR/2025-275",
+   "vts_centre": "Halifax MCTS Centre",
+   "vts_sector": "Sectors 1 and 2 (Ch 14 and Ch 12); TSS entrance/exit calling-in points 1A/1B (sector 1), 4E, 5A/5B (sector 2)",
+   "vts_boundary_basis": "SOR/2025-275 Sch. 3 item 7 and RAMN 2026 Part 3 s.3.7.3.7 define the Bay of Fundy VTS Zone. RAMN Table 3-30 calling-in points 1A 'Southwest entrance to traffic separation scheme' (44°10'40.3\"N 066°48'16\"W) and 1B 'Southwest exit' (44°16'09.3\"N 066°53'54\"W) lie on the zone's outer boundary segments (own check: each is the midpoint of the boundary segment between the listed turning points), and 4E and 5A/5B mark the TSS entrance/exit and north exit/entrance inside sectors 2. The TSS therefore lies wholly within the zone, starting at its outer limit. Fundy Traffic monitors by radar and AIS.",
+   "vts_coverage": "full",
+   "vts_source_ids": [
+    "Z1-S8",
+    "Z1-S9",
+    "Z1-S10"
+   ],
+   "mandatory_reporting": "No",
+   "vrs_id": null,
+   "reporting_scheme_name": null,
+   "reporting_authority": null,
+   "reporting_boundary_basis": "No IMO Part I system in this region (project Part I list: none for Canada). Sailing plans and position reports under SOR/2025-275 Part 4 are the reporting duties of the VTS zone itself, so they are recorded under the VTS, not as a separate MRS.",
+   "reporting_source_ids": [
+    "Z1-S17",
+    "Z1-S8"
+   ],
+   "voluntary_reporting": "No",
+   "vts_leads": null,
+   "unresolved_issue": null,
+   "tss_id": "TSS-0196",
+   "batch": "B40",
+   "tss_name": "In the Bay of Fundy and approaches",
+   "imo_parent_ref": "B-IX/2",
+   "coastal_state_s": "Canada",
+   "association_status": "VTS only",
+   "evidence_summary": "Statutory VTS zone (SOR/2025-275) and CCG RAMN 2026 calling-in points expressly name the TSS southwest entrance/exit and north entrance/exit; Fundy Traffic, operated from Halifax MCTS, monitors the zone by radar and AIS. No Part I reporting system applies.",
+   "source_date": "SOR/2025-275 current to 2026-09-21; RAMN 2026 page modified 2026-09-25",
+   "prior_lead_outcome": "corrected: VTS only confirmed, but the zone reporting is recorded as part of the VTS (not national MRS) and the centre is Halifax MCTS (Canso Traffic is a different zone); no part of the TSS is in US waters (entrance points lie on the Canadian zone boundary)."
+  },
+  {
+   "vts_name": null,
+   "vts_authority": null,
+   "vts_centre": null,
+   "vts_sector": null,
+   "vts_boundary_basis": "No USCG VTS or VMRS is established for this area: Table 1 to 33 CFR 161.12(c) lists every VTS and VMRS centre and monitoring area and has none here, and 33 CFR 161.2 defines a VTS as a service implemented by the USCG. NAVCEN's enumerated list of Coast Guard Vessel Traffic Centers and its VTS Locations page also have none. Together these are treated as an official complete list of US VTS that excludes this TSS.",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "Z1-S1",
+    "Z1-S4",
+    "Z1-S5"
+   ],
+   "mandatory_reporting": "No",
+   "vrs_id": null,
+   "reporting_scheme_name": null,
+   "reporting_authority": null,
+   "reporting_boundary_basis": "The TSS lies between about 43°07.8'N and 43°37'N (33 CFR 167.51-53), entirely north of WHALESNORTH, whose northern edge runs from 42°39'N 70°37'W to 42°45'N 70°13'W (33 CFR 169.105). WHALESSOUTH is far to the south. No VMRS applies.",
+   "reporting_source_ids": [
+    "Z1-S2",
+    "Z1-S3",
+    "Z1-S1",
+    "Z1-S17"
+   ],
+   "voluntary_reporting": "Unresolved",
+   "vts_leads": null,
+   "unresolved_issue": "Classification relies on 33 CFR 161 plus NAVCEN being complete lists of US VTS. Local voluntary arrangements (e.g. pilots, harbour master) not searched.",
+   "tss_id": "TSS-0197",
+   "batch": "B40",
+   "tss_name": "In the approaches to Portland, Maine",
+   "imo_parent_ref": "B-IX/3",
+   "coastal_state_s": "United States",
+   "association_status": "Neither confirmed",
+   "evidence_summary": "33 CFR 161 Table 1 and NAVCEN list no VTS or VMRS at Portland, and 33 CFR 169 coordinates put the TSS outside WHALESNORTH. On these official complete lists, neither association exists.",
+   "source_date": "eCFR 2026-09-01; NAVCEN pages accessed 2026-09-29",
+   "prior_lead_outcome": "corrected: prior 'Unresolved' upgraded to 'Neither confirmed' because 33 CFR 161.2 limits VTS to USCG services and 161 Table 1 plus NAVCEN's enumerated VTC list exclude Portland; WHALESNORTH exclusion confirmed."
+  },
+  {
+   "vts_name": null,
+   "vts_authority": null,
+   "vts_centre": null,
+   "vts_sector": null,
+   "vts_boundary_basis": "No USCG VTS or VMRS is established for this area: Table 1 to 33 CFR 161.12(c) lists every VTS and VMRS centre and monitoring area and has none here, and 33 CFR 161.2 defines a VTS as a service implemented by the USCG. NAVCEN's enumerated list of Coast Guard Vessel Traffic Centers and its VTS Locations page also have none. Together these are treated as an official complete list of US VTS that excludes this TSS.",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "Z1-S1",
+    "Z1-S4",
+    "Z1-S5"
+   ],
+   "mandatory_reporting": "Yes",
+   "vrs_id": "VRS-0021",
+   "reporting_scheme_name": "Off the north-eastern and south-eastern coasts of the United States: WHALESNORTH (northeastern area)",
+   "reporting_authority": "US Coast Guard (shore-based authority, 33 CFR 169.102)",
+   "reporting_boundary_basis": "Partial. Own geometry check of 33 CFR 167.76-167.77 against 169.105: the separation zone and both lanes stay inside WHALESNORTH from the Boston precautionary area down to the area's southern limit at 41°00'N (crossing at about 069°05'W to 069°11'W), with no crossing of the western or eastern edges. The Boston precautionary area (6.17 NM radius at 42°22.71'N 70°46.97'W) is in Massachusetts Bay inside the area; its innermost harbour edge depends on the undefined 'Massachusetts shoreline' boundary. The lane sections south of 41°00'N and the junction precautionary area (north edge about 40°50.5'N) are outside. Year-round; self-propelled ships of 300 GT or more report once on entry (169.110, 169.125, 169.130).",
+   "reporting_source_ids": [
+    "Z1-S3",
+    "Z1-S2",
+    "Z1-S17"
+   ],
+   "voluntary_reporting": "Unresolved",
+   "vts_leads": null,
+   "unresolved_issue": "Reporting coverage partial: lanes south of 41°00'N and the junction precautionary area shared with Off New York (Nantucket) are outside WHALESNORTH. IMO adopting resolution not cited in 33 CFR 169 (VRS-0021 per project baseline).",
+   "tss_id": "TSS-0198",
+   "batch": "B40",
+   "tss_name": "In the approach to Boston, Massachusetts",
+   "imo_parent_ref": "B-IX/4",
+   "coastal_state_s": "United States",
+   "association_status": "MRS only",
+   "evidence_summary": "No USCG VTS at Boston (33 CFR 161 Table 1, NAVCEN). Most of the TSS (all north of 41°00'N) lies within WHALESNORTH, the northeastern area of IMO-adopted VRS-0021, per 33 CFR 169.105 coordinates.",
+   "source_date": "eCFR 2026-09-01",
+   "prior_lead_outcome": "confirmed: MRS only via VRS-0021 WHALESNORTH, partial coverage to 41°00'N re-derived from the CFR coordinates."
+  },
+  {
+   "vts_name": null,
+   "vts_authority": null,
+   "vts_centre": null,
+   "vts_sector": null,
+   "vts_boundary_basis": "No USCG VTS or VMRS is established for this area: Table 1 to 33 CFR 161.12(c) lists every VTS and VMRS centre and monitoring area and has none here, and 33 CFR 161.2 defines a VTS as a service implemented by the USCG. NAVCEN's enumerated list of Coast Guard Vessel Traffic Centers and its VTS Locations page also have none. Together these are treated as an official complete list of US VTS that excludes this TSS. VMRS Buzzards Bay ('Buzzards Bay Control', Ch 11) is a USCG mandatory VMRS, not a VTS. Its area is east and north of the line Sakonnet Point (41°27.20'N 71°11.70'W) to Buzzards Bay Entrance Light (41°23.48'N 71°02.5'W) to Cuttyhunk (41°24.60'N 70°57.00'W). Own calculation: the Buzzards Bay approach separation zone ends at 41°21.80'N 71°07.10'W, about 3.5 NM south of that line, and the lane corners are about 3.3 to 3.8 NM short of it. The Narragansett approach and its precautionary areas (071°23.3'W) are west of Sakonnet Point, so also outside. The VMRS begins beyond the end of the TSS; it adjoins the route but does not cover it.",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "Z1-S1",
+    "Z1-S2",
+    "Z1-S4",
+    "Z1-S5"
+   ],
+   "mandatory_reporting": "No",
+   "vrs_id": null,
+   "reporting_scheme_name": null,
+   "reporting_authority": null,
+   "reporting_boundary_basis": "VMRS Buzzards Bay does not cover the TSS (see above). WHALESNORTH does not extend west of 69°17'W south of 42°N or south of 41°00'N, so it does not reach this TSS. 33 CFR 165.100 (Northeast District RNA) repeats the VMRS Buzzards Bay rules and does not add a reporting scheme for the TSS.",
+   "reporting_source_ids": [
+    "Z1-S1",
+    "Z1-S3",
+    "Z1-S18",
+    "Z1-S17"
+   ],
+   "voluntary_reporting": "Unresolved",
+   "vts_leads": "VMRS Buzzards Bay (Buzzards Bay Control) applies only landward of the TSS",
+   "unresolved_issue": "Editorial point for coordinator: VMRS Buzzards Bay adjoins but does not cover the TSS, so it is not linked. Classification relies on 33 CFR 161 plus NAVCEN being complete lists of US VTS.",
+   "tss_id": "TSS-0199",
+   "batch": "B40",
+   "tss_name": "In the approaches to Narragansett Bay, Rhode Island, and Buzzards Bay, Massachusetts",
+   "imo_parent_ref": "B-IX/5",
+   "coastal_state_s": "United States",
+   "association_status": "Neither confirmed",
+   "evidence_summary": "No USCG VTS at Narragansett/Buzzards Bay approaches (33 CFR 161 Table 1, NAVCEN). The only nearby mandatory system, VMRS Buzzards Bay, starts about 3.5 NM beyond the northern end of the Buzzards Bay approach. WHALESNORTH does not reach the area.",
+   "source_date": "eCFR 2026-09-01",
+   "prior_lead_outcome": "corrected: prior 'Unresolved' upgraded to 'Neither confirmed'; the VMRS gap (about 3.5 NM beyond the TSS end) re-derived and confirmed."
+  },
+  {
+   "vts_name": "VTS New York",
+   "vts_authority": "US Coast Guard (Sector New York)",
+   "vts_centre": "Vessel Traffic Center, Sector New York, Fort Wadsworth, Staten Island",
+   "vts_sector": "New York Traffic, Lower New York Bay monitoring areas (Table 1 to 161.12(c) item 7: Ch 11 sailing plans / Ch 12 anchored; Ch 14 Lower Bay)",
+   "vts_boundary_basis": "Partial. 33 CFR 161.25 bounds VTS New York to the south by a line from Breezy Point through the entrance buoys of Ambrose, Swash and Sandy Hook Channels to Sandy Hook Point. The Table 1 monitoring areas use the same line. Ambrose Channel Lighted Buoy 1 is at 40.46876N 73.87223W (D1 LNM 06/10/2025), about 1.95 NM from the centre of the 7 NM circular precautionary area at 40°27.50'N 73°49.90'W (33 CFR 167.151(a)), so the VTS boundary line runs through the precautionary area. Own approximate estimate: the north-western part of the circle, roughly 8% of its area, lies inside the VTS area. All traffic lanes and separation zones (Eastern, South-eastern and Southern approaches ending at about 40°20'N to 40°28'N, 073°41'W to 073°48'W) and the Nantucket approach and junction area lie outside.",
+   "vts_coverage": "partial",
+   "vts_source_ids": [
+    "Z1-S1",
+    "Z1-S2",
+    "Z1-S4",
+    "Z1-S6",
+    "Z1-S11"
+   ],
+   "mandatory_reporting": "No",
+   "vrs_id": null,
+   "reporting_scheme_name": null,
+   "reporting_authority": null,
+   "reporting_boundary_basis": "WHALESNORTH ends at 41°00'N and does not reach the Eastern approach off Nantucket (about 40°22'N to 40°37'N) or the junction precautionary area (north edge about 40°50.5'N). WHALESSOUTH is off Georgia/Florida. VTS New York VMRS reporting is part of the VTS, not a separate MRS.",
+   "reporting_source_ids": [
+    "Z1-S3",
+    "Z1-S2",
+    "Z1-S17"
+   ],
+   "voluntary_reporting": "Unresolved",
+   "vts_leads": null,
+   "unresolved_issue": "Coverage partial (landward sector of the precautionary area only; fraction is own approximation, Swash/Sandy Hook buoy and Breezy/Sandy Hook point positions approximated). Currency: USCG D1 proposed discontinuing Ambrose Channel Buoys 1, 2 and A (comment window to 2026-10-03); if removed, the 161.25 boundary reference needs re-checking.",
+   "tss_id": "TSS-0200",
+   "batch": "B40",
+   "tss_name": "Off New York",
+   "imo_parent_ref": "B-IX/6",
+   "coastal_state_s": "United States",
+   "association_status": "VTS only",
+   "evidence_summary": "33 CFR 161.25 VTS New York area reaches the Ambrose/Swash/Sandy Hook entrance buoys, which lie inside the 7 NM Off New York precautionary area. So VTS New York covers the landward part of that precautionary area only; the lanes are outside. No Part I reporting system applies.",
+   "source_date": "eCFR 2026-09-01; VTS NY User Manual rev. Jan 2023; D1 LNM 2025-06-10 and 2025-09-10",
+   "prior_lead_outcome": "confirmed: VTS only with partial coverage; the open chart question is resolved: Ambrose Channel entrance buoys are about 2 NM inside the 7 NM precautionary area."
+  },
+  {
+   "vts_name": null,
+   "vts_authority": null,
+   "vts_centre": null,
+   "vts_sector": null,
+   "vts_boundary_basis": "No USCG VTS or VMRS is established for this area: Table 1 to 33 CFR 161.12(c) lists every VTS and VMRS centre and monitoring area and has none here, and 33 CFR 161.2 defines a VTS as a service implemented by the USCG. NAVCEN's enumerated list of Coast Guard Vessel Traffic Centers and its VTS Locations page also have none. Together these are treated as an official complete list of US VTS that excludes this TSS.",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "Z1-S1",
+    "Z1-S4",
+    "Z1-S5"
+   ],
+   "mandatory_reporting": "No",
+   "vrs_id": null,
+   "reporting_scheme_name": null,
+   "reporting_authority": null,
+   "reporting_boundary_basis": "TSS at about 38°27'N to 39°00'N (33 CFR 167.171-174), south of WHALESNORTH (41°00'N) and north of WHALESSOUTH (31°27'N). No VMRS. Maritime Exchange position/ETA reporting is by request (lead only) and not mandatory.",
+   "reporting_source_ids": [
+    "Z1-S2",
+    "Z1-S3",
+    "Z1-S1",
+    "Z1-S17",
+    "Z1-S19"
+   ],
+   "voluntary_reporting": "Unresolved",
+   "vts_leads": "Maritime Exchange for the Delaware River and Bay (trade association; Cape Henlopen reporting station): lead only, not a VTS",
+   "unresolved_issue": "Maritime Exchange voluntary reporting not verified from an official source. Classification relies on 33 CFR 161 plus NAVCEN being complete lists of US VTS.",
+   "tss_id": "TSS-0201",
+   "batch": "B41",
+   "tss_name": "Off Delaware Bay",
+   "imo_parent_ref": "B-IX/7",
+   "coastal_state_s": "United States",
+   "association_status": "Neither confirmed",
+   "evidence_summary": "No USCG VTS or VMRS at Delaware Bay (33 CFR 161 Table 1, NAVCEN), and the TSS is outside both WHALES areas. The Maritime Exchange's reporting station is a commercial lead, not a VTS or mandatory scheme.",
+   "source_date": "eCFR 2026-09-01",
+   "prior_lead_outcome": "corrected: prior 'Unresolved' upgraded to 'Neither confirmed'; Maritime Exchange kept as a lead only (not a VTS)."
+  },
+  {
+   "vts_name": null,
+   "vts_authority": null,
+   "vts_centre": null,
+   "vts_sector": null,
+   "vts_boundary_basis": "No USCG VTS or VMRS is established for this area: Table 1 to 33 CFR 161.12(c) lists every VTS and VMRS centre and monitoring area and has none here, and 33 CFR 161.2 defines a VTS as a service implemented by the USCG. NAVCEN's enumerated list of Coast Guard Vessel Traffic Centers and its VTS Locations page also have none. Together these are treated as an official complete list of US VTS that excludes this TSS.",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "Z1-S1",
+    "Z1-S4",
+    "Z1-S5"
+   ],
+   "mandatory_reporting": "No",
+   "vrs_id": null,
+   "reporting_scheme_name": null,
+   "reporting_authority": null,
+   "reporting_boundary_basis": "TSS at about 36°48'N to 36°58'N (33 CFR 167.201-203); outside WHALESNORTH and WHALESSOUTH. 33 CFR 165.501 (Chesapeake Bay entrance RNA) imposes only situational reports (e.g. impaired manoeuvrability, emergencies) to the COTP, not a named ship reporting scheme. The DW route has only a recommended VHF 16 announcement (167.203(h)).",
+   "reporting_source_ids": [
+    "Z1-S2",
+    "Z1-S3",
+    "Z1-S18",
+    "Z1-S17"
+   ],
+   "voluntary_reporting": "Unresolved",
+   "vts_leads": null,
+   "unresolved_issue": "Classification relies on 33 CFR 161 plus NAVCEN being complete lists of US VTS. Whether 165.501 situational reports should be noted by the coordinator is an editorial choice.",
+   "tss_id": "TSS-0202",
+   "batch": "B41",
+   "tss_name": "In the approaches to Chesapeake Bay",
+   "imo_parent_ref": "B-IX/8",
+   "coastal_state_s": "United States",
+   "association_status": "Neither confirmed",
+   "evidence_summary": "No USCG VTS or VMRS at Chesapeake Bay (33 CFR 161 Table 1, NAVCEN), and the TSS is outside both WHALES areas. RNA notification duties in 165.501 are not a ship reporting scheme.",
+   "source_date": "eCFR 2026-09-01",
+   "prior_lead_outcome": "corrected: prior 'Unresolved' upgraded to 'Neither confirmed'; absence of USCG VTS confirmed."
+  },
+  {
+   "vts_name": null,
+   "vts_authority": null,
+   "vts_centre": null,
+   "vts_sector": null,
+   "vts_boundary_basis": "No USCG VTS or VMRS is established for this area: Table 1 to 33 CFR 161.12(c) lists every VTS and VMRS centre and monitoring area and has none here, and 33 CFR 161.2 defines a VTS as a service implemented by the USCG. NAVCEN's enumerated list of Coast Guard Vessel Traffic Centers and its VTS Locations page also have none. Together these are treated as an official complete list of US VTS that excludes this TSS.",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "Z1-S1",
+    "Z1-S4",
+    "Z1-S5"
+   ],
+   "mandatory_reporting": "No",
+   "vrs_id": null,
+   "reporting_scheme_name": null,
+   "reporting_authority": null,
+   "reporting_boundary_basis": "TSS at about 33°32'N to 33°50'N (33 CFR 167.251-252), north of WHALESSOUTH (31°27'N limit) and far south of WHALESNORTH. No VMRS.",
+   "reporting_source_ids": [
+    "Z1-S2",
+    "Z1-S3",
+    "Z1-S1",
+    "Z1-S17"
+   ],
+   "voluntary_reporting": "Unresolved",
+   "vts_leads": null,
+   "unresolved_issue": "Local Sector North Carolina / pilot practice not researched (would be voluntary at most). Classification relies on 33 CFR 161 plus NAVCEN being complete lists of US VTS.",
+   "tss_id": "TSS-0203",
+   "batch": "B41",
+   "tss_name": "In the approaches to the Cape Fear River",
+   "imo_parent_ref": "B-IX/9",
+   "coastal_state_s": "United States",
+   "association_status": "Neither confirmed",
+   "evidence_summary": "No USCG VTS or VMRS at Cape Fear / Wilmington (33 CFR 161 Table 1, NAVCEN), and the TSS is outside both WHALES areas.",
+   "source_date": "eCFR 2026-09-01",
+   "prior_lead_outcome": "corrected: prior 'Unresolved' upgraded to 'Neither confirmed' on the same US completeness basis."
+  },
+  {
+   "vts_name": "VTS Houston-Galveston",
+   "vts_authority": "US Coast Guard (Sector Houston-Galveston)",
+   "vts_centre": "Vessel Traffic Center, Sector Houston-Galveston, southeast Houston",
+   "vts_sector": "Houston Traffic, south of Exxon Dock #1 line (Ch 12; Ch 5A sailing plans)",
+   "vts_boundary_basis": "Partial. The 161.35(a) VTS area includes the Galveston Bay Entrance Channel and Outer Bar Channel. Reporting point 1, Galveston Bay Entrance Channel LB '1C' (29°18.2'N 94°37.6'W), lies inside the TSS inshore precautionary area (own point-in-polygon check against 167.350(a)). The Table 1 monitoring area is the navigable waters north of 29°00'N, west of 94°20'W, south of 29°49'N and east of 95°20'W. Every TSS point lies in that box, but navigable waters end at the 12 NM territorial sea (161.2), and note 4 says watch is not required beyond them. Own approximate calculation from the Galveston entrance jetties: the inshore precautionary area and the landward lane sections (about 4 to 6 NM) are within 12 NM. The seaward lane ends (about 17 NM) and the offshore precautionary area (about 20 NM) are outside. NAVCEN: the area runs 'from the sea buoy'.",
+   "vts_coverage": "partial",
+   "vts_source_ids": [
+    "Z1-S1",
+    "Z1-S2",
+    "Z1-S4",
+    "Z1-S7"
+   ],
+   "mandatory_reporting": "No",
+   "vrs_id": null,
+   "reporting_scheme_name": null,
+   "reporting_authority": null,
+   "reporting_boundary_basis": "No Part I system in the Gulf of Mexico (VRS-0021 is Atlantic only, 33 CFR 169.105/115). VTS Houston-Galveston VMRS reporting (33 CFR 161 Subpart B) is the VTS's own reporting, not a separate MRS.",
+   "reporting_source_ids": [
+    "Z1-S3",
+    "Z1-S17",
+    "Z1-S1"
+   ],
+   "voluntary_reporting": "Unresolved",
+   "vts_leads": null,
+   "unresolved_issue": "12 NM limit position computed approximately from jetty/shore positions, not from an official baseline chart; the exact split of the lanes needs a NOAA maritime limits check.",
+   "tss_id": "TSS-0204",
+   "batch": "B41",
+   "tss_name": "In the approaches to Galveston Bay",
+   "imo_parent_ref": "B-IX/10",
+   "coastal_state_s": "United States",
+   "association_status": "VTS only",
+   "evidence_summary": "VTS Houston-Galveston's statutory area and reporting point 1 (LB 1C) lie within the TSS inshore precautionary area, and its monitoring area covers the TSS box within US navigable waters. Coverage is partial because the offshore end of the TSS is beyond the 12 NM territorial sea.",
+   "source_date": "eCFR 2026-09-01; VTS HG User Manual rev. March 2025",
+   "prior_lead_outcome": "confirmed: VTS only; refined to partial coverage (offshore precautionary area and seaward lanes beyond navigable waters)."
+  },
+  {
+   "vts_name": "Centro de Control de Tráfico Marítimo de Veracruz (CCTMVER)",
+   "vts_authority": "Administración del Sistema Portuario Nacional Veracruz (ASIPONA Veracruz), acting as auxiliary to the Capitanía de Puerto de Veracruz",
+   "vts_centre": "CCTM, Av. Marina Mercante No. 210, Veracruz (MMSI 003450310, VHF 10/16)",
+   "vts_sector": null,
+   "vts_boundary_basis": "The ASIPONA 'Área de Influencia' page states that the CCTMVER control area includes the traffic separation zones, lanes and precautionary areas, bounded by 19°15.10'N 096°11.00'W (coast), 19°19.00'N 096°11.00'W, 19°19.00'N 095°46.60'W, 19°02.20'N 095°46.60'W and 19°02.20'N 095°58.10'W (coast). Own check against COLREG.2/Circ.41 (1996): the North Approach (to 19°19.00'N) and the precautionary area are inside. The East Approach lanes run seaward to 095°45.00'W, so on the 1996 coordinates about 1.5 NM of their seaward end lies east of the box limit (095°46.60'W). Recorded as partial despite the page's general statement.",
+   "vts_coverage": "partial",
+   "vts_source_ids": [
+    "Z1-S13",
+    "Z1-S14",
+    "Z1-S15",
+    "Z1-S16"
+   ],
+   "mandatory_reporting": "No",
+   "vrs_id": null,
+   "reporting_scheme_name": null,
+   "reporting_authority": null,
+   "reporting_boundary_basis": "No IMO Part I system for Mexico (project Part I list). No formally named Mexican mandatory ship reporting scheme was found for this area. CCTM services are 'a solicitud' (on request), and the Capitanía de Puerto keeps watch on VHF 12.",
+   "reporting_source_ids": [
+    "Z1-S17",
+    "Z1-S13",
+    "Z1-S15"
+   ],
+   "voluntary_reporting": "Unresolved",
+   "vts_leads": null,
+   "unresolved_issue": "The ASIPONA pages do not use the term VTS and give no legal designation or mandatory participation rule; the service type should be confirmed from SEMAR/Capitanía or ALRS Vol 6. Partial coverage rests on 1996 TSS coordinates, not checked against any amendment in Ships' Routeing 2025. National mandatory reporting search was not exhaustive (SEMAR sources not located).",
+   "tss_id": "TSS-0205",
+   "batch": "B41",
+   "tss_name": "In the approaches to the port of Veracruz",
+   "imo_parent_ref": "B-IX/11",
+   "coastal_state_s": "Mexico",
+   "association_status": "VTS only",
+   "evidence_summary": "ASIPONA Veracruz's official CCTM pages describe a radar (X/S band) and AIS traffic monitoring and navigational assistance centre whose control area expressly includes the TSS zones, lanes and precautionary areas. On the 1996 IMO coordinates, only the seaward tip of the East Approach falls outside its box.",
+   "source_date": "ASIPONA pages undated (site 2026), accessed 2026-09-29; COLREG.2/Circ.41 1996",
+   "prior_lead_outcome": "corrected: prior 'Unresolved' with an unnamed radar lead replaced by the ASIPONA Veracruz official CCTM page naming the TSS; classified VTS only (partial), with service designation caveat."
+  }
+ ],
+ "sources": [
+  {
+   "id": "Z1-S1",
+   "authority": "US Coast Guard / Office of the Federal Register (eCFR)",
+   "title": "33 CFR Part 161 Vessel Traffic Management",
+   "date_or_edition": "eCFR point-in-time 2026-09-01 (accessed 2026-09-29)",
+   "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-09-01/title-33.xml?part=161",
+   "source_class": "Tier 1",
+   "supports": "Complete regulatory list of USCG VTS and VMRS centres and monitoring areas (Table 1 to 161.12(c)); VTS New York area (161.25); VTS Houston/Galveston area and reporting points (161.35); VMRS Buzzards Bay area; definitions of VTS (USCG-implemented), VMRS and navigable waters (12 NM territorial sea).",
+   "locator": "161.2; Table 1 to 161.12(c) items (2), (3), (7) and note 4; 161.25; 161.35(a),(c)",
+   "passage": "on the south by a line connecting the entrance buoys at the Ambrose Channel, Swash Channel, and Sandy Hook Channel to Sandy Hook Point"
+  },
+  {
+   "id": "Z1-S2",
+   "authority": "US Coast Guard / eCFR",
+   "title": "33 CFR Part 167 Offshore Traffic Separation Schemes",
+   "date_or_edition": "eCFR point-in-time 2026-09-01 (accessed 2026-09-29)",
+   "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-09-01/title-33.xml?part=167",
+   "source_class": "Tier 1",
+   "supports": "Geographic definition of the US TSS: Portland ME (167.50-53), Boston (167.75-77), Narragansett/Buzzards Bay (167.100-103), Off New York (167.150-155), Off Delaware Bay (167.170-174), Chesapeake (167.200-203), Cape Fear River (167.250-252), Galveston Bay (167.350).",
+   "locator": "167.51-167.350",
+   "passage": "A circular precautionary area with a radius of 7 miles is established centered upon 40°27.50' N, 73°49.90' W."
+  },
+  {
+   "id": "Z1-S3",
+   "authority": "US Coast Guard / eCFR",
+   "title": "33 CFR Part 169 Subpart B Establishment of two mandatory ship reporting systems for the protection of northern right whales",
+   "date_or_edition": "eCFR point-in-time 2026-09-01 (accessed 2026-09-29)",
+   "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-09-01/title-33.xml?part=169",
+   "source_class": "Tier 1",
+   "supports": "WHALESNORTH and WHALESSOUTH areas, season, participants (self-propelled ships of 300 GT or more), shore-based authority (USCG); these are the only mandatory ship reporting systems in 33 CFR 169 Subpart B.",
+   "locator": "169.100, 169.102, 169.105, 169.110, 169.115, 169.125, 169.130",
+   "passage": "then south to 41°00' N, 68°31' W; then west to 41°00' N, 69°17' W; then northeast to 42°05' N, 70°02' W"
+  },
+  {
+   "id": "Z1-S4",
+   "authority": "US Coast Guard Navigation Center (NAVCEN)",
+   "title": "Vessel Traffic Services Locations",
+   "date_or_edition": "Undated web page (accessed 2026-09-29)",
+   "url": "https://www.navcen.uscg.gov/vessel-traffic-services-locations",
+   "source_class": "Tier 2",
+   "supports": "Operational status and description of each USCG VTS, incl. VTS New York and VTS Houston-Galveston; no VTS listed for Portland ME, Boston, Narragansett/Buzzards Bay, Delaware Bay, Chesapeake Bay or Cape Fear.",
+   "locator": "VTS New York and VTS Houston-Galveston entries",
+   "passage": "The VTS operating area includes the Houston Ship Channel from the sea buoy to the Buffalo Bayou Turning Basin"
+  },
+  {
+   "id": "Z1-S5",
+   "authority": "US Coast Guard Navigation Center (NAVCEN)",
+   "title": "Vessel Traffic Services (overview page)",
+   "date_or_edition": "Undated web page (accessed 2026-09-29)",
+   "url": "https://www.navcen.uscg.gov/vessel-traffic-services",
+   "source_class": "Tier 2",
+   "supports": "Enumerated list of Vessel Traffic Centers operated by the Coast Guard (used, with 33 CFR 161, as evidence of absence of a USCG VTS at the other US Atlantic approaches).",
+   "locator": "Overview paragraph",
+   "passage": "The Coast Guard operates 12 Vessel Traffic Centers (VTC): Prince William Sound, Puget Sound, Valdez, Seattle, San Francisco, Los Angeles/Long Beach, Houston-Galveston, Berwick Bay, Louisville, Saint Mary's River, Port Arthur, Tampa, and New York."
+  },
+  {
+   "id": "Z1-S6",
+   "authority": "USCG Sector New York, VTS New York",
+   "title": "Vessel Traffic Service New York User's Manual",
+   "date_or_edition": "Revised January 2023 (current link on NAVCEN, accessed 2026-09-29)",
+   "url": "https://www.navcen.uscg.gov/sites/default/files/pdf/VTS%20User%20Guides/VTS_NY_UserManuaFeb2023.pdf",
+   "source_class": "Tier 2",
+   "supports": "VTS New York area boundary (Breezy Point to entrance buoys of Ambrose, Swash and Sandy Hook Channels to Sandy Hook); towing vessels may call VTS on entering the offshore Precautionary Zone (guidance, not an area extension).",
+   "locator": "Area chartlet legend (p.19); Guidelines for Ambrose Channel Tug and Barge Operations",
+   "passage": "These calls may be made upon entering the offshore \"Precautionary Zone\" or anytime thereafter."
+  },
+  {
+   "id": "Z1-S7",
+   "authority": "USCG Sector Houston-Galveston, VTS Houston-Galveston",
+   "title": "VTS Houston-Galveston User's Manual 2025",
+   "date_or_edition": "Revised March 2025 (accessed 2026-09-29)",
+   "url": "https://www.navcen.uscg.gov/sites/default/files/pdf/VTS%20User%20Guides/VTS_HG_UserManual_2025.pdf",
+   "source_class": "Tier 2",
+   "supports": "Current operation and participation categories (VMRS users, VTS users) of VTS Houston-Galveston.",
+   "locator": "User groups page",
+   "passage": "VMRS – Vessel Movement Reporting System. The mandatory system operated by the VTS used to monitor and track vessel movements."
+  },
+  {
+   "id": "Z1-S8",
+   "authority": "Government of Canada (Governor in Council, Canada Shipping Act, 2001)",
+   "title": "Vessel Traffic Services Zones Regulations (SOR/2025-275)",
+   "date_or_edition": "Registered 2025-12-12; consolidation current to 2026-09-21, last amended 2026-03-31",
+   "url": "https://laws-lois.justice.gc.ca/eng/regulations/SOR-2025-275/FullText.html",
+   "source_class": "Tier 1",
+   "supports": "Establishes the Bay of Fundy Local Eastern VTS Zone (Schedule 3 item 7) with its boundary; application (s.3, s.24); sailing plan and position report duties at RAMN Part 3 calling-in points (ss.25-27).",
+   "locator": "ss.3, 7, 23-27; Schedule 3 item 7",
+   "passage": "The waters contained within the zone bounded by a line drawn in a 270° (True) direction from Chebogue Point"
+  },
+  {
+   "id": "Z1-S9",
+   "authority": "Canadian Coast Guard",
+   "title": "Radio Aids to Marine Navigation 2026, Part 3: Vessel Traffic Services (3.7.3.7 Bay of Fundy VTS Zone)",
+   "date_or_edition": "2026 edition; page date modified 2026-09-25 (accessed 2026-09-29)",
+   "url": "https://www.canada.ca/en/canadian-coast-guard/corporate/publications/radio-aids-marine-navigation/vessel-traffic-services.html",
+   "source_class": "Tier 3",
+   "supports": "Fundy Traffic sectors, VHF channels, radar/AIS monitoring, and calling-in points that name the traffic separation scheme entrances/exits within the zone.",
+   "locator": "Tables 3-28, 3-29, 3-30",
+   "passage": "1A 1 - Southwest entrance to traffic separation scheme Inward A point at 44°10'40.3\"N 066°48'16\"W."
+  },
+  {
+   "id": "Z1-S10",
+   "authority": "Canadian Coast Guard",
+   "title": "Radio Aids to Marine Navigation 2026, Part 2 (facilities information): 2.1.1 Halifax, Nova Scotia",
+   "date_or_edition": "2026 edition (accessed 2026-09-29)",
+   "url": "https://www.canada.ca/en/canadian-coast-guard/corporate/publications/radio-aids-marine-navigation/facilities-information.html",
+   "source_class": "Tier 3",
+   "supports": "Fundy Traffic is provided from Halifax MCTS Centre.",
+   "locator": "2.1.1 Halifax",
+   "passage": "For Vessel Traffic Services, call Halifax Traffic ( Part 3.7.3.4 of this publication) or Fundy Traffic ( Part 3.7.3.7 of this publication)."
+  },
+  {
+   "id": "Z1-S11",
+   "authority": "USCG First District / NAVCEN",
+   "title": "Local Notice to Mariners, District 1, 06/10/2025 (Ambrose Channel proposed ATON changes)",
+   "date_or_edition": "LNM dated 2025-06-10; proposal window 2025-04-03 to 2026-10-03",
+   "url": "https://navcen.uscg.gov/sites/default/files/pdf/lnms/lnm01242025.pdf",
+   "source_class": "Tier 3",
+   "supports": "Positions of Ambrose Channel Lighted Buoy 1 (40.46876 N, 73.87223 W), Lighted Bell Buoy 2 (40.47293 N, 73.86755 W) and Lighted Whistle Buoy A (40.45778 N, 73.83673 W); all proposed for discontinuance.",
+   "locator": "Ambrose Channel / ATON Proposed Notice of Change, LLNR 34785, 34796, 34797",
+   "passage": "Location: 40.46876° N / 73.87223° W Aid Name: Ambrose Channel Lighted"
+  },
+  {
+   "id": "Z1-S12",
+   "authority": "USCG First District / NAVCEN",
+   "title": "Local Notice to Mariners, District 1, 09/10/2025",
+   "date_or_edition": "LNM dated 2025-09-10",
+   "url": "https://www.navcen.uscg.gov/sites/default/files/pdf/lnms/lnm01372025.pdf",
+   "source_class": "Tier 3",
+   "supports": "Ambrose Channel entrance buoys still listed (discrepancies and proposed discontinuance) as of September 2025; final outcome of the proposal not established.",
+   "locator": "Ambrose Channel Federal Discrepancies; ATON/Proposed",
+   "passage": "Ambrose Channel Federal Discrepancies Ambrose Channel Lighted Whistle Buoy A"
+  },
+  {
+   "id": "Z1-S13",
+   "authority": "Administración del Sistema Portuario Nacional Veracruz (ASIPONA Veracruz)",
+   "title": "Centro de Control de Tráfico Marítimo",
+   "date_or_edition": "Undated web page, site (c) 2026 (accessed 2026-09-29)",
+   "url": "https://www.puertodeveracruz.com.mx/infraestructura/centro-de-control-de-trafico-maritimo/",
+   "source_class": "Tier 2",
+   "supports": "Existence, functions, equipment (X and S band radar, AIS) and contact (VHF 10 and 16) of the Veracruz maritime traffic control centre, operating as auxiliary to the Capitanía de Puerto.",
+   "locator": "Main page text",
+   "passage": "instaló el Centro de Control de Tráfico Marítimo de Veracruz quien se encarga de vigilar, controlar, prestar asistencia a la navegación"
+  },
+  {
+   "id": "Z1-S14",
+   "authority": "ASIPONA Veracruz",
+   "title": "Centro de Control de Tráfico Marítimo: Área de Influencia",
+   "date_or_edition": "Undated web page (accessed 2026-09-29)",
+   "url": "https://www.puertodeveracruz.com.mx/infraestructura/centro-de-control-de-trafico-maritimo/area-de-influencia/",
+   "source_class": "Tier 2",
+   "supports": "The CCTMVER control area expressly includes the traffic separation zones, lanes and precautionary areas; bounding box coordinates.",
+   "locator": "Área de Influencia text",
+   "passage": "El área de control de tráfico marítimo ejercido por el CCTMVER, incluye las zonas de separación de tráfico, carriles, áreas de precaución, área a evitar y área de fondeo."
+  },
+  {
+   "id": "Z1-S15",
+   "authority": "ASIPONA Veracruz",
+   "title": "Centro de Control de Tráfico Marítimo: Información General CCTM",
+   "date_or_edition": "Undated web page (accessed 2026-09-29)",
+   "url": "https://www.puertodeveracruz.com.mx/infraestructura/centro-de-control-de-trafico-maritimo/informacion-general-cctm/",
+   "source_class": "Tier 2",
+   "supports": "Sea buoy position, pilot boarding, Capitanía de Puerto listening watch on VHF 12.",
+   "locator": "Información General CCTM",
+   "passage": "La Capitanía de Puerto está a la escucha en canal VHF 12."
+  },
+  {
+   "id": "Z1-S16",
+   "authority": "IMO (copy hosted by Transportstyrelsen)",
+   "title": "COLREG.2/Circ.41, New and amended traffic separation schemes (Annex: In the Approaches to the Port of Veracruz)",
+   "date_or_edition": "1996; implemented 0000 UTC 30 November 1996",
+   "url": "https://www.transportstyrelsen.se/globalassets/global/sjofart/dokument/sjotrafik_dok/imo_colreg.2_cirkular.pdf?id=58526",
+   "source_class": "Tier 1",
+   "supports": "Original geographical positions of the Veracruz TSS (East Approach seaward end at 095°45.00'W; North Approach to 19°19.00'N). Not checked against any later amendment in Ships' Routeing 2025.",
+   "locator": "COLREG.2/Circ.41 Annex, Veracruz",
+   "passage": "The traffic separation scheme in the approaches to Veracruz, Mexico, consists of two parts:"
+  },
+  {
+   "id": "Z1-S17",
+   "authority": "IMO / Global VTS project",
+   "title": "IMO_2025_Mandatory_Reporting_Systems.csv (Ships' Routeing 2025 Part I list)",
+   "date_or_edition": "Ships' Routeing 2025 Edition (project baseline)",
+   "url": "data/authoritative/IMO_2025_Mandatory_Reporting_Systems.csv",
+   "source_class": "Tier 1",
+   "supports": "Only Part I mandatory ship reporting system on the western North Atlantic and Gulf of Mexico coasts is I-I/21 (VRS-0021); none for Canada or Mexico.",
+   "locator": "Row I-I/21",
+   "passage": "I-I/21,Off the north-eastern and south-eastern coasts of the United States,837,Mandatory ship reporting systems,Part I,VRS-0021"
+  },
+  {
+   "id": "Z1-S18",
+   "authority": "US Coast Guard / eCFR",
+   "title": "33 CFR 165.100 (RNA, USCG Northeast District) and 165.501 (Chesapeake Bay entrance and Hampton Roads RNA)",
+   "date_or_edition": "eCFR point-in-time 2026-09-01 (accessed 2026-09-29)",
+   "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-09-01/title-33.xml?part=165&section=165.501",
+   "source_class": "Tier 1",
+   "supports": "Regulated navigation areas contain situational notification duties (impairments, emergencies, movements under RNA conditions) and repeat VMRS Buzzards Bay rules; they do not establish a named ship reporting scheme for the TSS.",
+   "locator": "165.100(d); 165.501",
+   "passage": "A vessel over 100 gross tons, which is underway in the Regulated Navigation Area, that has its ability to maneuver become impaired for any reason, shall, as soon as possible, report the impairment to the Captain of the Port."
+  },
+  {
+   "id": "Z1-S19",
+   "authority": "Search result only (philadelphiaencyclopedia.org summary; not opened)",
+   "title": "Maritime Exchange for the Delaware River and Bay vessel reporting (search snippet)",
+   "date_or_edition": "n/a",
+   "url": "https://philadelphiaencyclopedia.org/essays/philadelphia-maritime-exchange/",
+   "source_class": "Lead only",
+   "supports": "Lead: the Maritime Exchange (a trade association) historically ran ship reporting stations including Cape Henlopen; vessels are \"requested\" to pass position/ETA information. Not an official source; not a VTS.",
+   "locator": "Search snippet",
+   "passage": ""
+  },
+  {
+   "id": "Z1-P4-CP1-9",
+   "authority": "NOAA Office of Coast Survey",
+   "title": "US Coast Pilot 1, Chapter 9",
+   "date_or_edition": "Current edition (27 Sep 2026)",
+   "url": "https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp1/CPB1_C09_WEB.pdf",
+   "source_class": "Tier 3",
+   "supports": "Approach described with no VTS (Coast Pilot) / complete list of operating US VTS incl. Tampa (NAVCEN); added at Pass 4 by the independent checker",
+   "locator": "Chapter text on the approach",
+   "passage": "",
+   "added_at": "Pass 4"
+  },
+  {
+   "id": "Z1-P4-CP2-7",
+   "authority": "NOAA Office of Coast Survey",
+   "title": "US Coast Pilot 2, Chapter 7",
+   "date_or_edition": "Current edition (27 Sep 2026)",
+   "url": "https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp2/CPB2_C07_WEB.pdf",
+   "source_class": "Tier 3",
+   "supports": "Approach described with no VTS (Coast Pilot) / complete list of operating US VTS incl. Tampa (NAVCEN); added at Pass 4 by the independent checker",
+   "locator": "Chapter text on the approach",
+   "passage": "",
+   "added_at": "Pass 4"
+  },
+  {
+   "id": "Z1-P4-CP3-6",
+   "authority": "NOAA Office of Coast Survey",
+   "title": "US Coast Pilot 3, Chapter 6",
+   "date_or_edition": "Current edition (27 Sep 2026)",
+   "url": "https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp3/CPB3_C06_WEB.pdf",
+   "source_class": "Tier 3",
+   "supports": "Approach described with no VTS (Coast Pilot) / complete list of operating US VTS incl. Tampa (NAVCEN); added at Pass 4 by the independent checker",
+   "locator": "Chapter text on the approach",
+   "passage": "",
+   "added_at": "Pass 4"
+  },
+  {
+   "id": "Z1-P4-CP3-9",
+   "authority": "NOAA Office of Coast Survey",
+   "title": "US Coast Pilot 3, Chapter 9",
+   "date_or_edition": "Current edition (27 Sep 2026)",
+   "url": "https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp3/CPB3_C09_WEB.pdf",
+   "source_class": "Tier 3",
+   "supports": "Approach described with no VTS (Coast Pilot) / complete list of operating US VTS incl. Tampa (NAVCEN); added at Pass 4 by the independent checker",
+   "locator": "Chapter text on the approach",
+   "passage": "",
+   "added_at": "Pass 4"
+  },
+  {
+   "id": "Z1-P4-CP4-5",
+   "authority": "NOAA Office of Coast Survey",
+   "title": "US Coast Pilot 4, Chapter 5",
+   "date_or_edition": "Current edition (27 Sep 2026)",
+   "url": "https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp4/CPB4_C05_WEB.pdf",
+   "source_class": "Tier 3",
+   "supports": "Approach described with no VTS (Coast Pilot) / complete list of operating US VTS incl. Tampa (NAVCEN); added at Pass 4 by the independent checker",
+   "locator": "Chapter text on the approach",
+   "passage": "",
+   "added_at": "Pass 4"
+  },
+  {
+   "id": "Z1-P4-CP4-6",
+   "authority": "NOAA Office of Coast Survey",
+   "title": "US Coast Pilot 4, Chapter 6",
+   "date_or_edition": "Current edition (27 Sep 2026)",
+   "url": "https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp4/CPB4_C06_WEB.pdf",
+   "source_class": "Tier 3",
+   "supports": "Approach described with no VTS (Coast Pilot) / complete list of operating US VTS incl. Tampa (NAVCEN); added at Pass 4 by the independent checker",
+   "locator": "Chapter text on the approach",
+   "passage": "",
+   "added_at": "Pass 4"
+  }
+ ],
+ "services": [
+  {
+   "name": "Fundy Traffic (Bay of Fundy VTS Zone)",
+   "authority": "Canadian Coast Guard MCTS; zone under SOR/2025-275",
+   "centre": "Halifax MCTS Centre",
+   "sectors": "1 (Ch 14), 2 (Ch 12), 3 (Ch 71)",
+   "area_description": "Bay of Fundy Local Eastern VTS Zone, Chebogue Point to Canada/US boundary including Fishing Zone 2 (SOR/2025-275 Sch. 3 item 7)",
+   "operational_evidence": "RAMN 2026 Part 3: monitors by radar and AIS; H24 Halifax MCTS",
+   "source_ids": [
+    "Z1-S8",
+    "Z1-S9",
+    "Z1-S10"
+   ]
+  },
+  {
+   "name": "VTS New York",
+   "authority": "US Coast Guard, Sector New York",
+   "centre": "Fort Wadsworth, Staten Island",
+   "sectors": "New York Traffic Ch 11/12/14 monitoring areas",
+   "area_description": "33 CFR 161.25; seaward limit Breezy Point to Ambrose/Swash/Sandy Hook Channel entrance buoys to Sandy Hook Point",
+   "operational_evidence": "NAVCEN VTS Locations; User Manual rev. Jan 2023",
+   "source_ids": [
+    "Z1-S1",
+    "Z1-S4",
+    "Z1-S6"
+   ]
+  },
+  {
+   "name": "VTS Houston-Galveston",
+   "authority": "US Coast Guard, Sector Houston-Galveston",
+   "centre": "Sector Houston-Galveston, southeast Houston",
+   "sectors": "Houston Traffic Ch 11 north / Ch 12 south of Exxon Dock #1; Ch 5A sailing plans",
+   "area_description": "33 CFR 161.35 waterways incl. Galveston Bay Entrance and Outer Bar Channels; monitoring area navigable waters 29°00'N-29°49'N, 94°20'W-95°20'W",
+   "operational_evidence": "NAVCEN VTS Locations; User Manual 2025",
+   "source_ids": [
+    "Z1-S1",
+    "Z1-S4",
+    "Z1-S7"
+   ]
+  },
+  {
+   "name": "Centro de Control de Tráfico Marítimo de Veracruz (CCTMVER)",
+   "authority": "ASIPONA Veracruz (auxiliary to Capitanía de Puerto)",
+   "centre": "Veracruz port administration building",
+   "sectors": null,
+   "area_description": "Box 19°02.2'N-19°19.0'N, coast to 095°46.6'W incl. TSS, precautionary areas, ATBA, anchorage",
+   "operational_evidence": "ASIPONA pages (site 2026): radar X/S band, AIS, VHF 10/16",
+   "source_ids": [
+    "Z1-S13",
+    "Z1-S14",
+    "Z1-S15"
+   ]
+  }
+ ],
+ "batch_audits": [
+  {
+   "batch": "B40",
+   "pass2_evidence_check": "All positive links re-opened from saved copies and passages string-verified: SOR/2025-275 Sch.3 item 7, RAMN 2026 Table 3-30 (TSS calling-in points) and Part 2 Halifax entry for TSS-0196; 33 CFR 169.105 plus 167.76-77 geometry for TSS-0198; 33 CFR 161.25, 167.151 and D1 LNM buoy position for TSS-0200. Negative findings rest on 33 CFR 161 Table 1, 161.2 and the NAVCEN enumerated VTC list (eCFR 2026-09-01).",
+   "pass3_classification_duplicate_check": "Fundy zone reporting kept inside the VTS (not a separate MRS). VMRS Buzzards Bay treated as a VMRS (not VTS) and not linked, as it adjoins only. WHALESNORTH linked once as VRS-0021 (Boston only). VTS New York reused by exact legacy name. The Boston/Nantucket junction precautionary area is shared with TSS-0200, and neither record claims WHALESNORTH for it.",
+   "unresolved_items": [
+    "TSS-0198: WHALESNORTH coverage partial (south of 41°00'N outside)",
+    "TSS-0200: partial coverage; Ambrose buoys proposed for discontinuance (boundary reference)",
+    "TSS-0197/0199: Neither confirmed relies on the US VTS list being complete"
+   ],
+   "audit_result": "PASS WITH UNRESOLVED ITEMS"
+  },
+  {
+   "batch": "B41",
+   "pass2_evidence_check": "VTS Houston-Galveston re-verified from 33 CFR 161.35 (LB 1C inside the inshore precautionary area, point-in-polygon check), Table 1 monitoring box and 161.2 navigable waters; NAVCEN and 2025 User Manual confirm operation. Veracruz CCTM re-opened from the ASIPONA pages and checked against COLREG.2/Circ.41 coordinates. Delaware, Chesapeake and Cape Fear negatives re-checked against 161 Table 1, NAVCEN, 169.105/115 and 165.501.",
+   "pass3_classification_duplicate_check": "VTS Houston-Galveston reused by exact legacy name. The Veracruz CCTM is a new service (no legacy ID), flagged for service-type confirmation. Maritime Exchange (Delaware) kept as a lead, not a VTS. RNA 165.501 notifications not counted as an MRS. No Part I system in the Gulf of Mexico.",
+   "unresolved_items": [
+    "TSS-0204: 12 NM split of the lanes approximate",
+    "TSS-0205: service designation (VTS) and 2025 TSS coordinates to confirm; national reporting not exhaustively searched",
+    "TSS-0201/0202/0203: Neither confirmed relies on the US VTS list being complete"
+   ],
+   "audit_result": "PASS WITH UNRESOLVED ITEMS"
+  }
+ ],
+ "method_notes": "US records: eCFR point-in-time XML (2026-09-01) for 33 CFR 161, 165, 167 and 169; own geometry (segment intersection, point-in-polygon, flat-earth distances) on the CFR coordinates. 'Neither confirmed' for five US TSS rests on three things: 33 CFR 161.2 defines a VTS as USCG-implemented; Table 1 to 161.12(c) lists every VTS and VMRS centre; and NAVCEN's overview enumerates the Coast Guard VTCs (its list names 13 places under '12 Vessel Traffic Centers' and omits Lower Mississippi, while the Locations page shows it). The coordinator may prefer 'Unresolved' if that is not accepted as a complete list. Canadian pages via canada.ca failed with curl (HTTP/2 errors) and were fetched with Python urllib. The RAMN 2026 PDF was too large for WebFetch; the HTML Part 3 was used. hacienda.gob.mx failed TLS verification (not bypassed). The Veracruz TSS coordinates are from the 1996 COLREG.2/Circ.41 copy, not the 2025 edition. Notice of Arrival (33 CFR 160 Subpart C) is a port-entry notice, not an area reporting scheme, and is not counted. All accesses 2026-09-29."
+}
