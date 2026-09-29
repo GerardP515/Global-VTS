@@ -167,6 +167,30 @@
   "TSS-0060": {
    "reporting_boundary_basis": "No IMO Part I system covers this area: nearest are WETREP (VRS-0005), whose North Sea limit runs from the Belgium/Netherlands border to the UK east coast at 52°12'N (Q-S15), and CALDOVREP (VRS-0008, Dover Strait). Territorial-sea extent not checked (IMO coordinates not retrieved), so the applicability of STZ art. 5(1) is not resolved. Pass 4: Scheepvaartreglement territoriale zee art. 5(1) requires ships of 300 GT or more, or carrying dangerous goods, to report before entering the Dutch territorial sea; this is made as the VTS or approach-area arrival report and is not a separate ship reporting system.",
    "_reason": "Pass 4 note."
+  },
+  "TSS-0153": {
+   "association_status": "Unresolved",
+   "_reason": "Pass 4.",
+   "mandatory_reporting": "No",
+   "vrs_id": "",
+   "voluntary_reporting": "Yes: SUNDAREP (voluntary for foreign ships; mandatory for Indonesian-flag ships under national decree)",
+   "unresolved_issue": "Current (post-2020) official confirmation of Merak VTS operation and area limits not retrieved; texts of KM 129/2020 and KM 130/2020 not read (Hubla press release gives both titles as concerning Selat Lombok / Selat Lombok dan Selat Sunda). MRS applies only to Indonesian-flag ships. Pass 4: obtain a current (2023 or later) official source confirming the VTS operates over and covers this TSS; read the national decree text."
+  },
+  "TSS-0154": {
+   "association_status": "Unresolved",
+   "_reason": "Pass 4.",
+   "mandatory_reporting": "No",
+   "vrs_id": "",
+   "voluntary_reporting": "Yes: LOMBOKREP (voluntary for foreign ships; mandatory for Indonesian-flag ships under national decree)",
+   "unresolved_issue": "Current official confirmation of Benoa VTS operation and area limits not retrieved; KM texts not read. MRS applies only to Indonesian-flag ships. Pass 4: obtain a current (2023 or later) official source confirming the VTS operates over and covers this TSS; read the national decree text."
+  },
+  "TSS-0148": {
+   "vts_boundary_basis": "Scheme spans 101°59.7'E to 103°29.6'E (U-S6). Chartlet Appendix 1 (U-S6 p.119) shows it crossing Sectors 4, 5 and 6. Sector 7's western limit is the line Tg Piai (01°15.50'N 103°30.75'E) - Pulau Karimun Kecil (01°09.20'N 103°24.35'E) (U-S1 para 3.3.1, U-S5). A side-of-line calculation on the WGS 84 coordinates shows the eastern end points (58) 01°12.20'N 103°28.40'E, (70) 01°14.30'N 103°29.60'E and (76) 01°09.20'N 103°26.70'E lie slightly east of that line (well under 1 nm), so a very small terminal portion is in Singapore VTS Sector 7; the remainder is Klang (4-5) and Johor (6). Pass 4 correction: the eastern lane ends lie up to about 1.6 nm east of the Tg Piai to Pulau Karimun Kecil line (point 70 about 0.05 nm, 58 about 0.7 nm, 59 about 1.2 nm, 76 about 1.6 nm), so they are in Singapore VTS Sector 7.",
+   "_reason": "Pass 4 correction."
+  },
+  "TSS-0152": {
+   "unresolved_issue": "No evidence found of VTS or mandatory reporting coverage of the part of the scheme east of 104°23'E; possible Malaysian (Johor) or Indonesian (Batam/Tanjung Pinang) VTS coverage not researched. Pass 4: MPA asks eastbound-arriving ships to report to VTIS East when Horsburgh Lt (104 24.3E) is abeam; that is a reporting point and does not extend VTS coverage east of 104 23E.",
+   "_reason": "Pass 4 note."
   }
  },
  "pass4_notes": {
@@ -179,10 +203,15 @@
   "B10": "An independent checker re-opened the Port Information Guide 2026, Staatscourant 2026 8272, the IJmuiden VTS regulation 2025, MSC.190(79), COLREG.2/Circ.64 and 67 and the Scheldt VTS folder, and re-did the WETREP, 38 nm and 12 nm geometry. Six positives upheld; Maas West Outer kept with its basis corrected and confidence lowered (research/stage2/pass4/chk_P_result.json).",
   "B11": "An independent checker re-opened the Port Information Guide 2026, Staatscourant 2026 8272, the IJmuiden VTS regulation 2025, MSC.190(79), COLREG.2/Circ.64 and 67 and the Scheldt VTS folder, and re-did the WETREP, 38 nm and 12 nm geometry. Six positives upheld; Maas West Outer kept with its basis corrected and confidence lowered (research/stage2/pass4/chk_P_result.json).",
   "B12": "An independent checker re-rendered the AnlBV Anhang chart, re-read the AnlBV, SeeSchStrO and 2014 GDWS notice, the ABP Humber page and COLREG.2/Circ.60, and upheld all five positives; German Bight western approach coverage note widened (research/stage2/pass4/chk_Q_result.json).",
-  "B13": "An independent checker re-rendered the AnlBV Anhang chart, re-read the AnlBV, SeeSchStrO and 2014 GDWS notice, the ABP Humber page and COLREG.2/Circ.60, and upheld all five positives; German Bight western approach coverage note widened (research/stage2/pass4/chk_Q_result.json)."
+  "B13": "An independent checker re-rendered the AnlBV Anhang chart, re-read the AnlBV, SeeSchStrO and 2014 GDWS notice, the ABP Humber page and COLREG.2/Circ.60, and upheld all five positives; German Bight western approach coverage note widened (research/stage2/pass4/chk_Q_result.json).",
+  "B30": "An independent checker re-opened MSC.73(69), the MPA VTIS pages (updated 28 Sep 2026), the Singapore Port Information 2026 chartlets, the 2020 DG Sea Transportation release and the Hong Kong Marine Department sources. Seven positives upheld; TSS-0148 wording corrected; Sunda and Lombok downgraded (research/stage2/pass4/chk_U_result.json).",
+  "B31": "An independent checker re-opened MSC.73(69), the MPA VTIS pages (updated 28 Sep 2026), the Singapore Port Information 2026 chartlets, the 2020 DG Sea Transportation release and the Hong Kong Marine Department sources. Seven positives upheld; TSS-0148 wording corrected; Sunda and Lombok downgraded (research/stage2/pass4/chk_U_result.json).",
+  "B36": "No positive or Neither confirmed classification to re-check. Coordinator confirmed every Unresolved record states what remains unknown.",
+  "B37": "No positive or Neither confirmed classification to re-check. Coordinator confirmed every Unresolved record states what remains unknown."
  },
  "audit_result": {},
  "vts_alias": {
   "VTS North Sea Canal Area": "VTS North Sea Canal Area (Noordzeekanaalgebied)"
- }
+ },
+ "assignment": "assigned B30–B39"
 }

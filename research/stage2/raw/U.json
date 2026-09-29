@@ -1,0 +1,623 @@
+{
+ "group": "U",
+ "records": [
+  {
+   "tss_id": "TSS-0146",
+   "batch": "B30",
+   "tss_name": "Port Klang to Port Dickson",
+   "imo_parent_ref": "B-V/2",
+   "coastal_state_s": "Malaysia (Indonesia, Singapore as co-proposers of the routeing system)",
+   "association_status": "VTS + MRS",
+   "vts_name": "Klang VTS",
+   "vts_authority": "Malaysia (Marine Department Malaysia / Jabatan Laut Malaysia per lead source only; the IMO and MPA sources name the VTS authority but not its parent body)",
+   "vts_centre": "Klang VTS (Port Klang); remote radar stations Bukit Jugra and Cape Rachado",
+   "vts_sector": "STRAITREP Sector 2 (Jugra, VHF 88) for most of the scheme; south-eastern end and Off Port Dickson precautionary area at the Sector 2/3 boundary (Sector 3 Cape Rachado, VHF 84, also Klang VTS)",
+   "vts_boundary_basis": "Scheme spans 101°12.3'E to 101°38.7'E (U-S6, WGS 84 coordinates). MSC.73(69) assigns Sectors 1-5 to Klang VTS (U-S1, U-S2, U-S4). Sector 1-6 limits are shown only graphically on Appendix 1 chartlet (U-S6 p.119); on it the TSS lies in Sector 2 with its SE end reaching the Sector 2/3 line off Port Dickson. Both sectors are Klang VTS, so VTS allocation does not depend on the exact line.",
+   "vts_coverage": "full",
+   "vts_source_ids": [
+    "U-S1",
+    "U-S2",
+    "U-S4",
+    "U-S6"
+   ],
+   "mandatory_reporting": "Yes",
+   "vrs_id": "VRS-0016",
+   "reporting_scheme_name": "STRAITREP (Mandatory Ship Reporting System in the Straits of Malacca and Singapore; IMO Part I I-I/16)",
+   "reporting_authority": "Klang VTS (VTS authority for Sectors 1-5), under STRAITREP jointly implemented by Indonesia, Malaysia and Singapore",
+   "reporting_boundary_basis": "STRAITREP operational area 100°40'E to 104°23'E 'includes the routeing system in the Straits of Malacca and Singapore' (U-S1 para 2.1); this TSS (MSC 69, 1998, part of that routeing system, U-S6 p.6) lies wholly within it. STRAITREP participants (MSC.73(69) Annex 1 para 1.1): ships of 300 GT and above; 50 m or more in length; towing/pushing combinations of 300 GT or 50 m; any tonnage carrying hazardous cargo; all VHF-fitted passenger vessels; smaller VHF-fitted vessels using the lanes in an emergency.",
+   "reporting_source_ids": [
+    "U-S1",
+    "U-S3",
+    "U-S6",
+    "U-S14"
+   ],
+   "voluntary_reporting": "No",
+   "evidence_summary": "IMO STRAITREP instrument expressly includes the Malacca/Singapore routeing system; scheme coordinates place it wholly in the STRAITREP area in Klang VTS Sector 2 (SE end at 2/3 boundary, also Klang VTS). MPA pages updated 28 Sep 2026 confirm current sector allocation.",
+   "source_date": "MSC.73(69) 19 May 1998; MPA pages 28 Sep 2026; SPI updated 17 Apr 2026",
+   "unresolved_issue": "Sector 1-6 boundaries are published only as chartlets (no coordinates); sector attribution is by chartlet reading. Parent operating body of Klang VTS (Marine Department Malaysia) supported only by a lead source; marine.gov.my unavailable (HTTP 503 / certificate error).",
+   "vts_leads": "Marine Department Malaysia VTS centre at Menara Dius Api, Port Klang (U-S13, lead only)",
+   "prior_lead_outcome": "confirmed: Klang VTS Sector 2 (with 2/3 boundary at SE end) and STRAITREP re-verified from IMO, MPA and SPI 2026 coordinates"
+  },
+  {
+   "tss_id": "TSS-0147",
+   "batch": "B30",
+   "tss_name": "Port Dickson to Tanjung Keling",
+   "imo_parent_ref": "B-V/3",
+   "coastal_state_s": "Malaysia (Indonesia opposite coast)",
+   "association_status": "VTS + MRS",
+   "vts_name": "Klang VTS",
+   "vts_authority": "Malaysia (Marine Department Malaysia per lead source only)",
+   "vts_centre": "Klang VTS (Port Klang); remote radar station Cape Rachado",
+   "vts_sector": "STRAITREP Sector 3 (Cape Rachado, VHF 84); Off Malacca/Dumai precautionary area at SE end lies near the Sector 3/4 boundary (Sector 4 Undan, VHF 61, also Klang VTS)",
+   "vts_boundary_basis": "Scheme spans 101°36.0'E to 102°00.9'E (U-S6). On Appendix 1 chartlet (U-S6 p.119) it lies between the Sector 2/3 line off Port Dickson and the Sector 3/4 line off Malacca. Sectors 1-5 are Klang VTS (U-S1, U-S2, U-S4).",
+   "vts_coverage": "full",
+   "vts_source_ids": [
+    "U-S1",
+    "U-S2",
+    "U-S4",
+    "U-S6"
+   ],
+   "mandatory_reporting": "Yes",
+   "vrs_id": "VRS-0016",
+   "reporting_scheme_name": "STRAITREP (Mandatory Ship Reporting System in the Straits of Malacca and Singapore; IMO Part I I-I/16)",
+   "reporting_authority": "Klang VTS",
+   "reporting_boundary_basis": "Wholly within STRAITREP area (100°40'E to 104°23'E) which includes the routeing system (U-S1 para 2.1). STRAITREP participants (MSC.73(69) Annex 1 para 1.1): ships of 300 GT and above; 50 m or more in length; towing/pushing combinations of 300 GT or 50 m; any tonnage carrying hazardous cargo; all VHF-fitted passenger vessels; smaller VHF-fitted vessels using the lanes in an emergency.",
+   "reporting_source_ids": [
+    "U-S1",
+    "U-S3",
+    "U-S6",
+    "U-S14"
+   ],
+   "voluntary_reporting": "No",
+   "evidence_summary": "Part of the 1998 Malacca/Singapore routeing system expressly included in STRAITREP; coordinates and chartlet place it in Klang VTS Sector 3.",
+   "source_date": "MSC.73(69) 19 May 1998; MPA pages 28 Sep 2026; SPI updated 17 Apr 2026",
+   "unresolved_issue": "Sector boundaries graphical only. Parent operating body of Klang VTS supported only by lead source.",
+   "vts_leads": "Marine Department Malaysia (U-S13, lead only)",
+   "prior_lead_outcome": "confirmed: Sector 3 Klang VTS and STRAITREP re-verified"
+  },
+  {
+   "tss_id": "TSS-0148",
+   "batch": "B30",
+   "tss_name": "Malacca to Iyu Kecil",
+   "imo_parent_ref": "B-V/4",
+   "coastal_state_s": "Malaysia; Indonesia (Singapore at the SE terminus)",
+   "association_status": "VTS + MRS",
+   "vts_name": "Klang VTS; Johor VTS; Singapore VTS (marginal south-eastern terminus only)",
+   "vts_authority": "Klang VTS and Johor VTS: Malaysia (Marine Department Malaysia per lead source only); Singapore VTS: Maritime and Port Authority of Singapore (VTIS)",
+   "vts_centre": "Klang VTS; Johor VTS; Singapore VTS (VTIS West sector)",
+   "vts_sector": "STRAITREP Sector 4 (Undan, VHF 61) and Sector 5 (Segenting, VHF 88): Klang VTS; Sector 6 (Piai, VHF 88): Johor VTS; the SE lane ends lie marginally east of the Tg Piai - Pulau Karimun Kecil line, i.e. in Sector 7 (VTIS West, VHF 73): Singapore VTS",
+   "vts_boundary_basis": "Scheme spans 101°59.7'E to 103°29.6'E (U-S6). Chartlet Appendix 1 (U-S6 p.119) shows it crossing Sectors 4, 5 and 6. Sector 7's western limit is the line Tg Piai (01°15.50'N 103°30.75'E) - Pulau Karimun Kecil (01°09.20'N 103°24.35'E) (U-S1 para 3.3.1, U-S5). A side-of-line calculation on the WGS 84 coordinates shows the eastern end points (58) 01°12.20'N 103°28.40'E, (70) 01°14.30'N 103°29.60'E and (76) 01°09.20'N 103°26.70'E lie slightly east of that line (well under 1 nm), so a very small terminal portion is in Singapore VTS Sector 7; the remainder is Klang (4-5) and Johor (6).",
+   "vts_coverage": "full",
+   "vts_source_ids": [
+    "U-S1",
+    "U-S2",
+    "U-S4",
+    "U-S5",
+    "U-S6"
+   ],
+   "mandatory_reporting": "Yes",
+   "vrs_id": "VRS-0016",
+   "reporting_scheme_name": "STRAITREP (Mandatory Ship Reporting System in the Straits of Malacca and Singapore; IMO Part I I-I/16)",
+   "reporting_authority": "Klang VTS (Sectors 4-5), Johor VTS (Sector 6), Singapore VTS (Sector 7 at terminus)",
+   "reporting_boundary_basis": "Wholly within STRAITREP area which includes the routeing system (U-S1 para 2.1); ships crossing the Tg Piai - Pulau Karimun Kecil line must report (U-S1 para 3.3.1). STRAITREP participants (MSC.73(69) Annex 1 para 1.1): ships of 300 GT and above; 50 m or more in length; towing/pushing combinations of 300 GT or 50 m; any tonnage carrying hazardous cargo; all VHF-fitted passenger vessels; smaller VHF-fitted vessels using the lanes in an emergency.",
+   "reporting_source_ids": [
+    "U-S1",
+    "U-S2",
+    "U-S3",
+    "U-S6",
+    "U-S14"
+   ],
+   "voluntary_reporting": "No",
+   "evidence_summary": "STRAITREP expressly includes the routeing system; coordinates and chartlet place the scheme in Klang VTS Sectors 4-5 and Johor VTS Sector 6, with the extreme SE lane ends a fraction east of the Sector 6/7 reporting line (Singapore VTS).",
+   "source_date": "MSC.73(69) 19 May 1998; MPA pages 28 Sep 2026; SPI updated 17 Apr 2026",
+   "unresolved_issue": "Sector 4/5 and 5/6 boundaries graphical only. Singapore VTS link is a marginal terminal overlap (editor may prefer to record Klang VTS and Johor VTS as the principal services). Operating body of Klang and Johor VTS supported only by lead source; Johor VTS centre location not stated in sources opened.",
+   "vts_leads": "Marine Department Malaysia (U-S13, lead only)",
+   "prior_lead_outcome": "confirmed: three-VTS allocation re-verified; eastern-end position relative to Tg Piai line recomputed from SPI 2026 WGS 84 coordinates"
+  },
+  {
+   "tss_id": "TSS-0149",
+   "batch": "B30",
+   "tss_name": "In the Singapore Strait (Main Strait)",
+   "imo_parent_ref": "B-V/5",
+   "coastal_state_s": "Singapore; Indonesia; Malaysia",
+   "association_status": "VTS + MRS",
+   "vts_name": "Singapore VTS",
+   "vts_authority": "Maritime and Port Authority of Singapore (Vessel Traffic Information System, VTIS)",
+   "vts_centre": "Singapore VTS / MPA VTIS (call signs VTIS West and VTIS Central)",
+   "vts_sector": "STRAITREP Sector 7 (VTIS West, VHF 73) west of 103°44.5'E; Sector 8 (VTIS Central, VHF 14) east of 103°44.5'E",
+   "vts_boundary_basis": "Scheme spans 103°32.2'E to 103°49.55'E (U-S6), wholly east of the Tg Piai - Pulau Karimun Kecil line. MPA defines Sector 7 as between that line and Long 103°44.5'E and Sector 8 as 103°44.5'E to 104°02.1'E (U-S5; chartlet Appendix 2, U-S6 p.120); both are Singapore VTS sectors (U-S1, U-S4).",
+   "vts_coverage": "full",
+   "vts_source_ids": [
+    "U-S1",
+    "U-S3",
+    "U-S4",
+    "U-S5",
+    "U-S6"
+   ],
+   "mandatory_reporting": "Yes",
+   "vrs_id": "VRS-0016",
+   "reporting_scheme_name": "STRAITREP (Mandatory Ship Reporting System in the Straits of Malacca and Singapore; IMO Part I I-I/16)",
+   "reporting_authority": "Singapore VTS (MPA)",
+   "reporting_boundary_basis": "Wholly within STRAITREP area which includes the routeing system (U-S1 para 2.1, U-S3). STRAITREP participants (MSC.73(69) Annex 1 para 1.1): ships of 300 GT and above; 50 m or more in length; towing/pushing combinations of 300 GT or 50 m; any tonnage carrying hazardous cargo; all VHF-fitted passenger vessels; smaller VHF-fitted vessels using the lanes in an emergency.",
+   "reporting_source_ids": [
+    "U-S1",
+    "U-S2",
+    "U-S3",
+    "U-S14"
+   ],
+   "voluntary_reporting": "No",
+   "evidence_summary": "Longitude-defined MPA sectors place the scheme in Singapore VTS Sectors 7 and 8; STRAITREP expressly includes the routeing system.",
+   "source_date": "MPA pages 28 Sep 2026; SPI updated 17 Apr 2026; MSC.73(69) 1998",
+   "unresolved_issue": "",
+   "vts_leads": null,
+   "prior_lead_outcome": "confirmed: sector longitudes re-verified on MPA page updated 28 Sep 2026"
+  },
+  {
+   "tss_id": "TSS-0150",
+   "batch": "B30",
+   "tss_name": "Singapore Strait (Off St. John’s Island)",
+   "imo_parent_ref": "B-V/6",
+   "coastal_state_s": "Singapore; Indonesia",
+   "association_status": "VTS + MRS",
+   "vts_name": "Singapore VTS",
+   "vts_authority": "Maritime and Port Authority of Singapore (VTIS)",
+   "vts_centre": "Singapore VTS / MPA VTIS (call sign VTIS Central)",
+   "vts_sector": "STRAITREP Sector 8 (VTIS Central, VHF 14)",
+   "vts_boundary_basis": "Scheme spans 103°50.2'E to 103°52.7'E (U-S6), wholly between 103°44.5'E and 104°02.1'E, i.e. Sector 8 (U-S5, U-S6 p.120), a Singapore VTS sector (U-S1, U-S4).",
+   "vts_coverage": "full",
+   "vts_source_ids": [
+    "U-S1",
+    "U-S4",
+    "U-S5",
+    "U-S6"
+   ],
+   "mandatory_reporting": "Yes",
+   "vrs_id": "VRS-0016",
+   "reporting_scheme_name": "STRAITREP (Mandatory Ship Reporting System in the Straits of Malacca and Singapore; IMO Part I I-I/16)",
+   "reporting_authority": "Singapore VTS (MPA)",
+   "reporting_boundary_basis": "Wholly within STRAITREP area which includes the routeing system (U-S1 para 2.1). STRAITREP participants (MSC.73(69) Annex 1 para 1.1): ships of 300 GT and above; 50 m or more in length; towing/pushing combinations of 300 GT or 50 m; any tonnage carrying hazardous cargo; all VHF-fitted passenger vessels; smaller VHF-fitted vessels using the lanes in an emergency.",
+   "reporting_source_ids": [
+    "U-S1",
+    "U-S3",
+    "U-S14"
+   ],
+   "voluntary_reporting": "No",
+   "evidence_summary": "Scheme coordinates lie entirely within the longitude-defined Sector 8 of Singapore VTS; STRAITREP covers the routeing system.",
+   "source_date": "MPA pages 28 Sep 2026; SPI updated 17 Apr 2026; MSC.73(69) 1998",
+   "unresolved_issue": "",
+   "vts_leads": null,
+   "prior_lead_outcome": "confirmed"
+  },
+  {
+   "tss_id": "TSS-0151",
+   "batch": "B31",
+   "tss_name": "Singapore Strait (Off Changi/Pulau Batam)",
+   "imo_parent_ref": "B-V/7",
+   "coastal_state_s": "Singapore; Indonesia",
+   "association_status": "VTS + MRS",
+   "vts_name": "Singapore VTS",
+   "vts_authority": "Maritime and Port Authority of Singapore (VTIS)",
+   "vts_centre": "Singapore VTS / MPA VTIS (call signs VTIS Central and VTIS East)",
+   "vts_sector": "STRAITREP Sector 8 (VTIS Central, VHF 14) for most of the scheme; eastern end east of 104°02.1'E in Sector 9 (VTIS East, VHF 10)",
+   "vts_boundary_basis": "Scheme spans 103°53.75'E to about 104°03.35'E (U-S6), crossing the Sector 8/9 limit at 104°02.1'E (U-S5; U-S6 p.120). Both sectors are Singapore VTS (U-S1, U-S4). Associated Off Tanjung Setapa/Pulau Bintan precautionary area lies in Sector 9.",
+   "vts_coverage": "full",
+   "vts_source_ids": [
+    "U-S1",
+    "U-S4",
+    "U-S5",
+    "U-S6"
+   ],
+   "mandatory_reporting": "Yes",
+   "vrs_id": "VRS-0016",
+   "reporting_scheme_name": "STRAITREP (Mandatory Ship Reporting System in the Straits of Malacca and Singapore; IMO Part I I-I/16)",
+   "reporting_authority": "Singapore VTS (MPA)",
+   "reporting_boundary_basis": "Wholly within STRAITREP area which includes the routeing system (U-S1 para 2.1). STRAITREP participants (MSC.73(69) Annex 1 para 1.1): ships of 300 GT and above; 50 m or more in length; towing/pushing combinations of 300 GT or 50 m; any tonnage carrying hazardous cargo; all VHF-fitted passenger vessels; smaller VHF-fitted vessels using the lanes in an emergency.",
+   "reporting_source_ids": [
+    "U-S1",
+    "U-S3",
+    "U-S14"
+   ],
+   "voluntary_reporting": "No",
+   "evidence_summary": "Scheme coordinates fall in Singapore VTS Sectors 8 and 9 as defined by MPA longitudes; STRAITREP covers the routeing system.",
+   "source_date": "MPA pages 28 Sep 2026; SPI updated 17 Apr 2026; MSC.73(69) 1998",
+   "unresolved_issue": "",
+   "vts_leads": null,
+   "prior_lead_outcome": "confirmed"
+  },
+  {
+   "tss_id": "TSS-0152",
+   "batch": "B31",
+   "tss_name": "At Horsburgh lighthouse area",
+   "imo_parent_ref": "B-V/8",
+   "coastal_state_s": "Singapore; Malaysia; Indonesia",
+   "association_status": "VTS + MRS",
+   "vts_name": "Singapore VTS",
+   "vts_authority": "Maritime and Port Authority of Singapore (VTIS)",
+   "vts_centre": "Singapore VTS / MPA VTIS (call sign VTIS East)",
+   "vts_sector": "STRAITREP Sector 9 (VTIS East, VHF 10) from 104°14.89'E to 104°23'E only",
+   "vts_boundary_basis": "Scheme spans 104°14.89'E to 104°27.84'E (U-S6 Annex 8). Sector 9 is 104°02.1'E to 104°23.0'E (U-S5; chartlet shows Long 104°22.9'E, U-S6 p.120). The north-eastern part of the scheme east of about 104°23'E, including the lanes past Horsburgh Lt (104°24.44'E), is outside STRAITREP and outside any Singapore VTS sector shown in the sources opened. Partial coverage.",
+   "vts_coverage": "partial",
+   "vts_source_ids": [
+    "U-S1",
+    "U-S4",
+    "U-S5",
+    "U-S6"
+   ],
+   "mandatory_reporting": "Yes",
+   "vrs_id": "VRS-0016",
+   "reporting_scheme_name": "STRAITREP (Mandatory Ship Reporting System in the Straits of Malacca and Singapore; IMO Part I I-I/16)",
+   "reporting_authority": "Singapore VTS (MPA)",
+   "reporting_boundary_basis": "STRAITREP eastern limit 104°23'E (U-S1 para 2.1, U-S3); the scheme is inside STRAITREP only west of that meridian. Ships approaching from the east report on reaching Sector 9, giving position from reference points including Horsburgh Lt (U-S1 para 3.3.3). STRAITREP participants (MSC.73(69) Annex 1 para 1.1): ships of 300 GT and above; 50 m or more in length; towing/pushing combinations of 300 GT or 50 m; any tonnage carrying hazardous cargo; all VHF-fitted passenger vessels; smaller VHF-fitted vessels using the lanes in an emergency.",
+   "reporting_source_ids": [
+    "U-S1",
+    "U-S3",
+    "U-S6",
+    "U-S14"
+   ],
+   "voluntary_reporting": "No",
+   "evidence_summary": "Western roughly two-thirds of the scheme lies in Singapore VTS Sector 9 and STRAITREP; the NE end beyond 104°23E is outside both on the evidence found. Recorded as VTS + MRS with partial coverage.",
+   "source_date": "MPA pages 28 Sep 2026; SPI updated 17 Apr 2026; MSC.73(69) 1998",
+   "unresolved_issue": "No evidence found of VTS or mandatory reporting coverage of the part of the scheme east of 104°23'E; possible Malaysian (Johor) or Indonesian (Batam/Tanjung Pinang) VTS coverage not researched.",
+   "vts_leads": "Indonesian VTS in the Riau Islands (e.g. Batam) and Malaysian services off eastern Johor: geographic leads only for the NE end, not assessed",
+   "prior_lead_outcome": "confirmed: partial coverage west of 104°23E re-verified"
+  },
+  {
+   "tss_id": "TSS-0153",
+   "batch": "B31",
+   "tss_name": "In the Sunda Strait",
+   "imo_parent_ref": "B-V/9",
+   "coastal_state_s": "Indonesia",
+   "association_status": "VTS + MRS",
+   "vts_name": "Merak VTS",
+   "vts_authority": "Direktorat Jenderal Perhubungan Laut (DG Sea Transportation), Ministry of Transportation, Indonesia",
+   "vts_centre": "VTS Merak (call sign Merak VTS; VHF 22 or 68)",
+   "vts_sector": "Not stated in sources opened",
+   "vts_boundary_basis": "Official DGST statement names the TSS: VTS Merak equipped with AIS and radar 'siap untuk melaksanakan pengawasan di seluruh wilayah TSS di Selat Sunda dan Selat Lombok', and ships in the Sunda Strait TSS communicate on VHF 22 or 68 with call sign Merak VTS (U-S7). VTS area limits not retrieved.",
+   "vts_coverage": "full",
+   "vts_source_ids": [
+    "U-S7",
+    "U-S8"
+   ],
+   "mandatory_reporting": "Yes",
+   "vrs_id": "",
+   "reporting_scheme_name": "SUNDAREP (Sistem Pelaporan dan Informasi Navigasi), national scheme under KM 129/2020 and KM 130/2020; not an IMO Part I system; mandatory only for Indonesian-flag ships",
+   "reporting_authority": "DG Sea Transportation, via Merak VTS",
+   "reporting_boundary_basis": "Mandatory for all Indonesian-flag ships transiting or crossing the TSS; foreign ships entering the TSS strongly recommended to participate (U-S7). Not among the 23 IMO Part I systems (U-S14), so no VRS ID; coordinator to decide whether a national VRS ID is allocated.",
+   "reporting_source_ids": [
+    "U-S7",
+    "U-S14"
+   ],
+   "voluntary_reporting": "Yes: SUNDAREP for foreign-flag ships (strongly recommended, not mandatory)",
+   "evidence_summary": "Hubla (22 Jun 2020) names the Sunda Strait TSS, Merak VTS monitoring the whole TSS area and SUNDAREP, mandatory for Indonesian-flag ships only. TSS implemented 1 Jul 2020 (COLREG.2/Circ.74).",
+   "source_date": "22 Jun 2020 (Hubla); COLREG.2/Circ.74 implemented 1 Jul 2020",
+   "unresolved_issue": "Current (post-2020) official confirmation of Merak VTS operation and area limits not retrieved; texts of KM 129/2020 and KM 130/2020 not read (Hubla press release gives both titles as concerning Selat Lombok / Selat Lombok dan Selat Sunda). MRS applies only to Indonesian-flag ships.",
+   "vts_leads": null,
+   "prior_lead_outcome": "confirmed: Merak VTS and SUNDAREP (Indonesian-flag only) re-verified on Hubla page"
+  },
+  {
+   "tss_id": "TSS-0154",
+   "batch": "B31",
+   "tss_name": "In the Lombok Strait",
+   "imo_parent_ref": "B-V/10",
+   "coastal_state_s": "Indonesia",
+   "association_status": "VTS + MRS",
+   "vts_name": "Benoa VTS",
+   "vts_authority": "Direktorat Jenderal Perhubungan Laut (DG Sea Transportation), Ministry of Transportation, Indonesia",
+   "vts_centre": "VTS Benoa (call sign Benoa VTS; VHF 16 or 68)",
+   "vts_sector": "Not stated in sources opened",
+   "vts_boundary_basis": "Official DGST statement: VTS Benoa ready to monitor the whole TSS area in the Lombok Strait; ships in the Lombok Strait TSS communicate on VHF 16 or 68 with call sign Benoa VTS (U-S7). VTS area limits not retrieved.",
+   "vts_coverage": "full",
+   "vts_source_ids": [
+    "U-S7",
+    "U-S8"
+   ],
+   "mandatory_reporting": "Yes",
+   "vrs_id": "",
+   "reporting_scheme_name": "LOMBOKREP (Sistem Pelaporan dan Informasi Navigasi), national scheme under KM 129/2020 and KM 130/2020; not an IMO Part I system; mandatory only for Indonesian-flag ships",
+   "reporting_authority": "DG Sea Transportation, via Benoa VTS",
+   "reporting_boundary_basis": "Mandatory for all Indonesian-flag ships transiting or crossing the TSS; foreign ships strongly recommended to participate (U-S7). Not in IMO Part I (U-S14).",
+   "reporting_source_ids": [
+    "U-S7",
+    "U-S14"
+   ],
+   "voluntary_reporting": "Yes: LOMBOKREP for foreign-flag ships (strongly recommended, not mandatory)",
+   "evidence_summary": "Hubla (22 Jun 2020) names the Lombok Strait TSS, Benoa VTS and LOMBOKREP, mandatory for Indonesian-flag ships only. TSS implemented 1 Jul 2020 (COLREG.2/Circ.74).",
+   "source_date": "22 Jun 2020 (Hubla); COLREG.2/Circ.74 implemented 1 Jul 2020",
+   "unresolved_issue": "Current official confirmation of Benoa VTS operation and area limits not retrieved; KM texts not read. MRS applies only to Indonesian-flag ships.",
+   "vts_leads": null,
+   "prior_lead_outcome": "confirmed: service name is Benoa VTS (not 'Lombok VTS')"
+  },
+  {
+   "tss_id": "TSS-0155",
+   "batch": "B31",
+   "tss_name": "Eastern approaches to Victoria Port (Tathong Channel)",
+   "imo_parent_ref": "B-V/11",
+   "coastal_state_s": "China (Hong Kong SAR)",
+   "association_status": "VTS only",
+   "vts_name": "Hong Kong Vessel Traffic Service",
+   "vts_authority": "Marine Department, HKSAR Government",
+   "vts_centre": "Vessel Traffic Centre, Marine Department",
+   "vts_sector": "Eastern Approaches (VHF 12), calling-in point Tathong Channel Separation Buoy No. 1; NW end adjoins Harbour East sector (VHF 02) at Lei Yue Mun",
+   "vts_boundary_basis": "Marine Department states the VTS covers all navigable waters of Hong Kong used by sea-going vessels and that a TSS is implemented in Tathong Channel (U-S9); the March 2026 guide states the Tathong Channel TSS is within Hong Kong waters (U-S12). The 2025 sector chart and pamphlet place Tathong Channel Separation Buoy No. 1 as an Eastern Approaches calling-in point (U-S10, U-S11).",
+   "vts_coverage": "full",
+   "vts_source_ids": [
+    "U-S9",
+    "U-S10",
+    "U-S11",
+    "U-S12"
+   ],
+   "mandatory_reporting": "No",
+   "vrs_id": "",
+   "reporting_scheme_name": "",
+   "reporting_authority": "",
+   "reporting_boundary_basis": "No IMO Part I system for Hong Kong (U-S14). Mandatory participation in the VTS (Cap 313A reg 4: vessels over 300 GT and directed vessels; Cap 548F s57 local vessels) is VTS participation, recorded under the VTS, not a separate MRS (U-S10).",
+   "reporting_source_ids": [
+    "U-S10",
+    "U-S14"
+   ],
+   "voluntary_reporting": "No",
+   "evidence_summary": "Official Marine Department sources name the Tathong Channel TSS within Hong Kong waters and state the VTS covers all navigable Hong Kong waters; sector chart (Sep 2025) shows the Eastern Approaches sector calling-in point at the TSS.",
+   "source_date": "Pamphlet Apr 2025; sector chart Sep 2025; guide Mar 2026",
+   "unresolved_issue": "IMO parent B-V/11 is titled In the East Lamma and Tathong Channels; this record covers the Tathong Channel scheme only (East Lamma is a separate record). TSS coordinates not overlaid on the sector chart; exact sector split at Lei Yue Mun not confirmed.",
+   "vts_leads": null,
+   "prior_lead_outcome": "confirmed: VTS only, sources reopened (fact sheet, 2025 pamphlet, 2025 sector chart) plus March 2026 guide"
+  }
+ ],
+ "sources": [
+  {
+   "id": "U-S1",
+   "authority": "IMO Maritime Safety Committee",
+   "title": "Resolution MSC.73(69) Mandatory ship reporting systems, Annex 1: Description of the mandatory ship reporting system in the Straits of Malacca and Singapore (STRAITREP)",
+   "date_or_edition": "Adopted 19 May 1998; in force 0000 UTC 1 Dec 1998; accessed 29 Sep 2026",
+   "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.73(69).pdf",
+   "source_class": "Tier 1",
+   "supports": "STRAITREP (VRS-0016) operational area, inclusion of the routeing system, participation categories, VTS authority per sector (Klang VTS sectors 1-5, Johor VTS sector 6, Singapore VTS sectors 7-9), Tg Piai - Pulau Karimun Kecil reporting line, Horsburgh Lt as reference point",
+   "locator": "Annex 1 paras 1.1, 2.1, 3.3, 3.4; appendices 1-3",
+   "passage": "The operational area of STRAITREP covers the Straits of Malacca and Singapore between longitudes 100 40'E and 104 23'E ... The area includes the routeing system in the Straits of Malacca and Singapore."
+  },
+  {
+   "id": "U-S2",
+   "authority": "Maritime and Port Authority of Singapore",
+   "title": "Port Marine Circular No. 65 of 1998: Mandatory Ship Reporting System in the Straits of Malacca and Singapore - STRAITREP (with SN/Circ.201 and Corr.1)",
+   "date_or_edition": "20 Oct 1998 (still cited as current by MPA Singapore Port Information updated 17 Apr 2026); accessed 29 Sep 2026",
+   "url": "https://www.mpa.gov.sg/api/media/78c165e3-67e4-4da3-9496-c196739374d2/-pc98-65.pdf",
+   "source_class": "Tier 2",
+   "supports": "Singapore implementation of STRAITREP; sector table (Appendix 3) with VHF channels: Sector 1 Ch 66, 2 Ch 88, 3 Ch 84, 4 Ch 61, 5 Ch 88 (Klang VTS), 6 Ch 88 (Johor VTS); shore facilities of Klang, Johor and Singapore VTS and remote radar stations",
+   "locator": "paras 1-3; SN/Circ.201 Annex 1 para 3.4, para 7; Appendix 3",
+   "passage": "(i) Sector 1 to Sector 5 - Klang VTS; (ii) Sector 6 - Johor VTS; and (iii) Sector 7 to Sector 9 - Singapore VTS."
+  },
+  {
+   "id": "U-S3",
+   "authority": "Maritime and Port Authority of Singapore",
+   "title": "Vessel Traffic Information System (VTIS) web page",
+   "date_or_edition": "Page last updated 28 Sep 2026; accessed 29 Sep 2026",
+   "url": "https://www.mpa.gov.sg/port-marine-ops/operations/vessel-traffic-information-system",
+   "source_class": "Tier 2",
+   "supports": "Current operation of STRAITREP and VTIS by MPA; operational area longitudes; sector allocation to Klang, Johor and Singapore VTS; participation thresholds",
+   "locator": "VTIS and STRAITREP sections",
+   "passage": "the Straits of Malacca and Singapore between longitudes 100°40'E and 104°23'E"
+  },
+  {
+   "id": "U-S4",
+   "authority": "Maritime and Port Authority of Singapore",
+   "title": "VTIS Operational Areas web page (STRAITREP sectors and chartlets)",
+   "date_or_edition": "Page last updated 28 Sep 2026; accessed 29 Sep 2026",
+   "url": "https://www.mpa.gov.sg/port-marine-ops/operations/vessel-traffic-information-system/operational-areas",
+   "source_class": "Tier 2",
+   "supports": "Current sector table: Sectors 1-5 Klang VTS, Sector 6 Johor VTS, Sectors 7 (Ch 73), 8 (Ch 14), 9 (Ch 10) Singapore VTS; chartlets of operational area",
+   "locator": "Sector/VHF channel/VTS authority table",
+   "passage": "Sector 7 ... VHF Channel 73 ... SINGAPORE VTS (as rendered by fetch tool; table layout)"
+  },
+  {
+   "id": "U-S5",
+   "authority": "Maritime and Port Authority of Singapore",
+   "title": "Vessels arriving in Singapore: guide to VHF communication in port and Singapore Strait",
+   "date_or_edition": "Page last updated 28 Sep 2026; accessed 29 Sep 2026",
+   "url": "https://www.mpa.gov.sg/port-marine-ops/arrivals-and-departures/vessels-arriving-in-singapore",
+   "source_class": "Tier 2",
+   "supports": "Longitude limits of STRAITREP Sectors 7, 8 and 9 (VTIS West, Central, East)",
+   "locator": "VHF communication guide table",
+   "passage": "Sector 8, STRAITREP operational area (area between Long. 103°44.5'E and 104°02.1'E)"
+  },
+  {
+   "id": "U-S6",
+   "authority": "Maritime and Port Authority of Singapore, Hydrographic Division",
+   "title": "Singapore Port Information 2026 (Straits of Malacca and Singapore routeing system, Annexes 1-8; STRAITREP chartlets Appendix 1 and 2)",
+   "date_or_edition": "Updated to 17 Apr 2026; accessed 29 Sep 2026",
+   "url": "https://file.go.gov.sg/spi2026apr17.pdf",
+   "source_class": "Tier 3",
+   "supports": "WGS 84 coordinates of each Malacca/Singapore TSS (from COLREG.2/Circ.44 as amended by COLREG.2/Circ.54); chartlets showing sector boundaries 1-9 (only graphically for sectors 1-6) and Long 103°44.5E, 104°02.1E, 104°22.9E limits",
+   "locator": "pp. 6-14 (Annexes 1-8), p. 16 (STRAITREP), pp. 119-120 (chartlets)",
+   "passage": "The following are based on IMO document COLREG.2/Cir.44 dated 26 May 1998 and COLREG.2/Cir.54 dated 28 May 2004."
+  },
+  {
+   "id": "U-S7",
+   "authority": "Direktorat Jenderal Perhubungan Laut (Hubla), Kementerian Perhubungan Republik Indonesia",
+   "title": "Berlaku 1 Juli 2020, Kemenhub jelaskan sistem pelaporan kapal di TSS Selat Sunda dan Selat Lombok",
+   "date_or_edition": "22 Jun 2020; accessed 29 Sep 2026",
+   "url": "https://hubla.dephub.go.id/home/post/read/7657/berlaku-1-juli-2020-kemenhub-jelaskan-sistem-pelaporan-kapal-di-tss-selat-sunda-dan-selat-lombok",
+   "source_class": "Tier 2",
+   "supports": "SUNDAREP and LOMBOKREP established under KM 129/2020 and KM 130/2020; mandatory for Indonesian-flag ships, foreign ships strongly recommended to participate; Merak VTS (VHF 22/68) for Sunda TSS and Benoa VTS (VHF 16/68) for Lombok TSS; VTS Merak and VTS Benoa to monitor the whole TSS areas; VTS operated by DG Sea Transportation",
+   "locator": "paras 2-3, 6-8",
+   "passage": "Sistem Pelaporan dan Informasi Navigasi di Selat Sunda dan Selat Lombok bersifat wajib, yaitu bagi semua kapal berbendera Indonesia yang melintas, menyeberangi/memotong bagan pemisah lalu lintas (TSS)"
+  },
+  {
+   "id": "U-S8",
+   "authority": "IMO (document hosted by BIMCO)",
+   "title": "COLREG.2/Circ.74 New traffic separation schemes and associated measures: In the Sunda Strait; In the Lombok Strait",
+   "date_or_edition": "2019 (MSC 101 adoption); implementation 1 Jul 2020; accessed 29 Sep 2026",
+   "url": "https://bimco.org/media/gusfhkrc/colreg2circ74-new-traffic-separation-schemes-secretariat.pdf",
+   "source_class": "Tier 1",
+   "supports": "Identity and implementation date of the Sunda and Lombok TSS",
+   "locator": "para 1-2 and Annex",
+   "passage": "Accordingly, these new traffic separation schemes and associated routeing measures should be implemented on 1 July 2020."
+  },
+  {
+   "id": "U-S9",
+   "authority": "Marine Department, HKSAR Government",
+   "title": "Hong Kong Fact Sheet (Marine Department publications)",
+   "date_or_edition": "Undated web page; accessed 29 Sep 2026",
+   "url": "https://www.mardep.gov.hk/en/materials-and-publications/publications/hk-fact-sheet/index.html",
+   "source_class": "Tier 2",
+   "supports": "VTS covers all navigable waters of Hong Kong; TSS implemented in Tathong Channel",
+   "locator": "Vessel Traffic Services section",
+   "passage": "covers all navigable waters of Hong Kong used by sea-going vessels and ferries"
+  },
+  {
+   "id": "U-S10",
+   "authority": "Marine Department, HKSAR Government",
+   "title": "Arrangement for Vessel Traffic Service (VTC pamphlet)",
+   "date_or_edition": "April 2025; accessed 29 Sep 2026",
+   "url": "https://www.mardep.gov.hk/filemanager/en/share/publications/pdf/materials/vtc_pamphlet.pdf",
+   "source_class": "Tier 2",
+   "supports": "Vessels required to participate in Hong Kong Vessel Traffic Service (Cap 313A reg 4: over 300 GT etc.; Cap 548F s57 local vessels); Eastern Approaches sector Ch 12 with calling-in point Tathong Channel Separation Buoy No. 1",
+   "locator": "Participation and VHF sectors panels",
+   "passage": "Pursuant to Regulation 4 of the Shipping and port control regulations, (Cap 313A), (a) a vessel of over 300 gross tonnage;"
+  },
+  {
+   "id": "U-S11",
+   "authority": "Marine Department, HKSAR Government (Hydrographic Office)",
+   "title": "Hong Kong Vessel Traffic Service - VHF Sectors and Calling-in Points (Drawing No. 2025MAR032)",
+   "date_or_edition": "September 2025; accessed 29 Sep 2026",
+   "url": "https://www.mardep.gov.hk/filemanager/en/share/pub-services/pdf/vts_vscp.pdf",
+   "source_class": "Tier 2",
+   "supports": "Official service name and VHF sector layout: Eastern Approaches Ch 12, Harbour East Ch 02 etc.",
+   "locator": "Chart title and sector labels",
+   "passage": "Hong Kong Vessel Traffic Service – VHF Sectors and Calling-in Points"
+  },
+  {
+   "id": "U-S12",
+   "authority": "Marine Department, HKSAR Government",
+   "title": "Guide to Hong Kong waters (hkwaterlk_guide)",
+   "date_or_edition": "March 2026 Edition; accessed 29 Sep 2026",
+   "url": "https://www.mardep.gov.hk/filemanager/en/share/pub-services/pdf/hkwaterlk_guide.pdf",
+   "source_class": "Tier 4",
+   "supports": "Tathong Channel TSS lies within Hong Kong waters; channel extends from Lei Yue Mun to north of Waglan Island",
+   "locator": "Chapter 2 Principal Fairways and Traffic Separation Schemes",
+   "passage": "There are two traffic separation schemes (TSS) within Hong Kong waters which are adopted by IMO: (a) Tathong Channel (b) East Lamma Channel"
+  },
+  {
+   "id": "U-S13",
+   "authority": "Bernama (Malaysian national news agency)",
+   "title": "News item on Marine Department Malaysia Menara Dius Api VTS command centre, Port Klang",
+   "date_or_edition": "14 Aug 2025; accessed 29 Sep 2026",
+   "url": "https://www.bernama.com/en/news.php?id=2456604",
+   "source_class": "Lead only",
+   "supports": "Lead that Marine Department Malaysia operates the Klang VTS command centre monitoring the Straits of Malacca; official JLM source not retrieved (marine.gov.my returned HTTP 503 and TLS errors)",
+   "locator": "article body",
+   "passage": "This VTS centre monitors the movement of thousands of vessels in real-time, daily."
+  },
+  {
+   "id": "U-S14",
+   "authority": "Global VTS project (derived from IMO Ships Routeing 2025 Part I)",
+   "title": "IMO_2025_Mandatory_Reporting_Systems.csv",
+   "date_or_edition": "Ships Routeing 2025 Edition baseline",
+   "url": "data/authoritative/IMO_2025_Mandatory_Reporting_Systems.csv",
+   "source_class": "Tier 1",
+   "supports": "STRAITREP is VRS-0016 (I-I/16); no IMO-adopted reporting system for Sunda Strait, Lombok Strait or Hong Kong among the 23 Part I systems",
+   "locator": "rows I-I/1 to I-I/23",
+   "passage": "I-I/16,In the Straits of Malacca and Singapore [STRAITREP],791"
+  }
+ ],
+ "services": [
+  {
+   "name": "Klang VTS",
+   "authority": "Malaysia (Marine Department Malaysia per lead source U-S13; STRAITREP VTS authority per IMO)",
+   "centre": "Klang VTS, Port Klang",
+   "sectors": "STRAITREP Sectors 1 (Ch 66), 2 (Ch 88), 3 (Ch 84), 4 (Ch 61), 5 (Ch 88)",
+   "area_description": "STRAITREP Sectors 1-5, from 100°40'E south-eastwards to the Sector 5/6 boundary (graphical only, Appendix 1 chartlet)",
+   "operational_evidence": "Named as current Sector 1-5 authority on MPA pages updated 28 Sep 2026 (U-S3, U-S4); Aug 2025 news of Marine Department VTS command centre at Port Klang (lead)",
+   "source_ids": [
+    "U-S1",
+    "U-S2",
+    "U-S3",
+    "U-S4",
+    "U-S6",
+    "U-S13"
+   ]
+  },
+  {
+   "name": "Johor VTS",
+   "authority": "Malaysia (Marine Department Malaysia per lead source only)",
+   "centre": "Johor VTS (location not stated in sources opened)",
+   "sectors": "STRAITREP Sector 6 (Piai, Ch 88)",
+   "area_description": "STRAITREP Sector 6, from the Sector 5/6 boundary to the Tg Piai - Pulau Karimun Kecil line",
+   "operational_evidence": "Named as current Sector 6 authority on MPA pages updated 28 Sep 2026",
+   "source_ids": [
+    "U-S1",
+    "U-S2",
+    "U-S3",
+    "U-S4",
+    "U-S6"
+   ]
+  },
+  {
+   "name": "Singapore VTS",
+   "authority": "Maritime and Port Authority of Singapore (Vessel Traffic Information System, VTIS)",
+   "centre": "MPA VTIS (call signs VTIS West, VTIS Central, VTIS East)",
+   "sectors": "Sector 7 VTIS West Ch 73 (Tg Piai-Karimun Kecil line to 103°44.5'E); Sector 8 VTIS Central Ch 14 (103°44.5'E-104°02.1'E); Sector 9 VTIS East Ch 10 (104°02.1'E-104°23.0'E)",
+   "area_description": "STRAITREP Sectors 7-9 in the Singapore Strait",
+   "operational_evidence": "MPA pages updated 28 Sep 2026",
+   "source_ids": [
+    "U-S1",
+    "U-S3",
+    "U-S4",
+    "U-S5",
+    "U-S6"
+   ]
+  },
+  {
+   "name": "Merak VTS",
+   "authority": "DG Sea Transportation, Indonesia",
+   "centre": "VTS Merak",
+   "sectors": "n/a",
+   "area_description": "Sunda Strait TSS (whole TSS area per DGST); VTS area limits not retrieved",
+   "operational_evidence": "Hubla press release 22 Jun 2020",
+   "source_ids": [
+    "U-S7"
+   ]
+  },
+  {
+   "name": "Benoa VTS",
+   "authority": "DG Sea Transportation, Indonesia",
+   "centre": "VTS Benoa",
+   "sectors": "n/a",
+   "area_description": "Lombok Strait TSS (whole TSS area per DGST); VTS area limits not retrieved",
+   "operational_evidence": "Hubla press release 22 Jun 2020",
+   "source_ids": [
+    "U-S7"
+   ]
+  },
+  {
+   "name": "Hong Kong Vessel Traffic Service",
+   "authority": "Marine Department, HKSAR Government",
+   "centre": "Vessel Traffic Centre",
+   "sectors": "Eastern Approaches Ch 12, Harbour East Ch 02, Harbour Ch 14, Western Approaches Ch 67, Lantau South Ch 63, Kwai Chung Ch 74 (per Sep 2025 chart)",
+   "area_description": "All navigable waters of Hong Kong used by sea-going vessels and ferries",
+   "operational_evidence": "Pamphlet Apr 2025; sector chart Sep 2025; guide Mar 2026",
+   "source_ids": [
+    "U-S9",
+    "U-S10",
+    "U-S11",
+    "U-S12"
+   ]
+  }
+ ],
+ "batch_audits": [
+  {
+   "batch": "B30",
+   "pass2_evidence_check": "All positive links reopened on 29 Sep 2026: MSC.73(69) IMO PDF re-downloaded; MPA VTIS, Operational Areas and Vessels-arriving pages re-fetched (updated 28 Sep 2026); SPI 2026 (updated 17 Apr 2026) and PC 65/1998 re-downloaded and byte-identical to cached copies. TSS coordinates extracted from SPI Annexes 2-5 and compared with sector limits; Appendix 1/2 chartlets rendered and inspected. Tg Piai line side test computed for TSS-0148.",
+   "pass3_classification_duplicate_check": "STRAITREP (VRS-0016) is one reporting entity shared by all five TSS; VTS-sector reporting to Klang/Johor/Singapore VTS is STRAITREP, not separate MRS. Three VTS entities (Klang VTS, Johor VTS, Singapore VTS) each recorded once; VTIS West/Central/East treated as sectors/call signs of Singapore VTS, not separate services. Precautionary areas not treated as separate TSS.",
+   "unresolved_items": "Sector 1-6 limits graphical only (TSS-0146 to TSS-0148); Malaysian operating body for Klang and Johor VTS from lead source only; marginal Singapore VTS overlap at TSS-0148 terminus.",
+   "audit_result": "PASS WITH UNRESOLVED ITEMS"
+  },
+  {
+   "batch": "B31",
+   "pass2_evidence_check": "MPA sector longitudes and SPI Annex 7-8 coordinates rechecked for TSS-0151/0152; Hubla 22 Jun 2020 page re-fetched in raw HTML and quotes taken verbatim; COLREG.2/Circ.74 downloaded; HK Marine Department fact sheet re-fetched, pamphlet (Apr 2025) and sector chart (Sep 2025) downloaded, March 2026 waters guide opened.",
+   "pass3_classification_duplicate_check": "STRAITREP shared with B30; Singapore VTS shared with B30. SUNDAREP and LOMBOKREP are distinct national schemes (not IMO Part I; no VRS ID in baseline) mandatory only for Indonesian-flag ships; foreign-ship participation recorded as voluntary. Hong Kong mandatory VTS participation recorded under the VTS, not as MRS. TSS-0155 recorded as Tathong Channel scheme only, separate from East Lamma under the same parent B-V/11.",
+   "unresolved_items": "TSS-0152 NE end east of 104°23E uncovered on evidence found; Sunda/Lombok VTS area limits and post-2020 operational confirmation not retrieved; KM 129/130 2020 texts not read.",
+   "audit_result": "PASS WITH UNRESOLVED ITEMS"
+  }
+ ],
+ "method_notes": "Research 29 Sep 2026. Web actions: about 22 across both batches, reusing STRAITREP/MPA sources across TSS-0146 to TSS-0152. Sector allocation for Singapore sectors is by MPA-stated longitudes; for Malaysian sectors 1-6 by inspection of the MPA Appendix 1 chartlet against SPI 2026 WGS 84 coordinates (boundaries not published as coordinates). Marine Department Malaysia site (marine.gov.my) returned HTTP 503 via WebFetch and a TLS chain error via curl, so the Malaysian operating body rests on a news lead only. The region notes mention Vietnam (Vung Tau) but no Vietnamese TSS is in group U; TSS-0155 is the Hong Kong Tathong Channel scheme and was researched as such. SUNDAREP and LOMBOKREP are recorded as mandatory reporting 'Yes' with applicability limited to Indonesian-flag ships and no VRS ID (not in IMO Part I); the coordinator may prefer to allocate national VRS IDs or to treat them differently. No repository files were edited."
+}
