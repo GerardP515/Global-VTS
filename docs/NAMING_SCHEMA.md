@@ -2,18 +2,19 @@
 
 ## Principle
 
-Identity and geography are separate.
+Identity and geography are separate. Canonical identifiers remain stable if a name, boundary, region or service structure later changes.
 
-The canonical identifier must remain stable even if:
+## v1.0 baseline migration
 
-- an official name changes;
-- a boundary changes;
-- the editorial region changes;
-- a service is reorganised.
+The v0.1 and v0.2 `TSS-xxxx` identifiers were provisional candidate IDs derived before the IMO 2025 baseline was available. They are now treated as **legacy IDs**.
+
+Version 1.0 freezes the authoritative TSS sequence as `TSS-0001` through `TSS-0224`, ordered by IMO Part B source order and component order within multi-TSS parent entries.
+
+The one-time migration is documented in `research/reconciliation/TSS_Crosswalk_Legacy_v0_2_to_IMO_2025.csv`.
+
+**From v1.0 onward, canonical IDs must never be renumbered or reused.**
 
 ## Canonical identifiers
-
-Use four digits initially.
 
 | Entity | Format | Example |
 |---|---|---|
@@ -25,19 +26,15 @@ Use four digits initially.
 | Source | `SRC-NNN` | `SRC-001` |
 | Relationship | `REL-NNNN` | `REL-0001` |
 
-Existing workbook identifiers using `SRS-` may be retained during migration and mapped to `VRS-` through the crosswalk.
+## IMO parent references
+
+Each TSS record retains the source parent reference, for example `B-II/10`. A parent entry may contain one or several TSS records.
+
+Parent references are source locators, not canonical project identifiers.
 
 ## Regional reference
 
-A human-readable regional reference may be generated from the canonical entity.
-
-Example:
-
-`TSS-BAL-014`
-
-This is an editorial reference only.
-
-It must never replace `TSS-0048` as the permanent identity.
+A human-readable regional reference may later be generated, for example `TSS-BAL-014`. It remains metadata and never replaces the canonical ID.
 
 ## Regional codes
 
@@ -61,54 +58,14 @@ It must never replace `TSS-0048` as the permanent identity.
 | CGP | Caribbean, Gulf of Mexico and Panama |
 | NAC | North America Atlantic coast |
 
-These are project editorial regions. They are not IMO codes.
+These are project editorial regions, not IMO codes. Region allocation is separate from identity.
 
-## Official names
+## Grouped source entries
 
-Store the official name exactly as supported by the source.
+A Part B parent entry is retained as a source entity. Where IMO names or explicitly enumerates several TSS within that parent, each receives its own canonical TSS ID.
 
-Recommended fields:
-
-- `canonical_id`
-- `official_name`
-- `previous_name`
-- `alternate_name`
-- `regional_ref`
-- `region_code`
-- `state_or_states`
-- `adoption_instrument`
-- `adoption_date`
-- `implementation_date`
-- `current_status`
-
-## Number allocation
-
-Canonical numbers are sequential and never reused.
-
-Deleted, withdrawn or superseded entities retain their IDs.
-
-Do not renumber records to close gaps.
-
-## Grouped source labels
-
-A grouped heading such as a source entry covering several routeing measures retains a traceability record.
-
-Verified component schemes receive their own canonical IDs.
-
-The source-row ID and verified entity IDs must be linked through the relationship or crosswalk table.
+A single named TSS is not split merely because it contains several parts, zones, lanes or precautionary areas.
 
 ## File naming
 
-Use:
-
-`<EntityID>_<short-name>.md`
-
-Example:
-
-`TSS-0005_Dover_Strait.md`
-
-For release datasets:
-
-`Global_VTS_Inventory_v0_2.xlsx`
-
-Use underscores within release filenames and semantic version numbers in release notes.
+Use `<EntityID>_<short-name>.md` for entity files and semantic versioning for release datasets.

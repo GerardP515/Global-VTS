@@ -109,11 +109,10 @@ Suggested values:
 
 ## Existing workbook
 
-Version 0.3 contains the following sheets:
+Version 0.2 contains the following sheets:
 
 - Overview
 - TSS Candidates
-- Stage 4 Findings (one row per researched record; findings use Confirmed present, Confirmed absent or Unresolved)
 - VTS Services
 - Reporting Schemes
 - Relationships
