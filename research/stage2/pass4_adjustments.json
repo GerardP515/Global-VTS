@@ -313,13 +313,15 @@
   "B32": "An independent checker re-opened eCFR 33 CFR 161 and 167, CCG RAMN 2026, SOR/2025-275, AMSA pages, Marine Order 63, the TasPorts Marine Order 64 instrument and Hong Kong Marine Department sources. No status downgraded; coverage set to partial for TSS-0162 to 0164; MASTREP retained as MRS under the national-scheme rule; Australian citation corrected (research/stage2/pass4/chk_V_result.json).",
   "B33": "An independent checker re-opened eCFR 33 CFR 161 and 167, CCG RAMN 2026, SOR/2025-275, AMSA pages, Marine Order 63, the TasPorts Marine Order 64 instrument and Hong Kong Marine Department sources. No status downgraded; coverage set to partial for TSS-0162 to 0164; MASTREP retained as MRS under the national-scheme rule; Australian citation corrected (research/stage2/pass4/chk_V_result.json).",
   "B38": "An independent checker re-opened NGA Pub. 124 and 125 (text and VTS diagrams), the COLREG.2 compilation, SOR/2025-275 Schedules 2 and 3 and DIRECTEMAR documents. Arica, Iquique and Chedabucto Bay upheld; Quintero and Valparaiso wording corrected; Punta Arenas downgraded to Unresolved (research/stage2/pass4/chk_Y_result.json).",
-  "B39": "An independent checker re-opened NGA Pub. 124 and 125 (text and VTS diagrams), the COLREG.2 compilation, SOR/2025-275 Schedules 2 and 3 and DIRECTEMAR documents. Arica, Iquique and Chedabucto Bay upheld; Quintero and Valparaiso wording corrected; Punta Arenas downgraded to Unresolved (research/stage2/pass4/chk_Y_result.json)."
+  "B39": "An independent checker re-opened NGA Pub. 124 and 125 (text and VTS diagrams), the COLREG.2 compilation, SOR/2025-275 Schedules 2 and 3 and DIRECTEMAR documents. Arica, Iquique and Chedabucto Bay upheld; Quintero and Valparaiso wording corrected; Punta Arenas downgraded to Unresolved (research/stage2/pass4/chk_Y_result.json).",
+  "B42": "No positive or Neither confirmed classification to re-check. Coordinator confirmed every Unresolved record states what remains unknown.",
+  "B43": "No positive or Neither confirmed classification to re-check. Coordinator confirmed every Unresolved record states what remains unknown."
  },
  "audit_result": {},
  "vts_alias": {
   "VTS North Sea Canal Area": "VTS North Sea Canal Area (Noordzeekanaalgebied)"
  },
- "assignment": "assigned B30–B39",
+ "assignment": "assigned B40–B45",
  "vts_fixed_ids": {
   "Klang VTS": "VTS-0004",
   "Johor VTS": "VTS-0005",
