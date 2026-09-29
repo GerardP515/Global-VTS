@@ -4,77 +4,49 @@ Research repository for assessing the viability, scale and structure of a worldw
 
 ## Project objective
 
-Establish:
+Establish the worldwide TSS baseline, identify associated VTS and reporting systems, reconcile shared operational areas, and estimate the work required for a practical worldwide guide.
 
-1. the worldwide inventory of recognised Traffic Separation Schemes;
-2. which schemes are associated with an operational VTS and/or vessel reporting scheme;
-3. the number of distinct operational areas and proposed guide entries requiring research and production; and
-4. the likely research, editorial, charting and maintenance workload.
+The proposed guide should make four actions clear to bridge teams: **who to call, when to call, on which channel, and what information to report**.
 
-The proposed guide is intended to make bridge-team reporting actions clear: **who to call, when to call, on which channel, and what information to report**.
+## Authoritative baseline
 
-## Repository status
+The baseline is now derived directly from IMO *Ships’ Routeing 2025 Edition*.
 
-This repository is at the scoping and inventory stage. Current totals are working-register counts, not final worldwide totals.
+- **164** indexed Part B parent entries.
+- **224** named or explicitly enumerated TSS research entities after source-level decomposition.
+- **23** mandatory ship reporting systems in Part I.
+- **19** Part B parents contain multiple named or explicitly enumerated TSS entities.
+- **1** authoritative TSS candidate was absent from the legacy v0.2 register: B-IV/3 near the deep-water route leading to Jazan Economic City Port.
 
-The current inventory contains:
+The 224 figure is a project research-entity count. Internal lane segments and unnamed sub-schemes are not automatically split into separate records.
 
-- 170 candidate TSS source rows;
-- 15 initial VTS/service records;
-- 7 mandatory vessel reporting schemes;
-- 1 voluntary vessel reporting scheme.
+## Active research scope
 
-Some source rows contain grouped schemes. TSS-to-VTS relationships remain subject to authoritative verification.
+The authoritative research sequence is in [research/batches_imo2025](research/batches_imo2025/README.md).
 
-## Structure
+**B01–B10 are active.** Later batches are paused until the first 50 TSS records are researched and audited.
 
-```
-Global-VTS/
-├── README.md
-├── PROJECT_DESCRIPTION.md
-├── docs/
-│   ├── RESEARCH_PLAN.md
-│   ├── METHODOLOGY.md
-│   ├── NAMING_SCHEMA.md
-│   └── DATA_DICTIONARY.md
-├── data/
-│   ├── current/
-│   └── archive/v0_1/
-├── audits/
-├── sources/
-│   └── SOURCE_REGISTER.md
-└── releases/
-    └── archive/
-```
+The older `research/batches/` sequence is retained as historical/reconciliation material because work had already been carried out against it.
 
-## Current datasets
+## Key data
 
-The working dataset is held in:
-
-- `data/current/Global_VTS_Inventory_v0_2.xlsx`
-- `data/current/Global_VTS_TSS_Candidates_v0_2.csv`
-- `audits/Global_VTS_Inventory_v0_2_Audit.md`
-
-Earlier v0.1 outputs are retained under `data/archive/v0_1/` and `releases/archive/`.
+- [Part B parent inventory](data/authoritative/IMO_2025_Part_B_Parent_Inventory.csv)
+- [Individual TSS inventory](data/authoritative/IMO_2025_Individual_TSS_Inventory.csv)
+- [Mandatory reporting systems](data/authoritative/IMO_2025_Mandatory_Reporting_Systems.csv)
+- [Legacy crosswalk](research/reconciliation/TSS_Crosswalk_Legacy_v0_2_to_IMO_2025.csv)
+- [Second-pass audit](audits/IMO_2025_Second_Pass_Audit.md)
 
 ## Identification model
 
-Each entity should retain a permanent canonical identifier independent of its name or region.
+Version 1.0 freezes the authoritative TSS identifiers as `TSS-0001` onward in IMO 2025 source order. The v0.2 `TSS-xxxx` values are now explicitly **legacy provisional IDs** and are interpreted through the crosswalk.
 
-Examples:
-
-- `TSS-0001`
-- `VTS-0001`
-- `VRS-0001`
-- `CTR-0001`
-
-A separate regional reference may be generated for human use, for example `TSS-BAL-014`. Regional codes are organisational metadata and must not replace the permanent identifier.
+From v1.0 onward, canonical identifiers are never reused or renumbered.
 
 See [Naming Schema](docs/NAMING_SCHEMA.md).
 
 ## Evidence principle
 
-A failed search is not evidence of absence. Entries remain **unresolved** until supported by authoritative evidence.
+A failed search is not evidence of absence. Operational VTS findings remain confirmed, provisional, unresolved or confirmed absent according to the documented methodology.
 
 Primary evidence should come from IMO, UKHO, national maritime administrations, coastguards, VTS authorities and official hydrographic publications.
 
@@ -89,6 +61,4 @@ Primary evidence should come from IMO, UKHO, national maritime administrations, 
 
 ## Versioning
 
-The current working release is **v0.2**. Historical files are retained to preserve the audit trail.
-
-No dataset should be described as a verified worldwide total until the baseline has been reconciled against current official routeing and VTS sources.
+**v1.0 baseline:** authoritative IMO 2025 TSS and mandatory reporting inventories established. Existing VTS-association research remains subject to migration and revalidation against the new canonical IDs.
