@@ -44,3 +44,22 @@ Existing service-source records SRC-004 onward remain available in the v0.2 work
 ## Source rule
 
 Third-party material may identify a lead. It must not establish current operational VTS status or a final operational count by itself.
+
+
+### SRC-022 — Rosmorport navigation services using VTS
+
+- Authority: FSUE Rosmorport, North-Western Basin Branch.
+- URL: https://www.rosmorport.ru/filials/spb_serv_nav/
+- Evidence class: Primary operating-authority source.
+- Accessed: 29 September 2026.
+- Use: Current Saint Petersburg/regional eastern Gulf of Finland VTS structure, area limits, centres, technical posts and H24 operation.
+- Key boundary: established vessel routes within Russian territorial waters east of 026°30'E to the relevant port-VTS boundaries.
+
+### SRC-023 — ADMIRALTY Weekly Edition 11 of 2026, Section VI
+
+- Authority: UK Hydrographic Office.
+- Source basis: Russian Annual Notice 2026.
+- URL: https://msi.admiralty.co.uk/NoticesToMariners/DownloadFile?batchId=8e8b0409-45d3-4103-8b64-bd6220063819&fileName=11wknm26.pdf&frequency=Weekly&mimeType=application%2Fpdf
+- Evidence class: Current official navigational publication.
+- Accessed: 29 September 2026.
+- Use: Saint Petersburg Coastal VTS area, Sector 1/2 split, VHF channels and repeater stations at Gogland and Sommers.
