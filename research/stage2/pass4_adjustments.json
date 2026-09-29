@@ -300,6 +300,8 @@
   "VTS San Francisco": "VTS-0011",
   "Vessel Traffic Service Los Angeles-Long Beach": "VTS-0012",
   "VTS Los Angeles-Long Beach": "VTS-0012",
-  "Vessel Traffic Service Prince William Sound": "VTS-0009"
+  "Vessel Traffic Service Prince William Sound": "VTS-0009",
+  "VTS Houston-Galveston": "VTS-0013",
+  "VTS New York": "VTS-0014"
  }
 }

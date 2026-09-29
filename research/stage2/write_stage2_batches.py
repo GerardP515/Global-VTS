@@ -53,6 +53,13 @@ def norm(name):
     return re.sub(r"[^a-z0-9]+", " ", (name or "").lower()).strip()
 
 
+def core(name):
+    """Name key for legacy-ID lookup: ignores 'VTS' / 'Vessel Traffic Service' wording and brackets."""
+    n = re.sub(r"\(.*?\)", " ", (name or "").lower())
+    n = re.sub(r"\bvessel traffic services?\b|\bvts\b", " ", n)
+    return norm(n)
+
+
 def split_top(text):
     """Split on semicolons that are not inside brackets."""
     parts, depth, cur = [], 0, ""
@@ -156,7 +163,7 @@ def main(batches):
             canon = alias.get(norm(n), n)
             key = norm(canon)
             if key not in name_to_vts:
-                fixed = {norm(k): v for k, v in adj.get("vts_fixed_ids", {}).items()}.get(key)
+                fixed = {core(k): v for k, v in adj.get("vts_fixed_ids", {}).items()}.get(core(canon))
                 if fixed and fixed not in vts_reg:
                     vid = fixed  # legacy v0.2 service: reuse its normalised ID (VTS-00N -> VTS-000N)
                 else:
