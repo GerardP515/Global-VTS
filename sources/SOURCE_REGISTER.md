@@ -955,3 +955,69 @@ Third-party material may identify a lead. It must not establish current operatio
 - Use (B31): Tathong Channel TSS lies within Hong Kong waters; channel extends from Lei Yue Mun to north of Waglan Island
 - Locator: Chapter 2 Principal Fairways and Traffic Separation Schemes.
 - Passage: "There are two traffic separation schemes (TSS) within Hong Kong waters which are adopted by IMO: (a) Tathong Channel (b) East Lamma Channel"
+
+### SRC-109 — OP Notice to Shipping N-2-2026: Harbor Operations
+
+- Authority: Panama Canal Authority (ACP), Vice Presidency for Operations.
+- URL: https://pancanal.com/wp-content/uploads/2021/08/N02-2026-Harbor-Operations_BMV.pdf
+- Evidence class: Tier 2.
+- Edition or date: 1 January 2026 (cancels N-2-2025).
+- Accessed: 29 September 2026.
+- Use (B36): Flamenco Signal Station arrival call at 8 nm from the Pacific Sea Buoy (canal and anchorage arrival coordination); does not name the TSS and does not describe Flamenco as a VTS
+- Locator: Harbor Operations, section 2 'Vessel Coordination and Procedures at the Pacific Entrance', para 2a to 2c.
+- Passage: "When a vessel reaches a point of eight (8) Nautical Miles from Pacific Sea Buoy (about 11 Nautical Miles from Flamenco Island), it must notify Flamenco Signal Station on Channel 12 (VHF)."
+
+### SRC-110 — COLREG.2/Circ.65 New traffic separation schemes (On the Pacific coast of Panama; At the approaches to Puerto Cristobal)
+
+- Authority: IMO Maritime Safety Committee.
+- URL: https://www.panamashipregistry.com/wp-content/uploads/2019/08/COLREG-2-Circ-65.pdf
+- Evidence class: Tier 1.
+- Edition or date: 23 May 2014; implemented 0000 UTC 1 December 2014.
+- Accessed: 29 September 2026.
+- Use (B36): Identity and geometry of TSS-0176/0177/0178 (Parts 1 to 3 of B-VIII/1); instrument contains no reporting or VTS provision
+- Locator: Para 2; Annex 1 pages 1 to 3.
+- Passage: "will be implemented at 0000 hours UTC on 1 December 2014"
+
+### SRC-111 — Ships' Routeing 2025 Edition, Part I mandatory ship reporting systems (data/authoritative/IMO_2025_Mandatory_Reporting_Systems.csv)
+
+- Authority: IMO (project baseline).
+- URL: 
+- Evidence class: Tier 1.
+- Edition or date: 2025 edition.
+- Accessed: 29 September 2026.
+- Use (B36): Only Part I system in the South American Pacific region is GALREP (VRS-0019, I-I/19), confined to the Galapagos; no Part I system covers Panama or the Peruvian coast
+- Locator: Row I-I/19.
+- Passage: "In the Galapagos Particularly Sensitive Sea Area [GALREP]"
+
+### SRC-112 — Merchant Marine Circular MMC-304: Implementation of New Ships' Routeing System in Panama
+
+- Authority: Panama Maritime Authority (AMP), Directorate General of Merchant Marine.
+- URL: https://www.panamashipregistry.com/wp-content/uploads/2020/08/MMC-304-Nov.-2014.pdf
+- Evidence class: Tier 2.
+- Edition or date: November 2014.
+- Accessed: 29 September 2026.
+- Use (B36): Panamanian implementation of Parts 1 to 3; no VTS or reporting requirement announced with the TSS
+- Locator: Para 1a and 2.
+- Passage: "which covers Part 1 “Gulf of Panama”, Part 2 “Morro de Puercos”, Part 3 “Isla Jicarita” and Part 4 which describes inshore traffic zones"
+
+### SRC-113 — Circular DGPIMA-005-DECCP-2026: Reducción de velocidad por protección de cetáceos en aguas nacionales
+
+- Authority: Panama Maritime Authority (AMP), Dirección General de Puertos e Industrias Marítimas Auxiliares.
+- URL: https://www.amp.gob.pa/wp-content/uploads/2026/07/Circular-DGPIMA-005-DECCP-2026-esp-ingl.pdf
+- Evidence class: Tier 2.
+- Edition or date: 8 July 2026 (supersedes DGPIMA-014-DECCP-2025).
+- Accessed: 29 September 2026.
+- Use (B36): Current AMP notice on the Gulf of Panama TSS; no VTS or reporting provision
+- Locator: Page 1.
+- Passage: "esta recomendación es aplicable a ambas vías de circulación del Dispositivo de Separación del Tráfico ubicado en el Golfo de Panamá"
+
+### SRC-114 — Pub. 125 Sailing Directions (Enroute) West Coast of South America
+
+- Authority: US National Geospatial-Intelligence Agency (NGA).
+- URL: https://msi.nga.mil/api/publications/download?type=view&key=16694491/SFH00000/Pub125bk.pdf
+- Evidence class: Tier 3.
+- Edition or date: 17th edition 2025, corrected to 27 August 2026.
+- Accessed: 29 September 2026.
+- Use (B36): Callao TSS explicitly linked to mandatory reports to TRAMAR (not described as a VTS); Peruvian port entries for Talara, Paita, Salaverry, Chimbote, Pisco/General San Martin and San Nicolas describe the TSS without any VTS; the publication describes VTS Arica, Iquique and Mejillones (Chile) but no Peruvian VTS; Galapagos routeing and Ecuador MRS in Sector 1 only
+- Locator: Sector 3: PDF p.57 (Talara, 'Talara Control'), p.58 (Paita), p.67 (Salaverry), p.73 (Chimbote), p.86 (Callao, TRAMAR), p.92 (Pisco/General San Martin), p.94 (San Nicolas); Sector 4 p.106 (VTS Arica).
+- Passage: "An IMO-adopted Traffic Separation Scheme (TRAMAR), best seen on the chart, has been established in the approaches to Callao. All vessels must report to TRAMAR on VHF channel 16"
