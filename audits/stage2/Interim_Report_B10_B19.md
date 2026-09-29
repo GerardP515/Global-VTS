@@ -34,16 +34,16 @@ All ten batch audits closed as PASS WITH UNRESOLVED ITEMS, except B14 and B16 (P
 
 ## Distinct entities
 
-**VTS areas identified: 6** (canonical IDs VTS-0017 to VTS-0022; see ID note below)
+**VTS areas identified: 6** (canonical IDs VTS-0022 to VTS-0027; see ID note below)
 
 | ID | VTS | TSS linked |
 |---|---|---:|
-| VTS-0017 | Finisterre VTS | 1 |
-| VTS-0018 | Coast of Portugal VTS (Roca Control) | 1 |
-| VTS-0019 | Rotterdam VTS (Sector Maas Approach) | 4 |
-| VTS-0020 | VTS North Sea Canal Area | 1 (partial) |
-| VTS-0021 | German Bight Traffic | 4 (2 partial) |
-| VTS-0022 | VTS Humber | 1 |
+| VTS-0022 | Finisterre VTS | 1 |
+| VTS-0023 | Coast of Portugal VTS (Roca Control) | 1 |
+| VTS-0024 | Rotterdam VTS (Sector Maas Approach) | 4 |
+| VTS-0025 | VTS North Sea Canal Area | 1 (partial) |
+| VTS-0026 | German Bight Traffic | 4 (2 partial) |
+| VTS-0027 | VTS Humber | 1 |
 
 **Mandatory reporting schemes identified: 4**, all existing IMO Part I IDs: BARENTS SRS (VRS-0009, 8 TSS), WETREP (VRS-0005, 7 TSS), FINREP (VRS-0011, 1), COPREP (VRS-0012, 1). No national scheme and no new VRS ID was needed.
 
@@ -76,8 +76,8 @@ All ten batch audits closed as PASS WITH UNRESOLVED ITEMS, except B14 and B16 (P
 ## ID note
 
 This work was first done on a branch with reserved IDs (VTS-0101 onward, SRC-Bxx-nn) to avoid clashing with parallel sessions.
-It has since been merged into main's canonical registers: the six VTS are VTS-0017 to VTS-0022 in `data/current/VTS_Entity_Register.csv`,
-and the 56 sources are SRC-033 to SRC-088 in `sources/SOURCE_REGISTER.md`. The mapping is in `research/stage2/id_mapping_b10_b19.csv`.
+It has since been merged into main's canonical registers: the six VTS are VTS-0022 to VTS-0027 in `data/current/VTS_Entity_Register.csv`,
+and the 56 sources are SRC-041 to SRC-096 in `sources/SOURCE_REGISTER.md`. The mappings are in `research/stage2/id_mapping_b10_b19.csv` (branch IDs) and `research/stage2/id_mapping_resync.csv` (later re-syncs with main).
 
 ## Files
 

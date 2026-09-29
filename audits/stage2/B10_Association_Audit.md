@@ -16,9 +16,9 @@ B10
 |---|---|---|---|
 | TSS-0046 East Friesland | - | No | Unresolved |
 | TSS-0047 Off Botney Ground | - | No | Unresolved |
-| TSS-0048 Maas North | VTS-0019 Rotterdam VTS | No | VTS only |
-| TSS-0049 Maas North-west | VTS-0019 Rotterdam VTS | No | VTS only |
-| TSS-0050 Maas West Inner | VTS-0019 Rotterdam VTS | No | VTS only |
+| TSS-0048 Maas North | VTS-0024 Rotterdam VTS | No | VTS only |
+| TSS-0049 Maas North-west | VTS-0024 Rotterdam VTS | No | VTS only |
+| TSS-0050 Maas West Inner | VTS-0024 Rotterdam VTS | No | VTS only |
 
 ### Evidence check
 Pass 2 (researcher): All positive VTS links (TSS-0048/0049/0050) reopened: PIG 2026 p.18 quote re-read; 2026 procedure pages 4, 6, 8, 9 re-read as images; Stcrt. 2026, 8272 article 1 and section 2 re-read; STZ Bijlage 1(f) re-read and matched to Circ.67 positions (MN3=(9), MN2=(12), MNW2=(13), MNW3-MW4=(21), MW5=(37)). Distances recomputed. Negative evidence for TSS-0046/0047 re-read (BaZ 261(P)/25 polygon, BWBR0033648 table of contents, MSC.190(79) points 19-20).
@@ -29,7 +29,7 @@ Pass 4 (coordinator): An independent checker re-opened the Port Information Guid
 One shared VTS (Rotterdam VTS, Sector Maas Approach) linked to three TSS in B10 and one in B11; recorded once in services. Traffic centres (Hook of Holland, Botlek) not treated as separate VTS. Statutory approach area (aanloopgebied) distinguished from the VTS service area. VTS arrival reports kept inside the VTS, not counted as MRS. Coastguard VTMon kept as lead only. No parent/child confusion: B-II/9 and B-II/10 components assessed individually.
 
 Shared entities in this batch:
-- VTS-0019: TSS-0048, TSS-0049, TSS-0050
+- VTS-0024: TSS-0048, TSS-0049, TSS-0050
 
 ### Changes made
 Changes at Pass 4 (coordinator review of the research output):

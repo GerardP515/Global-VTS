@@ -14,11 +14,11 @@ B11
 
 | TSS | VTS | Mandatory reporting | Classification |
 |---|---|---|---|
-| TSS-0051 Maas West Outer | VTS-0019 Rotterdam VTS | No | VTS only |
+| TSS-0051 Maas West Outer | VTS-0024 Rotterdam VTS | No | VTS only |
 | TSS-0052 North Hinder North | - | No | Unresolved |
 | TSS-0053 North Hinder South | - | VRS-0005 West European Tanker Reporting System (WETREP) | MRS only |
 | TSS-0054 Off North Hinder | - | VRS-0005 West European Tanker Reporting System (WETREP) | MRS only |
-| TSS-0055 IJmuiden West Inner | VTS-0020 VTS North Sea Canal Area (Noordzeekanaalgebied) | No | VTS only |
+| TSS-0055 IJmuiden West Inner | VTS-0025 VTS North Sea Canal Area (Noordzeekanaalgebied) | No | VTS only |
 
 ### Evidence check
 Pass 2 (researcher): Rotterdam VTS link for TSS-0051 rechecked with distance test (about 34 nm vs 38 nm). WETREP links for TSS-0053/0054 rechecked: resolution vertices 19-20 and chartlet reopened; side-of-line test rerun with UK point at 001 35'-001 40'E (NHS inside except NE corner on the line; Off North Hinder split). CALDOVREP exclusion rechecked in MGN 364. IJmuiden: Circ.64 positions and the 2025 regulation scope and Appendix I chart reopened; 12 nm distances recomputed.

@@ -102,7 +102,8 @@ def main(batches):
     for p in ("audits/stage2/Interim_Report_B10_B19.md",):
         fp = os.path.join(ROOT, p)
         if os.path.exists(fp):
-            open(fp, "w", encoding="utf-8").write(remap(open(fp, encoding="utf-8").read()))
+            t = open(fp, encoding="utf-8").read()
+            open(fp, "w", encoding="utf-8").write(remap(t))
 
     mp = os.path.join(ROOT, "research", "stage2", "id_mapping_resync.csv")
     new_file = not os.path.exists(mp)

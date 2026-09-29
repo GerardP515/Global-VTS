@@ -17,8 +17,8 @@ B19
 | TSS-0091 Little Minches | - | VRS-0005 WETREP (West European Tanker Reporting System) | MRS only |
 | TSS-0092 North-west of Garðskagi Point | - | Unresolved | Unresolved |
 | TSS-0093 South-west of the Reykjanes Peninsula | - | Unresolved | Unresolved |
-| TSS-0094 Off Finisterre | VTS-0017 Finisterre VTS (call sign 'Finisterre Traffic') | VRS-0011 FINREP | VTS + MRS |
-| TSS-0095 Off Cape Roca | VTS-0018 VTS costeiro do continente (Coast of Portugal VTS; call sign 'Roca Control') | VRS-0012 COPREP | VTS + MRS |
+| TSS-0094 Off Finisterre | VTS-0022 Finisterre VTS (call sign 'Finisterre Traffic') | VRS-0011 FINREP | VTS + MRS |
+| TSS-0095 Off Cape Roca | VTS-0023 VTS costeiro do continente (Coast of Portugal VTS; call sign 'Roca Control') | VRS-0012 COPREP | VTS + MRS |
 
 ### Evidence check
 Pass 2 (researcher): Reopened MSC.63(67), MSC.162(78), MSC.278(85), MSC.301(87), MSC.250(83), MSC.316(88), DL 263/2009 and COLREG.2/Circ.58/59/61 text; recomputed Cape Roca and Iceland boundary comparisons. Finisterre and Cape Roca positives verified; Iceland TRANSREP confirmed adjoining/outside only.
