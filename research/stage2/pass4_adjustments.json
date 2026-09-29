@@ -262,6 +262,35 @@
   "TSS-0156": {
    "unresolved_issue": "IMO adoption instrument not re-opened; if any part of the IMO scheme (e.g. its southern entrance) extends south of the HKSAR boundary, that part would be outside HK VTS. Official sources describe the TSS as within Hong Kong waters. Pass 4: the fact sheet revision date (31 Dec 2025) was not shown on re-fetch; re-check.",
    "_reason": "Pass 4."
+  },
+  "TSS-0194": {
+   "association_status": "Unresolved",
+   "_reason": "Pass 4: no formally named mandatory scheme; CHILREP is voluntary; reporting frequencies conflict (NGA every 4 h or 0800/2000 with pilot; DIRECTEMAR 12:00Z/24:00Z); the traceable legal basis (D.S. (M) 1190 of 1976, Title III) makes foreign-ship reporting compulsory only on reciprocity; no Strait of Magellan instrument found. Fails the project's national-scheme test.",
+   "mandatory_reporting": "Unresolved",
+   "unresolved_issue": "Primary DIRECTEMAR instrument for Strait of Magellan reporting not opened; sources differ on frequency (every 4 h / 0800 and 2000 per NGA vs 12:00Z and 24:00Z per DIRECTEMAR). Coordinator to confirm this qualifies as a named national MRS (no VRS ID exists; do not invent one). VTS status unresolved. Strong lead: area-based reporting to the Maritime Authority at Punta Arenas; find the governing Chilean instrument."
+  },
+  "TSS-0190": {
+   "vts_boundary_basis": "NGA Pub. 125 gives the VTS Quintero area as Bahía Quintero and the area bounded by 32°25'57\"S 71°25'38\"W, 32°25'51\"S 71°40'32\"W, 32°31'43\"S 71°49'30\"W, 32°45'32\"S 71°49'39\"W, 32°56'55\"S 71°43'20\"W, 33°01'05\"S 71°38'21\"W. All six TSS points (32°42'.9-32°45'.9 S, 071°32'-071°36'.4 W; COLREG.2/Circ.32) fall inside (point-in-polygon check). The NGA 'VTS Valparaiso' diagram also shows its control zone reaching north past Bahía Quintero. Pass 4 correction: points (1) and (5) at 071 32.00W fall just outside a straight chord from point a to point f; they are inside if the area closes along the coast (point f is at Punta Angeles). The VTS Valparaiso control zone (to about 32 37S) also contains this TSS.",
+   "_reason": "Pass 4 caveat.",
+   "unresolved_issue": "Tier 3 only; relationship between VTS Quintero and VTS Valparaíso (separate services or one control zone with two centres) not established from a DIRECTEMAR source. Datum difference (TSS SAD69 chart vs VTS coordinates) negligible given margins. Evidence is Tier 3 only (NGA Pub. 125); no DIRECTEMAR primary source could be opened (prontus.directemar.cl returns 403)."
+  },
+  "TSS-0191": {
+   "vts_boundary_basis": "NGA Pub. 125 diagram 'VTS Valparaiso' shows the Zona Control VTS Valparaíso from near Punta Curaumilla to north of Bahía Quintero, west to about 072°W, with the TSS drawn inside it off Bahía Valparaíso; text: VTM-STM operates in harbour limits and 'outward to the boundary depicted in the diagram titled VTS Valparaiso'. TSS (32°57'.3-33°00'.7 S, 071°35'.7-071°38'.7 W) lies inside. The TSS also falls inside the VTS Quintero coordinate polygon (computed). Participation mandatory within the limits and at anchor; voluntary for Las Salinas terminal traffic. Pass 4 correction: with a straight chord, 4 of the 6 TSS points lie outside the VTS Quintero area, so the secondary Quintero overlap claim is qualified; coverage rests on the VTS Valparaiso diagram.",
+   "_reason": "Pass 4 caveat.",
+   "unresolved_issue": "Tier 3 only; DIRECTEMAR instrument (e.g. resolution 12.000/934 of 2018 lead) not opened. Overlap with the VTS Quintero area to be reconciled by the coordinator (one service or two). Evidence is Tier 3 only (NGA Pub. 125); no DIRECTEMAR primary source could be opened (prontus.directemar.cl returns 403)."
+  },
+  "TSS-0187": {
+   "unresolved_issue": "VTS evidence is Tier 3 (NGA) only; DIRECTEMAR instrument defining VTS Arica limits not located (directemar.cl partly blocked). Diagram is schematic. Evidence is Tier 3 only (NGA Pub. 125); no DIRECTEMAR primary source could be opened (prontus.directemar.cl returns 403).",
+   "_reason": "Pass 4 note.",
+   "vts_boundary_basis": "NGA Pub. 125 diagram 'VTS Arica' shows the VTS boundary limits extending from the Peru-Chile border to about 071°W offshore and the TSS drawn inside them (inset Rada de Arica); text: VTM-STM operates in port limits and 'outward to the boundary described in the diagram titled VTS Arica'. TSS (COLREG.2/Circ.32) lies 18°25'-18°30' S, 070°21'-070°25'.4 W, within the depicted limits. Participation mandatory for vessels in port limits and at anchor; voluntary for vessels passing through without stopping. Pass 4: the diagram's VTS limits reach about 070 52W (not 071W); the TSS lies well inside."
+  },
+  "TSS-0188": {
+   "unresolved_issue": "VTS evidence is Tier 3 (NGA) only; DIRECTEMAR instrument defining VTS Iquique limits not located. Evidence is Tier 3 only (NGA Pub. 125); no DIRECTEMAR primary source could be opened (prontus.directemar.cl returns 403).",
+   "_reason": "Pass 4 caveat."
+  },
+  "TSS-0195": {
+   "unresolved_issue": "Exact territorial sea limit near the TSS not opened, so whether the Part I eastern end and Part II southern end lie in the Eastern VTS Zone or outside Canadian waters is not established. RAMN Table 3-24 calling-in points not read (page truncated; direct download refused). Pass 4: the Eastern VTS Zone is limited to Canadian waters and the local zone's eastern edge is the territorial sea limit, so the eastern end of Part I is probably outside every VTS zone, while the southern end of Part II may fall in the Eastern zone.",
+   "_reason": "Pass 4 note."
   }
  },
  "pass4_notes": {
@@ -282,7 +311,9 @@
   "B34": "An independent checker re-opened eCFR 33 CFR 161 and 167, SOR/2025-275, CCG RAMN 2026 (CVTS), NAVCEN and the VTS Puget Sound, San Francisco and LA-LB user manuals, and COLREG.2/Circ.64, re-did the Race Rocks exchange-line and arc geometry, and upheld all eight positives; the San Francisco partial-coverage note was widened (research/stage2/pass4/chk_W_result.json).",
   "B35": "An independent checker re-opened eCFR 33 CFR 161 and 167, SOR/2025-275, CCG RAMN 2026 (CVTS), NAVCEN and the VTS Puget Sound, San Francisco and LA-LB user manuals, and COLREG.2/Circ.64, re-did the Race Rocks exchange-line and arc geometry, and upheld all eight positives; the San Francisco partial-coverage note was widened (research/stage2/pass4/chk_W_result.json).",
   "B32": "An independent checker re-opened eCFR 33 CFR 161 and 167, CCG RAMN 2026, SOR/2025-275, AMSA pages, Marine Order 63, the TasPorts Marine Order 64 instrument and Hong Kong Marine Department sources. No status downgraded; coverage set to partial for TSS-0162 to 0164; MASTREP retained as MRS under the national-scheme rule; Australian citation corrected (research/stage2/pass4/chk_V_result.json).",
-  "B33": "An independent checker re-opened eCFR 33 CFR 161 and 167, CCG RAMN 2026, SOR/2025-275, AMSA pages, Marine Order 63, the TasPorts Marine Order 64 instrument and Hong Kong Marine Department sources. No status downgraded; coverage set to partial for TSS-0162 to 0164; MASTREP retained as MRS under the national-scheme rule; Australian citation corrected (research/stage2/pass4/chk_V_result.json)."
+  "B33": "An independent checker re-opened eCFR 33 CFR 161 and 167, CCG RAMN 2026, SOR/2025-275, AMSA pages, Marine Order 63, the TasPorts Marine Order 64 instrument and Hong Kong Marine Department sources. No status downgraded; coverage set to partial for TSS-0162 to 0164; MASTREP retained as MRS under the national-scheme rule; Australian citation corrected (research/stage2/pass4/chk_V_result.json).",
+  "B38": "An independent checker re-opened NGA Pub. 124 and 125 (text and VTS diagrams), the COLREG.2 compilation, SOR/2025-275 Schedules 2 and 3 and DIRECTEMAR documents. Arica, Iquique and Chedabucto Bay upheld; Quintero and Valparaiso wording corrected; Punta Arenas downgraded to Unresolved (research/stage2/pass4/chk_Y_result.json).",
+  "B39": "An independent checker re-opened NGA Pub. 124 and 125 (text and VTS diagrams), the COLREG.2 compilation, SOR/2025-275 Schedules 2 and 3 and DIRECTEMAR documents. Arica, Iquique and Chedabucto Bay upheld; Quintero and Valparaiso wording corrected; Punta Arenas downgraded to Unresolved (research/stage2/pass4/chk_Y_result.json)."
  },
  "audit_result": {},
  "vts_alias": {
