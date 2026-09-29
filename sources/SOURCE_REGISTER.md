@@ -1307,3 +1307,36 @@ Third-party material may identify a lead. It must not establish current operatio
 - Use (B38): CHILREP is voluntary; foreign ships bound for a Chilean port must give 24 h arrival notice; foreign ships in Chilean internal waters must report position at 12:00Z and 24:00Z; Chilean-flag ships must report position daily
 - Locator: pp.5-6.
 - Passage: "Cuando los buques extranjeros se desplacen por aguas interiores de la República deberán comunicar su posición a las 12:00Z y 24:00Z."
+
+### SRC-141 — data/authoritative/IMO_2025_Mandatory_Reporting_Systems.csv
+
+- Authority: Global VTS project (IMO Ships' Routeing 2025 Edition, Part I).
+- URL: repository file
+- Evidence class: Tier 1.
+- Edition or date: Ships' Routeing 2025 Edition baseline.
+- Accessed: 29 September 2026.
+- Use (B39): The 23 IMO-adopted mandatory ship reporting systems include none for Peru, Chile or Canada (nearest: VRS-0019 GALREP, Ecuador)
+- Locator: rows VRS-0001 to VRS-0023.
+- Passage: "I-I/19,In the Galapagos Particularly Sensitive Sea Area [GALREP],...,VRS-0019"
+
+### SRC-142 — Pub. 124 Sailing Directions (Enroute) East Coast of South America, 16th Edition
+
+- Authority: US National Geospatial-Intelligence Agency (NGA).
+- URL: https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub124bk.pdf&type=download
+- Evidence class: Tier 3.
+- Edition or date: 2025, corrected to 13 February 2025; subsequent updates to 12 March 2026.
+- Accessed: 29 September 2026.
+- Use (B39): Estrecho de Magallanes reporting obligations (entry/exit reports to the Maritime Authority in Punta Arenas; 4-hourly or 0800/2000 CHILREP position reports during passage); Punta Arenas port section observes the TSS and names no VTS
+- Locator: Sector 8 pp.247-248 (Estrecho de Magallanes Regulations); p.258 (Punta Arenas contact information, Directions).
+- Passage: "During the passage, vessels must report their position and speed every 4 hours if not carrying a pilot, or at 0800 and 2000 if carrying a pilot. This position report (CHILREP) is sent to the Maritime Authority"
+
+### SRC-143 — Pub. 145 Sailing Directions (Enroute) Nova Scotia and the St. Lawrence, 19th Edition
+
+- Authority: US National Geospatial-Intelligence Agency (NGA).
+- URL: https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub145bk.pdf&type=download
+- Evidence class: Tier 3.
+- Edition or date: 2025, corrected to 9 August 2025; subsequent updates to 25 June 2026.
+- Accessed: 29 September 2026.
+- Use (B39): TSS established for entering and leaving Chedabucto Bay; Strait of Canso and Eastern Approaches VTS Zone limits; mandatory participation; call sign Canso Traffic, VHF 14, 24 h operation; Canso Traffic (VCO) contact incl. MCTS Sydney e-mail
+- Locator: Sector 4, para 4.1 Regulations and Vessel Traffic Service (print p.103); Canso Contact Information table (para 4.20).
+- Passage: "The station identifier of the Canso VTS Center is “Canso Traffic” and can be contacted on VHF channel 14."
