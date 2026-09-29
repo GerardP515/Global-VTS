@@ -1613,3 +1613,97 @@ Third-party material may identify a lead. It must not establish current operatio
 - Use (B40): Positions of Ambrose Channel Lighted Buoy 1 (40.46876 N, 73.87223 W), Lighted Bell Buoy 2 (40.47293 N, 73.86755 W) and Lighted Whistle Buoy A (40.45778 N, 73.83673 W); all proposed for discontinuance.
 - Locator: Ambrose Channel / ATON Proposed Notice of Change, LLNR 34785, 34796, 34797.
 - Passage: "Location: 40.46876° N / 73.87223° W Aid Name: Ambrose Channel Lighted"
+
+### SRC-169 — US Coast Pilot 3, Chapter 6
+
+- Authority: NOAA Office of Coast Survey.
+- URL: https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp3/CPB3_C06_WEB.pdf
+- Evidence class: Tier 3.
+- Edition or date: Current edition (27 Sep 2026).
+- Accessed: 29 September 2026.
+- Use (B41): Approach described with no VTS (Coast Pilot) / complete list of operating US VTS incl. Tampa (NAVCEN); added at Pass 4 by the independent checker
+- Locator: Chapter text on the approach.
+
+### SRC-170 — Maritime Exchange for the Delaware River and Bay vessel reporting (search snippet)
+
+- Authority: Search result only (philadelphiaencyclopedia.org summary; not opened).
+- URL: https://philadelphiaencyclopedia.org/essays/philadelphia-maritime-exchange/
+- Evidence class: Lead only.
+- Edition or date: n/a.
+- Accessed: 29 September 2026.
+- Use (B41): Lead: the Maritime Exchange (a trade association) historically ran ship reporting stations including Cape Henlopen; vessels are "requested" to pass position/ETA information. Not an official source; not a VTS.
+- Locator: Search snippet.
+
+### SRC-171 — US Coast Pilot 3, Chapter 9
+
+- Authority: NOAA Office of Coast Survey.
+- URL: https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp3/CPB3_C09_WEB.pdf
+- Evidence class: Tier 3.
+- Edition or date: Current edition (27 Sep 2026).
+- Accessed: 29 September 2026.
+- Use (B41): Approach described with no VTS (Coast Pilot) / complete list of operating US VTS incl. Tampa (NAVCEN); added at Pass 4 by the independent checker
+- Locator: Chapter text on the approach.
+
+### SRC-172 — US Coast Pilot 4, Chapter 6
+
+- Authority: NOAA Office of Coast Survey.
+- URL: https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp4/CPB4_C06_WEB.pdf
+- Evidence class: Tier 3.
+- Edition or date: Current edition (27 Sep 2026).
+- Accessed: 29 September 2026.
+- Use (B41): Approach described with no VTS (Coast Pilot) / complete list of operating US VTS incl. Tampa (NAVCEN); added at Pass 4 by the independent checker
+- Locator: Chapter text on the approach.
+
+### SRC-173 — US Coast Pilot 4, Chapter 5
+
+- Authority: NOAA Office of Coast Survey.
+- URL: https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp4/CPB4_C05_WEB.pdf
+- Evidence class: Tier 3.
+- Edition or date: Current edition (27 Sep 2026).
+- Accessed: 29 September 2026.
+- Use (B41): Approach described with no VTS (Coast Pilot) / complete list of operating US VTS incl. Tampa (NAVCEN); added at Pass 4 by the independent checker
+- Locator: Chapter text on the approach.
+
+### SRC-174 — VTS Houston-Galveston User's Manual 2025
+
+- Authority: USCG Sector Houston-Galveston, VTS Houston-Galveston.
+- URL: https://www.navcen.uscg.gov/sites/default/files/pdf/VTS%20User%20Guides/VTS_HG_UserManual_2025.pdf
+- Evidence class: Tier 2.
+- Edition or date: Revised March 2025 (accessed 2026-09-29).
+- Accessed: 29 September 2026.
+- Use (B41): Current operation and participation categories (VMRS users, VTS users) of VTS Houston-Galveston.
+- Locator: User groups page.
+- Passage: "VMRS – Vessel Movement Reporting System. The mandatory system operated by the VTS used to monitor and track vessel movements."
+
+### SRC-175 — Centro de Control de Tráfico Marítimo
+
+- Authority: Administración del Sistema Portuario Nacional Veracruz (ASIPONA Veracruz).
+- URL: https://www.puertodeveracruz.com.mx/infraestructura/centro-de-control-de-trafico-maritimo/
+- Evidence class: Tier 2.
+- Edition or date: Undated web page, site (c) 2026 (accessed 2026-09-29).
+- Accessed: 29 September 2026.
+- Use (B41): Existence, functions, equipment (X and S band radar, AIS) and contact (VHF 10 and 16) of the Veracruz maritime traffic control centre, operating as auxiliary to the Capitanía de Puerto.
+- Locator: Main page text.
+- Passage: "instaló el Centro de Control de Tráfico Marítimo de Veracruz quien se encarga de vigilar, controlar, prestar asistencia a la navegación"
+
+### SRC-176 — Centro de Control de Tráfico Marítimo: Área de Influencia
+
+- Authority: ASIPONA Veracruz.
+- URL: https://www.puertodeveracruz.com.mx/infraestructura/centro-de-control-de-trafico-maritimo/area-de-influencia/
+- Evidence class: Tier 2.
+- Edition or date: Undated web page (accessed 2026-09-29).
+- Accessed: 29 September 2026.
+- Use (B41): The CCTMVER control area expressly includes the traffic separation zones, lanes and precautionary areas; bounding box coordinates.
+- Locator: Área de Influencia text.
+- Passage: "El área de control de tráfico marítimo ejercido por el CCTMVER, incluye las zonas de separación de tráfico, carriles, áreas de precaución, área a evitar y área de fondeo."
+
+### SRC-177 — Centro de Control de Tráfico Marítimo: Información General CCTM
+
+- Authority: ASIPONA Veracruz.
+- URL: https://www.puertodeveracruz.com.mx/infraestructura/centro-de-control-de-trafico-maritimo/informacion-general-cctm/
+- Evidence class: Tier 2.
+- Edition or date: Undated web page (accessed 2026-09-29).
+- Accessed: 29 September 2026.
+- Use (B41): Sea buoy position, pilot boarding, Capitanía de Puerto listening watch on VHF 12.
+- Locator: Información General CCTM.
+- Passage: "La Capitanía de Puerto está a la escucha en canal VHF 12."
