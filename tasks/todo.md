@@ -10,14 +10,14 @@ Batches B01 to B09 are not part of this task.
 
 ## Plan
 
-- [ ] Split batches into seven regional research groups and run them in parallel
-- [ ] For each record: verify TSS identity, VTS finding, mandatory reporting finding, with primary sources
-- [ ] Audit each group's findings (evidence, classification, duplication) before accepting them
-- [ ] Add findings to a new v0.3 workbook and CSV, without deleting v0.2
-- [ ] Add new VTS services, reporting schemes, relationships, sources and issues as separate records
-- [ ] Write the v0.3 batch audit (audits/) and update CHANGELOG and README counts
-- [ ] Fix the corrupted header line in the v0.2 CSV export (carry the fix into v0.3)
-- [ ] Commit and push to claude/hopeful-mccarthy-p2z48x
+- [x] Split batches into seven regional research groups and run them in parallel
+- [x] For each record: verify TSS identity, VTS finding, mandatory reporting finding, with primary sources
+- [x] Audit each group's findings (evidence, classification, duplication) before accepting them
+- [x] Add findings to a new v0.3 workbook and CSV, without deleting v0.2
+- [x] Add new VTS services, reporting schemes, relationships, sources and issues as separate records
+- [x] Write the v0.3 batch audit (audits/) and update CHANGELOG and README counts
+- [x] Fix the corrupted header line in the v0.2 CSV export (carry the fix into v0.3)
+- [x] Commit and push to claude/hopeful-mccarthy-p2z48x
 
 ## Research groups
 
@@ -33,4 +33,12 @@ Batches B01 to B09 are not part of this task.
 
 ## Review
 
-(To be completed.)
+Completed 29 September 2026. All 125 records researched; results merged into v0.3.
+
+- VTS confirmed present: 40 rows. Mandatory reporting confirmed: 32 rows. No confirmed-absence findings.
+- Merge audit changed 12 raw findings (see research/stage4/merge_log.md): one weak VTS finding downgraded,
+  three unsupported "Confirmed absent" findings removed, eight VTS/port reporting duties reclassified under their services.
+- Verification: every relationship and source ID resolves; workbook totals were recomputed in Python
+  (LibreOffice could not open either the v0.2 or v0.3 file in this environment, so formulas were checked by hand).
+- Open: B25 and B26 batch audits; 11 new issues (ISS-018 to ISS-028); decisions listed in the audit.
+- Not done: Stage 3 pilot as a separate exercise; B01 to B09 re-research; release pack zip for v0.3.

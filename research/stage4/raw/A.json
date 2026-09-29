@@ -1,0 +1,1271 @@
+{
+ "group": "A",
+ "records": [
+  {
+   "record_id": "TSS-0046",
+   "batch": "B10",
+   "source_label": "German Bight Western Approach",
+   "official_name": "German Bight western approach",
+   "states": "Germany",
+   "tss_identity_status": "Confirmed",
+   "tss_identity_note": "Named in IMO COLREG.2/Circ.59 (MSC 83, 2007) as amended scheme with special provisions for the North Hinder to German Bight tanker route, implemented 1 May 2008 (S1); listed in IMO Ships' Routeing 2008 (S27) and Transportstyrelsen 2017 list (S4). German statute designates it a deep-water route (Tiefwasserweg) mandatory for large tankers (S6 Nr. 6). MSC 109 adopted a revised containership recommendation covering it from 1 July 2025 (lead S5). No evidence of renaming or restructuring by recent IMO amendments was found.",
+   "grouped_components": [],
+   "operational_status": "In force",
+   "vts_finding": "Confirmed present",
+   "vts_service_keys": [
+    "SVC-de-german-bight-traffic"
+   ],
+   "vts_relationship_basis": "AnlBV Anlage Nr. 3.1 requires ships approaching the Inner German Bight from the west to report to 'German Bight Traffic' at 007° 10' E 'unabhängig davon, ob das Verkehrstrennungsgebiet German Bight Western Approach benutzt wird' (S6); Nr. 5.1 states traffic is monitored under maritime traffic safety. Coverage evidenced for the eastern part of the scheme and its approach into the Inner German Bight; the western extent of the scheme relative to the VTS area was not verified.",
+   "reporting_finding": "Confirmed present",
+   "reporting_scheme_keys": [
+    "RPT-de-anlbv-inner-german-bight"
+   ],
+   "reporting_relationship_basis": "National mandatory report (AnlBV Nr. 3.1) at 007° 10' E for ships and tows over 300 GT, expressly regardless of use of this TSS (S6). Not an IMO-adopted SRS.",
+   "voluntary_reporting": null,
+   "applicability_notes": "Report: over 300 GT. Mandatory use of the TSS (AnlBV Nr. 6): oil tankers over 10,000 GT, NLS Z tankers over 10,000 GT, NLS X/Y tankers over 5,000 GT, gas tankers over 10,000 GT approaching or leaving the Inner German Bight from the west. Mandatory route for tankers from North Hinder to the German Bight applies to oil tankers 10,000 GT and over, chemical/NLS tankers 5,000 GT (X/Y) or 10,000 GT (Z) and over, and gas carriers 10,000 GT and over (S1, annex 4).",
+   "provisional_complexity": "Complex",
+   "complexity_reason": "National mandatory reporting plus national mandatory-use rule, IMO mandatory tanker route and 2025 containership recommendation overlap; cross-border Dutch/German routeing context.",
+   "source_ids": [
+    "S1",
+    "S4",
+    "S5",
+    "S6",
+    "S8",
+    "S10",
+    "S11",
+    "S27"
+   ],
+   "open_questions": "Exact westward extent of the scheme and whether any part lies in Netherlands waters not verified. IMO text of the 2024 containership recommendation (MSC 109) not retrieved. No evidence found of any recent IMO renaming of German TSS, but Circ. texts after 2016 were not all retrieved.",
+   "research_effort": "approx 14 web actions (shared across German records)"
+  },
+  {
+   "record_id": "TSS-0047",
+   "batch": "B10",
+   "source_label": "Elbe Approach",
+   "official_name": "Elbe approach",
+   "states": "Germany",
+   "tss_identity_status": "Confirmed",
+   "tss_identity_note": "Listed as 'Elbe approach' in IMO Ships' Routeing 2008 (S27) and the Transportstyrelsen 2017 list of IMO schemes (S4). Adopting and latest amending circular not retrieved.",
+   "grouped_components": [],
+   "operational_status": "In force",
+   "vts_finding": "Confirmed present",
+   "vts_service_keys": [
+    "SVC-de-cuxhaven-elbe-traffic",
+    "SVC-de-german-bight-traffic"
+   ],
+   "vts_relationship_basis": "Cuxhaven VTS is responsible for the Elbe 'im Bereich der Elbeansteuerung' (Elbe approach) (S9); the GDWS Bekanntmachung sets the Cuxhaven Elbe Traffic area from buoy Nordergründe-Nord (008° E), with outbound reports there to German Bight Traffic on VHF 80 (S7). Coverage is of the direct approach; the TSS lanes themselves are in the Inner German Bight covered by German Bight Traffic, but the exact TSS-to-sector boundary was not verified.",
+   "reporting_finding": "Confirmed present",
+   "reporting_scheme_keys": [
+    "RPT-de-seeschstro-elbe",
+    "RPT-de-anlbv-inner-german-bight"
+   ],
+   "reporting_relationship_basis": "SeeSchStrO § 58 position report at NGN (008° E) to Cuxhaven Elbe Traffic inbound and German Bight Traffic outbound (S7); AnlBV Nr. 3.1 entry report for ships entering the Inner German Bight from west or north (S6). National, not IMO.",
+   "voluntary_reporting": null,
+   "applicability_notes": "SeeSchStrO § 58: vessels of 50 m LOA or more and ships under § 30(1). AnlBV: over 300 GT.",
+   "provisional_complexity": "Intermediate",
+   "complexity_reason": "Two VTS services and two national reporting regimes meet at the seaward end of the Elbe.",
+   "source_ids": [
+    "S4",
+    "S6",
+    "S7",
+    "S9",
+    "S10",
+    "S27"
+   ],
+   "open_questions": "Adopting IMO instrument and current chart geometry not retrieved; confirm whether the TSS lies seaward of NGN (German Bight Traffic sector) or partly within Cuxhaven Elbe Traffic sector.",
+   "research_effort": "approx 5 web actions (plus shared German sources)"
+  },
+  {
+   "record_id": "TSS-0048",
+   "batch": "B10",
+   "source_label": "Jade Approach",
+   "official_name": "Jade approach",
+   "states": "Germany",
+   "tss_identity_status": "Confirmed",
+   "tss_identity_note": "Listed as 'Jade approach' in IMO Ships' Routeing 2008 (S27) and Transportstyrelsen 2017 list (S4). WSV describes it as the link between Terschelling-German Bight and the Western Approach giving access to Weser and Jade from the north (S11). German statute places a pilot transfer position 'im Verkehrstrennungsgebiet Jade Approach' within the Inner German Bight (S6 Nr. 8).",
+   "grouped_components": [],
+   "operational_status": "In force",
+   "vts_finding": "Confirmed present",
+   "vts_service_keys": [
+    "SVC-de-german-bight-traffic"
+   ],
+   "vts_relationship_basis": "AnlBV Nr. 8 locates the scheme in the Inner German Bight outside the territorial sea; Nr. 5.1 states traffic there is monitored under maritime traffic safety and Nr. 3.1 routes reports to German Bight Traffic (S6). German Bight Traffic monitors the inner German Bight from Borkum to Helgoland (S8).",
+   "reporting_finding": "Confirmed present",
+   "reporting_scheme_keys": [
+    "RPT-de-anlbv-inner-german-bight"
+   ],
+   "reporting_relationship_basis": "AnlBV Nr. 3.1 report at 54° 20' N or 007° 10' E; SeeSchStrO § 58 entry report at 54° 15' N west of Helgoland to German Bight Traffic (S6, S7).",
+   "voluntary_reporting": null,
+   "applicability_notes": "AnlBV: over 300 GT. SeeSchStrO § 58: 50 m or more. Compulsory pilotage from the Jade Approach transfer position for large tankers, bulk carriers and other ships per AnlBV Nr. 8 (S6).",
+   "provisional_complexity": "Intermediate",
+   "complexity_reason": "National reporting, VTS and offshore pilotage obligations combine; single VTS.",
+   "source_ids": [
+    "S4",
+    "S6",
+    "S7",
+    "S8",
+    "S11",
+    "S27"
+   ],
+   "open_questions": "Adopting IMO instrument and any recent amendments not retrieved.",
+   "research_effort": "approx 3 web actions (plus shared German sources)"
+  },
+  {
+   "record_id": "TSS-0049",
+   "batch": "B10",
+   "source_label": "Terschelling - German Bight",
+   "official_name": "Terschelling-German Bight",
+   "states": "Netherlands; Germany",
+   "tss_identity_status": "Confirmed",
+   "tss_identity_note": "Amended by COLREG.2/Circ.59 (MSC 83, implemented 1 May 2008) (S1); listed in Ships' Routeing 2008 (S27) and Transportstyrelsen 2017 list (S4). MSC 109 containership recommendation from 1 July 2025 (lead S5).",
+   "grouped_components": [],
+   "operational_status": "In force",
+   "vts_finding": "Confirmed present",
+   "vts_service_keys": [
+    "SVC-de-german-bight-traffic"
+   ],
+   "vts_relationship_basis": "Bekanntmachung 19.1.4 and 19.1.5 require vessels using the TSS 'Terschelling - German Bight' and its inshore traffic zone to report to German Bight Traffic at Borkumriff buoy (VHF 79) and at TG 17/C eastbound (VHF 80) (S7). This establishes coverage of the German (eastern) part only. For the Dutch part: No Dutch VTS was found whose defined area covers this offshore scheme. The Netherlands Coastguard performs Vessel Traffic Monitoring (VTMon) and distinguishes VTS as provided by traffic centres (S14, S15); VTMon is recorded as a lead only, not as a VTS.",
+   "reporting_finding": "Confirmed present",
+   "reporting_scheme_keys": [
+    "RPT-de-anlbv-inner-german-bight"
+   ],
+   "reporting_relationship_basis": "SeeSchStrO § 58 entry and position reports (vessels 50 m or more) and AnlBV Nr. 3.1 (over 300 GT) apply on the German part (S6, S7). National, not IMO. No mandatory reporting identified for the Dutch part.",
+   "voluntary_reporting": "Netherlands Coastguard broadcasts wave-height advice for container ships in TSS Terschelling-German Bight and may advise the northern route; advice is not binding (S13).",
+   "applicability_notes": "Mandatory route for tankers from North Hinder to the German Bight applies to oil tankers 10,000 GT and over, chemical/NLS tankers 5,000 GT (X/Y) or 10,000 GT (Z) and over, and gas carriers 10,000 GT and over (S1, annex 4). Coastguard advice targets container ships 100 to 200 m at 3 m waves and over 200 m at 4 m waves (S13).",
+   "provisional_complexity": "Complex",
+   "complexity_reason": "Cross-border scheme: German VTS and national reporting on eastern part, no VTS evidenced on Dutch part, plus mandatory tanker route and containership advice.",
+   "source_ids": [
+    "S1",
+    "S4",
+    "S5",
+    "S6",
+    "S7",
+    "S8",
+    "S11",
+    "S13",
+    "S14",
+    "S15",
+    "S27"
+   ],
+   "open_questions": "Exact boundary between German Bight Traffic coverage and the Dutch part not verified. Rijkswaterstaat Brandaris (Terschelling) VTS designation could not be read (officielebekendmakingen.nl returned HTTP 403); search snippets indicate its area is the Terschelling zeegat approach, not the TSS.",
+   "research_effort": "approx 6 web actions (plus shared sources)"
+  },
+  {
+   "record_id": "TSS-0050",
+   "batch": "B10",
+   "source_label": "Vlieland North",
+   "official_name": "Vlieland North (part of 'Off Vlieland, Vlieland North and Vlieland Junction')",
+   "states": "Netherlands",
+   "tss_identity_status": "Confirmed",
+   "tss_identity_note": "COLREG.2/Circ.59 (MSC 83, implemented 1 May 2008) amended the special provisions of 'Off Vlieland, Vlieland North and Vlieland Junction' (S1). IMO Ships' Routeing 2008 treats these as one routeing system entry (S27). Component of the same system as TSS-0051.",
+   "grouped_components": [
+    "Off Vlieland",
+    "Vlieland North",
+    "Vlieland Junction"
+   ],
+   "operational_status": "In force",
+   "vts_finding": "Unresolved",
+   "vts_service_keys": [],
+   "vts_relationship_basis": "No Dutch VTS was found whose defined area covers this offshore scheme. The Netherlands Coastguard performs Vessel Traffic Monitoring (VTMon) and distinguishes VTS as provided by traffic centres (S14, S15); VTMon is recorded as a lead only, not as a VTS.",
+   "reporting_finding": "Unresolved",
+   "reporting_scheme_keys": [],
+   "reporting_relationship_basis": "No IMO-adopted mandatory ship reporting system or national mandatory reporting specific to this scheme was found. Netherlands Coastguard states it 'has no powers to impose traffic directions' (S13). A failed search is not proof of absence.",
+   "voluntary_reporting": null,
+   "applicability_notes": "Mandatory route for tankers from North Hinder to the German Bight applies to oil tankers 10,000 GT and over, chemical/NLS tankers 5,000 GT (X/Y) or 10,000 GT (Z) and over, and gas carriers 10,000 GT and over (S1, annex 4).",
+   "provisional_complexity": "Intermediate",
+   "complexity_reason": "Part of a multi-component routeing system linked to the IMO mandatory tanker route; no VTS or reporting identified.",
+   "source_ids": [
+    "S1",
+    "S4",
+    "S13",
+    "S14",
+    "S15",
+    "S27"
+   ],
+   "open_questions": "Duplicate/grouping: likely to merge with TSS-0051 under 'Off Vlieland, Vlieland North and Vlieland Junction'. Current Dutch legal text (puc.overheid.nl) returned HTTP 403.",
+   "research_effort": "approx 3 web actions (shared Dutch sources)"
+  },
+  {
+   "record_id": "TSS-0051",
+   "batch": "B11",
+   "source_label": "Off Vlieland",
+   "official_name": "Off Vlieland (part of 'Off Vlieland, Vlieland North and Vlieland Junction')",
+   "states": "Netherlands",
+   "tss_identity_status": "Confirmed",
+   "tss_identity_note": "As TSS-0050: amended by COLREG.2/Circ.59, implemented 1 May 2008 (S1); single entry in Ships' Routeing 2008 (S27). MSC 109 containership recommendation covers 'Off Vlieland' from 1 July 2025 (lead S5).",
+   "grouped_components": [
+    "Off Vlieland",
+    "Vlieland North",
+    "Vlieland Junction"
+   ],
+   "operational_status": "In force",
+   "vts_finding": "Unresolved",
+   "vts_service_keys": [],
+   "vts_relationship_basis": "No Dutch VTS was found whose defined area covers this offshore scheme. The Netherlands Coastguard performs Vessel Traffic Monitoring (VTMon) and distinguishes VTS as provided by traffic centres (S14, S15); VTMon is recorded as a lead only, not as a VTS.",
+   "reporting_finding": "Unresolved",
+   "reporting_scheme_keys": [],
+   "reporting_relationship_basis": "No IMO-adopted mandatory ship reporting system or national mandatory reporting specific to this scheme was found. Netherlands Coastguard states it 'has no powers to impose traffic directions' (S13). A failed search is not proof of absence.",
+   "voluntary_reporting": "Coastguard container-ship wave advice applies to the southern route north of the West Frisian Islands (S13); relationship to this specific scheme not stated.",
+   "applicability_notes": "Mandatory route for tankers from North Hinder to the German Bight applies to oil tankers 10,000 GT and over, chemical/NLS tankers 5,000 GT (X/Y) or 10,000 GT (Z) and over, and gas carriers 10,000 GT and over (S1, annex 4).",
+   "provisional_complexity": "Intermediate",
+   "complexity_reason": "Multi-component system, mandatory tanker route and containership recommendation; no VTS identified.",
+   "source_ids": [
+    "S1",
+    "S4",
+    "S5",
+    "S13",
+    "S14",
+    "S15",
+    "S27"
+   ],
+   "open_questions": "Merge with TSS-0050. Text of the 2024 containership recommendation not retrieved.",
+   "research_effort": "approx 2 web actions (shared)"
+  },
+  {
+   "record_id": "TSS-0052",
+   "batch": "B11",
+   "source_label": "Off Texel",
+   "official_name": "Off Texel",
+   "states": "Netherlands",
+   "tss_identity_status": "Confirmed",
+   "tss_identity_note": "Amended by COLREG.2/Circ.59 (implemented 1 May 2008) (S1); further amended by COLREG.2/Circ.64 (MSC 91, 2012), implemented 1 August 2013, per the Transportstyrelsen list (S4); Circ.64 text itself not retrieved.",
+   "grouped_components": [],
+   "operational_status": "In force",
+   "vts_finding": "Unresolved",
+   "vts_service_keys": [],
+   "vts_relationship_basis": "No Dutch VTS was found whose defined area covers this offshore scheme. The Netherlands Coastguard performs Vessel Traffic Monitoring (VTMon) and distinguishes VTS as provided by traffic centres (S14, S15); VTMon is recorded as a lead only, not as a VTS. Den Helder port VTS not researched for coverage of this scheme.",
+   "reporting_finding": "Unresolved",
+   "reporting_scheme_keys": [],
+   "reporting_relationship_basis": "No IMO-adopted mandatory ship reporting system or national mandatory reporting specific to this scheme was found. Netherlands Coastguard states it 'has no powers to impose traffic directions' (S13). A failed search is not proof of absence.",
+   "voluntary_reporting": null,
+   "applicability_notes": "Mandatory route for tankers from North Hinder to the German Bight applies to oil tankers 10,000 GT and over, chemical/NLS tankers 5,000 GT (X/Y) or 10,000 GT (Z) and over, and gas carriers 10,000 GT and over (S1, annex 4).",
+   "provisional_complexity": "Intermediate",
+   "complexity_reason": "Linked to IMO mandatory tanker route; 2013 restructuring of Dutch routeing.",
+   "source_ids": [
+    "S1",
+    "S4",
+    "S14",
+    "S15"
+   ],
+   "open_questions": "Retrieve COLREG.2/Circ.64 (NOAA copy redirects; IMO copy not found). Check Den Helder VTS area against the scheme.",
+   "research_effort": "approx 3 web actions"
+  },
+  {
+   "record_id": "TSS-0053",
+   "batch": "B11",
+   "source_label": "In the Approaches to IJmuiden",
+   "official_name": "In the approaches to IJmuiden",
+   "states": "Netherlands",
+   "tss_identity_status": "Confirmed",
+   "tss_identity_note": "New scheme adopted by MSC 91 and circulated as COLREG.2/Circ.64 (2012), implemented 1 August 2013, per Transportstyrelsen list (S4); associated precautionary areas in SN.1/Circ.317 (S4). Separate IMO deep-water route leading to IJmuiden listed in Ships' Routeing 2008 (S27). Circ.64 text not retrieved.",
+   "grouped_components": [],
+   "operational_status": "In force",
+   "vts_finding": "Unresolved",
+   "vts_service_keys": [
+    "SVC-nl-vts-noordzeekanaalgebied"
+   ],
+   "vts_relationship_basis": "VTS North Sea Canal Area covers 'the approaches to IJmuiden ... within a 12-nautical-mile radius ... including the extended IJ-geul deep water channel' (S12). The source does not state that the TSS lanes lie within this area; the extended IJ-geul is a separate IMO deep-water route. VTS named as a strong lead; overlap with the TSS needs chart verification.",
+   "reporting_finding": "Unresolved",
+   "reporting_scheme_keys": [],
+   "reporting_relationship_basis": "No IMO or national mandatory reporting system specific to the TSS found. Within the VTS area there are ordinary VTS reporting duties: report on arrival at 12 nm to Sector IJmuiden VHF 61 and to IJmuiden Approaches VHF 07 'as soon as VHF contact is possible' (S12). These are VTS reporting duties, recorded separately.",
+   "voluntary_reporting": null,
+   "applicability_notes": "VTS reporting and listening watch apply to vessels in the VTS area per S12.",
+   "provisional_complexity": "Intermediate",
+   "complexity_reason": "TSS, deep-water route, precautionary areas and a port VTS with sector structure; overlap to be confirmed.",
+   "source_ids": [
+    "S4",
+    "S12",
+    "S27"
+   ],
+   "open_questions": "Retrieve Circ.64 annex or chart INT 1418 to test whether any TSS lane lies within 12 nm of the breakwaters or on the extended IJ-geul. Dutch 2020 to 2023 Notices to Mariners (defensie.nl) returned 404.",
+   "research_effort": "approx 5 web actions"
+  },
+  {
+   "record_id": "TSS-0054",
+   "batch": "B11",
+   "source_label": "Off Brown Ridge",
+   "official_name": null,
+   "states": "Netherlands (presumed)",
+   "tss_identity_status": "Provisional",
+   "tss_identity_note": "Existence of a TSS 'Off Brown Ridge' is indicated only by leads: Wikipedia list 'Brown Ridge' (S30) and search snippets describing a deep-water route linking TSS Off Brown Ridge to TSS West Friesland and the 1 August 2013 Dutch re-routeing. Not found in Ships' Routeing 2008 contents (S27) or Transportstyrelsen 2017 list (S4) as a separate entry; may be a component of 'Off Friesland' or of the 2013 Dutch routeing package. Adopting instrument not retrieved.",
+   "grouped_components": [],
+   "operational_status": "Not established",
+   "vts_finding": "Unresolved",
+   "vts_service_keys": [],
+   "vts_relationship_basis": "No Dutch VTS was found whose defined area covers this offshore scheme. The Netherlands Coastguard performs Vessel Traffic Monitoring (VTMon) and distinguishes VTS as provided by traffic centres (S14, S15); VTMon is recorded as a lead only, not as a VTS.",
+   "reporting_finding": "Unresolved",
+   "reporting_scheme_keys": [],
+   "reporting_relationship_basis": "No IMO-adopted mandatory ship reporting system or national mandatory reporting specific to this scheme was found. Netherlands Coastguard states it 'has no powers to impose traffic directions' (S13). A failed search is not proof of absence.",
+   "voluntary_reporting": null,
+   "applicability_notes": "Search snippet (lead) states it forms part of a mandatory route for some classes of vessels; not verified.",
+   "provisional_complexity": "Not assessed",
+   "complexity_reason": "Identity not confirmed.",
+   "source_ids": [
+    "S4",
+    "S27",
+    "S30"
+   ],
+   "open_questions": "Identify adopting instrument (possibly COLREG.2/Circ.64 or a 2012/2013 Dutch package); Dutch official texts on puc.overheid.nl blocked (HTTP 403); Dutch NtM 2017 no.183 returned 404.",
+   "research_effort": "approx 4 web actions"
+  },
+  {
+   "record_id": "TSS-0055",
+   "batch": "B11",
+   "source_label": "West Friesland",
+   "official_name": "West Friesland scheme (part of routeing system 'Off Friesland')",
+   "states": "Netherlands",
+   "tss_identity_status": "Confirmed",
+   "tss_identity_note": "Component of the 'Off Friesland' routeing system; amended by COLREG.2/Circ.66 (MSC 94, 21 November 2014), implemented 1 June 2015 (S2), corrected by COLREG.2/Circ.66/Corr.1 (MSC 96, 2016, immediate effect) (S3). MSC 109 containership recommendation covers 'Off Friesland' from 1 July 2025 (lead S5).",
+   "grouped_components": [
+    "West Friesland",
+    "North Friesland",
+    "East Friesland",
+    "Off Botney Ground (per S1)",
+    "deep-water routes of 'Off Friesland'"
+   ],
+   "operational_status": "In force",
+   "vts_finding": "Unresolved",
+   "vts_service_keys": [],
+   "vts_relationship_basis": "No Dutch VTS was found whose defined area covers this offshore scheme. The Netherlands Coastguard performs Vessel Traffic Monitoring (VTMon) and distinguishes VTS as provided by traffic centres (S14, S15); VTMon is recorded as a lead only, not as a VTS.",
+   "reporting_finding": "Unresolved",
+   "reporting_scheme_keys": [],
+   "reporting_relationship_basis": "No IMO-adopted mandatory ship reporting system or national mandatory reporting specific to this scheme was found. Netherlands Coastguard states it 'has no powers to impose traffic directions' (S13). A failed search is not proof of absence.",
+   "voluntary_reporting": null,
+   "applicability_notes": "Western route of Off Friesland is strongly recommended for deep-draught tankers exempted from the southern part of the mandatory tanker route (S1).",
+   "provisional_complexity": "Intermediate",
+   "complexity_reason": "Component of a multi-scheme routeing system with deep-water routes and tanker routeing provisions.",
+   "source_ids": [
+    "S1",
+    "S2",
+    "S3",
+    "S5",
+    "S14",
+    "S15"
+   ],
+   "open_questions": "Grouping: TSS-0055, TSS-0056, TSS-0057 and TSS-0058 appear to be components of the single IMO routeing system 'Off Friesland'; consider merging.",
+   "research_effort": "approx 3 web actions (shared)"
+  },
+  {
+   "record_id": "TSS-0056",
+   "batch": "B12",
+   "source_label": "North Friesland",
+   "official_name": "North Friesland scheme (part of routeing system 'Off Friesland')",
+   "states": "Netherlands",
+   "tss_identity_status": "Confirmed",
+   "tss_identity_note": "Established within 'Off Friesland' by COLREG.2/Circ.66 (implemented 1 June 2015), with separation zones around 54° 00' to 54° 05' N, 004° 40' to 005° 06' E (S2, S3). Dutch offshore scheme, not the German North Frisian coast. Lead (search summary) says it replaced the Friesland Junction precautionary area; not verified in retrieved text.",
+   "grouped_components": [
+    "West Friesland",
+    "North Friesland",
+    "East Friesland"
+   ],
+   "operational_status": "In force",
+   "vts_finding": "Unresolved",
+   "vts_service_keys": [],
+   "vts_relationship_basis": "No Dutch VTS was found whose defined area covers this offshore scheme. The Netherlands Coastguard performs Vessel Traffic Monitoring (VTMon) and distinguishes VTS as provided by traffic centres (S14, S15); VTMon is recorded as a lead only, not as a VTS.",
+   "reporting_finding": "Unresolved",
+   "reporting_scheme_keys": [],
+   "reporting_relationship_basis": "No IMO-adopted mandatory ship reporting system or national mandatory reporting specific to this scheme was found. Netherlands Coastguard states it 'has no powers to impose traffic directions' (S13). A failed search is not proof of absence.",
+   "voluntary_reporting": null,
+   "applicability_notes": null,
+   "provisional_complexity": "Intermediate",
+   "complexity_reason": "Component of multi-scheme routeing system.",
+   "source_ids": [
+    "S2",
+    "S3",
+    "S14",
+    "S15"
+   ],
+   "open_questions": "Merge with TSS-0055/0057. Confirm fate of Friesland Junction precautionary area.",
+   "research_effort": "approx 2 web actions (shared)"
+  },
+  {
+   "record_id": "TSS-0057",
+   "batch": "B12",
+   "source_label": "East Friesland",
+   "official_name": "East Friesland scheme (part of routeing system 'Off Friesland')",
+   "states": "Netherlands",
+   "tss_identity_status": "Confirmed",
+   "tss_identity_note": "Amended within 'Off Friesland' by COLREG.2/Circ.66 (implemented 1 June 2015) and Corr.1 (2016) (S2, S3). Dutch offshore scheme around 54° 02' to 54° 06' N, 005° 08' to 005° 10' E at its western boundary; not the German East Frisian coast.",
+   "grouped_components": [
+    "West Friesland",
+    "North Friesland",
+    "East Friesland"
+   ],
+   "operational_status": "In force",
+   "vts_finding": "Unresolved",
+   "vts_service_keys": [],
+   "vts_relationship_basis": "No Dutch VTS was found whose defined area covers this offshore scheme. The Netherlands Coastguard performs Vessel Traffic Monitoring (VTMon) and distinguishes VTS as provided by traffic centres (S14, S15); VTMon is recorded as a lead only, not as a VTS.",
+   "reporting_finding": "Unresolved",
+   "reporting_scheme_keys": [],
+   "reporting_relationship_basis": "No IMO-adopted mandatory ship reporting system or national mandatory reporting specific to this scheme was found. Netherlands Coastguard states it 'has no powers to impose traffic directions' (S13). A failed search is not proof of absence.",
+   "voluntary_reporting": null,
+   "applicability_notes": null,
+   "provisional_complexity": "Intermediate",
+   "complexity_reason": "Component of multi-scheme routeing system.",
+   "source_ids": [
+    "S2",
+    "S3",
+    "S14",
+    "S15"
+   ],
+   "open_questions": "Merge with TSS-0055/0056. Eastern extent (toward German EEZ) not verified.",
+   "research_effort": "approx 1 web action (shared)"
+  },
+  {
+   "record_id": "TSS-0058",
+   "batch": "B12",
+   "source_label": "Off Botney Ground",
+   "official_name": "Off Botney Ground (part of western route of routeing system 'Off Friesland')",
+   "states": "Netherlands (presumed; UK/NL boundary area not verified)",
+   "tss_identity_status": "Confirmed",
+   "tss_identity_note": "COLREG.2/Circ.59 names 'TSS Off Botney Ground' as part of the alternative western route of the routeing system 'Off Friesland' for deep-draught tankers (S1). Not a separate entry in Ships' Routeing 2008 contents (S27). Currency after 2015 not separately verified.",
+   "grouped_components": [],
+   "operational_status": "In force",
+   "vts_finding": "Unresolved",
+   "vts_service_keys": [],
+   "vts_relationship_basis": "No Dutch VTS was found whose defined area covers this offshore scheme. The Netherlands Coastguard performs Vessel Traffic Monitoring (VTMon) and distinguishes VTS as provided by traffic centres (S14, S15); VTMon is recorded as a lead only, not as a VTS.",
+   "reporting_finding": "Unresolved",
+   "reporting_scheme_keys": [],
+   "reporting_relationship_basis": "No IMO-adopted mandatory ship reporting system or national mandatory reporting specific to this scheme was found. Netherlands Coastguard states it 'has no powers to impose traffic directions' (S13). A failed search is not proof of absence.",
+   "voluntary_reporting": null,
+   "applicability_notes": "Deep-draught tankers exempted from the southern part of the mandatory tanker route are 'strongly recommended' to use this western route and log the deviation (S1).",
+   "provisional_complexity": "Intermediate",
+   "complexity_reason": "Offshore component linked to tanker routeing provisions; State responsibility to confirm.",
+   "source_ids": [
+    "S1",
+    "S27",
+    "S30"
+   ],
+   "open_questions": "Confirm coordinates and responsible State; confirm whether still in force after the 2015 Off Friesland amendments. Consider grouping with Off Friesland records.",
+   "research_effort": "approx 2 web actions (shared)"
+  },
+  {
+   "record_id": "TSS-0059",
+   "batch": "B12",
+   "source_label": "Off Ushant (Île d'Ouessant)",
+   "official_name": "Off Ushant",
+   "states": "France",
+   "tss_identity_status": "Confirmed",
+   "tss_identity_note": "Amended by COLREG.2/Circ.51 (MSC 75), implemented 1 May 2003 (S18); further amended by COLREG.2/Circ.64 (MSC 91), implemented 1 June 2013 per search result (Circ.64 text not retrieved). French ministry 2024 confirms DST Ouessant under CROSS Corsen (S19).",
+   "grouped_components": [],
+   "operational_status": "In force",
+   "vts_finding": "Confirmed present",
+   "vts_service_keys": [
+    "SVC-fr-ouessant-vts"
+   ],
+   "vts_relationship_basis": "IMO MSC.52(66): OUESSREP area 'covers a circular area 35 miles in radius centred on the Ile d'Ouessant' and 'The TSS covers the entire area'; shore authority is the Corsen/Ouessant VTS 'Ushant Traffic' at CROSS Corsen, VHF 13 (S16). French ministry 2024: 'DST Ouessant : zone de compétences CROSS Corsen' (S19).",
+   "reporting_finding": "Confirmed present",
+   "reporting_scheme_keys": [
+    "RPT-fr-ouessrep"
+   ],
+   "reporting_relationship_basis": "OUESSREP, IMO-adopted SOLAS mandatory ship reporting system (MSC.52(66), amended MSC.251(83) in force 1 May 2008) covering the TSS (S16, S17); French 2024 publication confirms Channel CROSS monitor ships over 300 UMS 'soumis à un compte rendu obligatoire' (S19).",
+   "voluntary_reporting": null,
+   "applicability_notes": "Ships of more than 300 GRT (S16). Report content amended 2008 to include bunker quantity for ships carrying over 5,000 t bunkers (S17).",
+   "provisional_complexity": "Intermediate",
+   "complexity_reason": "Single VTS with IMO mandatory reporting; well documented.",
+   "source_ids": [
+    "S16",
+    "S17",
+    "S18",
+    "S19"
+   ],
+   "open_questions": "A current CROSS Corsen or Premar Atlantique page with VHF channels was not retrieved; channels are from the 1996 IMO text.",
+   "research_effort": "approx 5 web actions"
+  },
+  {
+   "record_id": "TSS-0060",
+   "batch": "B12",
+   "source_label": "Off Finisterre",
+   "official_name": "Off Finisterre",
+   "states": "Spain",
+   "tss_identity_status": "Confirmed",
+   "tss_identity_note": "Originally adopted by A.767(18) (cited in S20); amended by A.957(23), implemented 1 June 2004, adding lanes for ships carrying dangerous or pollutant cargoes in bulk (S21). Listed in Ships' Routeing 2008 (S27).",
+   "grouped_components": [],
+   "operational_status": "In force",
+   "vts_finding": "Confirmed present",
+   "vts_service_keys": [
+    "SVC-es-finisterre-vts"
+   ],
+   "vts_relationship_basis": "MSC.63(67): FINREP area 'includes the traffic separation scheme \"off Finisterre\"' and ships 'shall report to the Finisterre Traffic VTS' (S20). The amended 2004 outer southbound lane reaches 010° 13.7' W (S21), slightly west of the 1996 FINREP limit (010° 10' W), so coverage of the outermost lane is not evidenced.",
+   "reporting_finding": "Confirmed present",
+   "reporting_scheme_keys": [
+    "RPT-es-finrep"
+   ],
+   "reporting_relationship_basis": "FINREP, IMO-adopted mandatory SRS in force 3 June 1997 (S20).",
+   "voluntary_reporting": null,
+   "applicability_notes": "FINREP: ships of 50 m LOA or more; ships carrying hazardous or potentially polluting cargo; tows over 50 m; smaller vessels fishing in or using lanes in emergency (S20). Dangerous cargo ships use designated outer lanes (S21).",
+   "provisional_complexity": "Intermediate",
+   "complexity_reason": "VTS with IMO mandatory reporting; cargo-based lane allocation; possible mismatch of FINREP limit with amended TSS.",
+   "source_ids": [
+    "S20",
+    "S21",
+    "S22",
+    "S27"
+   ],
+   "open_questions": "Salvamento Marítimo website returned HTTP 503/TLS failure, so current VTS name and VHF channel not confirmed from operator; only a 2025 news lead (S22). Check whether FINREP geographical limits were amended after 2004.",
+   "research_effort": "approx 6 web actions"
+  },
+  {
+   "record_id": "TSS-0061",
+   "batch": "B13",
+   "source_label": "Off Cape Roca (Cabo da Roca)",
+   "official_name": "Off Cape Roca",
+   "states": "Portugal",
+   "tss_identity_status": "Confirmed",
+   "tss_identity_note": "Amended by MSC 79 (December 2004) with entry into force 1 July 2005 (S23 preamble) and again by COLREG.2/Circ.61 (MSC 87), implemented 1 December 2010 (S26). Established in Portuguese law as 'EST do cabo da Roca' (S23 art. 4).",
+   "grouped_components": [],
+   "operational_status": "In force",
+   "vts_finding": "Confirmed present",
+   "vts_service_keys": [
+    "SVC-pt-vts-costeiro-continente"
+   ],
+   "vts_relationship_basis": "DL 263/2009 art. 6 defines the coastal VTS area (west limit 10° 14' W north of 38° 41' N) and art. 10(4) gives the CCTMC supervision of 'regras aplicáveis aos esquemas de separação de tráfego' (S24); DL 198/2006 art. 9 assigns TSS enforcement to the national VTS authority (S23). All Circ.61 positions of the scheme (westmost 010° 13.78' W) fall inside the statutory VTS area on coordinate comparison (S26).",
+   "reporting_finding": "Confirmed present",
+   "reporting_scheme_keys": [
+    "RPT-pt-coprep"
+   ],
+   "reporting_relationship_basis": "COPREP (MSC.278(85), in force 1 June 2009) area bounded west by 010° 14' W and to the south-west by the line 38° 41' N 010° 14' W to 36° 30' N 009° 35' W (S25); the scheme lies inside on coordinate comparison. Reports to Roca Control.",
+   "voluntary_reporting": "COPREP invites any other vessel type to participate voluntarily (S25).",
+   "applicability_notes": "COPREP and VTS: ships of 300 GT or above, dangerous/polluting cargo, passenger ships, tows over 100 m, fishing vessels 24 m or more (S24, S25). Separate lanes for ships carrying dangerous or pollutant cargoes in bulk (S26).",
+   "provisional_complexity": "Intermediate",
+   "complexity_reason": "Single national coastal VTS with IMO mandatory reporting and cargo-based lanes.",
+   "source_ids": [
+    "S23",
+    "S24",
+    "S25",
+    "S26"
+   ],
+   "open_questions": "DL 263/2009 cites IPTM; current operating authority (DGRM) not confirmed from a DGRM page. Coverage relies on coordinate comparison.",
+   "research_effort": "approx 6 web actions (shared with TSS-0062)"
+  },
+  {
+   "record_id": "TSS-0062",
+   "batch": "B13",
+   "source_label": "Off Cape St. Vicente (Cabo de São Vicente)",
+   "official_name": "Off Cape S. Vicente",
+   "states": "Portugal",
+   "tss_identity_status": "Confirmed",
+   "tss_identity_note": "Amended by MSC 79 (in force 1 July 2005) (S23 preamble) and COLREG.2/Circ.61, implemented 1 December 2010 (S26). 'EST do cabo de São Vicente' in Portuguese law (S23 art. 4).",
+   "grouped_components": [],
+   "operational_status": "In force",
+   "vts_finding": "Confirmed present",
+   "vts_service_keys": [
+    "SVC-pt-vts-costeiro-continente"
+   ],
+   "vts_relationship_basis": "As TSS-0061: statutory VTS area and CCTMC duty to supervise TSS rules (S24 art. 6, 10(4)); DL 198/2006 art. 9 (S23). Circ.61 positions (around 36° 36' to 37° 02' N, 008° 58' to 009° 34' W for retrieved points) lie inside the VTS area line 38° 41' N 10° 14' W to 36° 30' N 9° 35' W on coordinate comparison (S26).",
+   "reporting_finding": "Confirmed present",
+   "reporting_scheme_keys": [
+    "RPT-pt-coprep"
+   ],
+   "reporting_relationship_basis": "COPREP area (S25) encloses the scheme on coordinate comparison; reports to Roca Control.",
+   "voluntary_reporting": "COPREP voluntary participation for other vessel types (S25).",
+   "applicability_notes": "As TSS-0061.",
+   "provisional_complexity": "Intermediate",
+   "complexity_reason": "As TSS-0061.",
+   "source_ids": [
+    "S23",
+    "S24",
+    "S25",
+    "S26"
+   ],
+   "open_questions": "Outermost southbound dangerous-cargo lane coordinates not all extracted; verify it lies east of the COPREP/VTS boundary.",
+   "research_effort": "approx 1 web action (shared)"
+  },
+  {
+   "record_id": "TSS-0063",
+   "batch": "B13",
+   "source_label": "At Banco del Hoyo",
+   "official_name": "At Banco del Hoyo",
+   "states": "Spain (presumed)",
+   "tss_identity_status": "Provisional",
+   "tss_identity_note": "Listed in IMO Ships' Routeing 2008 contents, Section II Western European waters, page II/32, after Off Cape S. Vicente (S27), and in Transportstyrelsen 2017 list as adopted by A.284(VIII) 1973 with no later amendment (S4). Location, coordinates and responsible State not retrieved.",
+   "grouped_components": [],
+   "operational_status": "In force",
+   "vts_finding": "Unresolved",
+   "vts_service_keys": [],
+   "vts_relationship_basis": "Location not established, so no VTS coverage could be tested. Possible leads (not evidenced): Tarifa VTS / GIBREP if the scheme lies in the western approach to the Strait of Gibraltar, but GIBREP area is 005° 58' W to 005° 15' W only (MSC.63(67) annex 2, S20).",
+   "reporting_finding": "Unresolved",
+   "reporting_scheme_keys": [],
+   "reporting_relationship_basis": "No reporting system linked; location not established.",
+   "voluntary_reporting": null,
+   "applicability_notes": null,
+   "provisional_complexity": "Not assessed",
+   "complexity_reason": "Identity and location unresolved.",
+   "source_ids": [
+    "S4",
+    "S20",
+    "S27",
+    "S30"
+   ],
+   "open_questions": "Retrieve Ships' Routeing Part B II/32 or resolution A.284(VIII) to fix location; confirm whether still in force in 2026.",
+   "research_effort": "approx 5 web actions"
+  },
+  {
+   "record_id": "TSS-0064",
+   "batch": "B13",
+   "source_label": "Between Grand Canary and Tenerife",
+   "official_name": "Western Traffic Separation Scheme (between Grand Canary and Tenerife), part of the Canary Islands schemes",
+   "states": "Spain",
+   "tss_identity_status": "Confirmed",
+   "tss_identity_note": "New scheme adopted by MSC 81 in COLREG.2/Circ.57 (26 May 2006), implemented 1 December 2006 (S28). Listed as 'Between Grand Canary and Tenerife' in Ships' Routeing 2008 (S27).",
+   "grouped_components": [],
+   "operational_status": "In force",
+   "vts_finding": "Unresolved",
+   "vts_service_keys": [],
+   "vts_relationship_basis": "No designated VTS found. Primary sources name MRCC Tenerife as recipient of voluntary TSS notifications and CANREP reports (S28, S29), but describe it as an MRCC, not a VTS. MRCC recorded as lead (SVC-es-canarias-mrcc).",
+   "reporting_finding": "Confirmed present",
+   "reporting_scheme_keys": [
+    "RPT-es-canrep"
+   ],
+   "reporting_relationship_basis": "CANREP area is a polygon along the outer limit of the territorial sea enclosing the archipelago, so inter-island waters including this scheme lie inside (S29, section 2.1). Applies only to specified heavy-oil tankers.",
+   "voluntary_reporting": "Ships may notify entry to and departure from the TSS via MRCC Tenerife on VHF 16 (S28).",
+   "applicability_notes": "CANREP: tankers of 600 dwt and above carrying heavy crude, heavy fuel oil, bitumen or tar, transiting or trading inter-island (S29).",
+   "provisional_complexity": "Intermediate",
+   "complexity_reason": "Narrow-scope IMO mandatory reporting plus voluntary TSS notification; no VTS.",
+   "source_ids": [
+    "S27",
+    "S28",
+    "S29"
+   ],
+   "open_questions": "Check whether Salvamento Marítimo operates a VTS function for the Canary TSS (website unavailable). CANREP coverage of the TSS rests on the polygon description; the chartlet was not inspected.",
+   "research_effort": "approx 4 web actions (shared with TSS-0065)"
+  },
+  {
+   "record_id": "TSS-0065",
+   "batch": "B13",
+   "source_label": "Between Grand Canary and Fuerteventura",
+   "official_name": "Eastern Traffic Separation Scheme (between Grand Canary and Fuerteventura), part of the Canary Islands schemes",
+   "states": "Spain",
+   "tss_identity_status": "Confirmed",
+   "tss_identity_note": "New scheme in COLREG.2/Circ.57, implemented 1 December 2006 (S28); includes a precautionary area and inshore traffic zone. Listed in Ships' Routeing 2008 (S27).",
+   "grouped_components": [],
+   "operational_status": "In force",
+   "vts_finding": "Unresolved",
+   "vts_service_keys": [],
+   "vts_relationship_basis": "As TSS-0064; MRCC Las Palmas receives voluntary notifications (S28); no VTS designation found.",
+   "reporting_finding": "Confirmed present",
+   "reporting_scheme_keys": [
+    "RPT-es-canrep"
+   ],
+   "reporting_relationship_basis": "Inside the CANREP polygon (S29); ships entering east of 015° 30' W report to MRCC Las Palmas.",
+   "voluntary_reporting": "Ships may notify entry to and departure from the TSS via MRCC Las Palmas on VHF 16 (S28).",
+   "applicability_notes": "CANREP: as TSS-0064.",
+   "provisional_complexity": "Intermediate",
+   "complexity_reason": "As TSS-0064.",
+   "source_ids": [
+    "S27",
+    "S28",
+    "S29"
+   ],
+   "open_questions": "As TSS-0064.",
+   "research_effort": "approx 1 web action (shared)"
+  }
+ ],
+ "services": [
+  {
+   "key": "SVC-de-german-bight-traffic",
+   "name": "German Bight Traffic (Verkehrszentrale Wilhelmshaven)",
+   "area": "Inner German Bight from Borkum to Helgoland (Innere Deutsche Bucht, as defined in the Anhang to the AnlBV Anlage), including the German part of TSS Terschelling-German Bight, TSS German Bight Western Approach (east of 007° 10' E reporting line) and TSS Jade Approach",
+   "authority": "Wasserstraßen- und Schifffahrtsamt Weser-Jade-Nordsee (WSV); strom- und schifffahrtspolizeiliche Behörde GDWS",
+   "centre_sectors": "VTS Centre Wilhelmshaven; Revierzentrale German Bight Traffic (with Northcoast Traffic, VHF 79)",
+   "vhf": "79, 80 (16); Northcoast Traffic 79",
+   "participation": "mandatory (reports under AnlBV Anlage 3.1 for >300 GT and SeeSchStrO § 58 for vessels of 50 m or more)",
+   "evidence_status": "Confirmed by primary source",
+   "source_ids": [
+    "S6",
+    "S7",
+    "S8",
+    "S10"
+   ],
+   "note": "Same service covers records TSS-0046, TSS-0048, TSS-0049 (German part) and TSS-0047 (outbound report). 'North Coast Traffic' (VHF 79) is a sub-service of the same Revierzentrale per S8; not counted separately."
+  },
+  {
+   "key": "SVC-de-jade-traffic",
+   "name": "Jade Traffic (Verkehrszentrale Wilhelmshaven)",
+   "area": "Jade from buoy 1b/Jade 1 to buoy 58",
+   "authority": "WSA Weser-Jade-Nordsee (WSV)",
+   "centre_sectors": "VTS Centre Wilhelmshaven; VHF 63 (1b/Jade 1 to 33/34), VHF 20 (33/34 to 58)",
+   "vhf": "63, 20 (16)",
+   "participation": "mandatory reporting for vessels of 50 m or more",
+   "evidence_status": "Confirmed by primary source",
+   "source_ids": [
+    "S7",
+    "S8",
+    "S10"
+   ],
+   "note": "Covers the Jade fairway landward of TSS Jade Approach; not relied on for TSS coverage (German Bight Traffic covers the TSS)."
+  },
+  {
+   "key": "SVC-de-cuxhaven-elbe-traffic",
+   "name": "Cuxhaven Elbe Traffic (Verkehrszentrale Cuxhaven)",
+   "area": "Seeschifffahrtsstraße Elbe in the Elbe approach (Elbeansteuerung) from buoy Nordergründe-Nord (NGN, 008° E) to buoy pair 53/54 (Reede); also sea-area surveillance around EEZ offshore wind farms and North Frisian west coast",
+   "authority": "Wasserstraßen- und Schifffahrtsamt Elbe-Nordsee (WSV)",
+   "centre_sectors": "VTS Centre Cuxhaven; Brunsbüttel Elbe Traffic (VHF 68) is a separate Verkehrszentrale upstream",
+   "vhf": "71 (16)",
+   "participation": "mandatory reporting for vessels of 50 m or more",
+   "evidence_status": "Confirmed by primary source",
+   "source_ids": [
+    "S7",
+    "S9",
+    "S10"
+   ],
+   "note": "Reporting point NGN at 008° E marks the landward end of the Elbe approach; seaward coverage of the TSS itself is by German Bight Traffic."
+  },
+  {
+   "key": "SVC-nl-vts-noordzeekanaalgebied",
+   "name": "VTS North Sea Canal Area (IJmuiden Approaches / Sector IJmuiden)",
+   "area": "Approaches to IJmuiden within 12 nm radius of the IJmuiden breakwaters, including the extended IJ-geul deep water channel, and inward to the North Sea Canal",
+   "authority": "Central Nautical Management North Sea Canal Area (Port of Amsterdam / Rijkswaterstaat)",
+   "centre_sectors": "IJmuiden Approaches (VHF 07, information only), Sector IJmuiden (VHF 61), further inland sectors",
+   "vhf": "07, 61",
+   "participation": "mandatory reporting and listening watch in VTS area",
+   "evidence_status": "Confirmed by primary source",
+   "source_ids": [
+    "S12"
+   ],
+   "note": "Service confirmed; coverage of TSS 'In the approaches to IJmuiden' lanes is not established by the source (lead for TSS-0053)."
+  },
+  {
+   "key": "SVC-nl-kustwacht-vtmon",
+   "name": "Netherlands Coastguard Vessel Traffic Monitoring (VTMon), Kustwachtcentrum Den Helder",
+   "area": "Netherlands North Sea, near wind farms and fairways",
+   "authority": "Netherlands Coastguard (Kustwacht)",
+   "centre_sectors": "Kustwachtcentrum (Den Helder)",
+   "vhf": null,
+   "participation": "not stated",
+   "evidence_status": "Lead only",
+   "source_ids": [
+    "S13",
+    "S14",
+    "S15"
+   ],
+   "note": "Coastguard describes VTMon as traffic monitoring and distinguishes VTS as provided by traffic centres; it states it has no powers to impose traffic directions. Not treated as a VTS; recorded as a lead for Dutch offshore TSS records."
+  },
+  {
+   "key": "SVC-fr-ouessant-vts",
+   "name": "Ouessant VTS (Corsen/Ouessant vessel traffic service, call sign 'Ushant Traffic'), CROSS Corsen",
+   "area": "Circular area of 35 nm radius centred on Ile d'Ouessant (Stiff radar tower), covering the whole Off Ushant TSS; information gathered for the wider CROSS Corsen area",
+   "authority": "France: CROSS Corsen (Direction des Affaires Maritimes / DGAMPA)",
+   "centre_sectors": "CROSS Corsen, radar at Stiff tower, Ouessant",
+   "vhf": "13 (primary), 79 and 80 (safety information)",
+   "participation": "mandatory for ships over 300 GT (via OUESSREP)",
+   "evidence_status": "Confirmed by primary source",
+   "source_ids": [
+    "S16",
+    "S17",
+    "S19"
+   ],
+   "note": "IMO text (1996, amended 2007) plus French ministry 2024 publication confirming CROSS Corsen competence for DST Ouessant."
+  },
+  {
+   "key": "SVC-es-finisterre-vts",
+   "name": "Finisterre Traffic VTS (Centro de Coordinación de Salvamento Finisterre)",
+   "area": "FINREP area between the coast, bearing 130° to Cape Villano lighthouse, bearing 075° to Cape Finisterre lighthouse and meridian 010° 10.0' W",
+   "authority": "Spain: Sociedad de Salvamento y Seguridad Marítima (SASEMAR) / Dirección General de la Marina Mercante",
+   "centre_sectors": "CCS Finisterre (Fisterra)",
+   "vhf": null,
+   "participation": "mandatory for FINREP categories",
+   "evidence_status": "Confirmed by primary source",
+   "source_ids": [
+    "S20",
+    "S22"
+   ],
+   "note": "Primary evidence is the 1996 IMO resolution; current operation supported only by a 2025 news lead (S22). Salvamento Marítimo website returned HTTP 503 and failed TLS; VHF channel not retrieved."
+  },
+  {
+   "key": "SVC-pt-vts-costeiro-continente",
+   "name": "VTS costeiro do continente (Centro de Controlo de Tráfego Marítimo do Continente, call sign 'Roca Control')",
+   "area": "Portuguese continental coast out to 50 nm: north limit 41° 51' 5\" N; west/south line 41° 51' 5\" N 10° 14' W, 38° 41' N 10° 14' W, 36° 30' N 9° 35' W, 36° 12' N 7° 24' W; east 7° 24' W",
+   "authority": "Portugal: IPTM in 2009 statute (functions now reported to sit with DGRM, not verified from a DGRM page)",
+   "centre_sectors": "CCTMC, Paço de Arcos",
+   "vhf": "22 and 79 (primary), 69 (secondary)",
+   "participation": "mandatory for ships of 300 GT and above and other listed categories (DL 263/2009 art. 7 and 8)",
+   "evidence_status": "Confirmed by primary source",
+   "source_ids": [
+    "S23",
+    "S24",
+    "S25"
+   ],
+   "note": "Statute gives CCTMC supervision of TSS rules; both Portuguese TSS lie within the statutory area on coordinate comparison."
+  },
+  {
+   "key": "SVC-es-canarias-mrcc",
+   "name": "MRCC Las Palmas and MRCC Tenerife (Salvamento Marítimo)",
+   "area": "Canary Islands; CANREP area and voluntary TSS notification",
+   "authority": "Spain: SASEMAR",
+   "centre_sectors": "MRCC Las Palmas (entries east of 015° 30' W), MRCC Tenerife (west of 015° 30' W)",
+   "vhf": "16 and 70 (CANREP); 16 (voluntary TSS notification)",
+   "participation": "voluntary for TSS notification; mandatory for CANREP tankers",
+   "evidence_status": "Lead only",
+   "source_ids": [
+    "S28",
+    "S29"
+   ],
+   "note": "Primary sources describe these as MRCCs receiving reports, not as a VTS; no evidence of a designated VTS covering the Canary TSS was retrieved."
+  }
+ ],
+ "reporting_schemes": [
+  {
+   "key": "RPT-de-anlbv-inner-german-bight",
+   "name": "Reporting on approach to the Inner German Bight (AnlBV Anlage Nr. 3.1) and SeeSchStrO § 58 reports to German Bight Traffic",
+   "area": "Inner German Bight: report when passing meridian 007° 10' E (from west) or parallel 54° 20' N (from north/north-west); SeeSchStrO § 58 entry reports at 54° 15' N, Borkumriff buoy and TG 17/C",
+   "participation": "Mandatory",
+   "imo_instrument": null,
+   "operating_service_keys": [
+    "SVC-de-german-bight-traffic"
+   ],
+   "evidence_status": "Confirmed by primary source",
+   "source_ids": [
+    "S6",
+    "S7"
+   ],
+   "note": "National mandatory reporting under German statute, not an IMO-adopted SOLAS V/11 system. AnlBV applies to ships and tows over 300 GT; SeeSchStrO § 58 applies to vessels of 50 m or more and ships under § 30(1) (dangerous goods)."
+  },
+  {
+   "key": "RPT-de-seeschstro-elbe",
+   "name": "SeeSchStrO § 58 reporting, Elbe (Bekanntmachung GDWS Außenstelle Nord 29.1)",
+   "area": "Elbe from buoy Nordergründe-Nord (008° E) inward",
+   "participation": "Mandatory",
+   "imo_instrument": null,
+   "operating_service_keys": [
+    "SVC-de-cuxhaven-elbe-traffic",
+    "SVC-de-german-bight-traffic"
+   ],
+   "evidence_status": "Confirmed by primary source",
+   "source_ids": [
+    "S7"
+   ],
+   "note": "Vessels of 50 m LOA or more; exempted from entry report if already made to German Bight Traffic. National VTS reporting."
+  },
+  {
+   "key": "RPT-fr-ouessrep",
+   "name": "OUESSREP (Off Ushant mandatory ship reporting system)",
+   "area": "Circle of 35 nm radius centred on Ile d'Ouessant (Stiff radar tower)",
+   "participation": "Mandatory",
+   "imo_instrument": "MSC.52(66), amended by MSC.251(83) (in force 1 May 2008)",
+   "operating_service_keys": [
+    "SVC-fr-ouessant-vts"
+   ],
+   "evidence_status": "Confirmed by primary source",
+   "source_ids": [
+    "S16",
+    "S17",
+    "S19"
+   ],
+   "note": "Ships of more than 300 GRT."
+  },
+  {
+   "key": "RPT-es-finrep",
+   "name": "FINREP (Off Finisterre mandatory ship reporting system)",
+   "area": "Between the coast, bearing 130° to Cape Villano lighthouse, bearing 075° to Cape Finisterre lighthouse and meridian 010° 10.0' W",
+   "participation": "Mandatory",
+   "imo_instrument": "MSC.63(67), annex 3 (in force 3 June 1997)",
+   "operating_service_keys": [
+    "SVC-es-finisterre-vts"
+   ],
+   "evidence_status": "Confirmed by primary source",
+   "source_ids": [
+    "S20"
+   ],
+   "note": "Ships of 50 m LOA or more, ships with hazardous or potentially polluting cargo, tows over 50 m. West limit 010° 10' W predates the 2004 TSS amendment whose outer southbound lane reaches 010° 13.7' W (S21); any later FINREP amendment not retrieved."
+  },
+  {
+   "key": "RPT-pt-coprep",
+   "name": "COPREP (Off the coast of Portugal mandatory ship reporting system)",
+   "area": "Shore to 39° 45' N; west/south line 39° 45' N 010° 14' W, 38° 41' N 010° 14' W, 36° 30' N 009° 35' W, 36° 15' N 008° 30' W; east 008° 30' W",
+   "participation": "Mandatory",
+   "imo_instrument": "MSC.278(85) (in force 1 June 2009)",
+   "operating_service_keys": [
+    "SVC-pt-vts-costeiro-continente"
+   ],
+   "evidence_status": "Confirmed by primary source",
+   "source_ids": [
+    "S25"
+   ],
+   "note": "Ships of 300 GT or above, dangerous/polluting cargo, passenger ships, tows over 100 m, fishing vessels 24 m or more."
+  },
+  {
+   "key": "RPT-es-canrep",
+   "name": "CANREP (Canary Islands mandatory ship reporting system)",
+   "area": "Polygon along the outer limit of the 12 nm territorial sea enclosing the archipelago (points A to N)",
+   "participation": "Mandatory",
+   "imo_instrument": "MSC.213(81) (in force 1 December 2006)",
+   "operating_service_keys": [
+    "SVC-es-canarias-mrcc"
+   ],
+   "evidence_status": "Confirmed by primary source",
+   "source_ids": [
+    "S29"
+   ],
+   "note": "Applies only to tankers of 600 dwt and above carrying heavy crude, heavy fuel oil, bitumen or tar."
+  },
+  {
+   "key": "RPT-es-canary-tss-voluntary",
+   "name": "Voluntary notification of entry/departure, Canary Islands TSS",
+   "area": "Eastern TSS (via MRCC Las Palmas) and Western TSS (via MRCC Tenerife)",
+   "participation": "Voluntary",
+   "imo_instrument": "COLREG.2/Circ.57, annex 1 notes",
+   "operating_service_keys": [
+    "SVC-es-canarias-mrcc"
+   ],
+   "evidence_status": "Confirmed by primary source",
+   "source_ids": [
+    "S28"
+   ],
+   "note": "VHF channel 16."
+  },
+  {
+   "key": "RPT-nl-containership-advice",
+   "name": "Netherlands Coastguard wave-height advice to container ships north of the West Frisian Islands",
+   "area": "TSS Terschelling-German Bight and northern route",
+   "participation": "Voluntary",
+   "imo_instrument": "Related IMO recommendation on navigation for containerships (MSC 109, from 1 July 2025) seen only as lead (S5)",
+   "operating_service_keys": [
+    "SVC-nl-kustwacht-vtmon"
+   ],
+   "evidence_status": "Confirmed by primary source",
+   "source_ids": [
+    "S13",
+    "S5"
+   ],
+   "note": "Advisory broadcast, not a reporting system; recorded here for completeness as a voluntary measure."
+  }
+ ],
+ "sources": [
+  {
+   "id": "S1",
+   "title": "COLREG.2/Circ.59: New and amended existing traffic separation schemes",
+   "authority": "IMO (third-party hosted copy, Shanghai Maritime University)",
+   "url": "https://cimrc.shmtu.edu.cn/_upload/article/files/63/dc/35c66be74d12873254dc88a2ef00/465d5392-0ba5-4f33-8e61-a48e3499b1b3.pdf",
+   "date_shown": "31 October 2007",
+   "evidence_class": "Primary",
+   "locator": "para 1.4 and annex 4",
+   "passage": "Mandatory route for tankers from North Hinder to the German Bight and vice versa and to related traffic separation schemes Off Texel, Off Vlieland, Vlieland North and Vlieland Junction, Terschelling-German Bight and German Bight western approaches (amended schemes)"
+  },
+  {
+   "id": "S2",
+   "title": "COLREG.2/Circ.66: Amended traffic separation schemes",
+   "authority": "IMO (third-party hosted copy, Vietnam Maritime Administration)",
+   "url": "https://www.vimawa.gov.vn/f/Circ%2066.pdf",
+   "date_shown": "21 November 2014",
+   "evidence_class": "Primary",
+   "locator": "para 1.3, para 2, annex 3",
+   "passage": "The amended traffic separation schemes listed above and detailed in the annexes will be implemented at 0000 hours UTC on 1 June 2015"
+  },
+  {
+   "id": "S3",
+   "title": "COLREG.2/Circ.66/Corr.1: Amended traffic separation schemes, Corrigendum (Off Friesland)",
+   "authority": "IMO (third-party hosted copy, Ministry of Development of Ukraine)",
+   "url": "https://mindev.gov.ua/storage/app/sites/1/uploaded-files/colreg2-circ66-corr1-corrigendum-secretariat.pdf",
+   "date_shown": "20 May 2016",
+   "evidence_class": "Primary",
+   "locator": "annex: West Friesland scheme, North Friesland scheme, East Friesland scheme",
+   "passage": "approved corrections to the amended traffic separation schemes \"Off Friesland\" adopted at its ninety-fourth session (17 to 21 November 2014), as set out in the annex, replacing annex 3 of COLREG.2/Circ.66"
+  },
+  {
+   "id": "S4",
+   "title": "Traffic Separation Schemes (list of IMO routeing measures with adopting documents)",
+   "authority": "Transportstyrelsen (Swedish Transport Agency)",
+   "url": "https://transportstyrelsen.se/globalassets/global/sjofart/dokument/sjotrafik_dok/ruttsystem.pdf",
+   "date_shown": "2017-04-27 (sections dated 2017-04-27 and 2018-07-30)",
+   "evidence_class": "Supporting",
+   "locator": "Western European waters and North Sea pages",
+   "passage": "In the approaches to Ijmuiden Colreg.2/Circ.64 2012 MSC 91 2012 ... At Banco del Hoyo A.284(VIII) 1973"
+  },
+  {
+   "id": "S5",
+   "title": "Summary Report IMO Maritime Safety Committee (MSC 109)",
+   "authority": "ISES Association (secondary summary)",
+   "url": "https://www.isesassociation.com/wp-content/uploads/2024/12/MSC_109_Summary_Report.pdf",
+   "date_shown": "December 2024",
+   "evidence_class": "Lead only",
+   "locator": "Ships' routeing outcomes",
+   "passage": "revised recommendation on navigation for containerships in traffic separation schemes Off Vlieland, Terschelling-German Bight, Off Friesland and German Bight western approach ... to be implemented from 1 July 2025"
+  },
+  {
+   "id": "S6",
+   "title": "Anlaufbedingungsverordnung (AnlBV), Anlage (zu § 1 Abs. 1)",
+   "authority": "Bundesministerium der Justiz (gesetze-im-internet.de), German federal statute",
+   "url": "https://www.gesetze-im-internet.de/anlbv_2004/anlage.html",
+   "date_shown": "Undated (consolidated text; original BGBl. I 2004, 301)",
+   "evidence_class": "Primary",
+   "locator": "Nr. 3.1, 5.1, 6 and 8",
+   "passage": "unabhängig davon, ob das Verkehrstrennungsgebiet „German Bight Western Approach“ benutzt wird, beim Passieren des Meridians 007° 10' E ... der Verkehrszentrale „German Bight Traffic“ über UKW-Sprechfunk (UKW-Kanal 79 oder 80)"
+  },
+  {
+   "id": "S7",
+   "title": "ELWIS: SeeSchStrO § 58 Schifffahrtspolizeiliche Meldungen, with Bekanntmachungen WSD Nordwest (19.1 to 19.4) and GDWS Außenstelle Nord (29.1)",
+   "authority": "Generaldirektion Wasserstraßen und Schifffahrt (GDWS), ELWIS",
+   "url": "https://www.elwis.de/DE/Schifffahrtsrecht/Seeschifffahrtsrecht/SeeSchStrO/Achter-Abschnitt/58/58-node.html",
+   "date_shown": "Undated",
+   "evidence_class": "Primary",
+   "locator": "Bekanntmachung 19.1.3 to 19.1.5, 19.2, 29.1.2 to 29.1.4",
+   "passage": "Reviereintrittsmeldung für Fahrzeuge, die das Verkehrstrennungsgebiet \"Terschelling - German Bight\" und die ihm zugeordnete Küstenverkehrszone befahren, beim Passieren der Leuchttonne \"Borkumriff\" über UKW Kanal 79 German Bight Traffic"
+  },
+  {
+   "id": "S8",
+   "title": "Verkehrszentralen (WSA Weser-Jade-Nordsee)",
+   "authority": "Wasserstraßen- und Schifffahrtsamt Weser-Jade-Nordsee (WSV)",
+   "url": "https://www.wsa-weser-jade-nordsee.wsv.de/Webs/WSA/Weser-Jade-Nordsee/DE/Schifffahrt/Verkehrszentralen/verkehrsundrevierzentralen_node.html",
+   "date_shown": "Undated",
+   "evidence_class": "Primary",
+   "locator": "Verkehrszentrale Wilhelmshaven",
+   "passage": "Von Wilhelmshaven aus erfolgt die Überwachung des Schiffsverkehrs der inneren deutschen Bucht von Borkum bis Helgoland und der Jade. ... 1. \"German Bight Traffic\" mit \"Northcoast Traffic\" 2. \"Jade Traffic\""
+  },
+  {
+   "id": "S9",
+   "title": "Verkehrszentrale \"Cuxhaven\"",
+   "authority": "Wasserstraßen- und Schifffahrtsamt Elbe-Nordsee (WSV)",
+   "url": "https://www.wsa-elbe-nordsee.wsv.de/Webs/WSA/Elbe-Nordsee/DE/2_Schifffahrt/4_Verkehrszentralen/2_Cuxhaven/Cuxhaven_node.html",
+   "date_shown": "Undated",
+   "evidence_class": "Primary",
+   "locator": "page body",
+   "passage": "zuständig für die Sicherheit und Leichtigkeit des Schiffsverkehrs auf der Seeschifffahrtsstraße Elbe im Bereich der Elbeansteuerung bis Brunsbüttel"
+  },
+  {
+   "id": "S10",
+   "title": "Verkehrskanäle der Verkehrszentralen im Küstenbereich (map)",
+   "authority": "Fachstelle für Geodäsie und Geoinformation der WSV (ELWIS)",
+   "url": "https://www.elwis.de/DE/Seeschifffahrt/Verkehrs-und-Sicherheitsmanagement/Verkehrszentralen/Verkehrskanaele.pdf?__blob=publicationFile",
+   "date_shown": "Stand 2021",
+   "evidence_class": "Primary",
+   "locator": "legend",
+   "passage": "3 Cuxhaven ElbeTraffic 16/71 ... 5 German Bight Traffic 16/79/80 6 North Coast Traffic 16/79 7 Jade Traffic 16/63/20"
+  },
+  {
+   "id": "S11",
+   "title": "Verkehrsbericht 2016",
+   "authority": "Wasserstraßen- und Schifffahrtsverwaltung des Bundes (WSV/GDWS), via ULB Bonn legal deposit",
+   "url": "https://epflicht.ulb.uni-bonn.de/download/pdf/564811",
+   "date_shown": "2016 (report year)",
+   "evidence_class": "Primary",
+   "locator": "1.1.1 Nordsee",
+   "passage": "Das bedeutendste VTG ist das Terschelling-German Bight. Das nördlich gelegene parallele VTG Western Approach ermöglicht tiefergehenden Fahrzeugen die Fahrt. VTG Jade Approach ist die Verbindung der beiden"
+  },
+  {
+   "id": "S12",
+   "title": "Regulations for VTS Communication and the supporting VHF maritime radio-telephone channels, Version 2.0",
+   "authority": "Central Nautical Management North Sea Canal Area (Port of Amsterdam)",
+   "url": "https://www.portofamsterdam.com/sites/default/files/2025-09/2025-479_VTS%20communicatieregeling%202.0%20def_NLEN_rev.pdf",
+   "date_shown": "10 September 2025 (in force 30 September 2025)",
+   "evidence_class": "Primary",
+   "locator": "Scope of application (a); section 8; Appendix II",
+   "passage": "the approaches to IJmuiden, defined as the section of the Territorial Sea (including Anchorages 6, 7, and 8) within a 12-nautical-mile radius of the seaward ends of the IJmuiden breakwaters, including the extended IJ-geul deep water channel"
+  },
+  {
+   "id": "S13",
+   "title": "Advice for container ships near West Frisian Islands",
+   "authority": "Netherlands Coastguard (Kustwacht)",
+   "url": "https://kustwacht.nl/en/merchant-shipping/advice-for-container-ships-near-west-frisian-islands/",
+   "date_shown": "Modified 6 December 2022",
+   "evidence_class": "Primary",
+   "locator": "Northern and southern route; Advice in case of high waves",
+   "passage": "When we give the advice to follow the northern route, the captain is not obliged to follow this advice. The Coastguard has no powers to impose traffic directions."
+  },
+  {
+   "id": "S14",
+   "title": "Vessel Traffic Monitoring (VTMon)",
+   "authority": "Netherlands Coastguard (Kustwacht)",
+   "url": "https://kustwacht.nl/hulpverlening/vtm/",
+   "date_shown": "Modified 6 October 2025",
+   "evidence_class": "Primary",
+   "locator": "opening paragraph",
+   "passage": "Vessel Traffic Monitoring (VTMon) is een nieuwe taak van de Kustwacht. ... VTMon houdt het scheepvaartverkeer in de gaten dat dichtbij windparken en vaarwegen vaart."
+  },
+  {
+   "id": "S15",
+   "title": "Verkeerscentrales",
+   "authority": "Netherlands Coastguard (Kustwacht)",
+   "url": "https://kustwacht.nl/maritieme-organisaties/verkeerscentrales/",
+   "date_shown": "Modified 29 September 2022",
+   "evidence_class": "Primary",
+   "locator": "Verkeersbegeleiding",
+   "passage": "Het coördineren en begeleiden van scheepvaart wordt Vessel Traffic Service (VTS) genoemd. ... Relevante informatie wordt tussen de verkeerscentrales en het Kustwachtcentrum uitgewisseld."
+  },
+  {
+   "id": "S16",
+   "title": "Resolution MSC.52(66): Mandatory ship reporting systems (annex: Off Ushant)",
+   "authority": "IMO",
+   "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.52(66).pdf",
+   "date_shown": "Adopted 30 May 1996",
+   "evidence_class": "Primary",
+   "locator": "Annex 'Off Ushant', sections 1, 2, 3.2; name of system OUESSREP",
+   "passage": "The shore-based authority is the Corsen/Ouessant vessel traffic service (voice communication sign \"Ushant Traffic\") installed at the CROSS CORSEN site."
+  },
+  {
+   "id": "S17",
+   "title": "Resolution MSC.251(83): Amendments to the existing mandatory ship reporting systems Off Ushant, Off Les Casquets and Dover Strait/Pas de Calais",
+   "authority": "IMO",
+   "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.251(83).pdf",
+   "date_shown": "Adopted 8 October 2007",
+   "evidence_class": "Primary",
+   "locator": "operative paras 1 and 2",
+   "passage": "the amendments to the existing mandatory ship reporting systems, Off Ushant (OUESSREP), Off Les Casquets (MANCHEREP) and Dover Strait/Pas de Calais (CALDOVREP), will enter into force at 0000 hours UTC on 1 May 2008"
+  },
+  {
+   "id": "S18",
+   "title": "COLREG.2/Circ.51: New and amended traffic separation schemes",
+   "authority": "IMO (third-party hosted copy, Shanghai Maritime University)",
+   "url": "https://cimrc.shmtu.edu.cn/_upload/article/files/63/dc/35c66be74d12873254dc88a2ef00/a4f3f58b-c400-41cb-858b-89dccee63151.pdf",
+   "date_shown": "31 May 2002",
+   "evidence_class": "Primary",
+   "locator": "para 1.3 and 2(d)",
+   "passage": "The amended TSS \"Off Ushant\" (annex 3) will be implemented by France at 0000 hours UTC on 1 May 2003."
+  },
+  {
+   "id": "S19",
+   "title": "Chiffres clés de la mer et du littoral, Edition 2024: 18 Surveillance de la navigation maritime",
+   "authority": "SDES, Ministère de la Transition écologique (France); data DGAMPA",
+   "url": "https://www.statistiques.developpement-durable.gouv.fr/edition-numerique/chiffres-cles-mer-littoral/18-surveillance-de-la-navigation-maritime",
+   "date_shown": "Edition 2024 (data 2021/2022)",
+   "evidence_class": "Primary",
+   "locator": "figure note and text",
+   "passage": "DST Ouessant : zone de compétences CROSS Corsen. ... les 3 CROSS de Manche ont contrôlé 134 836 navires (jauge supérieure à 300 UMS soumis à un compte rendu obligatoire)"
+  },
+  {
+   "id": "S20",
+   "title": "Resolution MSC.63(67): Mandatory ship reporting systems (annex 3: Off Finisterre)",
+   "authority": "IMO",
+   "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.63(67).pdf",
+   "date_shown": "Adopted 3 December 1996",
+   "evidence_class": "Primary",
+   "locator": "Annex 3, sections 1, 2, 3.3, 3.4",
+   "passage": "This area includes the traffic separation scheme \"off Finisterre\" and associated inshore traffic zones ... Ships entering the area of coverage shall report to the Finisterre Traffic VTS"
+  },
+  {
+   "id": "S21",
+   "title": "Resolution A.957(23): Amended traffic separation scheme \"Off Finisterre\"",
+   "authority": "IMO",
+   "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.957(23).pdf",
+   "date_shown": "Adopted 5 December 2003",
+   "evidence_class": "Primary",
+   "locator": "operative para 1; annex (a) to (h)",
+   "passage": "ADOPTS the amendments to the traffic separation scheme Off Finisterre set out in the Annex to the present resolution, for implementation at 0000 hours UTC on 1 June 2004"
+  },
+  {
+   "id": "S22",
+   "title": "El centro de coordinación de Salvamento Marítimo de Vigo rescató a 316 personas en el 2024",
+   "authority": "Metropolitano.gal (news)",
+   "url": "https://metropolitano.gal/extra/el-centro-de-coordinacion-de-salvamento-maritimo-de-vigo-rescato-a-316-personas-en-el-2024",
+   "date_shown": "7 February 2025",
+   "evidence_class": "Lead only",
+   "locator": "article body",
+   "passage": "el Centro de Coordinación de Salvamento ubicado en Fisterra controló 35.937 buques a su paso"
+  },
+  {
+   "id": "S23",
+   "title": "Decreto-Lei n.º 198/2006 (regime jurídico dos esquemas de separação de tráfego)",
+   "authority": "Diário da República (Portugal), copy hosted by Marinha Portuguesa",
+   "url": "https://www.marinha.pt/Conteudos_Externos/LexMar2/PGPAT%20100/PGPAT%201000%20-%20Cap%C3%ADtulos/Capitulo%20K%20EST/Decreto-Lei%20198-2006%20(19OUT2006).pdf",
+   "date_shown": "19 October 2006",
+   "evidence_class": "Primary",
+   "locator": "Preamble; Artigos 3, 4 and 9",
+   "passage": "Compete ao IPTM, responsável nacional pelo serviço de tráfego marítimo (VTS), e à AMN, através dos meios navais disponíveis, a fiscalização do cumprimento do estabelecido no presente decreto-lei."
+  },
+  {
+   "id": "S24",
+   "title": "Decreto-Lei n.º 263/2009 (VTS costeiro do continente)",
+   "authority": "Diário da República (Portugal), copy hosted by Marinha Portuguesa",
+   "url": "https://www.marinha.pt/Conteudos_Externos/LexMar2/PGPAT%20100/PGPAT%201000%20-%20Cap%C3%ADtulos/Capitulo%20K%20EST/Dec.%20Lei%20263_2009,%20de%2028Set.pdf",
+   "date_shown": "28 September 2009",
+   "evidence_class": "Primary",
+   "locator": "Artigos 6 to 10",
+   "passage": "No âmbito das funções de supervisão, o CCTMC zela ... em particular, pela observância das regras aplicáveis aos esquemas de separação de tráfego."
+  },
+  {
+   "id": "S25",
+   "title": "Resolution MSC.278(85): Adoption of the new mandatory ship reporting system \"Off the coast of Portugal - COPREP\"",
+   "authority": "IMO",
+   "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.278(85).pdf",
+   "date_shown": "Adopted 1 December 2008",
+   "evidence_class": "Primary",
+   "locator": "Annex sections 1, 2.1, 3.4, 7",
+   "passage": "The shore-based authority for COPREP mandatory ship reporting system, to which these reports should be sent, is ROCA CONTROL"
+  },
+  {
+   "id": "S26",
+   "title": "COLREG.2/Circ.61: New and amended existing traffic separation schemes",
+   "authority": "IMO (third-party hosted copy, Shanghai Maritime University)",
+   "url": "https://cimrc.shmtu.edu.cn/_upload/article/files/63/dc/35c66be74d12873254dc88a2ef00/25e2ceb4-d2d9-4cf2-b55b-cdb3d56001b5.pdf",
+   "date_shown": "1 June 2010",
+   "evidence_class": "Primary",
+   "locator": "paras 1.6, 1.7, 2; annexes 6 and 7",
+   "passage": "\"Off Cape Roca\" (amended scheme); .7 \"Off Cape S. Vicente\" (amended scheme); ... will be implemented at 0000 hours UTC on 1 December 2010"
+  },
+  {
+   "id": "S27",
+   "title": "Ships' Routeing, 2008 edition (consolidated), contents pages",
+   "authority": "IMO publication (extract hosted by University of Ljubljana)",
+   "url": "https://www.fpp.uni-lj.si/mma_bin.php?id=2011032217361737",
+   "date_shown": "2008 (amendments to December 2007)",
+   "evidence_class": "Supporting",
+   "locator": "Contents, Part B Section II Western European waters",
+   "passage": "Off Cape Roca ... II/30 Off Cape S. Vicente ... II/31 At Banco del Hoyo ... II/32"
+  },
+  {
+   "id": "S28",
+   "title": "COLREG.2/Circ.57: New and amended existing traffic separation schemes",
+   "authority": "IMO (third-party hosted copy, Shanghai Maritime University)",
+   "url": "https://cimrc.shmtu.edu.cn/_upload/article/files/63/dc/35c66be74d12873254dc88a2ef00/8c6a3c5f-5a85-4450-980a-5534de9fcd0a.pdf",
+   "date_shown": "26 May 2006",
+   "evidence_class": "Primary",
+   "locator": "para 1.1; annex 1 paras 2 and 3 with notes",
+   "passage": "Note: Ships that so wish may give voluntary notification of entry to and departure from the TSS via the Las Palmas Regional MRCC, using VHF channel 16."
+  },
+  {
+   "id": "S29",
+   "title": "Resolution MSC.213(81): Mandatory ship reporting system for the Canary Islands",
+   "authority": "IMO",
+   "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.213(81).pdf",
+   "date_shown": "Adopted 12 May 2006",
+   "evidence_class": "Primary",
+   "locator": "operative para 2; annex 1 sections 1, 2, 3.4",
+   "passage": "Tankers of 600 tonnes deadweight and upwards, either transiting the Canary Islands or sailing to or from Canarian ports or involved in inter-island navigation"
+  },
+  {
+   "id": "S30",
+   "title": "List of traffic separation schemes",
+   "authority": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/List_of_traffic_separation_schemes",
+   "date_shown": "Undated",
+   "evidence_class": "Lead only",
+   "locator": "Europe and North Sea sections",
+   "passage": "Lists Banco del Hoyo, Brown Ridge, West Friesland, East Friesland, Botney Ground; no separate North Friesland entry"
+  }
+ ],
+ "batch_audits": [
+  {
+   "batch": "B10",
+   "evidence_check": "Each 'Confirmed present' re-checked against passages: German Bight Traffic coverage rests on AnlBV Nr. 3.1/5.1/8 (S6) and GDWS Bekanntmachung 19.1 (S7), both statutory; Cuxhaven Elbe Traffic on S9 and S7. Downgraded nothing, but TSS-0047 and TSS-0046 bases are worded as approach/part coverage.",
+   "classification_check": "German reporting is national mandatory (AnlBV, SeeSchStrO § 58), not IMO SOLAS V/11; classified 'Confirmed present' as national mandatory reporting per brief. Dutch part of TSS-0049 has no VTS or reporting evidence; Coastguard VTMon treated as lead, not VTS.",
+   "duplication_check": "German Bight Traffic is one service across TSS-0046/0048/0049 and part of 0047 (same key). TSS-0050 is a component of 'Off Vlieland, Vlieland North and Vlieland Junction' shared with TSS-0051.",
+   "unresolved_items": "TSS-0050 VTS and reporting; Dutch part of TSS-0049; exact extent of TSS-0046 west of 007° 10' E; no IMO text for 2024 containership recommendation; no evidence of recent German TSS renaming found.",
+   "closed": true
+  },
+  {
+   "batch": "B11",
+   "evidence_check": "No 'Confirmed present' findings in this batch. Port of Amsterdam VTS (S12) confirmed as a service but not linked to TSS-0053 because the passage does not establish TSS coverage.",
+   "classification_check": "All Dutch offshore records left 'Unresolved' for VTS and reporting; none marked 'Confirmed absent' because no complete authoritative list states absence.",
+   "duplication_check": "TSS-0051 duplicates the routeing system of TSS-0050. TSS-0055 is a component of 'Off Friesland' with TSS-0056, 0057 and probably 0058. TSS-0054 may also belong to a wider Dutch system.",
+   "unresolved_items": "Identity of Off Brown Ridge (TSS-0054) is provisional; COLREG.2/Circ.64 not retrieved; IJmuiden TSS overlap with 12 nm VTS area to be verified on chart.",
+   "closed": true
+  },
+  {
+   "batch": "B12",
+   "evidence_check": "TSS-0059: VTS and OUESSREP rest on IMO MSC.52(66) passage stating the TSS covers the reporting area and naming the Corsen/Ouessant VTS, reinforced by 2024 French ministry text. TSS-0060: VTS and FINREP rest on MSC.63(67) passage naming the TSS and Finisterre Traffic VTS; caveat recorded that the 2004 outer lane extends 3.7' west of the FINREP limit.",
+   "classification_check": "OUESSREP and FINREP are IMO-adopted mandatory SRS. Dutch components (0056 to 0058) left Unresolved.",
+   "duplication_check": "TSS-0056/0057 (and 0058) are components of 'Off Friesland' with TSS-0055; 'North Friesland' and 'East Friesland' are Dutch offshore schemes, not German Frisian coastal schemes.",
+   "unresolved_items": "Current operator pages for CROSS Corsen and Salvamento Marítimo not retrieved (503/TLS failure for Salvamento Marítimo); Off Botney Ground currency.",
+   "closed": true
+  },
+  {
+   "batch": "B13",
+   "evidence_check": "TSS-0061/0062 VTS rests on Portuguese statutes DL 263/2009 art. 6 and 10(4) and DL 198/2006 art. 9, plus coordinate comparison with COLREG.2/Circ.61; COPREP on MSC.278(85) area plus coordinate comparison. TSS-0064/0065 CANREP rests on MSC.213(81) area description enclosing the archipelago. All retained, with basis stated.",
+   "classification_check": "COPREP and CANREP are IMO-adopted mandatory SRS; CANREP scope is narrow (heavy-oil tankers). Canary TSS voluntary notification recorded separately. Canary VTS left Unresolved: MRCCs are not evidenced as VTS.",
+   "duplication_check": "Same Portuguese coastal VTS key for TSS-0061 and 0062. Canary schemes are two components of one IMO entry 'The Canary Islands' (COLREG.2/Circ.57) but listed separately in Ships' Routeing; kept separate.",
+   "unresolved_items": "Banco del Hoyo (TSS-0063) location and currency; Canary VTS status; current Portuguese authority (DGRM) not confirmed from its own page.",
+   "closed": true
+  }
+ ],
+ "method_notes": "Access problems: puc.overheid.nl (Dutch NSI legal texts on TSS), officielebekendmakingen.nl and digitale-bibliothek.bsh.bund.de returned HTTP 403 or bot challenges; Dutch Notices to Mariners PDFs on english.defensie.nl for 2017 to 2023 returned 404; salvamentomaritimo.es returned 503 via WebFetch and failed TLS verification via curl; NOAA copy of COLREG.2/Circ.64 redirects. Useful sources: German statutes on gesetze-im-internet.de (AnlBV Anlage) and ELWIS SeeSchStrO § 58 page, which reproduces the WSD/GDWS Bekanntmachungen with VTS areas, VHF channels and TSS-specific reporting points; WSA Verkehrszentralen pages; Portuguese decree-laws hosted by marinha.pt; IMO resolution PDFs on wwwcdn.imo.org (MSC resolutions downloadable); IMO COLREG.2 circulars mirrored by Shanghai Maritime University (cimrc.shmtu.edu.cn) and other administrations; Transportstyrelsen list of IMO routeing measures (2017) for adopting-instrument history; kustwacht.nl for Dutch Coastguard role. Method suggestions: obtain the current IMO Ships' Routeing (Part B) and COLREG.2/Circ.64 onwards (Circ.68 to latest) to settle Brown Ridge, Botney Ground, Banco del Hoyo and any post-2020 German Bight changes; merge 'Off Friesland' components (0055 to 0058) and 'Off Vlieland' components (0050/0051); treat German AnlBV and SeeSchStrO reporting as national mandatory reporting, distinct from IMO SRS. Third-party hosted copies of IMO circulars were classed Primary as IMO texts; reviewers may prefer to re-source them from IMODOCS."
+}

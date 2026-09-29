@@ -20,11 +20,13 @@ This repository is at the scoping and inventory stage. Current totals are workin
 The current inventory contains:
 
 - 170 candidate TSS source rows;
-- 15 initial VTS/service records;
-- 7 mandatory vessel reporting schemes;
-- 1 voluntary vessel reporting scheme.
+- 125 of them (batches B10 to B34) researched in a first Stage 4 pass;
+- 57 VTS/service records, of which 16 are research leads and not counted;
+- 21 mandatory and 6 voluntary vessel reporting schemes.
 
-Some source rows contain grouped schemes. TSS-to-VTS relationships remain subject to authoritative verification.
+For B10 to B34: VTS confirmed present for 40 rows, mandatory reporting confirmed for 32, and unresolved for the rest.
+No confirmed-absence findings have been made. Some source rows contain grouped or duplicate schemes, so these are not scheme or guide-entry totals.
+See the [v0.3 Stage 4 audit](audits/Global_VTS_Inventory_v0_3_Stage4_Audit.md).
 
 ## Structure
 
@@ -39,7 +41,10 @@ Global-VTS/
 │   └── DATA_DICTIONARY.md
 ├── data/
 │   ├── current/
-│   └── archive/v0_1/
+│   └── archive/ (v0_1, v0_2)
+├── research/stage4/
+├── tools/
+├── tasks/
 ├── audits/
 ├── sources/
 │   └── SOURCE_REGISTER.md
@@ -51,11 +56,15 @@ Global-VTS/
 
 The working dataset is held in:
 
-- `data/current/Global_VTS_Inventory_v0_2.xlsx`
-- `data/current/Global_VTS_TSS_Candidates_v0_2.csv`
-- `audits/Global_VTS_Inventory_v0_2_Audit.md`
+- `data/current/Global_VTS_Inventory_v0_3.xlsx` (includes the Stage 4 Findings sheet)
+- `data/current/Global_VTS_TSS_Candidates_v0_3.csv`
+- `research/stage4/stage4_findings_v0_3.csv` (one row per researched record)
+- `audits/Global_VTS_Inventory_v0_3_Stage4_Audit.md`
 
-Earlier v0.1 outputs are retained under `data/archive/v0_1/` and `releases/archive/`.
+Raw research output is in `research/stage4/raw/`, merge adjustments in `research/stage4/merge_log.md`,
+and the merge script in `tools/merge_stage4.py`.
+
+Earlier outputs are retained under `data/archive/v0_1/`, `data/archive/v0_2/` and `releases/archive/`.
 
 ## Identification model
 
@@ -89,6 +98,6 @@ Primary evidence should come from IMO, UKHO, national maritime administrations, 
 
 ## Versioning
 
-The current working release is **v0.2**. Historical files are retained to preserve the audit trail.
+The current working release is **v0.3**. Historical files are retained to preserve the audit trail.
 
 No dataset should be described as a verified worldwide total until the baseline has been reconciled against current official routeing and VTS sources.

@@ -59,6 +59,8 @@ SCHEME_ALIAS = {}
 # Reporting arrangements that are routine reporting inside a VTS or port service.
 # Project rule: record under the service, do not count as a separate scheme.
 NOT_SEPARATE_SCHEMES = {
+    "RPT-de-anlbv-inner-german-bight": "Reports under AnlBV Anlage Nr. 3.1 and SeeSchStrO section 58 are made to German Bight Traffic, a VTS. Recorded under the service as VTS reporting duties (national statute, not an IMO-adopted scheme).",
+    "RPT-de-seeschstro-elbe": "SeeSchStrO section 58 reports on the Elbe approach are made to the VTS centres. Recorded under the service as VTS reporting duties.",
     "RPT-ca-vts-zones": "Reporting under the Canadian Vessel Traffic Services Zones Regulations (SOR/2025-275) is the reporting duty of the VTS zone. Recorded under the Fundy Traffic and Canso Traffic services.",
     "RPT-acp-signal-station-reports": "Approach reports to the Panama Canal Authority signal stations are port and canal arrival reporting. Recorded as an applicability note, not as a separate mandatory reporting scheme.",
 }
@@ -255,6 +257,11 @@ def main(apply_adjustments):
             if k not in rpt_id:
                 continue
             confirmed = rec["reporting_finding"] == "Confirmed present"
+            if rpt_info[k]["rec"].get("participation") == "Voluntary":
+                rel_rows.append([rid, rpt_id[k], "TSS within voluntary reporting scheme",
+                                 "Stage 4 first pass; voluntary, excluded from mandatory totals",
+                                 srcs, rec.get("voluntary_reporting") or rec.get("reporting_relationship_basis")])
+                continue
             rel_rows.append([rid, rpt_id[k],
                              "TSS associated with reporting scheme" if confirmed else "TSS reporting research lead",
                              "Stage 4 first pass: primary evidence" if confirmed else "Lead; coverage not evidenced",
@@ -432,7 +439,7 @@ def main(apply_adjustments):
 
     # ---------------- issues ------------------------------------------------
     issue_rows = [
-        ["High", "Counting rule", "TSS-0129 to TSS-0133; TSS-0160; TSS-0166; TSS-0169; TSS-0170; TSS-0151; TSS-0161",
+        ["High", "Counting rule", "TSS-0046 to TSS-0049; TSS-0129 to TSS-0133; TSS-0160; TSS-0166; TSS-0169; TSS-0170; TSS-0151; TSS-0161",
          "Open", "Decide whether reporting duties inside a VTS or port service (US VTS/VMRS participation, Canadian VTS zone reports, Panama Canal approach reports) should ever count as a separate mandatory reporting scheme. v0.3 records them under the service.",
          "Changes the TSS-with-mandatory-reporting subtotal, not the VTS subtotal.", None],
         ["High", "Superseded schemes", "TSS-0085; TSS-0086", "Open",
@@ -441,6 +448,12 @@ def main(apply_adjustments):
         ["High", "Conflict-affected areas", "TSS-0087; TSS-0088; TSS-0099", "Open",
          "Record authority statements neutrally. Do not treat IMO adoption as evidence of current safe operation.",
          "Status remains Not established or Unresolved.", None],
+        ["High", "Duplicates and grouping", "TSS-0050/TSS-0051; TSS-0055 to TSS-0058", "Open",
+         "Vlieland North and Off Vlieland appear to be one IMO entry. West, North and East Friesland and Off Botney Ground are parts of the single 'Off Friesland' routeing system (COLREG.2/Circ.59 and Circ.66). Reconcile against Ships' Routeing before counting.",
+         "Up to five source rows may collapse into two schemes.", None],
+        ["Medium", "Source quality", "Records citing IMO circulars from third-party mirrors", "Open",
+         "Some IMO COLREG.2 circulars were read on non-IMO hosts (national administrations, NOAA, document mirrors). Re-check against IMODOCS or Ships' Routeing.",
+         "Identity findings stand but carry a source-host limitation.", None],
         ["Medium", "Possible duplicates", "TSS-0121/TSS-0122; TSS-0127/TSS-0128; TSS-0081/TSS-0082", "Open",
          "Compare geometry and adoption instruments to establish whether these source rows describe the same scheme.",
          "May reduce the TSS count.", None],
