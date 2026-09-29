@@ -1054,3 +1054,80 @@ Third-party material may identify a lead. It must not establish current operatio
 - Use (B37): DICAPI lists 'Control y vigilancia del tráfico acuático' among functions; text layer names no VTS for Pisco (command and control slides are images, not read)
 - Locator: Slides 4 to 19.
 - Passage: "Control y vigilancia del tráfico acuático."
+
+### SRC-118 — 33 CFR 161.55 Vessel Traffic Service Puget Sound and the Cooperative Vessel Traffic Service for the Juan de Fuca Region
+
+- Authority: US Government (eCFR, USCG rule).
+- URL: https://www.ecfr.gov/api/versioner/v1/full/2026-09-01/title-33.xml?part=161
+- Evidence class: Tier 1.
+- Edition or date: eCFR point-in-time 2026-09-01 (section last amended USCG-2016-0498 era); accessed 2026-09-29.
+- Accessed: 29 September 2026.
+- Use (B34): Legal VTS Puget Sound area (US navigable waters of the Salish Sea to the US/Canada boundary) and CVTS limits (west ~124°47.5'W to 124°48.6'W, north 49°N, south-east McCurdy Point to Point Partridge)
+- Locator: Part 161 subpart C, s.161.55 and 161.55(a).
+- Passage: "Canadian and United States Vessel Traffic Centers (Prince Rupert, B.C., Canada; Vancouver, B.C., Canada; and Seattle, WA) manage traffic within the CVTS area irrespective of the International Boundary."
+
+### SRC-119 — 33 CFR Part 167 Offshore Traffic Separation Schemes: ss.167.400-406, 167.450-452, 167.500-503, 167.1310-1315, 167.1320-1323, 167.1330-1332
+
+- Authority: US Government (eCFR, USCG rule).
+- URL: https://www.ecfr.gov/api/versioner/v1/full/2026-09-01/title-33.xml?part=167
+- Evidence class: Tier 1.
+- Edition or date: eCFR point-in-time 2026-09-01 (Pacific sections from 65 FR 53913, 2000 and 75 FR 70826-70830, 19 Nov 2010); accessed 2026-09-29.
+- Accessed: 29 September 2026.
+- Use (B34): TSS coordinates used for geometric checks. Note: ss.167.402-404 and 167.451/502 still carry pre-2013 coordinates, superseded internationally by COLREG.2/Circ.64 (see W-S9).
+- Locator: ss.167.1312 (southern lanes), 167.1313 (northern lanes), 167.1314 (eastern lanes), 167.1321-1323, 167.1331-1332, 167.401-406, 167.451-452, 167.501-503.
+- Passage: "The traffic separation scheme in the Strait of Juan de Fuca consists of five parts: the western lanes, southern lanes, northern lanes, eastern lanes, and precautionary area “PA.”"
+
+### SRC-120 — Vessel Traffic Services Locations
+
+- Authority: USCG Navigation Center (NAVCEN).
+- URL: https://www.navcen.uscg.gov/vessel-traffic-services-locations
+- Evidence class: Tier 2.
+- Edition or date: Undated web page; accessed 2026-09-29.
+- Accessed: 29 September 2026.
+- Use (B34): Current operation of VTS Puget Sound (with Prince Rupert and Victoria MCTS in the CVTS), VTS San Francisco (and voluntary OVMRS) and VTS Los Angeles-Long Beach (joint USCG / Marine Exchange, 25 miles from Point Fermin)
+- Locator: Sections VTS San Francisco; VTS Los Angeles / Long Beach; VTS Puget Sound.
+- Passage: "VTS San Francisco also operates an Offshore Vessel Movement Reporting System (OVMRS). The OVMRS is completely voluntary and operates using a broadcast system with information provided by participants."
+
+### SRC-121 — User's Manual, US Coast Guard Vessel Traffic Service Puget Sound 2024
+
+- Authority: USCG Vessel Traffic Service Puget Sound.
+- URL: https://www.navcen.uscg.gov/sites/default/files/pdf/VTS%20User%20Guides/VTS_PS_UsersManual_(2024).pdf
+- Evidence class: Tier 2.
+- Edition or date: 2024 edition; accessed 2026-09-29.
+- Accessed: 29 September 2026.
+- Use (B34): The IMO TSS lies in the VTSPS area; radar coverage of all waters where the TSS exists; CVTS assigns a single service to critical TSS segments independent of the International Boundary (Exchange Line)
+- Locator: Introduction pp. iv-v (TSS, Surveillance, CVTS paragraphs).
+- Passage: "The Traffic Separation Scheme (TSS) in the VTSPS Area has been adopted by the International Maritime Organization (IMO)."
+
+### SRC-122 — Radio Aids to Marine Navigation 2026, Part 3 (ss.3.5.3.1 Victoria VTS Zone; 3.5.4 CVTS Agreement)
+
+- Authority: Canadian Coast Guard (MCTS).
+- URL: https://www.canada.ca/content/dam/ccg-gcc/documents/publications/mcts-sctm/ramn-arnm-2026-eng.pdf
+- Evidence class: Tier 3.
+- Edition or date: Annual Edition 2026, Version #8, 2026-09-25; copy downloaded from the URL on 2026-09-29 (a re-request later the same day failed with a server reset, so the saved copy was re-read).
+- Accessed: 29 September 2026.
+- Use (B34): Victoria VTS Zone Sector 1 boundary follows the International Boundary through Juan de Fuca Strait, Haro Strait, Boundary Passage and Strait of Georgia; Sector 1 served by Victoria Traffic Ch 11 and Seattle Traffic Ch 5A; CVTS service areas (s.3.5.4.2 Seattle Traffic; s.3.5.4.3 Victoria Traffic for Haro Strait, Boundary Passage and southern Strait of Georgia); participation mandatory
+- Locator: Part 3 pp. 3-15 (Tables 3-1, 3-2), 3-28 to 3-29 (s.3.5.4).
+- Passage: "Participation with Prince Rupert, Seattle and Victoria Traffic is mandatory within Canadian and United States territorial waters."
+
+### SRC-123 — data/authoritative/IMO_2025_Mandatory_Reporting_Systems.csv
+
+- Authority: Global VTS project (derived from IMO Ships' Routeing 2025 Part I).
+- URL: 
+- Evidence class: Tier 1.
+- Edition or date: Project baseline; read 2026-09-29.
+- Accessed: 29 September 2026.
+- Use (B34): Complete list of IMO-adopted mandatory ship reporting systems (VRS-0001 to VRS-0023); none covers the North American Pacific coast or Mexico (VRS-0021 is the US Atlantic right whale system)
+- Locator: rows VRS-0001 to VRS-0023.
+- Passage: "I-I/21,Off the north-eastern and south-eastern coasts of the United States"
+
+### SRC-124 — Vessel Traffic Services Zones Regulations, SOR/2025-275, Schedule 1 item 1 (Victoria)
+
+- Authority: Government of Canada (Justice Laws).
+- URL: https://laws-lois.justice.gc.ca/eng/regulations/SOR-2025-275/FullText.html
+- Evidence class: Tier 1.
+- Edition or date: Registered 2025-12-12; current to 2026-09-21, last amended 2026-03-31; accessed 2026-09-29.
+- Accessed: 29 September 2026.
+- Use (B34): Statutory Victoria VTS Zone limits (southern limit along the International Boundary through Strait of Georgia, Boundary Pass, Haro Strait and Juan de Fuca Strait to 124°40'W); application thresholds s.3(1) and s.9
+- Locator: s.3(1), s.7, s.9(1), Schedule 1 item 1.
+- Passage: "thence following the international boundary through the Strait of Georgia, Boundary Pass, Haro Strait and Juan de Fuca Strait to 48°28′36″ N, 124°40′00″ W"
