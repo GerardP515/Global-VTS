@@ -190,3 +190,20 @@ Third-party material may identify a lead. It must not establish current operatio
 - Evidence class: Primary official navigational notice.
 - Accessed: 29 September 2026.
 - Use: Direct operational reference to VTS Warnemünde / Sassnitz Traffic for activity within TSS Adlergrund. Used with the current BSH VTS-area chart, not by itself, to establish present association.
+
+### SRC-039 — Navigation through Danish Waters, version 16.0 (2025)
+
+- Authority: Danish Maritime Authority.
+- URL: https://www.soefartsstyrelsen.dk/Media/638743469510433298/Navigation%20through%20Danish%20Water%20version%2016.0%202025.pdf
+- Evidence class: Primary national navigation guide.
+- Edition: Version 16.0, 2025.
+- Accessed: 29 September 2026.
+- Use: Current routeing context for South of Gedser, North of Rügen, In The Sound and Off Falsterborev, plus the SOUNDREP operational-area chart.
+
+### SRC-040 — German Traffic Regulations for Navigable Maritime Waterways, English version
+
+- Authority source: German maritime administration material hosted by Deutsche Flagge.
+- URL: https://www.deutsche-flagge.de/de/redaktion/dokumente/rechtsvorschriften/seeschstro_engl.pdf
+- Evidence class: Primary/current regulatory source.
+- Accessed: 29 September 2026.
+- Use: Current Kieler Förde reporting requirements. Assigns VTS Centre Travemünde / Kiel Traffic on VHF 67 and requires reports before and when passing Kiel Lighthouse.
