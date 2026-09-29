@@ -1,0 +1,611 @@
+[
+ {
+  "record": {
+   "tss_id": "TSS-0061",
+   "batch": "B13",
+   "tss_name": "Terschelling–German Bight",
+   "imo_parent_ref": "B-II/14",
+   "coastal_state_s": "Netherlands; Germany",
+   "association_status": "VTS only",
+   "vts_name": "German Bight Traffic",
+   "vts_authority": "Wasserstraßen- und Schifffahrtsverwaltung des Bundes (GDWS / WSA Weser-Jade-Nordsee)",
+   "vts_centre": "Verkehrszentrale Wilhelmshaven",
+   "vts_sector": "German Bight Traffic (VHF 16/79/80; statutory Inner German Bight = VHF 80 coverage area)",
+   "vts_boundary_basis": "AnlBV Anhang chart (Q-S2), the statutory definition of the Inner German Bight, is the area covered by German Bight Traffic VHF channel 80. On it, the area boundary crosses TSS Terschelling-German Bight at about 006°16'-006°22'E (estimated from the chart graticule), so the German section east of there is inside. AnlBV Nr. 5.1 states traffic there is monitored under maritime traffic safety and Nr. 3.1 requires reports to 'Verkehrszentrale German Bight Traffic' (Q-S1). ELWIS lists German Bight Traffic as a VTS sector of Verkehrszentrale Wilhelmshaven covering the sea area between Ems and Elbe (Q-S3). WSA states Wilhelmshaven monitors the inner German Bight from Borkum to Helgoland (Q-S6). The Dutch western section (to about 006°16'E) is not shown to be in any VTS.",
+   "vts_coverage": "partial",
+   "vts_source_ids": [
+    "Q-S2",
+    "Q-S1",
+    "Q-S3",
+    "Q-S5",
+    "Q-S6"
+   ],
+   "mandatory_reporting": "No",
+   "vrs_id": null,
+   "reporting_scheme_name": null,
+   "reporting_authority": null,
+   "reporting_boundary_basis": "No IMO Part I system covers this area: nearest are WETREP (VRS-0005), whose North Sea limit runs from the Belgium/Netherlands border to the UK east coast at 52°12'N (Q-S15), and CALDOVREP (VRS-0008, Dover Strait). German part: AnlBV Nr. 3.1 entry report (ships over 300 GT, at 007°10'E or 54°20'N) and SeeSchStrO § 58 reports are made to German Bight Traffic, a VTS, so they are recorded as VTS reporting, not a separate MRS (Q-S1, Q-S20). Dutch part: STZ art. 5(1) territorial-sea entry reporting may apply where the lanes enter the Dutch territorial sea, but its operation is unconfirmed (Q-S10).",
+   "reporting_source_ids": [
+    "Q-S15",
+    "Q-S1",
+    "Q-S20",
+    "Q-S10"
+   ],
+   "voluntary_reporting": "No",
+   "evidence_summary": "Statutory chart and AnlBV place the German section of TSS Terschelling-German Bight inside the German Bight Traffic (VHF 80) Inner German Bight area. German Bight Traffic is a VTS sector of Verkehrszentrale Wilhelmshaven established under SOLAS V/12. Coverage is partial; the Dutch section is not covered by any VTS shown. Coastguard wave-height advice is voluntary route advice (Q-S19).",
+   "source_date": "Q-S2 BGBl. I 2005 p. 2297 (current Anhang); Q-S1 current consolidation accessed 29 Sep 2026; Q-S5 18 Aug 2017",
+   "unresolved_issue": "Precise boundary longitude (chart-scale estimate about 006°16'-006°22'E, 2005 chart; TSS geometry since amended). Whether German Bight Traffic's western area (VHF 79, lead Q-S21) extends further west than the VHF 80 Inner German Bight. Status of Dutch STZ art. 5(1) reporting and Brandaris approach-area buoy 'TG' position.",
+   "vts_leads": "Brandaris approach area (Dutch, zeegat van Terschelling; buoy 'TG' named in its limits), coverage not shown. German Bight Traffic western area VHF 79 (lead only, Q-S21).",
+   "prior_lead_outcome": "confirmed with corrected basis: VTS only (partial). The lead's GDWS Bekanntmachung 19.1.4/19.1.5 (Borkumriff and TG 17/C reports) could not be retrieved; coverage now rests on the statutory AnlBV Anhang chart."
+  },
+  "sources": [
+   {
+    "id": "Q-S2",
+    "authority": "Bundesgesetzblatt (official gazette), copy hosted by OffeneGesetze.de",
+    "title": "AnlBV Anhang (zu § 1 Abs. 1 Nr. 1.17): chart defining the Innere Deutsche Bucht, in Zwölfte Verordnung zur Änderung seeverkehrsrechtlicher Vorschriften",
+    "date_or_edition": "BGBl. I 2005 Nr. 47, p. 2297, 10 Aug 2005 (still the Anhang cited by the current AnlBV)",
+    "url": "https://media.offenegesetze.de/bgbl1/2005/bgbl1_2005_47.pdf#page=33",
+    "source_class": "Tier 1",
+    "supports": "Statutory chart: Inner German Bight = area covered by German Bight Traffic VHF channel 80, bounded seaward by a dashed line which (on the 2005 chart) runs near 7°18'E north of the TSS, then WSW to cross TSS Terschelling-German Bight at about 6°16'-6°22'E; Jade Approach and Elbe Approach lie well inside; only the easternmost end of GBWA lies inside. Also shows the territorial sea boundary.",
+    "locator": "p. 2297, chart legend and geometry (read by rendering the page; longitudes estimated from the chart graticule, about +/-2')",
+    "passage": "Innere Deutsche Bucht im Sinne der Nummer 1.17 der Anlage ist der Bereich, der durch den UKW-Kanal 80 abgedeckt wird und in der Karte dargestellt ist."
+   },
+   {
+    "id": "Q-S1",
+    "authority": "Federal Republic of Germany (BMJ / gesetze-im-internet.de)",
+    "title": "Anlaufbedingungsverordnung (AnlBV), Anlage (zu § 1 Abs. 1), current consolidated text",
+    "date_or_edition": "Current consolidated text accessed 29 Sep 2026 (text refers to Verordnung (EU) 2019/1239 and BMDV, so post-2019 consolidation)",
+    "url": "https://www.gesetze-im-internet.de/anlbv_2004/anlage.html",
+    "source_class": "Tier 1",
+    "supports": "National statutory entry report to VTS German Bight Traffic for ships over 300 GT entering the Inner German Bight, expressly regardless of use of TSS German Bight Western Approach; traffic in the Inner German Bight monitored under maritime traffic safety; Jade Approach pilot transfer position lies in the Inner German Bight outside the territorial sea; mandatory use of GBWA by large tankers.",
+    "locator": "Anlage Nr. 1.17, 3.1, 5.1, 6, 8",
+    "passage": "unabhängig davon, ob das Verkehrstrennungsgebiet „German Bight Western Approach“ benutzt wird, beim Passieren des Meridians 007° 10' E | 5.1 Der Schiffsverkehr wird im Rahmen der maritimen Verkehrssicherung überwacht."
+   },
+   {
+    "id": "Q-S3",
+    "authority": "Generaldirektion Wasserstraßen und Schifffahrt (ELWIS)",
+    "title": "ELWIS - Verkehrszentralen",
+    "date_or_edition": "Undated web page, accessed 29 Sep 2026",
+    "url": "https://www.elwis.de/DE/Seeschifffahrt/Verkehrs-und-Sicherheitsmanagement/Verkehrszentralen/Verkehrszentralen-node.html",
+    "source_class": "Tier 2",
+    "supports": "Official list of all nine German VTS centres and their VTS sectors/call signs: Wilhelmshaven (German Bight Traffic 16/79/80, Jade Traffic, North Coast Traffic); Cuxhaven (German North Sea Traffic 16/11, West Coast Traffic, Cuxhaven Elbe Traffic 16/71); VTS centres described as Vessel Traffic Service Center.",
+    "locator": "Verkehrszentrale Wilhelmshaven; Verkehrszentrale Cuxhaven",
+    "passage": "Verkehrszentrale Wilhelmshaven (Externer Link) Seegebiet zwischen der Ems und Elbe sowie der Jade bis Wilhelmshaven VTS-Sector and call sign VHF-Channel Telephon German Bight Traffic 16/79/80"
+   },
+   {
+    "id": "Q-S5",
+    "authority": "Generaldirektion Wasserstraßen und Schifffahrt (ELWIS)",
+    "title": "ELWIS - Maritime Verkehrssicherung",
+    "date_or_edition": "Stand: 18 Aug 2017",
+    "url": "https://www.elwis.de/DE/Seeschifffahrt/Verkehrs-und-Sicherheitsmanagement/Verkehrszentralen/Maritime-Verkehrssicherung/Maritime-Verkehrssicherung-node.html",
+    "source_class": "Tier 2",
+    "supports": "German Verkehrszentralen are the VTS established under SOLAS V/12.",
+    "locator": "Page body",
+    "passage": "Die WSV hat die Umsetzung der Verpflichtung nach Regel 12 \"Verkehrssicherungsdienste\", Kapitel V, SOLAS durch die Einrichtung von Verkehrszentralen umgesetzt."
+   },
+   {
+    "id": "Q-S6",
+    "authority": "Wasserstraßen- und Schifffahrtsamt Weser-Jade-Nordsee (WSV)",
+    "title": "Verkehrszentralen (WSA Weser-Jade-Nordsee)",
+    "date_or_edition": "Undated web page, accessed 29 Sep 2026",
+    "url": "https://www.wsa-weser-jade-nordsee.wsv.de/Webs/WSA/Weser-Jade-Nordsee/DE/Schifffahrt/Verkehrszentralen/verkehrsundrevierzentralen_node.html",
+    "source_class": "Tier 2",
+    "supports": "VTS Centre Wilhelmshaven operates German Bight Traffic (with North Coast Traffic) and Jade Traffic and monitors the inner German Bight from Borkum to Helgoland; 24-hour operation.",
+    "locator": "Verkehrszentrale Wilhelmshaven",
+    "passage": "Von Wilhelmshaven aus erfolgt die Überwachung des Schiffsverkehrs der inneren deutschen Bucht von Borkum bis Helgoland und der Jade."
+   },
+   {
+    "id": "Q-S15",
+    "authority": "IMO (archive copy, University of Hawaii Jon Van Dyke collection)",
+    "title": "Resolution MSC.190(79) Mandatory ship reporting system in the Western European PSSA (WETREP)",
+    "date_or_edition": "Adopted 6 Dec 2004; in force 1 Jul 2005",
+    "url": "https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/0e352943-f5a1-4212-99ff-364902266ba1/content",
+    "source_class": "Tier 1",
+    "supports": "WETREP (VRS-0005) area: North Sea limits run from the Belgium/Netherlands border (point 19) to the UK east coast at 52°12'N (point 20) and from the UK coast at 58°30'N; Dutch, German and UK North Sea waters off the Humber are outside.",
+    "locator": "Annex 1 para 2.1, points 1 and 19-20",
+    "passage": "19 (B) 51° 22'25\" N ... 003° 21'52\".5 E (border between Band NL) 20 (UK) 52° 12' N UK east coast"
+   },
+   {
+    "id": "Q-S1",
+    "authority": "Federal Republic of Germany (BMJ / gesetze-im-internet.de)",
+    "title": "Anlaufbedingungsverordnung (AnlBV), Anlage (zu § 1 Abs. 1), current consolidated text",
+    "date_or_edition": "Current consolidated text accessed 29 Sep 2026 (text refers to Verordnung (EU) 2019/1239 and BMDV, so post-2019 consolidation)",
+    "url": "https://www.gesetze-im-internet.de/anlbv_2004/anlage.html",
+    "source_class": "Tier 1",
+    "supports": "National statutory entry report to VTS German Bight Traffic for ships over 300 GT entering the Inner German Bight, expressly regardless of use of TSS German Bight Western Approach; traffic in the Inner German Bight monitored under maritime traffic safety; Jade Approach pilot transfer position lies in the Inner German Bight outside the territorial sea; mandatory use of GBWA by large tankers.",
+    "locator": "Anlage Nr. 1.17, 3.1, 5.1, 6, 8",
+    "passage": "unabhängig davon, ob das Verkehrstrennungsgebiet „German Bight Western Approach“ benutzt wird, beim Passieren des Meridians 007° 10' E | 5.1 Der Schiffsverkehr wird im Rahmen der maritimen Verkehrssicherung überwacht."
+   },
+   {
+    "id": "Q-S20",
+    "authority": "Generaldirektion Wasserstraßen und Schifffahrt (ELWIS)",
+    "title": "SeeSchStrO § 58 Schifffahrtspolizeiliche Meldungen",
+    "date_or_edition": "Undated web page, accessed 29 Sep 2026",
+    "url": "https://www.elwis.de/DE/Schifffahrtsrecht/Seeschifffahrtsrecht/SeeSchStrO/Achter-Abschnitt/58/58-node.html",
+    "source_class": "Tier 1",
+    "supports": "Reports under SeeSchStrO § 58 are made to the Verkehrszentrale announced under § 60 (i.e. VTS reporting, not a separate scheme).",
+    "locator": "§ 58(1)",
+    "passage": "haben der nach § 60 Absatz 1 bekannt gemachten Verkehrszentrale folgende Angaben zu melden"
+   },
+   {
+    "id": "Q-S10",
+    "authority": "Kingdom of the Netherlands (wetten.overheid.nl)",
+    "title": "Scheepvaartreglement territoriale zee (BWBR0007914)",
+    "date_or_edition": "Version geldend van 01-01-2025 t/m heden, consulted 29 Sep 2026",
+    "url": "https://wetten.overheid.nl/BWBR0007914",
+    "source_class": "Tier 1",
+    "supports": "Statutory list of the seven Dutch aanloopgebieden (Eemsmonding, Brandaris, Den Helder, IJmuiden, Scheveningen, Rotterdam, Scheldemonden) with limits; IJmuiden area is a 12 nm arc from reference point 52°27.9'N 004°32.1'E; Brandaris area is the Terschelling zeegat; Den Helder area bounded by Marsdiep buoys. Art. 5(1): ships of 300 GT or more or carrying dangerous/polluting goods report before entering the Dutch territorial sea on a VHF channel designated by ministerial regulation.",
+    "locator": "Art. 2(d)-(e), art. 5, Bijlage 1",
+    "passage": "meldt zich voordat hij de Nederlandse territoriale zee binnenvaart op het bij ministeriële regeling aangewezen marifoonkanaal aan de bevoegde autoriteit."
+   }
+  ]
+ },
+ {
+  "record": {
+   "tss_id": "TSS-0062",
+   "batch": "B13",
+   "tss_name": "German Bight western approach",
+   "imo_parent_ref": "B-II/15",
+   "coastal_state_s": "Germany",
+   "association_status": "VTS only",
+   "vts_name": "German Bight Traffic",
+   "vts_authority": "Wasserstraßen- und Schifffahrtsverwaltung des Bundes (GDWS / WSA Weser-Jade-Nordsee)",
+   "vts_centre": "Verkehrszentrale Wilhelmshaven",
+   "vts_sector": "German Bight Traffic (VHF 80 area / Inner German Bight)",
+   "vts_boundary_basis": "AnlBV Nr. 3.1 names the TSS and requires ships entering the Inner German Bight from the west to report to German Bight Traffic at 007°10'E, whether or not they use GBWA (Q-S1). On the AnlBV Anhang chart (Q-S2) the Inner German Bight (VHF 80 area) boundary runs north-south at about 007°18'E and crosses only the easternmost few miles of the TSS; the TSS's main length to the west lies outside. So coverage by German Bight Traffic is partial (eastern end). The western part lies in the outer German Bight, where ELWIS lists Verkehrszentrale Cuxhaven 'Äußere Deutsche Bucht' with sector German North Sea Traffic (Q-S3), but no boundary shows it includes the TSS.",
+   "vts_coverage": "partial",
+   "vts_source_ids": [
+    "Q-S1",
+    "Q-S2",
+    "Q-S3",
+    "Q-S5"
+   ],
+   "mandatory_reporting": "No",
+   "vrs_id": null,
+   "reporting_scheme_name": null,
+   "reporting_authority": null,
+   "reporting_boundary_basis": "No IMO Part I system covers this area: nearest are WETREP (VRS-0005), whose North Sea limit runs from the Belgium/Netherlands border to the UK east coast at 52°12'N (Q-S15), and CALDOVREP (VRS-0008, Dover Strait). AnlBV Nr. 3.1 report at 007°10'E (over 300 GT) is made to German Bight Traffic (VTS reporting, national statute). AnlBV Nr. 6 (mandatory use of GBWA by large tankers) and the IMO mandatory tanker route (Q-S14) are routeing, not reporting, measures.",
+   "reporting_source_ids": [
+    "Q-S15",
+    "Q-S1",
+    "Q-S14"
+   ],
+   "voluntary_reporting": "No",
+   "evidence_summary": "GBWA is named in AnlBV Nr. 3.1 and Nr. 6. Only its eastern end lies inside the statutory German Bight Traffic (VHF 80) area; most of its length is in the outer German Bight EEZ. VTS only on a partial-coverage basis. German North Sea Traffic (Cuxhaven) is a lead for the western part.",
+   "source_date": "Q-S2 BGBl. I 2005 p. 2297; Q-S1 current consolidation accessed 29 Sep 2026",
+   "unresolved_issue": "Whether German North Sea Traffic (VTS Centre Cuxhaven, 'Äußere Deutsche Bucht') has a defined area including the GBWA lanes (BSH VTS Guide Germany 2026 section C5.1 not freely available). Current IMO geometry of GBWA against the 2005 chart boundary (about 007°18'E) and the 007°10'E reporting meridian.",
+   "vts_leads": "German North Sea Traffic (Verkehrszentrale Cuxhaven), outer German Bight, boundary not verified.",
+   "prior_lead_outcome": "corrected: VTS only retained but coverage restricted to the eastern end; the lead did not note that most of the TSS lies west of the Inner German Bight boundary."
+  },
+  "sources": [
+   {
+    "id": "Q-S1",
+    "authority": "Federal Republic of Germany (BMJ / gesetze-im-internet.de)",
+    "title": "Anlaufbedingungsverordnung (AnlBV), Anlage (zu § 1 Abs. 1), current consolidated text",
+    "date_or_edition": "Current consolidated text accessed 29 Sep 2026 (text refers to Verordnung (EU) 2019/1239 and BMDV, so post-2019 consolidation)",
+    "url": "https://www.gesetze-im-internet.de/anlbv_2004/anlage.html",
+    "source_class": "Tier 1",
+    "supports": "National statutory entry report to VTS German Bight Traffic for ships over 300 GT entering the Inner German Bight, expressly regardless of use of TSS German Bight Western Approach; traffic in the Inner German Bight monitored under maritime traffic safety; Jade Approach pilot transfer position lies in the Inner German Bight outside the territorial sea; mandatory use of GBWA by large tankers.",
+    "locator": "Anlage Nr. 1.17, 3.1, 5.1, 6, 8",
+    "passage": "unabhängig davon, ob das Verkehrstrennungsgebiet „German Bight Western Approach“ benutzt wird, beim Passieren des Meridians 007° 10' E | 5.1 Der Schiffsverkehr wird im Rahmen der maritimen Verkehrssicherung überwacht."
+   },
+   {
+    "id": "Q-S2",
+    "authority": "Bundesgesetzblatt (official gazette), copy hosted by OffeneGesetze.de",
+    "title": "AnlBV Anhang (zu § 1 Abs. 1 Nr. 1.17): chart defining the Innere Deutsche Bucht, in Zwölfte Verordnung zur Änderung seeverkehrsrechtlicher Vorschriften",
+    "date_or_edition": "BGBl. I 2005 Nr. 47, p. 2297, 10 Aug 2005 (still the Anhang cited by the current AnlBV)",
+    "url": "https://media.offenegesetze.de/bgbl1/2005/bgbl1_2005_47.pdf#page=33",
+    "source_class": "Tier 1",
+    "supports": "Statutory chart: Inner German Bight = area covered by German Bight Traffic VHF channel 80, bounded seaward by a dashed line which (on the 2005 chart) runs near 7°18'E north of the TSS, then WSW to cross TSS Terschelling-German Bight at about 6°16'-6°22'E; Jade Approach and Elbe Approach lie well inside; only the easternmost end of GBWA lies inside. Also shows the territorial sea boundary.",
+    "locator": "p. 2297, chart legend and geometry (read by rendering the page; longitudes estimated from the chart graticule, about +/-2')",
+    "passage": "Innere Deutsche Bucht im Sinne der Nummer 1.17 der Anlage ist der Bereich, der durch den UKW-Kanal 80 abgedeckt wird und in der Karte dargestellt ist."
+   },
+   {
+    "id": "Q-S3",
+    "authority": "Generaldirektion Wasserstraßen und Schifffahrt (ELWIS)",
+    "title": "ELWIS - Verkehrszentralen",
+    "date_or_edition": "Undated web page, accessed 29 Sep 2026",
+    "url": "https://www.elwis.de/DE/Seeschifffahrt/Verkehrs-und-Sicherheitsmanagement/Verkehrszentralen/Verkehrszentralen-node.html",
+    "source_class": "Tier 2",
+    "supports": "Official list of all nine German VTS centres and their VTS sectors/call signs: Wilhelmshaven (German Bight Traffic 16/79/80, Jade Traffic, North Coast Traffic); Cuxhaven (German North Sea Traffic 16/11, West Coast Traffic, Cuxhaven Elbe Traffic 16/71); VTS centres described as Vessel Traffic Service Center.",
+    "locator": "Verkehrszentrale Wilhelmshaven; Verkehrszentrale Cuxhaven",
+    "passage": "Verkehrszentrale Wilhelmshaven (Externer Link) Seegebiet zwischen der Ems und Elbe sowie der Jade bis Wilhelmshaven VTS-Sector and call sign VHF-Channel Telephon German Bight Traffic 16/79/80"
+   },
+   {
+    "id": "Q-S5",
+    "authority": "Generaldirektion Wasserstraßen und Schifffahrt (ELWIS)",
+    "title": "ELWIS - Maritime Verkehrssicherung",
+    "date_or_edition": "Stand: 18 Aug 2017",
+    "url": "https://www.elwis.de/DE/Seeschifffahrt/Verkehrs-und-Sicherheitsmanagement/Verkehrszentralen/Maritime-Verkehrssicherung/Maritime-Verkehrssicherung-node.html",
+    "source_class": "Tier 2",
+    "supports": "German Verkehrszentralen are the VTS established under SOLAS V/12.",
+    "locator": "Page body",
+    "passage": "Die WSV hat die Umsetzung der Verpflichtung nach Regel 12 \"Verkehrssicherungsdienste\", Kapitel V, SOLAS durch die Einrichtung von Verkehrszentralen umgesetzt."
+   },
+   {
+    "id": "Q-S15",
+    "authority": "IMO (archive copy, University of Hawaii Jon Van Dyke collection)",
+    "title": "Resolution MSC.190(79) Mandatory ship reporting system in the Western European PSSA (WETREP)",
+    "date_or_edition": "Adopted 6 Dec 2004; in force 1 Jul 2005",
+    "url": "https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/0e352943-f5a1-4212-99ff-364902266ba1/content",
+    "source_class": "Tier 1",
+    "supports": "WETREP (VRS-0005) area: North Sea limits run from the Belgium/Netherlands border (point 19) to the UK east coast at 52°12'N (point 20) and from the UK coast at 58°30'N; Dutch, German and UK North Sea waters off the Humber are outside.",
+    "locator": "Annex 1 para 2.1, points 1 and 19-20",
+    "passage": "19 (B) 51° 22'25\" N ... 003° 21'52\".5 E (border between Band NL) 20 (UK) 52° 12' N UK east coast"
+   },
+   {
+    "id": "Q-S1",
+    "authority": "Federal Republic of Germany (BMJ / gesetze-im-internet.de)",
+    "title": "Anlaufbedingungsverordnung (AnlBV), Anlage (zu § 1 Abs. 1), current consolidated text",
+    "date_or_edition": "Current consolidated text accessed 29 Sep 2026 (text refers to Verordnung (EU) 2019/1239 and BMDV, so post-2019 consolidation)",
+    "url": "https://www.gesetze-im-internet.de/anlbv_2004/anlage.html",
+    "source_class": "Tier 1",
+    "supports": "National statutory entry report to VTS German Bight Traffic for ships over 300 GT entering the Inner German Bight, expressly regardless of use of TSS German Bight Western Approach; traffic in the Inner German Bight monitored under maritime traffic safety; Jade Approach pilot transfer position lies in the Inner German Bight outside the territorial sea; mandatory use of GBWA by large tankers.",
+    "locator": "Anlage Nr. 1.17, 3.1, 5.1, 6, 8",
+    "passage": "unabhängig davon, ob das Verkehrstrennungsgebiet „German Bight Western Approach“ benutzt wird, beim Passieren des Meridians 007° 10' E | 5.1 Der Schiffsverkehr wird im Rahmen der maritimen Verkehrssicherung überwacht."
+   },
+   {
+    "id": "Q-S14",
+    "authority": "IMO (text reproduced in Transportstyrelsen compilation)",
+    "title": "COLREG.2/Circ.59 Annex 4, mandatory route for tankers from North Hinder to the German Bight and related TSS",
+    "date_or_edition": "31 Oct 2007; implemented 1 May 2008",
+    "url": "https://www.transportstyrelsen.se/globalassets/global/sjofart/dokument/sjotrafik_dok/imo_colreg.2_cirkular.pdf?id=58526",
+    "source_class": "Tier 1",
+    "supports": "Routeing (not reporting) measure applying to Off Texel, Off Vlieland, Vlieland North, Terschelling-German Bight and GBWA; no reporting system attached.",
+    "locator": "PDF pp. 322, 332-333",
+    "passage": "AMENDMENTS TO THE EXISTING TRAFFIC SEPARATION SCHEMES OFF TEXEL, OFF VLIELAND, VLIELAND NORTH AND VLIELAND JUNCTION, TERSCHELLING-GERMAN BIGHT AND GERMAN BIGHT WESTERN APPROACH"
+   }
+  ]
+ },
+ {
+  "record": {
+   "tss_id": "TSS-0063",
+   "batch": "B13",
+   "tss_name": "Jade approach",
+   "imo_parent_ref": "B-II/16",
+   "coastal_state_s": "Germany",
+   "association_status": "VTS only",
+   "vts_name": "German Bight Traffic",
+   "vts_authority": "Wasserstraßen- und Schifffahrtsverwaltung des Bundes (GDWS / WSA Weser-Jade-Nordsee)",
+   "vts_centre": "Verkehrszentrale Wilhelmshaven",
+   "vts_sector": "German Bight Traffic (VHF 80 area / Inner German Bight)",
+   "vts_boundary_basis": "AnlBV Nr. 8 places the pilot transfer position 'im Verkehrstrennungsgebiet \"Jade Approach\"' within the Inner German Bight outside the territorial sea (Q-S1). The Inner German Bight is statutorily the German Bight Traffic VHF 80 coverage area (Q-S2); on that chart the Jade Approach lies well inside the area (east of the about 007°18'E boundary, south-west of Helgoland) and adjacent to the territorial sea boundary. Nr. 5.1: traffic monitored under maritime traffic safety. Consistent with WSA 'inner German Bight from Borkum to Helgoland' (Q-S6).",
+   "vts_coverage": "full",
+   "vts_source_ids": [
+    "Q-S1",
+    "Q-S2",
+    "Q-S3",
+    "Q-S5",
+    "Q-S6"
+   ],
+   "mandatory_reporting": "No",
+   "vrs_id": null,
+   "reporting_scheme_name": null,
+   "reporting_authority": null,
+   "reporting_boundary_basis": "No IMO Part I system covers this area: nearest are WETREP (VRS-0005), whose North Sea limit runs from the Belgium/Netherlands border to the UK east coast at 52°12'N (Q-S15), and CALDOVREP (VRS-0008, Dover Strait). AnlBV Nr. 3.1 and SeeSchStrO § 58 reports go to German Bight Traffic/Jade Traffic (VTS reporting).",
+   "reporting_source_ids": [
+    "Q-S15",
+    "Q-S1",
+    "Q-S20"
+   ],
+   "voluntary_reporting": "No",
+   "evidence_summary": "Statute names the Jade Approach TSS as lying in the Inner German Bight, which the statutory chart defines as the German Bight Traffic VHF 80 area; the whole TSS lies inside that area on the chart. VTS only.",
+   "source_date": "Q-S2 BGBl. I 2005 p. 2297; Q-S1 current consolidation accessed 29 Sep 2026",
+   "unresolved_issue": "Coverage 'full' relies on the 2005 statutory chart; Jade Approach geometry may have been amended since (IMO instrument not retrieved), but any amendment near 54°N 007°30'-007°45'E would remain well inside the area.",
+   "vts_leads": "Jade Traffic (Verkehrszentrale Wilhelmshaven) for the Jade fairway inshore of the TSS.",
+   "prior_lead_outcome": "confirmed: VTS only, basis strengthened with the AnlBV Anhang chart."
+  },
+  "sources": [
+   {
+    "id": "Q-S1",
+    "authority": "Federal Republic of Germany (BMJ / gesetze-im-internet.de)",
+    "title": "Anlaufbedingungsverordnung (AnlBV), Anlage (zu § 1 Abs. 1), current consolidated text",
+    "date_or_edition": "Current consolidated text accessed 29 Sep 2026 (text refers to Verordnung (EU) 2019/1239 and BMDV, so post-2019 consolidation)",
+    "url": "https://www.gesetze-im-internet.de/anlbv_2004/anlage.html",
+    "source_class": "Tier 1",
+    "supports": "National statutory entry report to VTS German Bight Traffic for ships over 300 GT entering the Inner German Bight, expressly regardless of use of TSS German Bight Western Approach; traffic in the Inner German Bight monitored under maritime traffic safety; Jade Approach pilot transfer position lies in the Inner German Bight outside the territorial sea; mandatory use of GBWA by large tankers.",
+    "locator": "Anlage Nr. 1.17, 3.1, 5.1, 6, 8",
+    "passage": "unabhängig davon, ob das Verkehrstrennungsgebiet „German Bight Western Approach“ benutzt wird, beim Passieren des Meridians 007° 10' E | 5.1 Der Schiffsverkehr wird im Rahmen der maritimen Verkehrssicherung überwacht."
+   },
+   {
+    "id": "Q-S2",
+    "authority": "Bundesgesetzblatt (official gazette), copy hosted by OffeneGesetze.de",
+    "title": "AnlBV Anhang (zu § 1 Abs. 1 Nr. 1.17): chart defining the Innere Deutsche Bucht, in Zwölfte Verordnung zur Änderung seeverkehrsrechtlicher Vorschriften",
+    "date_or_edition": "BGBl. I 2005 Nr. 47, p. 2297, 10 Aug 2005 (still the Anhang cited by the current AnlBV)",
+    "url": "https://media.offenegesetze.de/bgbl1/2005/bgbl1_2005_47.pdf#page=33",
+    "source_class": "Tier 1",
+    "supports": "Statutory chart: Inner German Bight = area covered by German Bight Traffic VHF channel 80, bounded seaward by a dashed line which (on the 2005 chart) runs near 7°18'E north of the TSS, then WSW to cross TSS Terschelling-German Bight at about 6°16'-6°22'E; Jade Approach and Elbe Approach lie well inside; only the easternmost end of GBWA lies inside. Also shows the territorial sea boundary.",
+    "locator": "p. 2297, chart legend and geometry (read by rendering the page; longitudes estimated from the chart graticule, about +/-2')",
+    "passage": "Innere Deutsche Bucht im Sinne der Nummer 1.17 der Anlage ist der Bereich, der durch den UKW-Kanal 80 abgedeckt wird und in der Karte dargestellt ist."
+   },
+   {
+    "id": "Q-S3",
+    "authority": "Generaldirektion Wasserstraßen und Schifffahrt (ELWIS)",
+    "title": "ELWIS - Verkehrszentralen",
+    "date_or_edition": "Undated web page, accessed 29 Sep 2026",
+    "url": "https://www.elwis.de/DE/Seeschifffahrt/Verkehrs-und-Sicherheitsmanagement/Verkehrszentralen/Verkehrszentralen-node.html",
+    "source_class": "Tier 2",
+    "supports": "Official list of all nine German VTS centres and their VTS sectors/call signs: Wilhelmshaven (German Bight Traffic 16/79/80, Jade Traffic, North Coast Traffic); Cuxhaven (German North Sea Traffic 16/11, West Coast Traffic, Cuxhaven Elbe Traffic 16/71); VTS centres described as Vessel Traffic Service Center.",
+    "locator": "Verkehrszentrale Wilhelmshaven; Verkehrszentrale Cuxhaven",
+    "passage": "Verkehrszentrale Wilhelmshaven (Externer Link) Seegebiet zwischen der Ems und Elbe sowie der Jade bis Wilhelmshaven VTS-Sector and call sign VHF-Channel Telephon German Bight Traffic 16/79/80"
+   },
+   {
+    "id": "Q-S5",
+    "authority": "Generaldirektion Wasserstraßen und Schifffahrt (ELWIS)",
+    "title": "ELWIS - Maritime Verkehrssicherung",
+    "date_or_edition": "Stand: 18 Aug 2017",
+    "url": "https://www.elwis.de/DE/Seeschifffahrt/Verkehrs-und-Sicherheitsmanagement/Verkehrszentralen/Maritime-Verkehrssicherung/Maritime-Verkehrssicherung-node.html",
+    "source_class": "Tier 2",
+    "supports": "German Verkehrszentralen are the VTS established under SOLAS V/12.",
+    "locator": "Page body",
+    "passage": "Die WSV hat die Umsetzung der Verpflichtung nach Regel 12 \"Verkehrssicherungsdienste\", Kapitel V, SOLAS durch die Einrichtung von Verkehrszentralen umgesetzt."
+   },
+   {
+    "id": "Q-S6",
+    "authority": "Wasserstraßen- und Schifffahrtsamt Weser-Jade-Nordsee (WSV)",
+    "title": "Verkehrszentralen (WSA Weser-Jade-Nordsee)",
+    "date_or_edition": "Undated web page, accessed 29 Sep 2026",
+    "url": "https://www.wsa-weser-jade-nordsee.wsv.de/Webs/WSA/Weser-Jade-Nordsee/DE/Schifffahrt/Verkehrszentralen/verkehrsundrevierzentralen_node.html",
+    "source_class": "Tier 2",
+    "supports": "VTS Centre Wilhelmshaven operates German Bight Traffic (with North Coast Traffic) and Jade Traffic and monitors the inner German Bight from Borkum to Helgoland; 24-hour operation.",
+    "locator": "Verkehrszentrale Wilhelmshaven",
+    "passage": "Von Wilhelmshaven aus erfolgt die Überwachung des Schiffsverkehrs der inneren deutschen Bucht von Borkum bis Helgoland und der Jade."
+   },
+   {
+    "id": "Q-S15",
+    "authority": "IMO (archive copy, University of Hawaii Jon Van Dyke collection)",
+    "title": "Resolution MSC.190(79) Mandatory ship reporting system in the Western European PSSA (WETREP)",
+    "date_or_edition": "Adopted 6 Dec 2004; in force 1 Jul 2005",
+    "url": "https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/0e352943-f5a1-4212-99ff-364902266ba1/content",
+    "source_class": "Tier 1",
+    "supports": "WETREP (VRS-0005) area: North Sea limits run from the Belgium/Netherlands border (point 19) to the UK east coast at 52°12'N (point 20) and from the UK coast at 58°30'N; Dutch, German and UK North Sea waters off the Humber are outside.",
+    "locator": "Annex 1 para 2.1, points 1 and 19-20",
+    "passage": "19 (B) 51° 22'25\" N ... 003° 21'52\".5 E (border between Band NL) 20 (UK) 52° 12' N UK east coast"
+   },
+   {
+    "id": "Q-S1",
+    "authority": "Federal Republic of Germany (BMJ / gesetze-im-internet.de)",
+    "title": "Anlaufbedingungsverordnung (AnlBV), Anlage (zu § 1 Abs. 1), current consolidated text",
+    "date_or_edition": "Current consolidated text accessed 29 Sep 2026 (text refers to Verordnung (EU) 2019/1239 and BMDV, so post-2019 consolidation)",
+    "url": "https://www.gesetze-im-internet.de/anlbv_2004/anlage.html",
+    "source_class": "Tier 1",
+    "supports": "National statutory entry report to VTS German Bight Traffic for ships over 300 GT entering the Inner German Bight, expressly regardless of use of TSS German Bight Western Approach; traffic in the Inner German Bight monitored under maritime traffic safety; Jade Approach pilot transfer position lies in the Inner German Bight outside the territorial sea; mandatory use of GBWA by large tankers.",
+    "locator": "Anlage Nr. 1.17, 3.1, 5.1, 6, 8",
+    "passage": "unabhängig davon, ob das Verkehrstrennungsgebiet „German Bight Western Approach“ benutzt wird, beim Passieren des Meridians 007° 10' E | 5.1 Der Schiffsverkehr wird im Rahmen der maritimen Verkehrssicherung überwacht."
+   },
+   {
+    "id": "Q-S20",
+    "authority": "Generaldirektion Wasserstraßen und Schifffahrt (ELWIS)",
+    "title": "SeeSchStrO § 58 Schifffahrtspolizeiliche Meldungen",
+    "date_or_edition": "Undated web page, accessed 29 Sep 2026",
+    "url": "https://www.elwis.de/DE/Schifffahrtsrecht/Seeschifffahrtsrecht/SeeSchStrO/Achter-Abschnitt/58/58-node.html",
+    "source_class": "Tier 1",
+    "supports": "Reports under SeeSchStrO § 58 are made to the Verkehrszentrale announced under § 60 (i.e. VTS reporting, not a separate scheme).",
+    "locator": "§ 58(1)",
+    "passage": "haben der nach § 60 Absatz 1 bekannt gemachten Verkehrszentrale folgende Angaben zu melden"
+   }
+  ]
+ },
+ {
+  "record": {
+   "tss_id": "TSS-0064",
+   "batch": "B13",
+   "tss_name": "Elbe approach",
+   "imo_parent_ref": "B-II/17",
+   "coastal_state_s": "Germany",
+   "association_status": "VTS only",
+   "vts_name": "German Bight Traffic",
+   "vts_authority": "Wasserstraßen- und Schifffahrtsverwaltung des Bundes (GDWS / WSA Weser-Jade-Nordsee)",
+   "vts_centre": "Verkehrszentrale Wilhelmshaven",
+   "vts_sector": "German Bight Traffic (VHF 80 area / Inner German Bight); Cuxhaven Elbe Traffic adjoins from Tonne Elbe",
+   "vts_boundary_basis": "On the AnlBV Anhang chart (Q-S2), the Elbe approach TSS (near 54°00'N 008°05'E on the 2005 chart) lies deep inside the German Bight Traffic VHF 80 coverage arc and east of the about 007°18'E boundary. The GDWS SeeSchStrO Bekanntmachung (Q-S7) makes Cuxhaven Elbe Traffic responsible from Tonne Elbe inward, with outbound vessels reporting at Tonne Elbe to German Bight Traffic on VHF 80, so the TSS seaward of Tonne Elbe falls to German Bight Traffic. ELWIS/WSA describe Cuxhaven as covering the 'Elbeansteuerung' (Q-S3, Q-S8). Both are sectors of the German coastal VTS; the TSS is covered either way.",
+   "vts_coverage": "full",
+   "vts_source_ids": [
+    "Q-S2",
+    "Q-S7",
+    "Q-S3",
+    "Q-S8",
+    "Q-S5"
+   ],
+   "mandatory_reporting": "No",
+   "vrs_id": null,
+   "reporting_scheme_name": null,
+   "reporting_authority": null,
+   "reporting_boundary_basis": "No IMO Part I system covers this area: nearest are WETREP (VRS-0005), whose North Sea limit runs from the Belgium/Netherlands border to the UK east coast at 52°12'N (Q-S15), and CALDOVREP (VRS-0008, Dover Strait). SeeSchStrO § 58 reports at Tonne Elbe (Cuxhaven Elbe Traffic inbound VHF 71; German Bight Traffic outbound VHF 80) and AnlBV Nr. 3.1 are VTS reporting (Q-S7, Q-S1, Q-S20).",
+   "reporting_source_ids": [
+    "Q-S15",
+    "Q-S7",
+    "Q-S1",
+    "Q-S20"
+   ],
+   "voluntary_reporting": "No",
+   "evidence_summary": "The Elbe approach TSS lies inside the statutory German Bight Traffic VHF 80 area, seaward of the Cuxhaven Elbe Traffic sector boundary at Tonne Elbe. VTS only; the exact split between German Bight Traffic and Cuxhaven Elbe Traffic at the TSS's east end depends on the Tonne Elbe position versus current TSS geometry.",
+   "source_date": "Q-S2 BGBl. I 2005 p. 2297; Q-S7 BAnz AT 31.01.2014 B7 (amended to 2024, Nr. 29.1 not seen amended)",
+   "unresolved_issue": "Current IMO Elbe approach geometry versus Tonne Elbe (sector hand-over), and whether later amendments moved the Cuxhaven Elbe Traffic limit (the prior lead cited Nordergründe-Nord). This affects the sector split, not the VTS association.",
+   "vts_leads": "Cuxhaven Elbe Traffic (Verkehrszentrale Cuxhaven) at the eastern end.",
+   "prior_lead_outcome": "corrected: VTS only confirmed, with German Bight Traffic as primary sector and Cuxhaven Elbe Traffic adjoining from Tonne Elbe; the lead's Nordergründe-Nord sector limit was not verified (2014 text says Tonne Elbe)."
+  },
+  "sources": [
+   {
+    "id": "Q-S2",
+    "authority": "Bundesgesetzblatt (official gazette), copy hosted by OffeneGesetze.de",
+    "title": "AnlBV Anhang (zu § 1 Abs. 1 Nr. 1.17): chart defining the Innere Deutsche Bucht, in Zwölfte Verordnung zur Änderung seeverkehrsrechtlicher Vorschriften",
+    "date_or_edition": "BGBl. I 2005 Nr. 47, p. 2297, 10 Aug 2005 (still the Anhang cited by the current AnlBV)",
+    "url": "https://media.offenegesetze.de/bgbl1/2005/bgbl1_2005_47.pdf#page=33",
+    "source_class": "Tier 1",
+    "supports": "Statutory chart: Inner German Bight = area covered by German Bight Traffic VHF channel 80, bounded seaward by a dashed line which (on the 2005 chart) runs near 7°18'E north of the TSS, then WSW to cross TSS Terschelling-German Bight at about 6°16'-6°22'E; Jade Approach and Elbe Approach lie well inside; only the easternmost end of GBWA lies inside. Also shows the territorial sea boundary.",
+    "locator": "p. 2297, chart legend and geometry (read by rendering the page; longitudes estimated from the chart graticule, about +/-2')",
+    "passage": "Innere Deutsche Bucht im Sinne der Nummer 1.17 der Anlage ist der Bereich, der durch den UKW-Kanal 80 abgedeckt wird und in der Karte dargestellt ist."
+   },
+   {
+    "id": "Q-S7",
+    "authority": "Generaldirektion Wasserstraßen und Schifffahrt, Außenstelle Nord",
+    "title": "Bekanntmachung zur Seeschifffahrtsstraßen-Ordnung vom 28. Januar 2014",
+    "date_or_edition": "BAnz AT 31.01.2014 B7 (base text; amended at least 12 times to BAnz AT 09.07.2024 B2; amendments seen do not touch Nr. 29.1)",
+    "url": "https://www.bundesanzeiger.de/pub/publication/gfKDNVi8i3yMiqFNmCE/content/gfKDNVi8i3yMiqFNmCE/BAnz%20AT%2031.01.2014%20B7.pdf",
+    "source_class": "Tier 1",
+    "supports": "SeeSchStrO § 58 reports on the Elbe: Cuxhaven Elbe Traffic sector begins at Tonne Elbe; outbound vessels report at Tonne Elbe to German Bight Traffic on VHF 80. Shows the sector hand-over at the seaward end of the Elbe fairway.",
+    "locator": "Nr. 29.1.2.1 and 29.1.4, pp. 34-35",
+    "passage": "Cuxhaven für den Bereich vom Tonne Elbe bis zum Tonnenpaar 53, 54/Reede über UKW-Kanal 71 Küstenfunkstelle Cuxhaven Elbe Traffic"
+   },
+   {
+    "id": "Q-S3",
+    "authority": "Generaldirektion Wasserstraßen und Schifffahrt (ELWIS)",
+    "title": "ELWIS - Verkehrszentralen",
+    "date_or_edition": "Undated web page, accessed 29 Sep 2026",
+    "url": "https://www.elwis.de/DE/Seeschifffahrt/Verkehrs-und-Sicherheitsmanagement/Verkehrszentralen/Verkehrszentralen-node.html",
+    "source_class": "Tier 2",
+    "supports": "Official list of all nine German VTS centres and their VTS sectors/call signs: Wilhelmshaven (German Bight Traffic 16/79/80, Jade Traffic, North Coast Traffic); Cuxhaven (German North Sea Traffic 16/11, West Coast Traffic, Cuxhaven Elbe Traffic 16/71); VTS centres described as Vessel Traffic Service Center.",
+    "locator": "Verkehrszentrale Wilhelmshaven; Verkehrszentrale Cuxhaven",
+    "passage": "Verkehrszentrale Wilhelmshaven (Externer Link) Seegebiet zwischen der Ems und Elbe sowie der Jade bis Wilhelmshaven VTS-Sector and call sign VHF-Channel Telephon German Bight Traffic 16/79/80"
+   },
+   {
+    "id": "Q-S8",
+    "authority": "Wasserstraßen- und Schifffahrtsamt Elbe-Nordsee (WSV)",
+    "title": "Verkehrszentrale Cuxhaven",
+    "date_or_edition": "Undated web page, accessed 29 Sep 2026",
+    "url": "https://www.wsa-elbe-nordsee.wsv.de/Webs/WSA/Elbe-Nordsee/DE/2_Schifffahrt/4_Verkehrszentralen/2_Cuxhaven/Cuxhaven_node.html",
+    "source_class": "Tier 2",
+    "supports": "Cuxhaven VTS centre responsible for the Elbe from the Elbe approach to Brunsbüttel and for surveillance around offshore wind farms in the EEZ (lead for German North Sea Traffic).",
+    "locator": "Page body",
+    "passage": "Sie ist zuständig für die Sicherheit und Leichtigkeit des Schiffsverkehrs auf der Seeschifffahrtsstraße Elbe im Bereich der Elbeansteuerung bis Brunsbüttel, die Seeraumüberwachung um die Offshore-Windparks in der ausschließlichen Wirtschaftszone"
+   },
+   {
+    "id": "Q-S5",
+    "authority": "Generaldirektion Wasserstraßen und Schifffahrt (ELWIS)",
+    "title": "ELWIS - Maritime Verkehrssicherung",
+    "date_or_edition": "Stand: 18 Aug 2017",
+    "url": "https://www.elwis.de/DE/Seeschifffahrt/Verkehrs-und-Sicherheitsmanagement/Verkehrszentralen/Maritime-Verkehrssicherung/Maritime-Verkehrssicherung-node.html",
+    "source_class": "Tier 2",
+    "supports": "German Verkehrszentralen are the VTS established under SOLAS V/12.",
+    "locator": "Page body",
+    "passage": "Die WSV hat die Umsetzung der Verpflichtung nach Regel 12 \"Verkehrssicherungsdienste\", Kapitel V, SOLAS durch die Einrichtung von Verkehrszentralen umgesetzt."
+   },
+   {
+    "id": "Q-S15",
+    "authority": "IMO (archive copy, University of Hawaii Jon Van Dyke collection)",
+    "title": "Resolution MSC.190(79) Mandatory ship reporting system in the Western European PSSA (WETREP)",
+    "date_or_edition": "Adopted 6 Dec 2004; in force 1 Jul 2005",
+    "url": "https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/0e352943-f5a1-4212-99ff-364902266ba1/content",
+    "source_class": "Tier 1",
+    "supports": "WETREP (VRS-0005) area: North Sea limits run from the Belgium/Netherlands border (point 19) to the UK east coast at 52°12'N (point 20) and from the UK coast at 58°30'N; Dutch, German and UK North Sea waters off the Humber are outside.",
+    "locator": "Annex 1 para 2.1, points 1 and 19-20",
+    "passage": "19 (B) 51° 22'25\" N ... 003° 21'52\".5 E (border between Band NL) 20 (UK) 52° 12' N UK east coast"
+   },
+   {
+    "id": "Q-S7",
+    "authority": "Generaldirektion Wasserstraßen und Schifffahrt, Außenstelle Nord",
+    "title": "Bekanntmachung zur Seeschifffahrtsstraßen-Ordnung vom 28. Januar 2014",
+    "date_or_edition": "BAnz AT 31.01.2014 B7 (base text; amended at least 12 times to BAnz AT 09.07.2024 B2; amendments seen do not touch Nr. 29.1)",
+    "url": "https://www.bundesanzeiger.de/pub/publication/gfKDNVi8i3yMiqFNmCE/content/gfKDNVi8i3yMiqFNmCE/BAnz%20AT%2031.01.2014%20B7.pdf",
+    "source_class": "Tier 1",
+    "supports": "SeeSchStrO § 58 reports on the Elbe: Cuxhaven Elbe Traffic sector begins at Tonne Elbe; outbound vessels report at Tonne Elbe to German Bight Traffic on VHF 80. Shows the sector hand-over at the seaward end of the Elbe fairway.",
+    "locator": "Nr. 29.1.2.1 and 29.1.4, pp. 34-35",
+    "passage": "Cuxhaven für den Bereich vom Tonne Elbe bis zum Tonnenpaar 53, 54/Reede über UKW-Kanal 71 Küstenfunkstelle Cuxhaven Elbe Traffic"
+   },
+   {
+    "id": "Q-S1",
+    "authority": "Federal Republic of Germany (BMJ / gesetze-im-internet.de)",
+    "title": "Anlaufbedingungsverordnung (AnlBV), Anlage (zu § 1 Abs. 1), current consolidated text",
+    "date_or_edition": "Current consolidated text accessed 29 Sep 2026 (text refers to Verordnung (EU) 2019/1239 and BMDV, so post-2019 consolidation)",
+    "url": "https://www.gesetze-im-internet.de/anlbv_2004/anlage.html",
+    "source_class": "Tier 1",
+    "supports": "National statutory entry report to VTS German Bight Traffic for ships over 300 GT entering the Inner German Bight, expressly regardless of use of TSS German Bight Western Approach; traffic in the Inner German Bight monitored under maritime traffic safety; Jade Approach pilot transfer position lies in the Inner German Bight outside the territorial sea; mandatory use of GBWA by large tankers.",
+    "locator": "Anlage Nr. 1.17, 3.1, 5.1, 6, 8",
+    "passage": "unabhängig davon, ob das Verkehrstrennungsgebiet „German Bight Western Approach“ benutzt wird, beim Passieren des Meridians 007° 10' E | 5.1 Der Schiffsverkehr wird im Rahmen der maritimen Verkehrssicherung überwacht."
+   },
+   {
+    "id": "Q-S20",
+    "authority": "Generaldirektion Wasserstraßen und Schifffahrt (ELWIS)",
+    "title": "SeeSchStrO § 58 Schifffahrtspolizeiliche Meldungen",
+    "date_or_edition": "Undated web page, accessed 29 Sep 2026",
+    "url": "https://www.elwis.de/DE/Schifffahrtsrecht/Seeschifffahrtsrecht/SeeSchStrO/Achter-Abschnitt/58/58-node.html",
+    "source_class": "Tier 1",
+    "supports": "Reports under SeeSchStrO § 58 are made to the Verkehrszentrale announced under § 60 (i.e. VTS reporting, not a separate scheme).",
+    "locator": "§ 58(1)",
+    "passage": "haben der nach § 60 Absatz 1 bekannt gemachten Verkehrszentrale folgende Angaben zu melden"
+   }
+  ]
+ },
+ {
+  "record": {
+   "tss_id": "TSS-0065",
+   "batch": "B13",
+   "tss_name": "In the approaches to the River Humber",
+   "imo_parent_ref": "B-II/18",
+   "coastal_state_s": "United Kingdom",
+   "association_status": "VTS only",
+   "vts_name": "VTS Humber",
+   "vts_authority": "Associated British Ports, Humber Estuary Services (Statutory Harbour Authority)",
+   "vts_centre": "Humber Marine Control Centre, Grimsby",
+   "vts_sector": "Humber Approaches (VHF 14, seaward to No. 4A Clee Ness Light Float meridian)",
+   "vts_boundary_basis": "VTS Humber seaward limit (Q-S16): Easington Church (53°39.02'N 000°06.90'E) 086° to 53°40'N 000°30'E, 180° to 53°30'N 000°30'E, 262° to Donna Nook (53°28.40'N 000°09.23'E). All TSS vertices (Q-S13) lie west of 000°30'E (maximum 000°22.95'E) and south of the northern line (point 36 at 53°38.70'N versus the line at about 53°39.6'N). The southernmost vertex (30) 53°29.19'N 000°19.97'E lies on the 262° line within about 0.04' (charting precision). VTS reporting points are the TSS limb buoys (Outer Binks, Outer Sea Reach, Outer Rosse Reach). TOS is provided from the seaward limit.",
+   "vts_coverage": "full",
+   "vts_source_ids": [
+    "Q-S16",
+    "Q-S13"
+   ],
+   "mandatory_reporting": "No",
+   "vrs_id": null,
+   "reporting_scheme_name": null,
+   "reporting_authority": null,
+   "reporting_boundary_basis": "No IMO Part I system: WETREP (VRS-0005) meets the UK east coast at 52°12'N and resumes at 58°30'N, so the Humber is outside (Q-S15); no other Part I system in the area. Humber reporting (2.5 h notice, reporting points) is VTS reporting, compulsory for sea-going vessels (Q-S16).",
+   "reporting_source_ids": [
+    "Q-S15",
+    "Q-S16"
+   ],
+   "voluntary_reporting": "No",
+   "evidence_summary": "The IMO Humber TSS (COLREG.2/Circ.60, implemented 2009) lies wholly within the published VTS Humber area. VTS Humber is compulsory for sea-going vessels and provides TOS from the seaward limit, with reporting points on the TSS limbs. No MRS.",
+   "source_date": "Q-S16 undated, accessed 29 Sep 2026; Q-S13 10 Dec 2008 / Corr.1 2 Apr 2009",
+   "unresolved_issue": "VTS Humber web page is undated; confirm against ALRS Vol 6 or current Humber standing notices. IMO 2025 may include later amendments to the TSS after 2009 (none found).",
+   "vts_leads": null,
+   "prior_lead_outcome": "n/a: no prior lead supplied"
+  },
+  "sources": [
+   {
+    "id": "Q-S16",
+    "authority": "Associated British Ports, Humber Estuary Services (Statutory Harbour Authority)",
+    "title": "VTS Information (VTS Humber description)",
+    "date_or_edition": "Undated web page (site copyright 2010-2026), accessed 29 Sep 2026",
+    "url": "https://humber.com/estuary_information/marine_information/vessel-traffic-services/vts-description",
+    "source_class": "Tier 2",
+    "supports": "VTS Humber area seaward limit (Easington Church 086° to 53°40'N 000°30'E, 180° to 53°30'N 000°30'E, 262° to Donna Nook); compulsory; TOS from seaward limit to Humber Bridge; reporting points at Outer Binks, Outer Sea Reach and Outer Rosse Reach buoys (TSS limbs).",
+    "locator": "VTS area; Reporting points; Types of Service",
+    "passage": "Mariners are required to report to VTS, HUMBER on VHF when passing the following reporting points: Outer Binks Light Buoy, Outer Sea Reach Light Buoy or Outer Rosse Reach Light Buoy."
+   },
+   {
+    "id": "Q-S13",
+    "authority": "IMO (text reproduced in Transportstyrelsen compilation of COLREG.2 circulars)",
+    "title": "COLREG.2/Circ.60 Annex 6 Amended TSS In the approaches to the River Humber, and Corr.1",
+    "date_or_edition": "10 Dec 2008; Corr.1 2 Apr 2009",
+    "url": "https://www.transportstyrelsen.se/globalassets/global/sjofart/dokument/sjotrafik_dok/imo_colreg.2_cirkular.pdf?id=58526",
+    "source_class": "Tier 1",
+    "supports": "Full coordinates of the Humber TSS: extends from 000°05.70'E to 000°22.95'E and 53°29.19'N to 53°38.70'N, including Outer Sea Reach, Outer Rosse Reach and North New Sand/Outer Binks limbs.",
+    "locator": "PDF pp. 357-359, 361",
+    "passage": "(30) 53° 29·.19 N 000° 19·.97 E"
+   },
+   {
+    "id": "Q-S15",
+    "authority": "IMO (archive copy, University of Hawaii Jon Van Dyke collection)",
+    "title": "Resolution MSC.190(79) Mandatory ship reporting system in the Western European PSSA (WETREP)",
+    "date_or_edition": "Adopted 6 Dec 2004; in force 1 Jul 2005",
+    "url": "https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/0e352943-f5a1-4212-99ff-364902266ba1/content",
+    "source_class": "Tier 1",
+    "supports": "WETREP (VRS-0005) area: North Sea limits run from the Belgium/Netherlands border (point 19) to the UK east coast at 52°12'N (point 20) and from the UK coast at 58°30'N; Dutch, German and UK North Sea waters off the Humber are outside.",
+    "locator": "Annex 1 para 2.1, points 1 and 19-20",
+    "passage": "19 (B) 51° 22'25\" N ... 003° 21'52\".5 E (border between Band NL) 20 (UK) 52° 12' N UK east coast"
+   },
+   {
+    "id": "Q-S16",
+    "authority": "Associated British Ports, Humber Estuary Services (Statutory Harbour Authority)",
+    "title": "VTS Information (VTS Humber description)",
+    "date_or_edition": "Undated web page (site copyright 2010-2026), accessed 29 Sep 2026",
+    "url": "https://humber.com/estuary_information/marine_information/vessel-traffic-services/vts-description",
+    "source_class": "Tier 2",
+    "supports": "VTS Humber area seaward limit (Easington Church 086° to 53°40'N 000°30'E, 180° to 53°30'N 000°30'E, 262° to Donna Nook); compulsory; TOS from seaward limit to Humber Bridge; reporting points at Outer Binks, Outer Sea Reach and Outer Rosse Reach buoys (TSS limbs).",
+    "locator": "VTS area; Reporting points; Types of Service",
+    "passage": "Mariners are required to report to VTS, HUMBER on VHF when passing the following reporting points: Outer Binks Light Buoy, Outer Sea Reach Light Buoy or Outer Rosse Reach Light Buoy."
+   }
+  ]
+ }
+]

@@ -118,6 +118,55 @@
   "TSS-0088": {
    "mandatory_reporting": "Unresolved",
    "_reason": "Pass 4: WETREP para 6.2.1 names Off Skerries but the boundary excludes the Irish Sea; conflict within the IMO text, so reporting is Unresolved, not No."
+  },
+  "TSS-0051": {
+   "vts_boundary_basis": "PIG 2026 gives the Rotterdam VTS service area as 'Extending 38 nautical miles seawards of the port entrance' (P-S7). The official sector chart in the 2026 VHF procedure (Bijlage 2, P-S8; legally published P-S9) shows the Eurochannel buoys E1 to E9 and the traffic lanes west of the Maas Junction within the area shaded as Sector Maas Approach (VHF 1). Distance test from the North Mole head (51 59'.67N 004 02'.84E) using Circ.67 positions (P-S1): westernmost positions (44) 52 04'.37N 003 08'.52E and (61) 51 51'.22N 003 09'.29E are about 34 nm from the entrance, inside 38 nm. Note: the statutory Rotterdam approach area (STZ Bijlage 1(f), P-S10) ends at the inner ends of the Maas TSSs (buoys MN3, MN2, MNW2, MNW3-MW4, MW5), so statutory powers (traffic instructions, navigational assistance) do not extend over the TSS; the association rests on the VTS service area (information/traffic organisation). Pass 4 correction: the 2026 sector chart does not show this scheme (it stops at the western edge of the Maas Junction precautionary area). Coverage rests only on the Port Information Guide 2026 description of the VTS area as 38 nm seawards of the port entrance; the scheme's westernmost positions are 33.7 to 34.5 nm out.",
+   "_reason": "Pass 4.",
+   "unresolved_issue": "Outer VTS limit is stated as a distance ('38 nautical miles seawards'); the western end of the scheme is 4 nm inside it on a radius reading. If the 38 nm were measured along the channel the result is the same, but no coordinate boundary was found to confirm. Lower confidence: coverage rests on the port authority's 38 nm description, not a statutory boundary (the statutory Rotterdam approach area ends at the inner end of the scheme). Confirm against ALRS Vol 6 or a charted VTS limit."
+  },
+  "TSS-0048": {
+   "unresolved_issue": "VTS area outer limit is stated only as '38 nautical miles seawards of the port entrance' plus a schematic chart; no coordinate boundary found. Statutory approach area stops at the TSS southern end. Coordinator may treat coverage as moderate-confidence. Pass 4: the sector chart shows only the southern end; full coverage rests on the 38 nm description (scheme 8.6 to 24.8 nm from the North Mole head).",
+   "_reason": "Pass 4."
+  },
+  "TSS-0055": {
+   "vts_boundary_basis": "The VTS area at sea is the territorial sea within a 12 nm radius of the IJmuiden breakwater heads, including the extended IJ-geul (P-S12); the statutory IJmuiden approach area uses a 12 nm arc from reference point 52 27'.9N 004 32'.1E (P-S10). IJmuiden West Inner spans 004 07'-004 20'.35E (Circ.64, P-S2). Its eastern end (e.g. (16) 52 30'.52N 004 20'.35E, about 7.6 nm) lies inside 12 nm; the 12 nm arc crosses the scheme near 004 12'.6E, so roughly the eastern 4-5 nm (less if the territorial-sea limit is tighter) is inside and the western part is outside. Partial. Pass 4: the 12 nm arc crosses the scheme at about 004 12.5E to 004 13.3E; the extended IJ-geul corridor runs between the separation zones, so the VTS area adjoins the scheme's inner edge but the lanes west of about 004 13E are outside.",
+   "_reason": "Pass 4 note."
+  },
+  "TSS-0062": {
+   "vts_boundary_basis": "AnlBV Nr. 3.1 names the TSS and requires ships entering the Inner German Bight from the west to report to German Bight Traffic at 007°10'E, whether or not they use GBWA (Q-S1). On the AnlBV Anhang chart (Q-S2) the Inner German Bight (VHF 80 area) boundary runs north-south at about 007°18'E and crosses only the easternmost few miles of the TSS; the TSS's main length to the west lies outside. So coverage by German Bight Traffic is partial (eastern end). The western part lies in the outer German Bight, where ELWIS lists Verkehrszentrale Cuxhaven 'Äußere Deutsche Bucht' with sector German North Sea Traffic (Q-S3), but no boundary shows it includes the TSS. Pass 4: AnlBV Nr. 3.1 requires a report to German Bight Traffic at 007 10E, west of the statutory VHF 80 boundary (about 007 19E); a commercial source (findaport, lead only) gives a German Bight Traffic VHF 79 reporting point at buoy GW/B (54 10.42N 006 54.00E) on this TSS. Coverage probably extends further west than recorded; not confirmed by a Tier 1 source.",
+   "_reason": "Pass 4 note."
+  },
+  "TSS-0046": {
+   "reporting_boundary_basis": "No IMO Part I system covers the area (P-S6; WETREP north-eastern limit is the line B/NL border to 52 12'N UK coast, far to the south-west, P-S5). The Dutch legal vehicle for reporting systems outside the territorial sea (P-S16) has one implementing regulation, which contains routeing measures only and no reporting system (P-S17). Pass 4: Scheepvaartreglement territoriale zee art. 5(1) requires ships of 300 GT or more, or carrying dangerous goods, to report before entering the Dutch territorial sea; this is made as the VTS or approach-area arrival report and is not a separate ship reporting system.",
+   "_reason": "Pass 4 note."
+  },
+  "TSS-0047": {
+   "reporting_boundary_basis": "Outside all Part I systems (P-S6; WETREP limit line runs 51 22'N 003 22'E to 52 12'N UK coast, P-S5). Dutch EEZ routeing and reporting regulation contains no reporting system (P-S16, P-S17). Circ.59 recommends this western route to deep-draught tankers exempted from the southern mandatory tanker route and asks for a log entry only (P-S4): routeing, not reporting. Pass 4: Scheepvaartreglement territoriale zee art. 5(1) requires ships of 300 GT or more, or carrying dangerous goods, to report before entering the Dutch territorial sea; this is made as the VTS or approach-area arrival report and is not a separate ship reporting system.",
+   "_reason": "Pass 4 note."
+  },
+  "TSS-0052": {
+   "reporting_boundary_basis": "East of the WETREP limit line (at 52 05'-52 13'N the line lies near 001 50'E; scheme is at 002 56'-003 10'E) (P-S5); no other Part I system (P-S6); no Dutch EEZ reporting system (P-S16, P-S17). Pass 4: Scheepvaartreglement territoriale zee art. 5(1) requires ships of 300 GT or more, or carrying dangerous goods, to report before entering the Dutch territorial sea; this is made as the VTS or approach-area arrival report and is not a separate ship reporting system.",
+   "_reason": "Pass 4 note."
+  },
+  "TSS-0056": {
+   "reporting_boundary_basis": "No IMO Part I system covers this area: nearest are WETREP (VRS-0005), whose North Sea limit runs from the Belgium/Netherlands border to the UK east coast at 52°12'N (Q-S15), and CALDOVREP (VRS-0008, Dover Strait). No Dutch national mandatory reporting system for this area identified: STZ art. 5(1) territorial-sea entry report does not reach it because the TSS lies seaward of the 12 nm IJmuiden arc (Q-S10). The VHF 7 report to IJmuiden Approaches applies to ships bound for IJmuiden and is VTS reporting (Q-S9). Pass 4: Scheepvaartreglement territoriale zee art. 5(1) requires ships of 300 GT or more, or carrying dangerous goods, to report before entering the Dutch territorial sea; this is made as the VTS or approach-area arrival report and is not a separate ship reporting system.",
+   "_reason": "Pass 4 note."
+  },
+  "TSS-0057": {
+   "reporting_boundary_basis": "No IMO Part I system covers this area: nearest are WETREP (VRS-0005), whose North Sea limit runs from the Belgium/Netherlands border to the UK east coast at 52°12'N (Q-S15), and CALDOVREP (VRS-0008, Dover Strait). Seaward of the 12 nm IJmuiden arc, so the STZ art. 5(1) territorial-sea entry report does not apply (Q-S10). VHF 7 report to IJmuiden Approaches is VTS reporting for ships bound to IJmuiden (Q-S9). Pass 4: Scheepvaartreglement territoriale zee art. 5(1) requires ships of 300 GT or more, or carrying dangerous goods, to report before entering the Dutch territorial sea; this is made as the VTS or approach-area arrival report and is not a separate ship reporting system.",
+   "_reason": "Pass 4 note."
+  },
+  "TSS-0058": {
+   "reporting_boundary_basis": "No IMO Part I system covers this area: nearest are WETREP (VRS-0005), whose North Sea limit runs from the Belgium/Netherlands border to the UK east coast at 52°12'N (Q-S15), and CALDOVREP (VRS-0008, Dover Strait). Part of the TSS lies within the Dutch territorial sea (inner lane boundary about 9.5 nm off Texel). STZ art. 5(1) (Q-S10) requires ships of 300 GT or more to report before entering the Dutch territorial sea on a channel designated by ministerial regulation to the competent authority. The designation, receiving authority and practical operation were not found (Q-S11). This is not a named scheme and may be a dormant provision. Pass 4: Scheepvaartreglement territoriale zee art. 5(1) requires ships of 300 GT or more, or carrying dangerous goods, to report before entering the Dutch territorial sea; this is made as the VTS or approach-area arrival report and is not a separate ship reporting system.",
+   "_reason": "Pass 4 note."
+  },
+  "TSS-0059": {
+   "reporting_boundary_basis": "No IMO Part I system covers this area: nearest are WETREP (VRS-0005), whose North Sea limit runs from the Belgium/Netherlands border to the UK east coast at 52°12'N (Q-S15), and CALDOVREP (VRS-0008, Dover Strait). IMO coordinates for B-II/13 were not retrieved, so it is not known whether any part lies in the Dutch territorial sea where STZ art. 5(1) entry reporting would apply (Q-S10); that provision's channel and authority are also unconfirmed. Pass 4: Scheepvaartreglement territoriale zee art. 5(1) requires ships of 300 GT or more, or carrying dangerous goods, to report before entering the Dutch territorial sea; this is made as the VTS or approach-area arrival report and is not a separate ship reporting system.",
+   "_reason": "Pass 4 note."
+  },
+  "TSS-0060": {
+   "reporting_boundary_basis": "No IMO Part I system covers this area: nearest are WETREP (VRS-0005), whose North Sea limit runs from the Belgium/Netherlands border to the UK east coast at 52°12'N (Q-S15), and CALDOVREP (VRS-0008, Dover Strait). Territorial-sea extent not checked (IMO coordinates not retrieved), so the applicability of STZ art. 5(1) is not resolved. Pass 4: Scheepvaartreglement territoriale zee art. 5(1) requires ships of 300 GT or more, or carrying dangerous goods, to report before entering the Dutch territorial sea; this is made as the VTS or approach-area arrival report and is not a separate ship reporting system.",
+   "_reason": "Pass 4 note."
   }
  },
  "pass4_notes": {
@@ -126,7 +175,14 @@
   "B16": "An independent checker re-opened the Norwegian regulations (s.6 VTS list, chapter 5, notification regulation 2015 no. 1790), the Kystverket Barents SRS page, SN.1/Circ.318, MSC.190(79) and the Kystverket WFS polygons, and upheld every classification (research/stage2/pass4/chk_norway_result.json).",
   "B17": "An independent checker re-opened the Norwegian regulations (s.6 VTS list, chapter 5, notification regulation 2015 no. 1790), the Kystverket Barents SRS page, SN.1/Circ.318, MSC.190(79) and the Kystverket WFS polygons, and upheld every classification (research/stage2/pass4/chk_norway_result.json).",
   "B18": "An independent checker re-opened MSC.190(79), MSC.162(78), Decree-Law 263/2009, COLREG.2 circulars and the DGRM and EMSA pages, re-did the boundary geometry, and upheld every positive classification (research/stage2/pass4/chk_T_result.json).",
-  "B19": "An independent checker re-opened MSC.190(79), MSC.162(78), Decree-Law 263/2009, COLREG.2 circulars and the DGRM and EMSA pages, re-did the boundary geometry, and upheld every positive classification (research/stage2/pass4/chk_T_result.json)."
+  "B19": "An independent checker re-opened MSC.190(79), MSC.162(78), Decree-Law 263/2009, COLREG.2 circulars and the DGRM and EMSA pages, re-did the boundary geometry, and upheld every positive classification (research/stage2/pass4/chk_T_result.json).",
+  "B10": "An independent checker re-opened the Port Information Guide 2026, Staatscourant 2026 8272, the IJmuiden VTS regulation 2025, MSC.190(79), COLREG.2/Circ.64 and 67 and the Scheldt VTS folder, and re-did the WETREP, 38 nm and 12 nm geometry. Six positives upheld; Maas West Outer kept with its basis corrected and confidence lowered (research/stage2/pass4/chk_P_result.json).",
+  "B11": "An independent checker re-opened the Port Information Guide 2026, Staatscourant 2026 8272, the IJmuiden VTS regulation 2025, MSC.190(79), COLREG.2/Circ.64 and 67 and the Scheldt VTS folder, and re-did the WETREP, 38 nm and 12 nm geometry. Six positives upheld; Maas West Outer kept with its basis corrected and confidence lowered (research/stage2/pass4/chk_P_result.json).",
+  "B12": "An independent checker re-rendered the AnlBV Anhang chart, re-read the AnlBV, SeeSchStrO and 2014 GDWS notice, the ABP Humber page and COLREG.2/Circ.60, and upheld all five positives; German Bight western approach coverage note widened (research/stage2/pass4/chk_Q_result.json).",
+  "B13": "An independent checker re-rendered the AnlBV Anhang chart, re-read the AnlBV, SeeSchStrO and 2014 GDWS notice, the ABP Humber page and COLREG.2/Circ.60, and upheld all five positives; German Bight western approach coverage note widened (research/stage2/pass4/chk_Q_result.json)."
  },
- "audit_result": {}
+ "audit_result": {},
+ "vts_alias": {
+  "VTS North Sea Canal Area": "VTS North Sea Canal Area (Noordzeekanaalgebied)"
+ }
 }
