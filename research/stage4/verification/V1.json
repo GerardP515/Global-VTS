@@ -1,0 +1,647 @@
+[
+ {
+  "record_id": "TSS-0046",
+  "source_label": "German Bight Western Approach",
+  "official_name": "German Bight western approach",
+  "claims": {
+   "tss_identity": [
+    "Confirmed",
+    "Named in IMO COLREG.2/Circ.59 (MSC 83, 2007) as amended scheme with special provisions for the North Hinder to German Bight tanker route, implemented 1 May 2008 (S1); listed in IMO Ships' Routeing 2008 (S27) and Transportstyrelsen 2017 list (S4). German statute designates it a deep-water route (Tiefwasserweg) mandatory for large tankers (S6 Nr. 6). MSC 109 adopted a revised containership recommendation covering it from 1 July 2025 (lead S5). No evidence of renaming or restructuring by recent IMO amendments was found."
+   ],
+   "operational_status": "In force",
+   "vts": [
+    "Confirmed present",
+    [
+     "German Bight Traffic (Verkehrszentrale Wilhelmshaven)"
+    ],
+    "AnlBV Anlage Nr. 3.1 requires ships approaching the Inner German Bight from the west to report to 'German Bight Traffic' at 007° 10' E 'unabhängig davon, ob das Verkehrstrennungsgebiet German Bight Western Approach benutzt wird' (S6); Nr. 5.1 states traffic is monitored under maritime traffic safety. Coverage evidenced for the eastern part of the scheme and its approach into the Inner German Bight; the western extent of the scheme relative to the VTS area was not verified."
+   ],
+   "reporting": [
+    "Confirmed present",
+    [
+     "Reporting on approach to the Inner German Bight (AnlBV Anlage Nr. 3.1) and SeeSchStrO § 58 reports to German Bight Traffic"
+    ],
+    "National mandatory report (AnlBV Nr. 3.1) at 007° 10' E for ships and tows over 300 GT, expressly regardless of use of this TSS (S6). Not an IMO-adopted SRS."
+   ]
+  },
+  "cited_sources": [
+   {
+    "title": "COLREG.2/Circ.59: New and amended existing traffic separation schemes",
+    "authority": "IMO (third-party hosted copy, Shanghai Maritime University)",
+    "url": "https://cimrc.shmtu.edu.cn/_upload/article/files/63/dc/35c66be74d12873254dc88a2ef00/465d5392-0ba5-4f33-8e61-a48e3499b1b3.pdf",
+    "date_shown": "31 October 2007",
+    "locator": "para 1.4 and annex 4",
+    "passage": "Mandatory route for tankers from North Hinder to the German Bight and vice versa and to related traffic separation schemes Off Texel, Off Vlieland, Vlieland North and Vlieland Junction, Terschelling-German Bight and German Bight western approaches (amended schemes)"
+   },
+   {
+    "title": "Traffic Separation Schemes (list of IMO routeing measures with adopting documents)",
+    "authority": "Transportstyrelsen (Swedish Transport Agency)",
+    "url": "https://transportstyrelsen.se/globalassets/global/sjofart/dokument/sjotrafik_dok/ruttsystem.pdf",
+    "date_shown": "2017-04-27 (sections dated 2017-04-27 and 2018-07-30)",
+    "locator": "Western European waters and North Sea pages",
+    "passage": "In the approaches to Ijmuiden Colreg.2/Circ.64 2012 MSC 91 2012 ... At Banco del Hoyo A.284(VIII) 1973"
+   },
+   {
+    "title": "Summary Report IMO Maritime Safety Committee (MSC 109)",
+    "authority": "ISES Association (secondary summary)",
+    "url": "https://www.isesassociation.com/wp-content/uploads/2024/12/MSC_109_Summary_Report.pdf",
+    "date_shown": "December 2024",
+    "locator": "Ships' routeing outcomes",
+    "passage": "revised recommendation on navigation for containerships in traffic separation schemes Off Vlieland, Terschelling-German Bight, Off Friesland and German Bight western approach ... to be implemented from 1 July 2025"
+   },
+   {
+    "title": "Anlaufbedingungsverordnung (AnlBV), Anlage (zu § 1 Abs. 1)",
+    "authority": "Bundesministerium der Justiz (gesetze-im-internet.de), German federal statute",
+    "url": "https://www.gesetze-im-internet.de/anlbv_2004/anlage.html",
+    "date_shown": "Undated (consolidated text; original BGBl. I 2004, 301)",
+    "locator": "Nr. 3.1, 5.1, 6 and 8",
+    "passage": "unabhängig davon, ob das Verkehrstrennungsgebiet „German Bight Western Approach“ benutzt wird, beim Passieren des Meridians 007° 10' E ... der Verkehrszentrale „German Bight Traffic“ über UKW-Sprechfunk (UKW-Kanal 79 oder 80)"
+   },
+   {
+    "title": "Verkehrszentralen (WSA Weser-Jade-Nordsee)",
+    "authority": "Wasserstraßen- und Schifffahrtsamt Weser-Jade-Nordsee (WSV)",
+    "url": "https://www.wsa-weser-jade-nordsee.wsv.de/Webs/WSA/Weser-Jade-Nordsee/DE/Schifffahrt/Verkehrszentralen/verkehrsundrevierzentralen_node.html",
+    "date_shown": "Undated",
+    "locator": "Verkehrszentrale Wilhelmshaven",
+    "passage": "Von Wilhelmshaven aus erfolgt die Überwachung des Schiffsverkehrs der inneren deutschen Bucht von Borkum bis Helgoland und der Jade. ... 1. \"German Bight Traffic\" mit \"Northcoast Traffic\" 2. \"Jade Traffic\""
+   },
+   {
+    "title": "Verkehrskanäle der Verkehrszentralen im Küstenbereich (map)",
+    "authority": "Fachstelle für Geodäsie und Geoinformation der WSV (ELWIS)",
+    "url": "https://www.elwis.de/DE/Seeschifffahrt/Verkehrs-und-Sicherheitsmanagement/Verkehrszentralen/Verkehrskanaele.pdf?__blob=publicationFile",
+    "date_shown": "Stand 2021",
+    "locator": "legend",
+    "passage": "3 Cuxhaven ElbeTraffic 16/71 ... 5 German Bight Traffic 16/79/80 6 North Coast Traffic 16/79 7 Jade Traffic 16/63/20"
+   },
+   {
+    "title": "Verkehrsbericht 2016",
+    "authority": "Wasserstraßen- und Schifffahrtsverwaltung des Bundes (WSV/GDWS), via ULB Bonn legal deposit",
+    "url": "https://epflicht.ulb.uni-bonn.de/download/pdf/564811",
+    "date_shown": "2016 (report year)",
+    "locator": "1.1.1 Nordsee",
+    "passage": "Das bedeutendste VTG ist das Terschelling-German Bight. Das nördlich gelegene parallele VTG Western Approach ermöglicht tiefergehenden Fahrzeugen die Fahrt. VTG Jade Approach ist die Verbindung der beiden"
+   },
+   {
+    "title": "Ships' Routeing, 2008 edition (consolidated), contents pages",
+    "authority": "IMO publication (extract hosted by University of Ljubljana)",
+    "url": "https://www.fpp.uni-lj.si/mma_bin.php?id=2011032217361737",
+    "date_shown": "2008 (amendments to December 2007)",
+    "locator": "Contents, Part B Section II Western European waters",
+    "passage": "Off Cape Roca ... II/30 Off Cape S. Vicente ... II/31 At Banco del Hoyo ... II/32"
+   }
+  ]
+ },
+ {
+  "record_id": "TSS-0059",
+  "source_label": "Off Ushant (Île d'Ouessant)",
+  "official_name": "Off Ushant",
+  "claims": {
+   "tss_identity": [
+    "Confirmed",
+    "Amended by COLREG.2/Circ.51 (MSC 75), implemented 1 May 2003 (S18); further amended by COLREG.2/Circ.64 (MSC 91), implemented 1 June 2013 per search result (Circ.64 text not retrieved). French ministry 2024 confirms DST Ouessant under CROSS Corsen (S19)."
+   ],
+   "operational_status": "In force",
+   "vts": [
+    "Confirmed present",
+    [
+     "Ouessant VTS (Corsen/Ouessant vessel traffic service, call sign 'Ushant Traffic'), CROSS Corsen"
+    ],
+    "IMO MSC.52(66): OUESSREP area 'covers a circular area 35 miles in radius centred on the Ile d'Ouessant' and 'The TSS covers the entire area'; shore authority is the Corsen/Ouessant VTS 'Ushant Traffic' at CROSS Corsen, VHF 13 (S16). French ministry 2024: 'DST Ouessant : zone de compétences CROSS Corsen' (S19)."
+   ],
+   "reporting": [
+    "Confirmed present",
+    [
+     "OUESSREP (Off Ushant mandatory ship reporting system)"
+    ],
+    "OUESSREP, IMO-adopted SOLAS mandatory ship reporting system (MSC.52(66), amended MSC.251(83) in force 1 May 2008) covering the TSS (S16, S17); French 2024 publication confirms Channel CROSS monitor ships over 300 UMS 'soumis à un compte rendu obligatoire' (S19)."
+   ]
+  },
+  "cited_sources": [
+   {
+    "title": "Resolution MSC.52(66): Mandatory ship reporting systems (annex: Off Ushant)",
+    "authority": "IMO",
+    "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.52(66).pdf",
+    "date_shown": "Adopted 30 May 1996",
+    "locator": "Annex 'Off Ushant', sections 1, 2, 3.2; name of system OUESSREP",
+    "passage": "The shore-based authority is the Corsen/Ouessant vessel traffic service (voice communication sign \"Ushant Traffic\") installed at the CROSS CORSEN site."
+   },
+   {
+    "title": "Resolution MSC.251(83): Amendments to the existing mandatory ship reporting systems Off Ushant, Off Les Casquets and Dover Strait/Pas de Calais",
+    "authority": "IMO",
+    "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.251(83).pdf",
+    "date_shown": "Adopted 8 October 2007",
+    "locator": "operative paras 1 and 2",
+    "passage": "the amendments to the existing mandatory ship reporting systems, Off Ushant (OUESSREP), Off Les Casquets (MANCHEREP) and Dover Strait/Pas de Calais (CALDOVREP), will enter into force at 0000 hours UTC on 1 May 2008"
+   },
+   {
+    "title": "COLREG.2/Circ.51: New and amended traffic separation schemes",
+    "authority": "IMO (third-party hosted copy, Shanghai Maritime University)",
+    "url": "https://cimrc.shmtu.edu.cn/_upload/article/files/63/dc/35c66be74d12873254dc88a2ef00/a4f3f58b-c400-41cb-858b-89dccee63151.pdf",
+    "date_shown": "31 May 2002",
+    "locator": "para 1.3 and 2(d)",
+    "passage": "The amended TSS \"Off Ushant\" (annex 3) will be implemented by France at 0000 hours UTC on 1 May 2003."
+   },
+   {
+    "title": "Chiffres clés de la mer et du littoral, Edition 2024: 18 Surveillance de la navigation maritime",
+    "authority": "SDES, Ministère de la Transition écologique (France); data DGAMPA",
+    "url": "https://www.statistiques.developpement-durable.gouv.fr/edition-numerique/chiffres-cles-mer-littoral/18-surveillance-de-la-navigation-maritime",
+    "date_shown": "Edition 2024 (data 2021/2022)",
+    "locator": "figure note and text",
+    "passage": "DST Ouessant : zone de compétences CROSS Corsen. ... les 3 CROSS de Manche ont contrôlé 134 836 navires (jauge supérieure à 300 UMS soumis à un compte rendu obligatoire)"
+   }
+  ]
+ },
+ {
+  "record_id": "TSS-0061",
+  "source_label": "Off Cape Roca (Cabo da Roca)",
+  "official_name": "Off Cape Roca",
+  "claims": {
+   "tss_identity": [
+    "Confirmed",
+    "Amended by MSC 79 (December 2004) with entry into force 1 July 2005 (S23 preamble) and again by COLREG.2/Circ.61 (MSC 87), implemented 1 December 2010 (S26). Established in Portuguese law as 'EST do cabo da Roca' (S23 art. 4)."
+   ],
+   "operational_status": "In force",
+   "vts": [
+    "Confirmed present",
+    [
+     "VTS costeiro do continente (Centro de Controlo de Tráfego Marítimo do Continente, call sign 'Roca Control')"
+    ],
+    "DL 263/2009 art. 6 defines the coastal VTS area (west limit 10° 14' W north of 38° 41' N) and art. 10(4) gives the CCTMC supervision of 'regras aplicáveis aos esquemas de separação de tráfego' (S24); DL 198/2006 art. 9 assigns TSS enforcement to the national VTS authority (S23). All Circ.61 positions of the scheme (westmost 010° 13.78' W) fall inside the statutory VTS area on coordinate comparison (S26)."
+   ],
+   "reporting": [
+    "Confirmed present",
+    [
+     "COPREP (Off the coast of Portugal mandatory ship reporting system)"
+    ],
+    "COPREP (MSC.278(85), in force 1 June 2009) area bounded west by 010° 14' W and to the south-west by the line 38° 41' N 010° 14' W to 36° 30' N 009° 35' W (S25); the scheme lies inside on coordinate comparison. Reports to Roca Control."
+   ]
+  },
+  "cited_sources": [
+   {
+    "title": "Decreto-Lei n.º 198/2006 (regime jurídico dos esquemas de separação de tráfego)",
+    "authority": "Diário da República (Portugal), copy hosted by Marinha Portuguesa",
+    "url": "https://www.marinha.pt/Conteudos_Externos/LexMar2/PGPAT%20100/PGPAT%201000%20-%20Cap%C3%ADtulos/Capitulo%20K%20EST/Decreto-Lei%20198-2006%20(19OUT2006).pdf",
+    "date_shown": "19 October 2006",
+    "locator": "Preamble; Artigos 3, 4 and 9",
+    "passage": "Compete ao IPTM, responsável nacional pelo serviço de tráfego marítimo (VTS), e à AMN, através dos meios navais disponíveis, a fiscalização do cumprimento do estabelecido no presente decreto-lei."
+   },
+   {
+    "title": "Decreto-Lei n.º 263/2009 (VTS costeiro do continente)",
+    "authority": "Diário da República (Portugal), copy hosted by Marinha Portuguesa",
+    "url": "https://www.marinha.pt/Conteudos_Externos/LexMar2/PGPAT%20100/PGPAT%201000%20-%20Cap%C3%ADtulos/Capitulo%20K%20EST/Dec.%20Lei%20263_2009,%20de%2028Set.pdf",
+    "date_shown": "28 September 2009",
+    "locator": "Artigos 6 to 10",
+    "passage": "No âmbito das funções de supervisão, o CCTMC zela ... em particular, pela observância das regras aplicáveis aos esquemas de separação de tráfego."
+   },
+   {
+    "title": "Resolution MSC.278(85): Adoption of the new mandatory ship reporting system \"Off the coast of Portugal - COPREP\"",
+    "authority": "IMO",
+    "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.278(85).pdf",
+    "date_shown": "Adopted 1 December 2008",
+    "locator": "Annex sections 1, 2.1, 3.4, 7",
+    "passage": "The shore-based authority for COPREP mandatory ship reporting system, to which these reports should be sent, is ROCA CONTROL"
+   },
+   {
+    "title": "COLREG.2/Circ.61: New and amended existing traffic separation schemes",
+    "authority": "IMO (third-party hosted copy, Shanghai Maritime University)",
+    "url": "https://cimrc.shmtu.edu.cn/_upload/article/files/63/dc/35c66be74d12873254dc88a2ef00/25e2ceb4-d2d9-4cf2-b55b-cdb3d56001b5.pdf",
+    "date_shown": "1 June 2010",
+    "locator": "paras 1.6, 1.7, 2; annexes 6 and 7",
+    "passage": "\"Off Cape Roca\" (amended scheme); .7 \"Off Cape S. Vicente\" (amended scheme); ... will be implemented at 0000 hours UTC on 1 December 2010"
+   }
+  ]
+ },
+ {
+  "record_id": "TSS-0066",
+  "source_label": "In the Strait of Gibraltar",
+  "official_name": "In the Strait of Gibraltar",
+  "claims": {
+   "tss_identity": [
+    "Confirmed",
+    "Listed as amended scheme in COLREG.2/Circ.40 (implemented 24 Nov 1994) and COLREG.2/Circ.58 (MSC 82, implemented 1 July 2007); MSC.300(87) (2010) refers to the amended TSS within the GIBREP area. Earlier original adoption not traced."
+   ],
+   "operational_status": "In force",
+   "vts": [
+    "Confirmed present",
+    [
+     "Tarifa Traffic (Centro de Coordinación de Salvamento Marítimo de Tarifa)",
+     "Tangier Traffic (Centre de Surveillance du Trafic Maritime de Tanger)"
+    ],
+    "MSC.300(87) annex 3.5.1: both Tarifa and Tangier centres monitor navigation in the TSS using radar and AIS; S11 confirms CCS Tarifa ('Tarifa Tráfico') provides the maritime traffic service in the Strait."
+   ],
+   "reporting": [
+    "Confirmed present",
+    [
+     "GIBREP"
+    ],
+    "GIBREP area (005°58'W to 005°15'W) includes the amended TSS (MSC.300(87) annex 2.1)."
+   ]
+  },
+  "cited_sources": [
+   {
+    "title": "IMO COLREG.2/Circ.40, New and amended traffic separation schemes (in Swedish Transport Agency compilation of COLREG.2 circulars)",
+    "authority": "IMO (hosted by Transportstyrelsen, Sweden)",
+    "url": "https://www.transportstyrelsen.se/globalassets/global/sjofart/dokument/sjotrafik_dok/imo_colreg.2_cirkular.pdf?id=58526",
+    "date_shown": "Circular: MSC 63 (16 to 25 May 1994); compilation undated",
+    "locator": "COLREG.2/Circ.40, para 1 and 2 (compilation p.129 to 130)",
+    "passage": ".2 Strait of Istanbul - North Approach ... .8 In the Strait of Gibraltar ... will be implemented at 00.00 hours UTC on 24 November 1994."
+   },
+   {
+    "title": "IMO COLREG.2/Circ.58, New and amended existing traffic separation schemes",
+    "authority": "IMO (hosted by Transportstyrelsen)",
+    "url": "https://www.transportstyrelsen.se/globalassets/global/sjofart/dokument/sjotrafik_dok/imo_colreg.2_cirkular.pdf?id=58526",
+    "date_shown": "11 December 2006",
+    "locator": "COLREG.2/Circ.58 paras 1.4, 1.6, 1.7 and 2; annex 'Amendment to the TSS North of Cani Island' (chart 150-DST, Tunisian Hydrographic and Oceanographic Service)",
+    "passage": ".4 In the Strait of Gibraltar (amended scheme); ... .6 In the Adriatic Sea (amended scheme); .7 Off Cani Island and Off Cape Bon, off the coast of Tunisia (amended scheme)"
+   },
+   {
+    "title": "Resolution MSC.300(87), Amendments to the existing mandatory ship reporting system In the Strait of Gibraltar (GIBREP)",
+    "authority": "IMO",
+    "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.300(87).pdf",
+    "date_shown": "Adopted 17 May 2010",
+    "locator": "Operative paras 1 and 2; annex paras 1.1, 2.1, 3.4, 3.5.1 and VHF channels section",
+    "passage": "Both TARIFA and TANGIER Centres monitor navigation in the TSS in the Strait of Gibraltar using radar and AIS."
+   },
+   {
+    "title": "Los DST, autopistas del mar (Revista Tramos, Ministerio de Transportes; text by Carmen Lorente Sanchez, Salvamento Maritimo)",
+    "authority": "Ministerio de Transportes y Movilidad Sostenible / Salvamento Maritimo (Spain)",
+    "url": "https://www.transportes.gob.es/recursos_mfom/comodin/recursos/06_los_dst_autopistas_del_mar.pdf",
+    "date_shown": "Febrero 2025",
+    "locator": "Standfirst p.38; section 'Sistemas de notificacion en Espana'; section 'DST de Tarifa'",
+    "passage": "Salvamento Maritimo es el encargado de controlar la seguridad del trafico maritimo en los DST de Fisterra, Tarifa, cabo de Gata y Canarias oriental y occidental"
+   },
+   {
+    "title": "Mandatory ship reporting systems (SRS) list",
+    "authority": "Transportstyrelsen (Swedish Transport Agency)",
+    "url": "https://transportstyrelsen.se/globalassets/global/sjofart/dokument/sjotrafik_dok/mandatory-and-recommended-srs.pdf",
+    "date_shown": "2017-09-18",
+    "locator": "Table of mandatory SRS",
+    "passage": "In the Strait of Gibraltar (GIBREP) MSC.63(67) 1996 MSC.300(87) 2010 ... In the Adriatic Sea (ADRIREP) MSC.139(76) 2002"
+   }
+  ]
+ },
+ {
+  "record_id": "TSS-0075",
+  "source_label": "In the Adriatic Sea: Approaches to the Gulf of Venice",
+  "official_name": "Approaches to Gulf of Venice",
+  "claims": {
+   "tss_identity": [
+    "Confirmed",
+    "Component of 'In the Adriatic Sea', COLREG.2/Circ.54 annex 3 (implemented 1 Dec 2004); separation zone amended by COLREG.2/Circ.58 (implemented 1 July 2007)."
+   ],
+   "operational_status": "In force",
+   "vts": [
+    "Confirmed present",
+    [
+     "Venice VTS (VTS Venezia)"
+    ],
+    "Direct approach: TSS northern terminus (c. 45°10'-45°14'N, 012°29'-012°39'E, S4) adjoins the Venice VTS area outer limit B-C (45°08.4'N 012°25.7'E to 45°16.0'N 012°35.0'E, S17), and participating vessels must call Venice VTS 5 NM outside that limit, i.e. while in the TSS. Coverage inferred by comparing coordinates from two primary sources; the manual does not say in words that the VTS covers the TSS."
+   ],
+   "reporting": [
+    "Confirmed present",
+    [
+     "ADRIREP"
+    ],
+    "Within ADRIREP area; Venice MRSC and VTS Venezia are ADRIREP authorities (S13, S17)."
+   ]
+  },
+  "cited_sources": [
+   {
+    "title": "IMO COLREG.2/Circ.54, New and amended traffic separation schemes (annex 3: In the Adriatic Sea)",
+    "authority": "IMO (hosted by Transportstyrelsen)",
+    "url": "https://www.transportstyrelsen.se/globalassets/global/sjofart/dokument/sjotrafik_dok/imo_colreg.2_cirkular.pdf?id=58526",
+    "date_shown": "28 May 2004",
+    "locator": "COLREG.2/Circ.54 para 1.3 and 2; annex 3 headings (North Adriatic Sea eastern/western part, Approaches to Gulf of Trieste, Approaches to Gulf of Venice, In the Gulf of Trieste, Approaches to/from Koper, Approaches to/from Monfalcone)",
+    "passage": ".3 \"In the Adriatic Sea\" (new scheme); ... will be implemented at 0000 hours UTC on 1 December 2004"
+   },
+   {
+    "title": "IMO COLREG.2/Circ.58, New and amended existing traffic separation schemes",
+    "authority": "IMO (hosted by Transportstyrelsen)",
+    "url": "https://www.transportstyrelsen.se/globalassets/global/sjofart/dokument/sjotrafik_dok/imo_colreg.2_cirkular.pdf?id=58526",
+    "date_shown": "11 December 2006",
+    "locator": "COLREG.2/Circ.58 paras 1.4, 1.6, 1.7 and 2; annex 'Amendment to the TSS North of Cani Island' (chart 150-DST, Tunisian Hydrographic and Oceanographic Service)",
+    "passage": ".4 In the Strait of Gibraltar (amended scheme); ... .6 In the Adriatic Sea (amended scheme); .7 Off Cani Island and Off Cape Bon, off the coast of Tunisia (amended scheme)"
+   },
+   {
+    "title": "Resolution MSC.598(111), Mandatory ship reporting system In the Adriatic Sea (ADRIREP)",
+    "authority": "IMO",
+    "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.598(111).pdf",
+    "date_shown": "Adopted 22 May 2026",
+    "locator": "Operative paras 1, 2, 4; annex paras 1.1, 2.1, 3.1.3, section 7; appendix 2 contact table",
+    "passage": "The operational area of the mandatory ship reporting system covers the whole Adriatic Sea, north from the latitude 40° 25'.00 N"
+   },
+   {
+    "title": "Italy Venice VTS Common Procedures",
+    "authority": "Guardia Costiera, Capitaneria di Porto di Venezia (Italy)",
+    "url": "https://www.guardiacostiera.gov.it/portale/documents/d/guest/en_venezia_manuale_utentevts",
+    "date_shown": "Edition No. 00, last updated 19/09/17",
+    "locator": "Participation rules; working VHF channels table; VTS area (points A to E); First call",
+    "passage": "All participating vessels shall contact (see page 7) Venice VTS when at 5 NM outside the VTS Area outer limit"
+   },
+   {
+    "title": "Vessel Traffic Service (Guardia Costiera portal page)",
+    "authority": "Comando Generale del Corpo delle Capitanerie di Porto, Guardia Costiera (Italy)",
+    "url": "https://www.guardiacostiera.gov.it/portale/vessel-traffic-service",
+    "date_shown": "Undated",
+    "locator": "Section listing VTS centre manuals",
+    "passage": "Attualmente i Centri VTS in Italia sono 11."
+   }
+  ]
+ },
+ {
+  "record_id": "TSS-0077",
+  "source_label": "In the Adriatic Sea: Approaches to/from Monfalcone",
+  "official_name": "Approaches to/from Monfalcone",
+  "claims": {
+   "tss_identity": [
+    "Confirmed",
+    "Component of 'In the Adriatic Sea', COLREG.2/Circ.54 annex 3 (implemented 1 Dec 2004); amended scheme per COLREG.2/Circ.58 referenced in VTS Trieste manual."
+   ],
+   "operational_status": "In force",
+   "vts": [
+    "Confirmed present",
+    [
+     "VTS Trieste"
+    ],
+    "VTS Trieste area limits were set taking account of the TSS 'nella parte finale di ingresso/uscita dal porto di Monfalcone', and the manual states the Monfalcone TSS is included within the VTS area (S16)."
+   ],
+   "reporting": [
+    "Confirmed present",
+    [
+     "ADRIREP"
+    ],
+    "Within ADRIREP area; VTS Trieste is an ADRIREP authority (S13)."
+   ]
+  },
+  "cited_sources": [
+   {
+    "title": "IMO COLREG.2/Circ.54, New and amended traffic separation schemes (annex 3: In the Adriatic Sea)",
+    "authority": "IMO (hosted by Transportstyrelsen)",
+    "url": "https://www.transportstyrelsen.se/globalassets/global/sjofart/dokument/sjotrafik_dok/imo_colreg.2_cirkular.pdf?id=58526",
+    "date_shown": "28 May 2004",
+    "locator": "COLREG.2/Circ.54 para 1.3 and 2; annex 3 headings (North Adriatic Sea eastern/western part, Approaches to Gulf of Trieste, Approaches to Gulf of Venice, In the Gulf of Trieste, Approaches to/from Koper, Approaches to/from Monfalcone)",
+    "passage": ".3 \"In the Adriatic Sea\" (new scheme); ... will be implemented at 0000 hours UTC on 1 December 2004"
+   },
+   {
+    "title": "IMO COLREG.2/Circ.58, New and amended existing traffic separation schemes",
+    "authority": "IMO (hosted by Transportstyrelsen)",
+    "url": "https://www.transportstyrelsen.se/globalassets/global/sjofart/dokument/sjotrafik_dok/imo_colreg.2_cirkular.pdf?id=58526",
+    "date_shown": "11 December 2006",
+    "locator": "COLREG.2/Circ.58 paras 1.4, 1.6, 1.7 and 2; annex 'Amendment to the TSS North of Cani Island' (chart 150-DST, Tunisian Hydrographic and Oceanographic Service)",
+    "passage": ".4 In the Strait of Gibraltar (amended scheme); ... .6 In the Adriatic Sea (amended scheme); .7 Off Cani Island and Off Cape Bon, off the coast of Tunisia (amended scheme)"
+   },
+   {
+    "title": "Resolution MSC.598(111), Mandatory ship reporting system In the Adriatic Sea (ADRIREP)",
+    "authority": "IMO",
+    "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.598(111).pdf",
+    "date_shown": "Adopted 22 May 2026",
+    "locator": "Operative paras 1, 2, 4; annex paras 1.1, 2.1, 3.1.3, section 7; appendix 2 contact table",
+    "passage": "The operational area of the mandatory ship reporting system covers the whole Adriatic Sea, north from the latitude 40° 25'.00 N"
+   },
+   {
+    "title": "Capitaneria di Porto VTS Trieste, Manuale Utente",
+    "authority": "Guardia Costiera, Capitaneria di Porto di Trieste (Italy)",
+    "url": "https://www.guardiacostiera.gov.it/portale/documents/d/guest/it_trieste_manuale_utentevts",
+    "date_shown": "Edizione n.002 Gennaio 2018",
+    "locator": "Regime di partecipazione; Limiti Area VTS Trieste; Schemi di separazione",
+    "passage": "Nell'Area VTS di Trieste è ricompreso lo schema obbligatorio di separazione del traffico per le navi che transitano all'interno del Golfo di Trieste"
+   }
+  ]
+ },
+ {
+  "record_id": "TSS-0083",
+  "source_label": "Strait of Canakkale",
+  "official_name": "Strait of Canakkale",
+  "claims": {
+   "tss_identity": [
+    "Confirmed",
+    "COLREG.2/Circ.40 item .5, implemented 0000 UTC 24 November 1994; national Annex 1.4 (English text lead only)."
+   ],
+   "operational_status": "In force",
+   "vts": [
+    "Confirmed present",
+    [
+     "Turkish Straits Vessel Traffic Services (TSVTS; Türk Boğazları Gemi Trafik Hizmetleri, TBGTH)"
+    ],
+    "KEGM states the TSVTS serves the Istanbul Strait, Marmara Sea and Çanakkale Strait, and was extended in 2008 to cover the Marmara TSS. Akbaş (Çanakkale) VTS centre."
+   ],
+   "reporting": [
+    "Confirmed present",
+    [
+     "TUBRAP (Turkish Straits Reporting System: Sailing Plan 1, Sailing Plan 2, position and calling point reports, MARRAP)"
+    ],
+    "Implementing Directive Art. 12: ships wishing to transit the Straits must submit SP-1 via the Administration's system; non-compliance leads to administrative action and loss of transit turn. IMO A.827(19) strongly recommends TUBRAP participation."
+   ]
+  },
+  "cited_sources": [
+   {
+    "title": "The Head of Vessel Traffic and Pilotage Services Department (Turkish Straits VTS introduction)",
+    "authority": "Directorate General of Coastal Safety (Kıyı Emniyeti Genel Müdürlüğü, KEGM), Türkiye",
+    "url": "https://kiyiemniyeti.gov.tr/vessel_traffic_and_pilotage_services",
+    "date_shown": "Undated",
+    "locator": "Introduction; TSVTS components",
+    "passage": "the system began to serve as operational on 30 December 2003. Available coverage area of system was extended to include the Marmara Sea in 2008."
+   },
+   {
+    "title": "Türk Boğazları Deniz Trafik Düzeni Yönetmeliği Uygulama Yönergesi (Implementing Directive of the Turkish Straits Maritime Traffic Regulation)",
+    "authority": "Ministry of Transport and Infrastructure, Türkiye (Denizcilik Genel Müdürlüğü)",
+    "url": "https://denizcilik.uab.gov.tr/uploads/pages/yonerge-talimat/tbdtduy.pdf",
+    "date_shown": "Approved 04.12.2023 (Olur No. 1493540)",
+    "locator": "Madde 1; Madde 12 (Türk Boğazlarında rapor sistemi); Madde 18",
+    "passage": "Bildirim yükümlülüğüne uyulmaması veya yapılan bildirimlerin doğru bilgiler içermemesi durumunda ... bildirimi yapılan gemi geçiş sırasını kaybeder."
+   },
+   {
+    "title": "Resolution A.827(19) Ships' Routeing, Annex 2: Rules and Recommendations on Navigation through the Strait of Istanbul, the Strait of Canakkale and the Marmara Sea",
+    "authority": "IMO Assembly",
+    "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.827(19).pdf",
+    "date_shown": "Adopted 23 November 1995; issued 15 December 1995",
+    "locator": "Annex 2, para 2.1",
+    "passage": "All vessels entering the Straits are strongly recommended to participate in the reporting system (TUBRAP) established by the competent authority"
+   },
+   {
+    "title": "Maritime Traffic Regulations for the Turkish Straits (English translation of 2019 Regulation)",
+    "authority": "Unofficial copy hosted by media.ellinikahoaxes.gr (translation of Turkish regulation, OG 15/8/2019 No. 30859)",
+    "url": "https://media.ellinikahoaxes.gr/uploads/2021/03/TURK-BOGAZLARI-DENIZ-TRAFIK-DUZENI-YONETMELIGI-INGILIZCE-2019.pdf",
+    "date_shown": "Undated (file 2021)",
+    "locator": "Art. 3(l), Art. 4, Art. 5, Art. 7; Annex 1.1 to 1.5",
+    "passage": "TUBRAP means Turkish Straits Reporting System including the Sailing Plan-1 and 2 as well as calling point report."
+   },
+   {
+    "title": "COLREG.2/Circ.40 New and amended traffic separation schemes (in Swedish Transport Agency compilation of COLREG.2 circulars)",
+    "authority": "IMO (copy published by Transportstyrelsen, Sweden)",
+    "url": "https://www.transportstyrelsen.se/globalassets/global/sjofart/dokument/sjotrafik_dok/imo_colreg.2_cirkular.pdf?id=58526",
+    "date_shown": "9 June 1994",
+    "locator": "Compilation PDF p.130, para 1 and 2 (scanned, OCR)",
+    "passage": "Strait of Istanbul - South Approach and Sea of Marmara ... Strait of Canakkale - South-West Approach ... will be implemented at 00.00 hours UTC on 24 November 1994."
+   }
+  ]
+ },
+ {
+  "record_id": "TSS-0084",
+  "source_label": "Strait of Canakkale - South-west Approach",
+  "official_name": "Strait of Canakkale - South-West Approach",
+  "claims": {
+   "tss_identity": [
+    "Confirmed",
+    "COLREG.2/Circ.40 item .6, implemented 0000 UTC 24 November 1994; national Annex 1.5 'Canakkale Strait Southwestern Approaches' (English text lead only)."
+   ],
+   "operational_status": "In force",
+   "vts": [
+    "Unresolved",
+    [
+     "Turkish Straits Vessel Traffic Services (TSVTS; Türk Boğazları Gemi Trafik Hizmetleri, TBGTH)"
+    ],
+    "TSVTS confirmed for the Çanakkale Strait, but no primary source retrieved defines the VTS area as extending over the south-west approach. Unofficial translation places the regulation's southern boundary at about 39°44'N, beyond the approach scheme (lead only)."
+   ],
+   "reporting": [
+    "Unresolved",
+    [
+     "TUBRAP (Turkish Straits Reporting System: Sailing Plan 1, Sailing Plan 2, position and calling point reports, MARRAP)"
+    ],
+    "TUBRAP applies to ships transiting the Straits (primary). That SP-2 is given 20 NM before the entrance, i.e. in the approach, comes only from the unofficial translation."
+   ]
+  },
+  "cited_sources": [
+   {
+    "title": "The Head of Vessel Traffic and Pilotage Services Department (Turkish Straits VTS introduction)",
+    "authority": "Directorate General of Coastal Safety (Kıyı Emniyeti Genel Müdürlüğü, KEGM), Türkiye",
+    "url": "https://kiyiemniyeti.gov.tr/vessel_traffic_and_pilotage_services",
+    "date_shown": "Undated",
+    "locator": "Introduction; TSVTS components",
+    "passage": "the system began to serve as operational on 30 December 2003. Available coverage area of system was extended to include the Marmara Sea in 2008."
+   },
+   {
+    "title": "Türk Boğazları Deniz Trafik Düzeni Yönetmeliği Uygulama Yönergesi (Implementing Directive of the Turkish Straits Maritime Traffic Regulation)",
+    "authority": "Ministry of Transport and Infrastructure, Türkiye (Denizcilik Genel Müdürlüğü)",
+    "url": "https://denizcilik.uab.gov.tr/uploads/pages/yonerge-talimat/tbdtduy.pdf",
+    "date_shown": "Approved 04.12.2023 (Olur No. 1493540)",
+    "locator": "Madde 1; Madde 12 (Türk Boğazlarında rapor sistemi); Madde 18",
+    "passage": "Bildirim yükümlülüğüne uyulmaması veya yapılan bildirimlerin doğru bilgiler içermemesi durumunda ... bildirimi yapılan gemi geçiş sırasını kaybeder."
+   },
+   {
+    "title": "Maritime Traffic Regulations for the Turkish Straits (English translation of 2019 Regulation)",
+    "authority": "Unofficial copy hosted by media.ellinikahoaxes.gr (translation of Turkish regulation, OG 15/8/2019 No. 30859)",
+    "url": "https://media.ellinikahoaxes.gr/uploads/2021/03/TURK-BOGAZLARI-DENIZ-TRAFIK-DUZENI-YONETMELIGI-INGILIZCE-2019.pdf",
+    "date_shown": "Undated (file 2021)",
+    "locator": "Art. 3(l), Art. 4, Art. 5, Art. 7; Annex 1.1 to 1.5",
+    "passage": "TUBRAP means Turkish Straits Reporting System including the Sailing Plan-1 and 2 as well as calling point report."
+   },
+   {
+    "title": "COLREG.2/Circ.40 New and amended traffic separation schemes (in Swedish Transport Agency compilation of COLREG.2 circulars)",
+    "authority": "IMO (copy published by Transportstyrelsen, Sweden)",
+    "url": "https://www.transportstyrelsen.se/globalassets/global/sjofart/dokument/sjotrafik_dok/imo_colreg.2_cirkular.pdf?id=58526",
+    "date_shown": "9 June 1994",
+    "locator": "Compilation PDF p.130, para 1 and 2 (scanned, OCR)",
+    "passage": "Strait of Istanbul - South Approach and Sea of Marmara ... Strait of Canakkale - South-West Approach ... will be implemented at 00.00 hours UTC on 24 November 1994."
+   }
+  ]
+ },
+ {
+  "record_id": "TSS-0101",
+  "source_label": "Between Zaqqum and Umm Shaif",
+  "official_name": "Between Zaqqum and Umm Shaif oilfields",
+  "claims": {
+   "tss_identity": [
+    "Confirmed",
+    "New scheme adopted by MSC 46; COLREG.2/Circ.15 (6 April 1982); effective not before 31 Dec 1982 and on notification by the Government concerned. ADNOC Port Marine Notice DZM/MN/019/2023 (14 Mar 2023) refers to the 'Zaqqum Traffic Separation Scheme', indicating it remains in use."
+   ],
+   "operational_status": "In force",
+   "vts": [
+    "Confirmed present",
+    [
+     "Das VTIS"
+    ],
+    "ADNOC Harbour Master (Port of Das, Zirku & Mubarraz) notice on traffic within the Zaqqum TSS instructs vessels to maintain a listening watch on VHF 23 (Das VTIS) and to inform Das VTIS. Notice is temporary (2023 pipe-laying) so full VTS area limits are not stated."
+   ],
+   "reporting": [
+    "Unresolved",
+    [],
+    "No IMO-adopted or national mandatory reporting system evidenced for the scheme; Das VTIS reporting duties are within the VTS, not a separate system."
+   ]
+  },
+  "cited_sources": [
+   {
+    "title": "COLREG.2/Circ.15: New and amended traffic separation schemes (Between Zaqqum and Umm Shaif oilfields)",
+    "authority": "IMCO (Swedish Transport Agency (Transportstyrelsen) archive copy of IMO COLREG.2 circulars)",
+    "url": "https://www.transportstyrelsen.se/globalassets/global/sjofart/dokument/sjotrafik_dok/imo_colreg.2_cirkular.pdf?id=58526",
+    "date_shown": "6 April 1982",
+    "locator": "COLREG.2/Circ.15 paras 1.1 and 2.4 (OCR text, spelling normalised)",
+    "passage": "The new traffic separation scheme \"Between Zaqqum and Umm Shaif oilfields\" ... will not become effective before 31 December 1982 and until notification has been received from the Government concerned"
+   },
+   {
+    "title": "Port Marine Notice DZM/MN/019/2023: Traffic arrangement in Zaqqum TSS during pipe laying operation by DLB 750",
+    "authority": "ADNOC (Harbour Master, Port of Das, Zirku & Mubarraz)",
+    "url": "https://ppa.adnoc.ae/-/media/ppa/files/marine-notices/local-marine-notices/das/2023/marine-notice-019-2023---pipe-laying-operation---traffic-arrangement-in-zaqqum-tss.ashx",
+    "date_shown": "14/03/2023 (Type of Change: Temporary)",
+    "locator": "p. 1 and Caution (d), (g)",
+    "passage": "the traffic within Zaqqum Traffic Separation Scheme will be re-arranged ... Maintain a listening watch on VHF Channel 23 (Das VTIS) all times"
+   },
+   {
+    "title": "Marine Security Bulletin 14/2026: Security incident in the Arabian Gulf",
+    "authority": "Liberia Maritime Authority (flag administration)",
+    "url": "https://www.liscr.com/marketing/liscr/media/liscr/online%20library/maritime/msb-14_2026.pdf",
+    "date_shown": "2 June 2026",
+    "locator": "Recommendations",
+    "passage": "MSCIO encourages companies to register their ships' movements before entering the Voluntary Reporting Area (VRA)."
+   }
+  ]
+ },
+ {
+  "record_id": "TSS-0067",
+  "source_label": "Off Cabo de Gata",
+  "official_name": "Off Cabo de Gata",
+  "claims": {
+   "tss_identity": [
+    "Confirmed",
+    "New scheme in COLREG.2/Circ.44 (MSC 69, implemented 1 Dec 1998); amended by COLREG.2/Circ.57 (MSC 81, implemented 1 Dec 2006). Amended scheme includes an inshore traffic zone."
+   ],
+   "operational_status": "In force",
+   "vts": [
+    "Confirmed present",
+    [
+     "Salvamento Marítimo maritime traffic service, DST Cabo de Gata"
+    ],
+    "S11 (Ministry of Transport, Feb 2025): Salvamento Marítimo is responsible for controlling traffic safety in the DST of Cabo de Gata; S12 (2015) counts vessels identified passing the Cabo de Gata DST. Controlling centre (CCS Almería) is lead only."
+   ],
+   "reporting": [
+    "Confirmed absent",
+    [],
+    "S11 states Spain's mandatory reporting systems are at Fisterra and the Strait of Gibraltar (plus Canarias PSSA) 'mientras que en el cabo de Gata existe un sistema de notificación voluntaria'. Absence of mandatory reporting positively stated by an official source."
+   ]
+  },
+  "cited_sources": [
+   {
+    "title": "IMO COLREG.2/Circ.44, New and amended existing traffic separation schemes",
+    "authority": "IMO (hosted by Transportstyrelsen)",
+    "url": "https://www.transportstyrelsen.se/globalassets/global/sjofart/dokument/sjotrafik_dok/imo_colreg.2_cirkular.pdf?id=58526",
+    "date_shown": "May 1998",
+    "locator": "COLREG.2/Circ.44 para 1.10 and 2; annex 'Off Cabo de Gata, Spain (new scheme)'",
+    "passage": ".10 \"Off Cabo de Gata\" (new scheme). ... will be implemented at 0000 hours UTC on 1 December 1998."
+   },
+   {
+    "title": "IMO COLREG.2/Circ.57, New and amended existing traffic separation schemes",
+    "authority": "IMO (hosted by Transportstyrelsen)",
+    "url": "https://www.transportstyrelsen.se/globalassets/global/sjofart/dokument/sjotrafik_dok/imo_colreg.2_cirkular.pdf?id=58526",
+    "date_shown": "26 May 2006",
+    "locator": "COLREG.2/Circ.57 para 1.3 and 2",
+    "passage": ".3 Off Cabo de Gata (amended scheme); ... will be implemented at 0000 hours UTC on 1 December 2006."
+   },
+   {
+    "title": "Los DST, autopistas del mar (Revista Tramos, Ministerio de Transportes; text by Carmen Lorente Sanchez, Salvamento Maritimo)",
+    "authority": "Ministerio de Transportes y Movilidad Sostenible / Salvamento Maritimo (Spain)",
+    "url": "https://www.transportes.gob.es/recursos_mfom/comodin/recursos/06_los_dst_autopistas_del_mar.pdf",
+    "date_shown": "Febrero 2025",
+    "locator": "Standfirst p.38; section 'Sistemas de notificacion en Espana'; section 'DST de Tarifa'",
+    "passage": "Salvamento Maritimo es el encargado de controlar la seguridad del trafico maritimo en los DST de Fisterra, Tarifa, cabo de Gata y Canarias oriental y occidental"
+   },
+   {
+    "title": "Salvamento Maritimo coordino la asistencia a 14.413 personas durante el ano 2014 (press release)",
+    "authority": "La Moncloa / Ministerio de Fomento (Spain)",
+    "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/mfom/Paginas/2015/140115-tarifa.aspx",
+    "date_shown": "14/01/2015",
+    "locator": "Section 'Control del trafico maritimo'",
+    "passage": "buques identificados a su paso por los Dispositivos de Separacion de Trafico de Finisterre, Tarifa y Cabo de Gata y Canarias Oriental y Occidental"
+   }
+  ]
+ }
+]

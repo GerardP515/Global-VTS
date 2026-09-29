@@ -1,0 +1,540 @@
+[
+ {
+  "record_id": "TSS-0107",
+  "source_label": "At One Fathom Bank",
+  "official_name": "At One Fathom Bank (with precautionary area 'Off Port Klang')",
+  "claims": {
+   "tss_identity": [
+    "Confirmed",
+    "Amended scheme adopted by MSC 69 (May 1998); COLREG.2/Circ.44 annex 1, implemented 0000 UTC 1 Dec 1998, with precautionary area 'Off Port Klang'. Segment of the Malacca-Singapore routeing system."
+   ],
+   "operational_status": "In force",
+   "vts": [
+    "Confirmed present",
+    [
+     "Klang VTS"
+    ],
+    "Scheme spans c. 03°02'.7N to 02°41'N (Circ.44). On the STRAITREP chartlet the Sector 1 (Angsa)/Sector 2 (Jugra) boundary runs at about 02°52'N towards Port Klang, so the scheme lies in Sectors 1 and 2, both 'Klang VTS' (MSC.73(69) para 3.4); VHF 66 (Sector 1) and 88 (Sector 2)."
+   ],
+   "reporting": [
+    "Confirmed present",
+    [
+     "STRAITREP"
+    ],
+    "STRAITREP (MSC.73(69), in force 1 Dec 1998) applies throughout the operational area, which 'includes the routeing system in the Straits of Malacca and Singapore'; reports to the VTS authority for the sector. Sectors 1-2: Klang VTS."
+   ]
+  },
+  "cited_sources": [
+   {
+    "title": "COLREG.2/Circ.44: New and amended existing traffic separation schemes (Straits of Malacca and Singapore)",
+    "authority": "IMO (Swedish Transport Agency (Transportstyrelsen) archive copy of IMO COLREG.2 circulars)",
+    "url": "https://www.transportstyrelsen.se/globalassets/global/sjofart/dokument/sjotrafik_dok/imo_colreg.2_cirkular.pdf?id=58526",
+    "date_shown": "May 1998",
+    "locator": "COLREG.2/Circ.44 para 1 and annexes 1 to 4 (OCR text)",
+    "passage": "\"Malacca to Iyu Kecil\" (new scheme) and the precautionary area \"Off Sultan Shoal Lighthouse\" ... will be implemented at 0000 hours UTC on 1 December 1998."
+   },
+   {
+    "title": "Port Marine Circular No. 65 of 1998: Mandatory Ship Reporting System in the Straits of Malacca and Singapore - STRAITREP (attaching SN/Circ.201, resolution MSC.73(69) Annex 1, and SN/Circ.201/Corr.1)",
+    "authority": "MPA / IMO",
+    "url": "https://www.mpa.gov.sg/api/media/78c165e3-67e4-4da3-9496-c196739374d2/-pc98-65.pdf",
+    "date_shown": "20 Oct 98 (MSC.73(69) adopted 19 May 1998)",
+    "locator": "MSC.73(69) Annex 1, paras 1.1, 2.1, 3.3, 3.4",
+    "passage": "The operational area of STRAITREP covers the Straits of Malacca and Singapore between longitudes 100°40'E and 104°23'E ... The area includes the routeing system in the Straits of Malacca and Singapore."
+   },
+   {
+    "title": "Operational Areas (STRAITREP sectors, VHF channels and VTS authorities)",
+    "authority": "Maritime and Port Authority of Singapore (MPA)",
+    "url": "https://www.mpa.gov.sg/port-marine-ops/operations/vessel-traffic-information-system/operational-areas",
+    "date_shown": "Last Updated on 28 Sep 2026",
+    "locator": "Table 'Sectors, VHF channels and VTS authorities'",
+    "passage": "Sector 1 VHF Channel 66 KLANG VTS Sector 2 VHF Channel 88 KLANG VTS Sector 3 VHF Channel 84 KLANG VTS Sector 4 VHF Channel 61 KLANG VTS"
+   },
+   {
+    "title": "Singapore Port Information 2026, Chartlets: STRAITREP Operational Area (Sectors 1 to 9) (Appendix 1) and (Sectors 7 to 9) (Appendix 2)",
+    "authority": "MPA",
+    "url": "https://file.go.gov.sg/spi2026apr17.pdf",
+    "date_shown": "Updated to 17 Apr 2026",
+    "locator": "pp. 16, 119-120 (chartlet images, interpreted visually)",
+    "passage": "STRAITREP OPERATIONAL AREA (SECTORS 1 TO 9) ... SECTOR 1 ANGSA ... SECTOR 2 JUGRA ... SECTOR 4 UNDAN ... SECTOR 5 SEGENTING ... SECTOR 6 PIAI"
+   }
+  ]
+ },
+ {
+  "record_id": "TSS-0110",
+  "source_label": "Malacca to Iyu Kecil",
+  "official_name": "Malacca to Iyu Kecil (with precautionary area 'Off Sultan Shoal Lighthouse')",
+  "claims": {
+   "tss_identity": [
+    "Confirmed",
+    "New scheme adopted by MSC 69; COLREG.2/Circ.44 annex 4, implemented 1 Dec 1998, with precautionary area 'Off Sultan Shoal Lighthouse'. Continues eastward into 'In the Singapore Strait' (amended 2004, COLREG.2/Circ.54 annex 5, implemented 1 Jan 2005)."
+   ],
+   "operational_status": "In force",
+   "vts": [
+    "Confirmed present",
+    [
+     "Klang VTS",
+     "Johor VTS",
+     "Singapore VTS"
+    ],
+    "Scheme runs c. 02°05'N 102°04'E to 01°09'-01°14'N 103°27'-103°30'E. On the chartlets it crosses Sectors 4 (Undan) and 5 (Segenting) of Klang VTS (VHF 61, 88) and Sector 6 (Piai) of Johor VTS (VHF 88). Its eastern end meets the Tg Piai - Pulau Karimun Kecil line (reporting line, and Sector 6/7 boundary on Appendix 2); by the Circ.44 coordinates the easternmost lane ends lie marginally east of that line, in Sector 7 (Singapore VTS, VHF 73), where the associated Off Sultan Shoal precautionary area also lies. North-western end adjoins the Sector 3/4 boundary."
+   ],
+   "reporting": [
+    "Confirmed present",
+    [
+     "STRAITREP"
+    ],
+    "STRAITREP (MSC.73(69), in force 1 Dec 1998) applies throughout the operational area, which 'includes the routeing system in the Straits of Malacca and Singapore'; reports to the VTS authority for the sector. Sectors 4-5 Klang VTS, Sector 6 Johor VTS; ships crossing the Tg Piai - Karimun Kecil line report on entering Singapore VTS Sector 7."
+   ]
+  },
+  "cited_sources": [
+   {
+    "title": "COLREG.2/Circ.44: New and amended existing traffic separation schemes (Straits of Malacca and Singapore)",
+    "authority": "IMO (Swedish Transport Agency (Transportstyrelsen) archive copy of IMO COLREG.2 circulars)",
+    "url": "https://www.transportstyrelsen.se/globalassets/global/sjofart/dokument/sjotrafik_dok/imo_colreg.2_cirkular.pdf?id=58526",
+    "date_shown": "May 1998",
+    "locator": "COLREG.2/Circ.44 para 1 and annexes 1 to 4 (OCR text)",
+    "passage": "\"Malacca to Iyu Kecil\" (new scheme) and the precautionary area \"Off Sultan Shoal Lighthouse\" ... will be implemented at 0000 hours UTC on 1 December 1998."
+   },
+   {
+    "title": "Port Marine Circular No. 65 of 1998: Mandatory Ship Reporting System in the Straits of Malacca and Singapore - STRAITREP (attaching SN/Circ.201, resolution MSC.73(69) Annex 1, and SN/Circ.201/Corr.1)",
+    "authority": "MPA / IMO",
+    "url": "https://www.mpa.gov.sg/api/media/78c165e3-67e4-4da3-9496-c196739374d2/-pc98-65.pdf",
+    "date_shown": "20 Oct 98 (MSC.73(69) adopted 19 May 1998)",
+    "locator": "MSC.73(69) Annex 1, paras 1.1, 2.1, 3.3, 3.4",
+    "passage": "The operational area of STRAITREP covers the Straits of Malacca and Singapore between longitudes 100°40'E and 104°23'E ... The area includes the routeing system in the Straits of Malacca and Singapore."
+   },
+   {
+    "title": "Operational Areas (STRAITREP sectors, VHF channels and VTS authorities)",
+    "authority": "Maritime and Port Authority of Singapore (MPA)",
+    "url": "https://www.mpa.gov.sg/port-marine-ops/operations/vessel-traffic-information-system/operational-areas",
+    "date_shown": "Last Updated on 28 Sep 2026",
+    "locator": "Table 'Sectors, VHF channels and VTS authorities'",
+    "passage": "Sector 1 VHF Channel 66 KLANG VTS Sector 2 VHF Channel 88 KLANG VTS Sector 3 VHF Channel 84 KLANG VTS Sector 4 VHF Channel 61 KLANG VTS"
+   },
+   {
+    "title": "Singapore Port Information 2026, Chartlets: STRAITREP Operational Area (Sectors 1 to 9) (Appendix 1) and (Sectors 7 to 9) (Appendix 2)",
+    "authority": "MPA",
+    "url": "https://file.go.gov.sg/spi2026apr17.pdf",
+    "date_shown": "Updated to 17 Apr 2026",
+    "locator": "pp. 16, 119-120 (chartlet images, interpreted visually)",
+    "passage": "STRAITREP OPERATIONAL AREA (SECTORS 1 TO 9) ... SECTOR 1 ANGSA ... SECTOR 2 JUGRA ... SECTOR 4 UNDAN ... SECTOR 5 SEGENTING ... SECTOR 6 PIAI"
+   },
+   {
+    "title": "COLREG.2/Circ.54: New and amended traffic separation schemes (Off Ra's al Kuh; Approaches to the Port of Ra's al Khafji)",
+    "authority": "IMO (Swedish Transport Agency (Transportstyrelsen) archive copy of IMO COLREG.2 circulars; also copy at cimrc.shmtu.edu.cn)",
+    "url": "https://www.transportstyrelsen.se/globalassets/global/sjofart/dokument/sjotrafik_dok/imo_colreg.2_cirkular.pdf?id=58526",
+    "date_shown": "28 May 2004",
+    "locator": "COLREG.2/Circ.54 paras 1-2, annexes 1 and 2",
+    "passage": "\"Off Ra's al kuh\" (new scheme); \"Approaches to the Port of Ra's al Khafji\" (new scheme) ... will be implemented at 0000 hours UTC on 1 December 2004"
+   }
+  ]
+ },
+ {
+  "record_id": "TSS-0114",
+  "source_label": "At Horsburgh Lighthouse Area",
+  "official_name": "At Horsburgh Lighthouse Area",
+  "claims": {
+   "tss_identity": [
+    "Confirmed",
+    "Amended scheme adopted MSC 69 (1998), implemented 1 December 1998; coordinates 104°14.89'E to about 104°27.84'E (S4, Annex 8)."
+   ],
+   "operational_status": "In force",
+   "vts": [
+    "Confirmed present",
+    [
+     "Singapore VTS"
+    ],
+    "Part coverage only. Western part (104°14.89'E to 104°23.0'E) is in Sector 9 (VTIS East, Ch 10), Singapore VTS (S3, S1). The north-eastern end of the scheme (to about 104°27.8'E) lies east of the 104°23'E STRAITREP limit, where no sector is defined (S2, S3)."
+   ],
+   "reporting": [
+    "Confirmed present",
+    [
+     "STRAITREP"
+    ],
+    "STRAITREP covers the scheme only west of 104°23'E (S2, S5). Horsburgh Lt (104°24.44'E) is itself a STRAITREP reference point just outside the limit; ships approaching from the east report on reaching Sector 9 (S5 para 3)."
+   ]
+  },
+  "cited_sources": [
+   {
+    "title": "Operational Areas (STRAITREP)",
+    "authority": "Maritime and Port Authority of Singapore (MPA)",
+    "url": "https://www.mpa.gov.sg/port-marine-ops/operations/vessel-traffic-information-system/operational-areas",
+    "date_shown": "Last Updated on 28 Sep 2026",
+    "locator": "Sector table (Sector / VHF Channel / VTS Authority)",
+    "passage": "Sector 7 | VHF Channel 73 | SINGAPORE VTS; Sector 8 | VHF Channel 14 | SINGAPORE VTS; Sector 9 | VHF Channel 10 | SINGAPORE VTS (table rows; sectors 1-5 KLANG VTS, sector 6 JOHOR VTS)"
+   },
+   {
+    "title": "Vessel Traffic Information System",
+    "authority": "Maritime and Port Authority of Singapore (MPA)",
+    "url": "https://www.mpa.gov.sg/port-marine-ops/operations/vessel-traffic-information-system",
+    "date_shown": "Last Updated on 28 Sep 2026",
+    "locator": "STRAITREP operational area",
+    "passage": "The operational area of STRAITREP covers the Straits of Malacca and Singapore between longitudes 100°40'E and 104°23'E."
+   },
+   {
+    "title": "Vessels Arriving in Singapore",
+    "authority": "Maritime and Port Authority of Singapore (MPA)",
+    "url": "https://www.mpa.gov.sg/port-marine-ops/arrivals-and-departures/vessels-arriving-in-singapore",
+    "date_shown": "Last Updated 28 Sep 2026",
+    "locator": "VHF reporting stations table: VTIS West / Central / East",
+    "passage": "Reporting and listening by vessels in Sector 8, STRAITREP operational area (area between Long. 103°44.5'E and 104°02.1'E). [Sector 7: between the line joining Tg Piai and Pulau Karimun Kecil and Long. 103°44.5'E; Sector 9: between Long. 104°02.1'E and 104°23.0'E]"
+   },
+   {
+    "title": "Singapore Port Information 2025 (Updated to 1 Feb 2025): Straits of Malacca and Singapore Routeing System, Annexes 5 to 8",
+    "authority": "Maritime and Port Authority of Singapore (MPA)",
+    "url": "https://file.go.gov.sg/spi2025feb01.pdf",
+    "date_shown": "Updated to 1 Feb 2025",
+    "locator": "Traffic Separation Schemes para 1.5 to 1.8 and 2; Annexes 'In the Singapore Strait (Main Strait)', 'Singapore Strait (Off St. John's Island)', 'Singapore Strait (Off Changi/Pulau Batam)', 'At Horsburgh Lighthouse Area'",
+    "passage": "The traffic separation schemes (listed above and detailed at Annexes 1 to 8) were implemented at 0000 hours UTC on 1 December 1998. Source: COLREG.2/Circ.44 ... with amendments from COLREG.2/Circ.54"
+   },
+   {
+    "title": "Resolution MSC.73(69) Mandatory ship reporting systems, Annex 10 (STRAITREP)",
+    "authority": "International Maritime Organization",
+    "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.73(69).pdf",
+    "date_shown": "Adopted 19 May 1998",
+    "locator": "Annex, paras 1, 2.1, 3 and 4 (Authority)",
+    "passage": "The area includes the routeing system in the Straits of Malacca and Singapore. The area is divided into nine sectors, each has an assigned VHF channel"
+   }
+  ]
+ },
+ {
+  "record_id": "TSS-0115",
+  "source_label": "In the Sunda Strait",
+  "official_name": "In the Sunda Strait",
+  "claims": {
+   "tss_identity": [
+    "Confirmed",
+    "Adopted MSC 101 (June 2019), COLREG.2/Circ.74 of 14 June 2019, implemented 1 July 2020 (S6); includes inshore traffic zone; national instrument KM 130 Tahun 2020 cited by DGST (S7). Indonesia's first TSS in an archipelagic sea lane (ALKI I)."
+   ],
+   "operational_status": "In force",
+   "vts": [
+    "Confirmed present",
+    [
+     "Merak VTS"
+    ],
+    "DGST states ships in the Sunda Strait TSS communicate via VHF Ch 22 or 68 with call sign 'Merak VTS' (S7)."
+   ],
+   "reporting": [
+    "Confirmed present",
+    [
+     "SUNDAREP (Sistem Pelaporan dan Informasi Navigasi, Selat Sunda)"
+    ],
+    "SUNDAREP (Sistem Pelaporan dan Informasi Navigasi) is mandatory for all Indonesian-flagged ships transiting or crossing the TSS (S7). National scheme, not IMO-adopted SRS on evidence found."
+   ]
+  },
+  "cited_sources": [
+   {
+    "title": "COLREG.2/Circ.74 New Traffic Separation Schemes",
+    "authority": "International Maritime Organization (copy hosted by BIMCO)",
+    "url": "https://bimco.org/media/gusfhkrc/colreg2circ74-new-traffic-separation-schemes-secretariat.pdf",
+    "date_shown": "14 June 2019",
+    "locator": "Paras 1 and 2; Annex 'In the Sunda Strait'",
+    "passage": "adopted ... new traffic separation schemes and associated measures listed in the annex as follows: .1 In the Sunda Strait; and .2 In the Lombok Strait. ... should be implemented on 1 July 2020."
+   },
+   {
+    "title": "Berlaku 1 Juli 2020, Kemenhub Jelaskan Sistem Pelaporan Kapal di TSS Selat Sunda dan Selat Lombok",
+    "authority": "Directorate General of Sea Transportation (Hubla), Ministry of Transportation, Indonesia",
+    "url": "https://hubla.dephub.go.id/home/post/read/7657/berlaku-1-juli-2020-kemenhub-jelaskan-sistem-pelaporan-kapal-di-tss-selat-sunda-dan-selat-lombok",
+    "date_shown": "Senin, 22 Juni 2020",
+    "locator": "News release body",
+    "passage": "Sistem Pelaporan dan Informasi Navigasi di Selat Sunda dan Selat Lombok bersifat wajib, yaitu bagi semua kapal berbendera Indonesia ... TSS Selat Sunda melalui Radio VHF pada channel 22 atau 68 dengan nama panggil Merak VTS"
+   },
+   {
+    "title": "Pentingnya Bagan Pemisahan Alur Laut di Selat Sunda dan Selat Lombok bagi Indonesia",
+    "authority": "Directorate General of Sea Transportation (Hubla), Indonesia",
+    "url": "https://hubla.dephub.go.id/home/post/read/5132/pentingnya-bagan-pemisahan-alur-laut-di-selat-sunda-dan-selat-lombok-bagi-indonesia",
+    "date_shown": "Senin, 10 Juni 2019",
+    "locator": "News release body",
+    "passage": "Setelah TSS tersebut diadopsi dalam sidang IMO MSC ke 101, Indonesia harus mempersiapkan dengan sebaik-baiknya"
+   }
+  ]
+ },
+ {
+  "record_id": "TSS-0116",
+  "source_label": "In the Lombok Strait",
+  "official_name": "In the Lombok Strait",
+  "claims": {
+   "tss_identity": [
+    "Confirmed",
+    "Adopted MSC 101 (June 2019), COLREG.2/Circ.74 of 14 June 2019, implemented 1 July 2020 (S6); national instrument KM 129 Tahun 2020 (S7). ALKI II."
+   ],
+   "operational_status": "In force",
+   "vts": [
+    "Confirmed present",
+    [
+     "Benoa VTS"
+    ],
+    "DGST states ships in the Lombok Strait TSS communicate via VHF Ch 16 or 68 with call sign 'Benoa VTS' (S7)."
+   ],
+   "reporting": [
+    "Confirmed present",
+    [
+     "LOMBOKREP (Sistem Pelaporan dan Informasi Navigasi, Selat Lombok)"
+    ],
+    "LOMBOKREP mandatory for Indonesian-flagged ships transiting or crossing the TSS (S7)."
+   ]
+  },
+  "cited_sources": [
+   {
+    "title": "COLREG.2/Circ.74 New Traffic Separation Schemes",
+    "authority": "International Maritime Organization (copy hosted by BIMCO)",
+    "url": "https://bimco.org/media/gusfhkrc/colreg2circ74-new-traffic-separation-schemes-secretariat.pdf",
+    "date_shown": "14 June 2019",
+    "locator": "Paras 1 and 2; Annex 'In the Sunda Strait'",
+    "passage": "adopted ... new traffic separation schemes and associated measures listed in the annex as follows: .1 In the Sunda Strait; and .2 In the Lombok Strait. ... should be implemented on 1 July 2020."
+   },
+   {
+    "title": "Berlaku 1 Juli 2020, Kemenhub Jelaskan Sistem Pelaporan Kapal di TSS Selat Sunda dan Selat Lombok",
+    "authority": "Directorate General of Sea Transportation (Hubla), Ministry of Transportation, Indonesia",
+    "url": "https://hubla.dephub.go.id/home/post/read/7657/berlaku-1-juli-2020-kemenhub-jelaskan-sistem-pelaporan-kapal-di-tss-selat-sunda-dan-selat-lombok",
+    "date_shown": "Senin, 22 Juni 2020",
+    "locator": "News release body",
+    "passage": "Sistem Pelaporan dan Informasi Navigasi di Selat Sunda dan Selat Lombok bersifat wajib, yaitu bagi semua kapal berbendera Indonesia ... TSS Selat Sunda melalui Radio VHF pada channel 22 atau 68 dengan nama panggil Merak VTS"
+   },
+   {
+    "title": "Pentingnya Bagan Pemisahan Alur Laut di Selat Sunda dan Selat Lombok bagi Indonesia",
+    "authority": "Directorate General of Sea Transportation (Hubla), Indonesia",
+    "url": "https://hubla.dephub.go.id/home/post/read/5132/pentingnya-bagan-pemisahan-alur-laut-di-selat-sunda-dan-selat-lombok-bagi-indonesia",
+    "date_shown": "Senin, 10 Juni 2019",
+    "locator": "News release body",
+    "passage": "Setelah TSS tersebut diadopsi dalam sidang IMO MSC ke 101, Indonesia harus mempersiapkan dengan sebaik-baiknya"
+   }
+  ]
+ },
+ {
+  "record_id": "TSS-0119",
+  "source_label": "In the Dangan Channel",
+  "official_name": "In Dangan Channel (担杆水道分道通航制)",
+  "claims": {
+   "tss_identity": [
+    "Confirmed",
+    "Existence and current use confirmed by Guangzhou MSA (S13) as part of the Pearl River Estuary routeing system (珠江口水域船舶定线制), comprising two traffic lanes, two separation zones, an inshore traffic zone and two precautionary areas. IMO adoption (COLREG.2/Circ.71, 25 May 2018, implemented 1 December 2018) is lead only: circular would not load."
+   ],
+   "operational_status": "In force",
+   "vts": [
+    "Confirmed present",
+    [
+     "Guangzhou VTS Centre (广州海事局船舶交通管理中心, Pearl River Estuary VTS)"
+    ],
+    "Guangzhou MSA illustrates the TSS with a Guangzhou MSA VTS radar screenshot and directs ships in the TSS to seek assistance from 广州交管中心 on VHF 08/09 (S13). News report (lead) says a 'Dangan' monitoring station began trial operation on 8 April 2026 to bring the TSS under routine VTS control (S14)."
+   ],
+   "reporting": [
+    "Unresolved",
+    [],
+    "Pearl River Estuary VTS has 21 reporting lines (S15) but no source places a reporting line or separate SRS on the Dangan TSS."
+   ]
+  },
+  "cited_sources": [
+   {
+    "title": "航经担杆水道分道通航制及周围水域的船舶请注意！ (Guangdong MSA official account, supplied by Guangzhou MSA)",
+    "authority": "Guangdong Maritime Safety Administration / Guangzhou MSA (published on The Paper official account)",
+    "url": "https://m.thepaper.cn/newsDetail_forward_30326627",
+    "date_shown": "2025-03-06",
+    "locator": "Article body (official MSA account)",
+    "passage": "船舶在担杆水道分道通航制及附近水域航行时，应严格遵守《珠江口水域船舶定线制》... 可在VHF08\\09频道上向广州交管中心请求协助"
+   },
+   {
+    "title": "“担杆”监管台投入运行 广州国产VTS再扩容",
+    "authority": "China News Service (chinanews.com.cn)",
+    "url": "https://www.chinanews.com.cn/dwq/2026/04-08/10600653.shtml",
+    "date_shown": "2026-04-08",
+    "locator": "News report",
+    "passage": "此次“担杆”监控台启用，将对担杆水道分道通航制、广东沿海主要公共航路、担杆水域渔船推荐航路等水域开展常态化VTS管控"
+   },
+   {
+    "title": "解读《广东海事局关于试行珠江口水上交通安全特别监管区交通组织一体化的通告》",
+    "authority": "Guangdong Maritime Safety Administration",
+    "url": "https://www.gd.msa.gov.cn/288d370277a13952929caab591b72d65/784a5ef27d1d402db548f019c88978b6.jhtml",
+    "date_shown": "发布时间：2023-12-20",
+    "locator": "Section on 船舶动态报告",
+    "passage": "珠江口VTS区域报告线共21条 ... 采用“报进不报出，报离不报靠”的原则"
+   }
+  ]
+ },
+ {
+  "record_id": "TSS-0120",
+  "source_label": "In the waters off the Chengshan Jiao Promontory",
+  "official_name": "Off Chengshan Jiao Promontory",
+  "claims": {
+   "tss_identity": [
+    "Confirmed",
+    "IMO resolution MSC.389(94) refers to ships 'at anchor in the TSSs' within the Chengshan Jiao SRS area, confirming the schemes (S16). TSS adoption instrument and dates not retrieved."
+   ],
+   "operational_status": "In force",
+   "vts": [
+    "Confirmed present",
+    [
+     "Chengshan Jiao VTS Centre"
+    ],
+    "The SRS area is the 24 nm radius around the Chengshan Jiao VTS Centre, which is the reporting authority, and the resolution addresses ships in the TSSs (S16)."
+   ],
+   "reporting": [
+    "Confirmed present",
+    [
+     "Mandatory ship reporting system 'Off Chengshan Jiao Promontory'"
+    ],
+    "IMO-adopted mandatory SRS 'Off Chengshan Jiao Promontory' (SOLAS V/11), amended by MSC.389(94), in force 1 June 2015 (S16)."
+   ]
+  },
+  "cited_sources": [
+   {
+    "title": "Resolution MSC.389(94) Amendments to the existing mandatory ship reporting system 'Off Chengshan Jiao Promontory'",
+    "authority": "International Maritime Organization",
+    "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC%20389%2094.pdf",
+    "date_shown": "Adopted 21 November 2014",
+    "locator": "Operative paras 1-2; Annex paras 1, 2, 3 (Authority), 6",
+    "passage": "The waters covered by the Ship Reporting System is the water area with the VTS Centre (geographical position is 37°23'.65N, 122°42'.12E) as the centre and 24 miles as the radius."
+   }
+  ]
+ },
+ {
+  "record_id": "TSS-0122",
+  "source_label": "Off the Ostrovnoi Point",
+  "official_name": "Схема разделения движения № 3: Между мысами Поворотный и Островной (from Peter the Great Gulf to Cape Belkina)",
+  "claims": {
+   "tss_identity": [
+    "Confirmed",
+    "Established by Russian Government Directive 1226-r of 2 September 2006 as scheme No. 3 (three parts, about 133°17.5'E to 133°46.8'E); foreign ships prohibited in the lane north-west of part II separation zone (S17). IMO adoption not verified."
+   ],
+   "operational_status": "In force",
+   "vts": [
+    "Confirmed present",
+    [
+     "Regional VTS of Peter the Great Gulf (РСУДС залива Петра Великого), Nakhodka sector"
+    ],
+    "Partial: Regional VTS Sector 1B covers the approaches to Nakhodka Gulf between 132°28'E and 133°43'E south to the territorial sea boundary (S18). Scheme parts I and III and most of part II lie within those meridians; the eastern end of part II (to 133°46.8'E) lies outside."
+   ],
+   "reporting": [
+    "Unresolved",
+    [],
+    "No mandatory SRS identified."
+   ]
+  },
+  "cited_sources": [
+   {
+    "title": "Распоряжение Правительства РФ от 2 сентября 2006 г. № 1226-р: Схемы разделения движения в территориальном море Российской Федерации",
+    "authority": "Government of the Russian Federation (text via meganorm.ru repository)",
+    "url": "https://meganorm.ru/Data2/1/4293849/4293849842.htm",
+    "date_shown": "2 September 2006 (original text; later amendments not checked)",
+    "locator": "Section II (Pacific: schemes 5, 6, 12, 13) and Section IV (Sea of Japan: scheme 3)",
+    "passage": "Схема разделения движения № 3. Между мысами Поворотный и Островной (от залива Петра Великого до мыса Белкина)."
+   },
+   {
+    "title": "Обязательные постановления в морском порту Находка (Приказ Минтранса России от 23.06.2011 № 169)",
+    "authority": "Ministry of Transport of the Russian Federation (official publication, Rossiyskaya Gazeta)",
+    "url": "https://rg.ru/documents/2011/07/05/naxodka-site-dok.html",
+    "date_shown": "5 July 2011 (original text; amended to 15.12.2017 per S19)",
+    "locator": "Paras 52 to 55",
+    "passage": "На подходах к заливу Находка в секторе № 1 Б, который ограничен с юга границей территориального моря, с запада меридианом 132°28,00' ..., с востока меридианом 133°43,00' ..., связь с РСУДС осуществляется на канале 9 ОВЧ."
+   },
+   {
+    "title": "Приказ Минтранса России от 23.06.2011 N 169 (ред. от 15.12.2017) Об утверждении Обязательных постановлений в морском порту Находка (metadata only)",
+    "authority": "ConsultantPlus legal database",
+    "url": "https://www.consultant.ru/document/cons_doc_LAW_116506/dfe493850a134ba391cd60a9ae6bf84ebb6f7aa9/",
+    "date_shown": "ред. от 15.12.2017",
+    "locator": "Document header (body paywalled)",
+    "passage": "Об утверждении Обязательных постановлений в морском порту Находка (ред. от 15.12.2017)"
+   }
+  ]
+ },
+ {
+  "record_id": "TSS-0126",
+  "source_label": "Off Southwest Australia",
+  "official_name": "Off the south-west coast of Australia (Cape Leeuwin TSS and Chatham Island TSS)",
+  "claims": {
+   "tss_identity": [
+    "Confirmed",
+    "AMSA lists the 'Cape Leeuwin Traffic Separation Scheme' among IMO-adopted TSS (S20). Grouped label: news/secondary leads say two schemes (off Cape Leeuwin and off Chatham Island) adopted MSC May 2016, effective 1 December 2016, use recommended; not confirmed from a primary source fetched."
+   ],
+   "operational_status": "In force",
+   "vts": [
+    "Unresolved",
+    [],
+    "No VTS found covering the schemes; REEFVTS not relevant. Absence not established."
+   ],
+   "reporting": [
+    "Confirmed present",
+    [
+     "MASTREP (Modernised Australian Ship Tracking and Reporting System)"
+    ],
+    "Scheme lies in Australian waters where MASTREP (national, Navigation Act 2012 and MO 63) applies to specified vessel categories (S21). Not an IMO-adopted SRS."
+   ]
+  },
+  "cited_sources": [
+   {
+    "title": "Offshore oil and gas exploration",
+    "authority": "Australian Maritime Safety Authority (AMSA)",
+    "url": "https://www.amsa.gov.au/safety-navigation/navigating-coastal-waters/offshore-oil-and-gas-exploration",
+    "date_shown": "Last updated 9 October 2023",
+    "locator": "Sensitive areas lists (Southern Australia; South-West Australia)",
+    "passage": "Gippsland and Wilsons Promontory TSS ... Cape Leeuwin Traffic Separation Scheme ... not permitted within any charted International Maritime Organization-adopted Traffic Separation Scheme"
+   },
+   {
+    "title": "Modernised Australian Ship Tracking and Reporting System (MASTREP)",
+    "authority": "Australian Maritime Safety Authority (AMSA)",
+    "url": "https://www.amsa.gov.au/safety-navigation/navigation-systems/modernised-australian-ship-tracking-and-reporting-system",
+    "date_shown": "Last updated 23 December 2020",
+    "locator": "Page body",
+    "passage": "Participation in MASTREP is mandatory for certain vessels ... foreign vessels from the arrival at its first port in Australia until its departure from its final port in Australia; all regulated Australian vessels while in the MASTREP area."
+   }
+  ]
+ },
+ {
+  "record_id": "TSS-0085",
+  "source_label": "In the Approaches to the Ports of Odessa and Ilichevsk",
+  "official_name": "In the approaches to the ports of Odessa and Ilichevsk (historical); now part of 'Approaches to the Chornomorsk, Odesa and Pivdennyi ports'",
+  "claims": {
+   "tss_identity": [
+    "Confirmed",
+    "Adopted by IMCO/IMO, COLREG.2/Circ.14 of 22 April 1981 (Marad and scanned circular). Ilichevsk renamed Chornomorsk. Per secondary summary of COLREG.2/Circ.78 (MSC 106, issued 13 December 2022), replaced by the amended scheme 'Approaches to the Chornomorsk, Odesa and Pivdennyi ports', implemented 0000 UTC 1 June 2023. Marad primary confirms Ukraine's proposal to merge the two schemes; IMO circular text not itself retrieved."
+   ],
+   "operational_status": "Withdrawn/superseded",
+   "vts": [
+    "Unresolved",
+    [
+     "VTCP Odesa (vessel traffic service of the Delta-Lotsman branch of SE USPA)"
+    ],
+    "USPA confirms a 'VTCP Odesa' operated by Delta-Lotsman; Marad refers to 'The VTS of ... Delta Pilot' in proposing TSS changes, but no source defines the VTS area as covering the scheme. Wartime corridor arrangements apply (2022 notice)."
+   ],
+   "reporting": [
+    "Unresolved",
+    [],
+    "No reporting system identified for the scheme in retrieved sources."
+   ]
+  },
+  "cited_sources": [
+   {
+    "title": "Proposals have been drafted to amend the Traffic Separation Scheme (TSS) No 2. In the Approaches to the Chornomorsk, Odesa and Pivdennyi Ports",
+    "authority": "State Service for Maritime and River Transport of Ukraine (Marad)",
+    "url": "https://marad.gov.ua/storage/app/sites/1/international-activities/Propozicii_sistemi_rozpodilu_ryhu_en.pdf",
+    "date_shown": "Undated",
+    "locator": "Introduction; Figure 1 caption; Summary",
+    "passage": "combine 2 previously adopted by the IMO systems into one system"
+   },
+   {
+    "title": "COLREG.2/Circ.78 New separation schemes and associated measures (member circular summary)",
+    "authority": "Hong Kong Shipowners Association (secondary summary of IMO circular)",
+    "url": "https://hksoa.org/member_circulars/colreg-2-circ-78-new-separation-schemes-and-associated-measures/",
+    "date_shown": "Circular issued 13 December 2022 (per page)",
+    "locator": "Circular summary",
+    "passage": "The new traffic separation schemes and associated measures will be implemented at 0000 hours UTC on 1 June 2023"
+   },
+   {
+    "title": "INFORMATION for shipowners, agents, port operators regarding navigation along the approach corridor to the ports of Ukraine (Chornomorsk, Odesa, Pivdennyi)",
+    "authority": "State Enterprise Ukrainian Sea Ports Authority (USPA)",
+    "url": "https://www.uspa.gov.ua/en/announcements-en/information-for-shipowners-agents-port-operators",
+    "date_shown": "29.07.2022",
+    "locator": "Organization of communication, coordination and information exchange",
+    "passage": "“Delta-Lotsman” branch of SE “USPA”: pilot-operator of VTCP Odesa"
+   },
+   {
+    "title": "COLREG.2/Circ.14 New and amended traffic separation schemes (Odessa and Ilichevsk)",
+    "authority": "IMCO (copy published by Transportstyrelsen, Sweden)",
+    "url": "https://www.transportstyrelsen.se/globalassets/global/sjofart/dokument/sjotrafik_dok/imo_colreg.2_cirkular.pdf?id=58526",
+    "date_shown": "22 April 1981",
+    "locator": "Compilation PDF p.30 (scanned, poor OCR)",
+    "passage": "between the ports of Odessa and Ilichevsk; in the approaches to the ports of Odessa and Ilichevsk"
+   }
+  ]
+ }
+]

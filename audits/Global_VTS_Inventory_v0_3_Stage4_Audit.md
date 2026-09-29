@@ -38,11 +38,11 @@ The method lessons it would have produced are recorded under **Method findings**
 | **VTS: confirmed present** | **40** |
 | VTS: unresolved | 85 |
 | VTS: confirmed absent | 0 |
-| **Mandatory reporting scheme: confirmed present** | **32** |
-| Mandatory reporting scheme: unresolved | 93 |
+| **Mandatory reporting scheme: confirmed present** | **31** |
+| Mandatory reporting scheme: unresolved | 94 |
 | Mandatory reporting scheme: confirmed absent | 0 |
-| Both VTS and mandatory reporting confirmed | 23 |
-| VTS only | 17 |
+| Both VTS and mandatory reporting confirmed | 22 |
+| VTS only | 18 |
 | Mandatory reporting only | 9 |
 | Neither confirmed | 76 |
 
@@ -53,20 +53,20 @@ They are not the number of distinct TSS, VTS areas or guide entries.
 
 | Region | Rows | Identity confirmed | VTS confirmed | Mandatory reporting confirmed |
 |---|---:|---:|---:|---:|
-| North Sea continental coast | 13 | 12 | 4 | 0 |
+| North Sea continental coast | 13 | 12 | 5 | 0 |
 | France, Iberia and Canary Islands | 7 | 6 | 4 | 6 |
-| Mediterranean and Black Seas | 24 | 23 | 9 | 10 |
+| Mediterranean and Black Seas | 24 | 23 | 8 | 10 |
 | Southern Africa | 2 | 2 | 0 | 0 |
 | Red Sea and Arabian region | 14 | 13 | 0 | 0 |
 | Indian Ocean and South Asia | 1 | 0 | 0 | 0 |
 | Malacca, Singapore and Indonesia | 10 | 10 | 10 | 10 |
-| China Sea and China | 4 | 4 | 4 | 1 |
+| China Sea and China | 4 | 4 | 3 | 1 |
 | North-west Pacific | 5 | 4 | 1 | 0 |
 | Australia | 3 | 2 | 0 | 3 |
 | North America Pacific coast | 6 | 5 | 5 | 0 |
 | Central and South America Pacific coast | 17 | 1 | 0 | 0 |
 | Caribbean, Gulf of Mexico and Panama | 10 | 10 | 1 | 0 |
-| North America Atlantic coast | 9 | 9 | 2 | 2 |
+| North America Atlantic coast | 9 | 9 | 3 | 1 |
 
 The pattern matters for scoping. Evidence is strong where States publish VTS areas in law or official guides
 (Europe, Malacca and Singapore, Indonesia, Hong Kong, US, Canada).
@@ -81,18 +81,19 @@ Those unresolved rows are research gaps, not evidence that no VTS exists.
 | Distinct counted services linked to a researched TSS (B10 to B34) | n/a | 29 | Confirmed coverage only |
 | Reporting scheme records | 8 | 27 | 21 mandatory, 6 voluntary |
 | Distinct mandatory schemes linked to a researched TSS (B10 to B34) | n/a | 13 | Includes STRAITREP from v0.2 |
-| Relationships | 44 | 157 | Leads and voluntary links labelled separately |
+| Relationships | 44 | 157 | Leads and voluntary links labelled separately; v0.2 links re-graded where Stage 4 evidence exists |
 | Sources | 23 | 136 | Every cited source ID resolves |
 | TSS structural parts | 2 | 101 | Lanes, approaches, precautionary areas; non-additive |
 | Issues | 17 | 28 | 11 new, all open |
 
 New mandatory schemes linked to researched TSS: OUESSREP, FINREP, COPREP, CANREP, GIBREP, ADRIREP, TÜBRAP,
-SUNDAREP, LOMBOKREP, the Chengshan Jiao ship reporting system, MASTREP, WHALESNORTH and VMRS Buzzards Bay.
+SUNDAREP, LOMBOKREP, the Chengshan Jiao ship reporting system, MASTREP and WHALESNORTH.
+VMRS Buzzards Bay is recorded but not linked: it begins beyond the end of the scheme.
 STRAITREP (v0.2) is now allocated to all eight Malacca and Singapore segments.
 
 ## Adjustments made at merge audit
 
-Twelve findings were changed from the raw research output. Every change is listed in `research/stage4/merge_log.md`
+Twelve findings were changed from the raw research output at merge, and five more after independent verification (see below). Every change is listed in `research/stage4/merge_log.md`
 and in the "Audit adjustments at merge" column of the Stage 4 Findings sheet.
 
 1. **Downgraded VTS finding (1).** TSS-0101 Zaqqum/Umm Shaif: the only evidence was a temporary 2023 oilfield notice that does not state the VTS area. Das VTIS is kept as a lead.
@@ -102,6 +103,41 @@ and in the "Audit adjustments at merge" column of the Stage 4 Findings sheet.
    - Canadian VTS zone reports under SOR/2025-275 (TSS-0169, 0170);
    - Panama Canal signal station approach reports (TSS-0151, 0161).
    The same rule was already applied by the researchers to US VTS participation (TSS-0129 to 0133, 0160).
+
+## Independent verification
+
+After the merge, three independent checkers re-opened the cited sources for a stratified sample of 30 records
+(10 per checker; every region, and confirmed, derived, downgraded and unresolved findings) and tried to disprove each claim.
+Their input and results are in `research/stage4/verification/`.
+
+| Result (identity, VTS and reporting claims) | Claims (of 90) |
+|---|---:|
+| Supported | 82 |
+| Overstated: downgraded | 3 |
+| Understated: upgraded | 2 |
+| Understated: held pending direct review (TSS-0126) | 1 |
+| Already corrected at merge (checker reviewed the raw output: TSS-0046, TSS-0169 reporting) | 2 |
+
+Every cited source loaded for the checkers and every quoted passage was found.
+
+**Changes made from verification:**
+
+- TSS-0165 Off New York, VTS: Unresolved to Confirmed present (partial; precautionary area only).
+- TSS-0053 IJmuiden, VTS: Unresolved to Confirmed present (partial; West Inner TSS only; reference position approximate).
+- TSS-0075 Gulf of Venice, VTS: Confirmed present to Unresolved (scheme ends about 1 nm outside the VTS area).
+- TSS-0119 Dangan Channel, VTS: Confirmed present to Unresolved (VTS station only in trial operation from April 2026, secondary source).
+- TSS-0166 Narragansett/Buzzards Bay, reporting: Confirmed present to Unresolved (VMRS begins beyond the scheme).
+- Identity notes completed for eight records where an available IMO circular had been missed; applicability notes added for TÜBRAP, SUNDAREP, LOMBOKREP, MASTREP and ADRIREP.
+
+The checkers accepted Zaqqum (TSS-0101) and Cabo de Gata (TSS-0067) as originally researched. The stricter merge downgrades were kept.
+
+**What this says about reliability.** Six of the 90 sampled claims (about 7%) were wrong after the merge audit.
+Errors ran in both directions (three overstated, three understated), so there is no sign of systematic over-claiming.
+Overstatement clustered in coverage derived from geometry or secondary reports, which is where specialist review should focus.
+Three of the understated claims were unresolved findings, so some of the 85 unresolved VTS rows will close with more effort.
+
+The re-check also found a merge-script defect: v0.2 "proposed" links were not upgraded when Stage 4 confirmed them.
+This is fixed, and every TSS link now matches its record.
 
 ## Counting cautions
 
@@ -115,8 +151,9 @@ and in the "Audit adjustments at merge" column of the Stage 4 Findings sheet.
 ## Decisions needed
 
 1. **Counting rule for VTS reporting.** Should reporting owed to a VTS ever count as a separate mandatory reporting scheme? v0.3 says no, following the plan. This affects 15 rows (ISS-018).
-2. **Buzzards Bay VMRS.** Kept as a separate mandatory scheme because it is a standalone US reporting system with no VTS. It covers the approach, not the lanes.
+2. **Adjoining services.** Should a VTS or reporting area that begins at the end of a scheme, and must be called while still in it, count as covering it? v0.3 says no (Venice TSS-0075, Buzzards Bay TSS-0166).
 3. **National schemes mandatory only for some ships.** SUNDAREP and LOMBOKREP are mandatory only for Indonesian-flag ships. MASTREP applies only to certain vessel categories. They are counted as mandatory with the applicability recorded.
+4. **First confirmed absence.** AMSA's list of authorised VTS providers reportedly has none for south-west Australia (TSS-0126). It could not be loaded at merge, so the finding stays Unresolved until the page is read directly.
 
 ## Method findings (in place of the Stage 3 pilot)
 

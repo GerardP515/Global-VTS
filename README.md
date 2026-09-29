@@ -24,7 +24,7 @@ The current inventory contains:
 - 57 VTS/service records, of which 16 are research leads and not counted;
 - 21 mandatory and 6 voluntary vessel reporting schemes.
 
-For B10 to B34: VTS confirmed present for 40 rows, mandatory reporting confirmed for 32, and unresolved for the rest.
+For B10 to B34: VTS confirmed present for 40 rows, mandatory reporting confirmed for 31, and unresolved for the rest.
 No confirmed-absence findings have been made. Some source rows contain grouped or duplicate schemes, so these are not scheme or guide-entry totals.
 See the [v0.3 Stage 4 audit](audits/Global_VTS_Inventory_v0_3_Stage4_Audit.md).
 

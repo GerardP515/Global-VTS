@@ -35,10 +35,17 @@ Batches B01 to B09 are not part of this task.
 
 Completed 29 September 2026. All 125 records researched; results merged into v0.3.
 
-- VTS confirmed present: 40 rows. Mandatory reporting confirmed: 32 rows. No confirmed-absence findings.
+- VTS confirmed present: 40 rows. Mandatory reporting confirmed: 31 rows (after verification). No confirmed-absence findings.
 - Merge audit changed 12 raw findings (see research/stage4/merge_log.md): one weak VTS finding downgraded,
   three unsupported "Confirmed absent" findings removed, eight VTS/port reporting duties reclassified under their services.
 - Verification: every relationship and source ID resolves; workbook totals were recomputed in Python
   (LibreOffice could not open either the v0.2 or v0.3 file in this environment, so formulas were checked by hand).
 - Open: B25 and B26 batch audits; 11 new issues (ISS-018 to ISS-028); decisions listed in the audit.
 - Not done: Stage 3 pilot as a separate exercise; B01 to B09 re-research; release pack zip for v0.3.
+
+## Verification (29 September 2026, second pass)
+
+- Three independent checkers re-tested 90 claims on 30 sampled records against the cited sources.
+- 82 supported; 3 downgraded; 2 upgraded; 1 upgrade held (TSS-0126, source not loadable here); 2 already fixed at merge.
+- Fixed a merge-script defect: v0.2 proposed links were not upgraded when Stage 4 confirmed them.
+- Final B10 to B34 totals: VTS confirmed 40, mandatory reporting confirmed 31, no confirmed absence.

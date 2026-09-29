@@ -75,6 +75,37 @@ ADJUST = [
      "Absence rests on an enumerative magazine statement (researcher rated moderate confidence). Not sufficient for Confirmed absent."),
     ("TSS-0069", "reporting_finding", "Unresolved",
      "Absence rests on an enumerative magazine statement (researcher rated moderate confidence). Not sufficient for Confirmed absent."),
+    # ---- Independent verification of a 30-record sample (research/stage4/verification/) ----
+    ("TSS-0165", "vts_finding", "Confirmed present",
+     "V: USCG LNM 01/2026 places the Ambrose Channel entrance about 3.1 nm from the centre of the 7 nm precautionary area, so its landward part lies within the VTS New York area (33 CFR 161.25). Partial: traffic lanes are outside."),
+    ("TSS-0165", "vts_service_keys", ["SVC-vts-new-york"], "V: service linked for the partial coverage above."),
+    ("TSS-0165", "vts_relationship_basis", "+Verification: precautionary area partly within VTS New York area; lanes outside (partial coverage).", "V"),
+    ("TSS-0053", "vts_finding", "Confirmed present",
+     "V: COLREG.2/Circ.64 annex 1 places the eastern 4 to 5 nm of the IJmuiden West Inner TSS within the 12 nm VTS North Sea Canal Area. Partial; North and West Outer schemes are outside. Breakwater reference position approximate: confirm on chart."),
+    ("TSS-0053", "vts_relationship_basis", "+Verification: eastern part of West Inner TSS within 12 nm VTS area (partial, derived from coordinates).", "V"),
+    ("TSS-0166", "reporting_finding", "Unresolved",
+     "V: the Buzzards Bay VMRS area begins about 2.9 to 3.4 nm beyond the landward end of the TSS. No part of the scheme lies inside it. Kept as an onward reporting lead."),
+    ("TSS-0075", "vts_finding", "Unresolved",
+     "V: every TSS point lies about 1 nm seaward of the Venice VTS area limit and the Venice manual refers to the TSS 'even if not inside Venice VTS Area'. First call to the VTS is made while in the TSS: adjoining, not coverage."),
+    ("TSS-0119", "vts_finding", "Unresolved",
+     "V: the Guangdong MSA source only gives an emergency contact with Guangzhou VTS; a secondary report says the Dangan station began trial operation on 8 Apr 2026 to bring the TSS under routine VTS control. Awaiting an MSA notice defining coverage."),
+    ("TSS-0126", "vts_relationship_basis", "+Verification: the AMSA list of authorised VTS providers (Marine Order 64) reportedly contains no provider for the south-west coast. Candidate for Confirmed absent once the page is reviewed directly (it could not be loaded at merge).", "V"),
+    ("TSS-0126", "applicability_notes", "+MASTREP applies to foreign ships only between first arrival and final departure in Australia, so through traffic is outside it.", "V"),
+    ("TSS-0126", "tss_identity_note", "+Adopted by COLREG.2/Circ.67 (20 May 2016), annex 1, implemented 1 Dec 2016.", "V"),
+    ("TSS-0129", "tss_identity_note", "+COLREG.2/Circ.39 (MSC 61), in force 10 June 1993.", "V"),
+    ("TSS-0133", "tss_identity_note", "+Amended by COLREG.2/Circ.64, in force 1 June 2013. eCFR coordinates predate the amendment (differences under 1 nm).", "V"),
+    ("TSS-0167", "tss_identity_note", "+COLREG.2/Circ.58, in force 1 July 2007.", "V"),
+    ("TSS-0169", "tss_identity_note", "+COLREG.2/Circ.52 annex 5. RAMN 2026 locator is Table 3-24.", "V"),
+    ("TSS-0059", "tss_identity_note", "+COLREG.2/Circ.64 item .5, implemented 1 June 2013 (in the Swedish compilation already cited).", "V"),
+    ("TSS-0066", "tss_identity_note", "+Also amended by COLREG.2/Circ.66 (MSC 94), implemented 1 June 2015.", "V"),
+    ("TSS-0120", "tss_identity_note", "+COLREG.2/Circ.48 (2000) and Circ.66 (implemented 1 June 2015). Eastern end of outer scheme about 25.7 nm from VTS centre, just outside the 24 nm reporting radius.", "V"),
+    ("TSS-0083", "applicability_notes", "+TUBRAP is national, not IMO-adopted (IMO recommends it). Sailing Plan 1 applies to ships of 500 GRT and over or carrying dangerous cargo.", "V"),
+    ("TSS-0115", "applicability_notes", "+SUNDAREP is mandatory only for Indonesian-flag ships; foreign ships are strongly recommended to participate.", "V"),
+    ("TSS-0116", "applicability_notes", "+LOMBOKREP is mandatory only for Indonesian-flag ships; foreign ships are strongly recommended to participate.", "V"),
+    ("TSS-0075", "applicability_notes", "+ADRIREP rules in force until 30 Nov 2026 are MSC.139(76) annex 2; MSC.598(111) applies from 1 Dec 2026.", "V"),
+    ("TSS-0077", "applicability_notes", "+ADRIREP rules in force until 30 Nov 2026 are MSC.139(76) annex 2; MSC.598(111) applies from 1 Dec 2026. Trieste manual states the VTS limits were drawn to include the Monfalcone entry/exit part of the TSS.", "V"),
+    ("TSS-0085", "open_questions", "+Superseded record: VTS and reporting findings do not apply; research belongs on the successor scheme once COLREG.2/Circ.78 is read.", "V"),
+    ("TSS-0122", "open_questions", "+Directive text read from an unofficial copy; Nakhodka port rules (2011, amended 2017) not confirmed current.", "V"),
 ]
 
 
@@ -102,7 +133,7 @@ def main(apply_adjustments):
             last_src = max(last_src, int(r[0].split("-")[1]))
     src_map = {}  # (group, local id) -> SRC id
     src_rows = {}  # SRC id -> row data
-    src_url = {}
+    src_url = {sid: url for url, sid in existing_src.items()}
     for g, d in groups.items():
         for s in d["sources"]:
             url = (s.get("url") or "").strip()
@@ -176,7 +207,13 @@ def main(apply_adjustments):
         for rid, field, value, reason in ADJUST:
             rec = records[rid]
             old = rec.get(field)
+            if isinstance(value, str) and value.startswith("+"):
+                value = ((old or "") + " " + value[1:]).strip()
+                old = "(appended)"
             rec[field] = value
+            if reason == "V":
+                rec["_audit"].append(f"{field} note added at independent verification.")
+                continue
             rec["_audit"].append(f"{field}: {old} -> {value}. {reason}")
             log.append(f"- **{rid}** `{field}`: {old} -> {value}. {reason}")
 
@@ -364,12 +401,27 @@ def main(apply_adjustments):
     # relationships
     ws_r = wb["Relationships"]
     last_lnk = max(int(r[0].split("-")[1]) for r in ws_r.iter_rows(min_row=7, values_only=True) if r[0])
-    existing_pairs = {(r[1], r[2]) for r in ws_r.iter_rows(min_row=7, values_only=True) if r[0]}
+    existing_pairs = {}
+    for rr in range(7, ws_r.max_row + 1):
+        if ws_r.cell(rr, 1).value:
+            existing_pairs[(ws_r.cell(rr, 2).value, ws_r.cell(rr, 3).value)] = rr
     lrows = []
     for fr, to, rel, ev, srcs, note in rel_rows:
         if (fr, to) in existing_pairs:
+            rr = existing_pairs[(fr, to)]
+            if rr is None or not str(fr).startswith("TSS-"):
+                continue
+            # Stage 4 supersedes the v0.2 screening status of an existing TSS link.
+            old_ev = ws_r.cell(rr, 5).value
+            ws_r.cell(rr, 4).value = rel
+            ws_r.cell(rr, 5).value = ev
+            ids = [x for x in (ws_r.cell(rr, 6).value or "").split("; ") if x]
+            ids += [x for x in srcs if x not in ids]
+            ws_r.cell(rr, 6).value = "; ".join(ids)
+            ws_r.cell(rr, 7).value = "\n".join(src_url[x] for x in ids if src_url.get(x))
+            ws_r.cell(rr, 8).value = f"Stage 4 update (v0.2 status: {old_ev}). {note or ''}".strip()
             continue
-        existing_pairs.add((fr, to))
+        existing_pairs[(fr, to)] = None
         last_lnk += 1
         lrows.append([f"LNK-{last_lnk:04d}", fr, to, rel, ev, "; ".join(srcs), "\n".join(src_url[s] for s in srcs if src_url.get(s)), note])
     append_rows("Relationships", lrows)

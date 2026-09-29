@@ -7,7 +7,7 @@ First-pass Stage 4 research of batches B10 to B34 (TSS-0046 to TSS-0170, 125 sou
 Key changes:
 
 - added the Stage 4 Findings sheet: TSS identity, VTS finding, mandatory reporting finding, voluntary reporting, applicability and complexity for each row;
-- VTS confirmed present for 40 rows and mandatory reporting for 32; all other findings unresolved; no confirmed-absence findings;
+- VTS confirmed present for 40 rows and mandatory reporting for 31 (after independent verification of a 30-record sample); all other findings unresolved; no confirmed-absence findings;
 - added 42 VTS service records (16 marked as research leads, not counted) and 19 reporting schemes (14 mandatory, 5 voluntary);
 - added 113 relationships, 113 sources, 99 structural-part rows and 11 issues;
 - merge audit downgraded one VTS finding, removed three unsupported "Confirmed absent" findings and reclassified eight VTS or port reporting duties under their services;
