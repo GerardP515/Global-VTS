@@ -1,3 +1,5 @@
+> **Superseded for Stage 2 classification.** This preliminary audit has been replaced by [audits/stage2/B03_Association_Audit.md](stage2/B03_Association_Audit.md), which applies the Stage 2 VTS/MRS classification rules and current authority evidence.
+
 # IMO 2025 Batch 03 audit
 
 **Sequence:** `research/batches_imo2025`  

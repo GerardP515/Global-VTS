@@ -107,3 +107,38 @@ Third-party material may identify a lead. It must not establish current operatio
 - Current PDF publication: 2026.
 - Accessed: 29 September 2026.
 - Use: Current Bothnia VTS area description, VHF 67 and advance-report procedure for Finland-bound traffic via the Quark.
+
+### SRC-029 — Fintraffic monitoring of international waters
+
+- Authority: Fintraffic Vessel Traffic Services Ltd.
+- URL: https://www.fintraffic.fi/sv/node/254
+- Evidence class: Primary operating-authority source.
+- Accessed: 29 September 2026.
+- Use: GOFREP and Åland Sea TSS monitoring distinction; confirms South Åland Sea monitoring and states that the Åland Sea area has no obligatory vessel reporting system.
+
+### SRC-030 — Swedish Transport Agency Baltic SRS list
+
+- Authority: Transportstyrelsen.
+- URL: https://www.transportstyrelsen.se/sv/sjofart/sjotrafik-och-hamnar/sjotrafikrapporteringssystem-srs/
+- Evidence class: Primary national authority source.
+- Updated: 9 June 2026.
+- Accessed: 29 September 2026.
+- Use: Current mandatory SRS inventory for the Baltic Sea: SOUNDREP, BELTREP, GOFREP and GDANREP.
+
+### SRC-031 — South Åland Sea TSS Master's Guide
+
+- Authority: Fintraffic Vessel Traffic Services Ltd.
+- URL: https://mastersguide.fintraffic.fi/index.php/sv/node/104
+- Evidence class: Primary operating-authority source.
+- Accessed: 29 September 2026.
+- Use: Confirms South Åland Sea TSS monitoring by Åland Sea Traffic from the Western Finland Vessel Traffic Centre, AIS monitoring, VHF 16 contact and violation reporting.
+
+### SRC-032 — TSFS 2026:60 VTS/SRS regulations
+
+- Authority: Swedish Transport Agency.
+- URL: https://www.transportstyrelsen.se/sv/om-oss/dina-rattigheter-lagar-och-regler/forfattningssamling/ts-foreskrifter-i-nummerordning/2026/details?RuleNumber=2026%3A60&ruleprefix=TSFS
+- Evidence class: Primary national regulatory source.
+- Adopted: 27 May 2026.
+- Enters into force: 1 October 2026.
+- Accessed: 29 September 2026.
+- Use: Near-term Swedish VTS/SRS regulatory cross-check. Does not create a Kalmarsund or Öland offshore VTS area.
