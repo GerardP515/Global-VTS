@@ -1197,3 +1197,58 @@ Third-party material may identify a lead. It must not establish current operatio
 - Use (B35): Traffic regulation centre construction planned for December 2024
 - Locator: p.2.
 - Passage: "Construcción de centro regulador de tráfico y reconfiguración de accesos terrestres. Diciembre 2024"
+
+### SRC-131 — The Hong Kong Vessel Traffic Centre
+
+- Authority: Marine Department, HKSAR Government.
+- URL: https://www.mardep.gov.hk/en/public-services/port-services/vts/exvts/index.html
+- Evidence class: Tier 2.
+- Edition or date: undated web page; accessed 2026-09-29.
+- Accessed: 29 September 2026.
+- Use (B32): Operational Hong Kong VTS since 1989; third-generation system in operation since 2016
+- Locator: page text.
+- Passage: ""The Marine Department started to provide the Vessel Traffic Services (VTS) for the port of Hong Kong in 1989.""
+
+### SRC-132 — VTS areas in Australia
+
+- Authority: Australian Maritime Safety Authority (AMSA).
+- URL: https://www.amsa.gov.au/safety-navigation/navigating-coastal-waters/vts-areas-australia
+- Evidence class: Tier 2.
+- Edition or date: last updated 14 November 2023; accessed 2026-09-29.
+- Accessed: 29 September 2026.
+- Use (B32): Official list of entities authorised to provide VTS in Australia (Marine Order 64): all port-named VTS areas plus REEFVTS; none on the south-west coast of WA other than Fremantle; Bass Strait providers are Ports Victoria (Melbourne) and TasPorts port VTS areas
+- Locator: full list.
+- Passage: ""We authorise and audit vessel traffic service (VTS) providers in Australia. Entities authorised to provide vessel traffic services in Australia are:""
+
+### SRC-133 — Modernised Australian Ship Tracking and Reporting System
+
+- Authority: Australian Maritime Safety Authority (AMSA).
+- URL: https://www.amsa.gov.au/safety-navigation/navigation-systems/modernised-australian-ship-tracking-and-reporting-system
+- Evidence class: Tier 2.
+- Edition or date: last updated 23 December 2020; accessed 2026-09-29.
+- Accessed: 29 September 2026.
+- Use (B32): MASTREP is a national ship reporting system, mandatory for certain vessels, covering the Australian SRR
+- Locator: Participation.
+- Passage: ""Vessels that must report to MASTREP are: foreign vessels from the arrival at its first port in Australia until its departure from its final port in Australia all regulated Australian vessels while in the MASTREP area.""
+
+### SRC-134 — Marine order 63 - Vessel reporting systems (current: Marine Order 63 (Vessel reporting systems) 2019, F2019L01463)
+
+- Authority: Australian Maritime Safety Authority (AMSA).
+- URL: https://www.amsa.gov.au/about/regulations-and-standards/marine-order-63-vessel-reporting-systems
+- Evidence class: Tier 2.
+- Edition or date: page last updated 20 August 2026; MO 63 commenced 1 January 2020; accessed 2026-09-29.
+- Accessed: 29 September 2026.
+- Use (B32): MASTREP area is the Australian SRR (RCC Australia area in IMO GISIS); MO 63 2019 is current
+- Locator: About.
+- Passage: ""Modernised Australian ship tracking and reporting system (MASTREP) area. The Rescue Coordination Centre \u2013 Australia is responsible for this area as described in the International Maritime Organization's Global Integrated Shipping Information System""
+
+### SRC-135 — Vessel Traffic Services (VTS areas in Tasmania)
+
+- Authority: TasPorts (Tasmanian Ports Corporation).
+- URL: https://www.tasports.com.au/vts
+- Evidence class: Tier 2.
+- Edition or date: undated web page; accessed 2026-09-29.
+- Accessed: 29 September 2026.
+- Use (B32): TasPorts VTS areas are port-named areas (including Grassy, King Island and Lady Barron, Flinders Island); no Bass Strait through-route VTS
+- Locator: VTS areas in Tasmania; channel table.
+- Passage: ""VTS areas in Tasmania Bell Bay VTS Area Devonport VTS Area Burnie VTS Area Port Latta VTS Area Strahan VTS Area Stanley VTS Area Hobart VTS Area Grassy VTS Area Coles Bay VTS Area Lady Baron VTS Area""
