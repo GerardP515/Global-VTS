@@ -192,6 +192,30 @@
   "TSS-0152": {
    "unresolved_issue": "No evidence found of VTS or mandatory reporting coverage of the part of the scheme east of 104°23'E; possible Malaysian (Johor) or Indonesian (Batam/Tanjung Pinang) VTS coverage not researched. Pass 4: MPA asks eastbound-arriving ships to report to VTIS East when Horsburgh Lt (104 24.3E) is abeam; that is a reporting point and does not extend VTS coverage east of 104 23E.",
    "_reason": "Pass 4 note."
+  },
+  "TSS-0172": {
+   "vts_boundary_basis": "The VTS area includes seaward approaches within 38 nm of Mount Tamalpais (33 CFR 161.50). The VTS SF User Manual (Apr 2025) defines the Offshore Sector the same way, names the San Francisco Offshore TSS (Northern, Western and Southern lanes and Main Ship Channel) and sets Offshore Sector reporting procedures for it (MSIB 13-04). On the current IMO coordinates (COLREG.2/Circ.64, in force 1 June 2013) the Western approach (<=32.5 nm), Southern approach (<=37.7 nm), Main Ship Channel and Precautionary Area are inside 38 nm. The outer end of the Northern approach (about 38°06.9'N-38°10.1'N, 123°20.3'W-123°21.8'W) lies about 38.8 nm away, i.e. roughly 0.8 nm beyond the arc (computed). Coverage is therefore partial but nearly complete. eCFR 167.402-404 still show the pre-2013 coordinates (all within ~30 nm). Pass 4: the Offshore Sector is defined as navigable waters (12 nm territorial sea) within 38 nm of Mount Tamalpais; the manual notes a small part of the 38 nm arc lies outside navigable waters. Roughly the outer 5 to 7 nm of the northern approach, and possibly the last 2 to 3 nm of the southern approach, lie beyond 12 nm. The VTS uses a 'VTS Boundary Line' reporting waypoint on these routes (MSIB 13-04).",
+   "_reason": "Pass 4.",
+   "unresolved_issue": "Minor: the outer tip of the Northern approach is about 0.8 nm beyond the 38 nm arc; the OVMRS extent is not documented. Plot the 12 nm territorial-sea limit against the IMO (Circ.64) coordinates to fix the extent of partial coverage."
+  },
+  "TSS-0174": {
+   "unresolved_issue": "Minor: the outer ~0.3-0.7 nm of the southern approach is beyond 25 nm. The western approach's end point differs between IMO Circ.64 and local sources (see TSS-0173), but on either reading the western approach is within 25 nm. Pass 4: whether any of the San Pedro Channel along the southern approach lies more than 12 nm from both Santa Catalina Island and the mainland was not checked.",
+   "_reason": "Pass 4."
+  },
+  "TSS-0167": {
+   "vts_name": "Victoria VTS Zone; Vessel Traffic Service Puget Sound",
+   "_reason": "Pass 4: VTS name normalised (qualifier moved out of the name).",
+   "vts_boundary_basis": "33 CFR 167.1313 places the northern lanes at about 48°15.1'N to 48°21.8'N, 123°23.2'W to 123°30.4'W, running from precautionary area PA to precautionary area V off Victoria. They lie mainly in Canadian waters, inside Victoria VTS Zone Sector 1 (SOR/2025-275 Schedule 1 item 1; RAMN 2026 Table 3-1), and wholly inside the CVTS area (33 CFR 161.55(a)). The Church Point-Race Rocks line at about 48°17.9'N crosses the lanes: the southern part is in the Seattle Traffic Ch 5A service area and the northern part in the Victoria Traffic Ch 11 area (33 CFR 161.12 Table 1 item (10); RAMN s.3.5.4.2-3.5.4.3). Any part in US waters is in the VTS Puget Sound legal area. Services jointly within the Cooperative Vessel Traffic Service for the Juan de Fuca Region."
+  },
+  "TSS-0170": {
+   "vts_name": "Victoria VTS Zone; Vessel Traffic Service Puget Sound",
+   "_reason": "Pass 4: VTS name normalised (qualifier moved out of the name).",
+   "vts_boundary_basis": "The TSS (33 CFR 167.1331; COLREG.2/Circ.51 Part I) runs from precautionary area V off Victoria through Haro Strait and Boundary Pass, along the international boundary. Canadian waters: the Victoria VTS Zone limit follows the boundary through Boundary Pass and Haro Strait (SOR/2025-275 Sch.1 item 1; RAMN Table 3-1 Sector 1). US waters: VTS Puget Sound area to the boundary (33 CFR 161.55) and inside the CVTS. Under the CVTS, Victoria Traffic Ch 11 serves all Canadian and US waters of Haro Strait and Boundary Pass north and west of the Church Point-Race Rocks-Hein Bank-Cattle Point exchange line (33 CFR 161.12 Table 1 item (10)(iv); RAMN s.3.5.4.3). Services jointly within the Cooperative Vessel Traffic Service for the Juan de Fuca Region."
+  },
+  "TSS-0171": {
+   "vts_name": "Victoria VTS Zone; Vessel Traffic Service Puget Sound",
+   "_reason": "Pass 4: VTS name normalised (qualifier moved out of the name).",
+   "vts_boundary_basis": "The TSS (COLREG.2/Circ.51 Part II; 33 CFR 167.1332) runs from precautionary area GS (about 48°48'N to 48°55'N, 122°54'W to 123°07'W) through PR to the lane ends at about 49°04.5'N 123°20'W, crossing the boundary. Canadian waters, including the part north of 49°N, are in Victoria VTS Zone Sector 1 (SOR/2025-275 Sch.1 item 1; RAMN Table 3-1, whose Sector 1 line runs from 49°00'N 123°05'20\"W to Roberts Bank and Sandheads, leaving the TSS inside). US waters are in the VTS Puget Sound legal area (33 CFR 161.55) and the CVTS (north limit 49°N). The service provider for Boundary Pass and the southern Strait of Georgia on both sides of the boundary is Victoria Traffic Ch 11, north-west of the Patos Island-Alden Bank line (33 CFR 161.12 Table 1 item (10)(iv); RAMN s.3.5.4.3). Services US waters, within the Cooperative Vessel Traffic Service for the Juan de Fuca Region."
   }
  },
  "pass4_notes": {
@@ -208,7 +232,9 @@
   "B30": "An independent checker re-opened MSC.73(69), the MPA VTIS pages (updated 28 Sep 2026), the Singapore Port Information 2026 chartlets, the 2020 DG Sea Transportation release and the Hong Kong Marine Department sources. Seven positives upheld; TSS-0148 wording corrected; Sunda and Lombok downgraded (research/stage2/pass4/chk_U_result.json).",
   "B31": "An independent checker re-opened MSC.73(69), the MPA VTIS pages (updated 28 Sep 2026), the Singapore Port Information 2026 chartlets, the 2020 DG Sea Transportation release and the Hong Kong Marine Department sources. Seven positives upheld; TSS-0148 wording corrected; Sunda and Lombok downgraded (research/stage2/pass4/chk_U_result.json).",
   "B36": "No positive or Neither confirmed classification to re-check. Coordinator confirmed every Unresolved record states what remains unknown.",
-  "B37": "No positive or Neither confirmed classification to re-check. Coordinator confirmed every Unresolved record states what remains unknown."
+  "B37": "No positive or Neither confirmed classification to re-check. Coordinator confirmed every Unresolved record states what remains unknown.",
+  "B34": "An independent checker re-opened eCFR 33 CFR 161 and 167, SOR/2025-275, CCG RAMN 2026 (CVTS), NAVCEN and the VTS Puget Sound, San Francisco and LA-LB user manuals, and COLREG.2/Circ.64, re-did the Race Rocks exchange-line and arc geometry, and upheld all eight positives; the San Francisco partial-coverage note was widened (research/stage2/pass4/chk_W_result.json).",
+  "B35": "An independent checker re-opened eCFR 33 CFR 161 and 167, SOR/2025-275, CCG RAMN 2026 (CVTS), NAVCEN and the VTS Puget Sound, San Francisco and LA-LB user manuals, and COLREG.2/Circ.64, re-did the Race Rocks exchange-line and arc geometry, and upheld all eight positives; the San Francisco partial-coverage note was widened (research/stage2/pass4/chk_W_result.json)."
  },
  "audit_result": {},
  "vts_alias": {
