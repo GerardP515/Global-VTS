@@ -291,6 +291,54 @@
   "TSS-0195": {
    "unresolved_issue": "Exact territorial sea limit near the TSS not opened, so whether the Part I eastern end and Part II southern end lie in the Eastern VTS Zone or outside Canadian waters is not established. RAMN Table 3-24 calling-in points not read (page truncated; direct download refused). Pass 4: the Eastern VTS Zone is limited to Canadian waters and the local zone's eastern edge is the territorial sea limit, so the eastern end of Part I is probably outside every VTS zone, while the southern end of Part II may fall in the Eastern zone.",
    "_reason": "Pass 4 note."
+  },
+  "TSS-0219": {
+   "vts_source_ids": [
+    "Z3-S1",
+    "Z3-S2",
+    "Z3-P4-S1"
+   ],
+   "_reason": "Pass 4.",
+   "vts_boundary_basis": "MSC.389(94) (Z3-S1), the IMO instrument for VRS-0022, names Chengshan Jiao VTS Centre (Weihai MSA) as the shore authority for the 24 nm reporting area, states the Centre has radar and a continuous 24-hour watch and provides traffic information to participating ships, requires a listening watch on the VTS working channel, and requires ships NUC or at anchor 'in the TSSs' to report to VTS. COLREG.2/Circ.66 (Z3-S2) cross-refers the TSS to the SRS. VTS extent is therefore taken from the IMO instrument's 24 nm area; no separate national VTS area description (Chinese VTS rules for Chengshan Jiao) was located. The inner TSS vertices lie 3.1 to 15.1 nm from the Centre. Pass 4: the Shandong MSA notice of 12 Nov 2024 (revised Chengshan Jiao VTS rules and User Guide, in force 2 Dec 2024) places the routeing lanes and precautionary areas inside the Chengshan VTS area, so VTS coverage is stated, not only inferred from the reporting boundary. VTS area coordinates not obtained.",
+   "source_date": "MSC.389(94) adopted 21 Nov 2014, in force 1 Jun 2015; COLREG.2/Circ.66 21 Nov 2014, implemented 1 Jun 2015; accessed 29 Sep 2026 ; Shandong MSA notice 12 Nov 2024 (rules in force 2 Dec 2024)"
+  },
+  "TSS-0220": {
+   "vts_source_ids": [
+    "Z3-S1",
+    "Z3-S2",
+    "Z3-P4-S1"
+   ],
+   "_reason": "Pass 4.",
+   "vts_boundary_basis": "MSC.389(94) (Z3-S1), the IMO instrument for VRS-0022, names Chengshan Jiao VTS Centre (Weihai MSA) as the shore authority for the 24 nm reporting area, states the Centre has radar and a continuous 24-hour watch and provides traffic information to participating ships, requires a listening watch on the VTS working channel, and requires ships NUC or at anchor 'in the TSSs' to report to VTS. COLREG.2/Circ.66 (Z3-S2) cross-refers the TSS to the SRS. VTS extent is therefore taken from the IMO instrument's 24 nm area; no separate national VTS area description (Chinese VTS rules for Chengshan Jiao) was located. The North TSS vertices lie 15.4 to 21.7 nm from the Centre. Pass 4: the Shandong MSA notice of 12 Nov 2024 (revised Chengshan Jiao VTS rules and User Guide, in force 2 Dec 2024) places the routeing lanes and precautionary areas inside the Chengshan VTS area, so VTS coverage is stated, not only inferred from the reporting boundary. VTS area coordinates not obtained.",
+   "source_date": "MSC.389(94) adopted 21 Nov 2014, in force 1 Jun 2015; COLREG.2/Circ.66 21 Nov 2014, implemented 1 Jun 2015; accessed 29 Sep 2026 ; Shandong MSA notice 12 Nov 2024 (rules in force 2 Dec 2024)"
+  },
+  "TSS-0221": {
+   "vts_source_ids": [
+    "Z3-S1",
+    "Z3-S2",
+    "Z3-P4-S1"
+   ],
+   "_reason": "Pass 4 correction.",
+   "vts_boundary_basis": "MSC.389(94) (Z3-S1), the IMO instrument for VRS-0022, names Chengshan Jiao VTS Centre (Weihai MSA) as the shore authority for the 24 nm reporting area, states the Centre has radar and a continuous 24-hour watch and provides traffic information to participating ships, requires a listening watch on the VTS working channel, and requires ships NUC or at anchor 'in the TSSs' to report to VTS. COLREG.2/Circ.66 (Z3-S2) cross-refers the TSS to the SRS. VTS extent is therefore taken from the IMO instrument's 24 nm area; no separate national VTS area description (Chinese VTS rules for Chengshan Jiao) was located. Coverage is partial: the eastern end of the East TSS lies beyond 24 nm. Pass 4: the Shandong MSA notice of 12 Nov 2024 (revised Chengshan Jiao VTS rules and User Guide, in force 2 Dec 2024) places the routeing lanes and precautionary areas inside the Chengshan VTS area, so VTS coverage is stated, not only inferred from the reporting boundary. VTS area coordinates not obtained. Pass 4 correction: point 22 (24.14 nm) and point 23 (25.74 nm) are both outside the 24 nm circle, so the whole outer limit of the north-westbound lane (22 to 23) lies outside; the circle cuts across the lane at an angle.",
+   "source_date": "MSC.389(94) adopted 21 Nov 2014, in force 1 Jun 2015; COLREG.2/Circ.66 21 Nov 2014, implemented 1 Jun 2015; accessed 29 Sep 2026 ; Shandong MSA notice 12 Nov 2024 (rules in force 2 Dec 2024)"
+  },
+  "TSS-0222": {
+   "vts_source_ids": [
+    "Z3-S1",
+    "Z3-S2",
+    "Z3-P4-S1"
+   ],
+   "_reason": "Pass 4.",
+   "vts_boundary_basis": "MSC.389(94) (Z3-S1), the IMO instrument for VRS-0022, names Chengshan Jiao VTS Centre (Weihai MSA) as the shore authority for the 24 nm reporting area, states the Centre has radar and a continuous 24-hour watch and provides traffic information to participating ships, requires a listening watch on the VTS working channel, and requires ships NUC or at anchor 'in the TSSs' to report to VTS. COLREG.2/Circ.66 (Z3-S2) cross-refers the TSS to the SRS. VTS extent is therefore taken from the IMO instrument's 24 nm area; no separate national VTS area description (Chinese VTS rules for Chengshan Jiao) was located. The South TSS vertices lie 13.7 to 21.3 nm from the Centre. Pass 4: the Shandong MSA notice of 12 Nov 2024 (revised Chengshan Jiao VTS rules and User Guide, in force 2 Dec 2024) places the routeing lanes and precautionary areas inside the Chengshan VTS area, so VTS coverage is stated, not only inferred from the reporting boundary. VTS area coordinates not obtained.",
+   "source_date": "MSC.389(94) adopted 21 Nov 2014, in force 1 Jun 2015; COLREG.2/Circ.66 21 Nov 2014, implemented 1 Jun 2015; accessed 29 Sep 2026 ; Shandong MSA notice 12 Nov 2024 (rules in force 2 Dec 2024)"
+  },
+  "TSS-0223": {
+   "unresolved_issue": "Salvamento Marítimo website unavailable (TLS/503), so its own description of CCS functions and any Spanish designation of a coastal VTS for the Canary TSS could not be checked; ALRS Vol 6 not consulted. CANREP chartlet not inspected (coordinate check used instead). Pass 4: Salvamento Maritimo reportedly says its Las Palmas and Tenerife centres 'controlled' ships in the TSS in 2025; its website was unreachable, so a Spanish coastal VTS designation is not fully ruled out (lead).",
+   "_reason": "Pass 4."
+  },
+  "TSS-0224": {
+   "unresolved_issue": "Salvamento Marítimo website unavailable (TLS/503), so its own description of CCS functions and any Spanish designation of a coastal VTS for the Canary TSS could not be checked; ALRS Vol 6 not consulted. CANREP chartlet not inspected (coordinate check used instead). Pass 4: Salvamento Maritimo reportedly says its Las Palmas and Tenerife centres 'controlled' ships in the TSS in 2025; its website was unreachable, so a Spanish coastal VTS designation is not fully ruled out (lead).",
+   "_reason": "Pass 4."
   }
  },
  "pass4_notes": {
@@ -315,7 +363,9 @@
   "B38": "An independent checker re-opened NGA Pub. 124 and 125 (text and VTS diagrams), the COLREG.2 compilation, SOR/2025-275 Schedules 2 and 3 and DIRECTEMAR documents. Arica, Iquique and Chedabucto Bay upheld; Quintero and Valparaiso wording corrected; Punta Arenas downgraded to Unresolved (research/stage2/pass4/chk_Y_result.json).",
   "B39": "An independent checker re-opened NGA Pub. 124 and 125 (text and VTS diagrams), the COLREG.2 compilation, SOR/2025-275 Schedules 2 and 3 and DIRECTEMAR documents. Arica, Iquique and Chedabucto Bay upheld; Quintero and Valparaiso wording corrected; Punta Arenas downgraded to Unresolved (research/stage2/pass4/chk_Y_result.json).",
   "B42": "No positive or Neither confirmed classification to re-check. Coordinator confirmed every Unresolved record states what remains unknown.",
-  "B43": "No positive or Neither confirmed classification to re-check. Coordinator confirmed every Unresolved record states what remains unknown."
+  "B43": "No positive or Neither confirmed classification to re-check. Coordinator confirmed every Unresolved record states what remains unknown.",
+  "B44": "An independent checker re-opened MSC.389(94), MSC.213(81), COLREG.2/Circ.57 and 66 and the La Moncloa release, found the Shandong MSA 2024 VTS notice, and re-did the 24 nm and CANREP geometry. All six positives upheld; TSS-0221 wording corrected (research/stage2/pass4/chk_Z3_result.json).",
+  "B45": "An independent checker re-opened MSC.389(94), MSC.213(81), COLREG.2/Circ.57 and 66 and the La Moncloa release, found the Shandong MSA 2024 VTS notice, and re-did the 24 nm and CANREP geometry. All six positives upheld; TSS-0221 wording corrected (research/stage2/pass4/chk_Z3_result.json)."
  },
  "audit_result": {},
  "vts_alias": {
