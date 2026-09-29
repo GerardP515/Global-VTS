@@ -15,7 +15,7 @@ B33
 | TSS | VTS | Mandatory reporting | Classification |
 |---|---|---|---|
 | TSS-0161 In the Bass Strait | - | national MASTREP (Modernised Australian Ship Tracking and Reporting System), national mandatory scheme under the Navigation Act 2012 and Marine Order 63 (Vessel reporting systems) 2019; not an IMO Part I system | MRS only |
-| TSS-0162 In Prince William Sound | VTS-0030 Vessel Traffic Service Prince William Sound | No | VTS only |
+| TSS-0162 In Prince William Sound | VTS-0009 Vessel Traffic Service Prince William Sound | No | VTS only |
 | TSS-0163 Western approach | VTS-0031 Prince Rupert VTS Zone (Prince Rupert Traffic) | No | VTS only |
 | TSS-0164 South-western approach | VTS-0031 Prince Rupert VTS Zone (Prince Rupert Traffic) | No | VTS only |
 | TSS-0165 Western lanes | VTS-0010; VTS-0031 Vessel Traffic Service Puget Sound; Prince Rupert VTS Zone (Prince Rupert Traffic) | No | VTS only |
