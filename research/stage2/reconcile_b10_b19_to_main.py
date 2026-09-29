@@ -71,7 +71,7 @@ def main():
         out.append(row)
     out.sort(key=lambda r: r["tss_id"])
     with open(os.path.join(ROOT, reg_path), "w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=main_fields)
+        w = csv.DictWriter(f, fieldnames=main_fields, lineterminator="\n")
         w.writeheader()
         w.writerows(out)
 
@@ -88,7 +88,7 @@ def main():
             "notes": f"Stage 2 canonical addition from {r['first_batch']} (branch ID {r['vts_id']}).",
         })
     with open(ent_path, "w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=ent_fields)
+        w = csv.DictWriter(f, fieldnames=ent_fields, lineterminator="\n")
         w.writeheader()
         w.writerows(ent)
 
@@ -125,7 +125,7 @@ def main():
         open(p, "w", encoding="utf-8").write(t)
 
     with open(os.path.join(ROOT, "research", "stage2", "id_mapping_b10_b19.csv"), "w", newline="", encoding="utf-8") as f:
-        w = csv.writer(f)
+        w = csv.writer(f, lineterminator="\n")
         w.writerow(["branch_id", "canonical_id"])
         for k, v in list(vts_map.items()) + list(src_map.items()):
             w.writerow([k, v])
