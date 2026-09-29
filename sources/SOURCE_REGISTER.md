@@ -1252,3 +1252,25 @@ Third-party material may identify a lead. It must not establish current operatio
 - Use (B32): TasPorts VTS areas are port-named areas (including Grassy, King Island and Lady Barron, Flinders Island); no Bass Strait through-route VTS
 - Locator: VTS areas in Tasmania; channel table.
 - Passage: ""VTS areas in Tasmania Bell Bay VTS Area Devonport VTS Area Burnie VTS Area Port Latta VTS Area Strahan VTS Area Stanley VTS Area Hobart VTS Area Grassy VTS Area Coles Bay VTS Area Lady Baron VTS Area""
+
+### SRC-136 — Vessel Traffic Services
+
+- Authority: US Coast Guard Navigation Center (NAVCEN).
+- URL: https://www.navcen.uscg.gov/vessel-traffic-services
+- Evidence class: Tier 2.
+- Edition or date: undated web page; accessed 2026-09-29.
+- Accessed: 29 September 2026.
+- Use (B33): Current operation of USCG Vessel Traffic Centers including Prince William Sound and Puget Sound
+- Locator: introductory text.
+- Passage: ""The Coast Guard operates 12 Vessel Traffic Centers (VTC): Prince William Sound, Puget Sound, Valdez, Seattle, San Francisco, ...""
+
+### SRC-137 — Radio Aids to Marine Navigation 2026: Part 3: Vessel Traffic Services, section 3.5.4 Co-Operative Vessel Traffic Services (CVTS) Agreement
+
+- Authority: Canadian Coast Guard.
+- URL: https://www.canada.ca/en/canadian-coast-guard/corporate/publications/radio-aids-marine-navigation/vessel-traffic-services.html
+- Evidence class: Tier 3.
+- Edition or date: 2026 edition (web version); accessed 2026-09-29 via WebFetch (PDF and direct HTML download failed).
+- Accessed: 29 September 2026.
+- Use (B33): CVTS area of operation extends to 125°15'W and 48°00'N and names the traffic separation scheme as the point before which inbound vessels check in with Prince Rupert Traffic; participation mandatory within territorial waters
+- Locator: s. 3.5.4.
+- Passage: ""The CVTS Area of Operation is defined as 124°40W south along the Washington coast to 48°00N then west to 125°15W and north to 48°35'45"N." "Inbound vessels are to check in with Prince Rupert Traffic on VHF Channel 74 (156.725 MHz) at either 48°00N or 125°15W prior to entering the traffic separation scheme.""
