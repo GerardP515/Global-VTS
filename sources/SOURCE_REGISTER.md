@@ -1340,3 +1340,25 @@ Third-party material may identify a lead. It must not establish current operatio
 - Use (B39): TSS established for entering and leaving Chedabucto Bay; Strait of Canso and Eastern Approaches VTS Zone limits; mandatory participation; call sign Canso Traffic, VHF 14, 24 h operation; Canso Traffic (VCO) contact incl. MCTS Sydney e-mail
 - Locator: Sector 4, para 4.1 Regulations and Vessel Traffic Service (print p.103); Canso Contact Information table (para 4.20).
 - Passage: "The station identifier of the Canso VTS Center is “Canso Traffic” and can be contacted on VHF channel 14."
+
+### SRC-144 — Pub. 147 Sailing Directions (Enroute) Caribbean Sea Volume I
+
+- Authority: US National Geospatial-Intelligence Agency (NGA).
+- URL: https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub147bk.pdf&type=view
+- Evidence class: Tier 3.
+- Edition or date: 18th Edition 2025, file updated 28 August 2026.
+- Accessed: 29 September 2026.
+- Use (B42): Each Cuban TSS is noted with its inshore traffic zone; Cuban TSS are observed from control posts and vessels, which do not call for information except for infringements. No VTS or ship reporting system is described for any of the seven schemes.
+- Locator: Sector 4 paras 4.1 (p.42), 4.3 (p.44), 4.5 (p.45), 4.18 (p.53), 4.25 (p.56, Old Bahama Channel and Bahia de Nuevitas), 4.37 (p.60); Sector 5 paras 5.1 (p.66) and 5.2 (p.67).
+- Passage: "Such control posts or vessels shall not call for any information, except in cases involving infringements by shipping within the Traffic Separation Scheme, or other types of infringements of national law."
+
+### SRC-145 — Pub. 140 Sailing Directions (Planning Guide) North Atlantic Ocean and Adjacent Seas, Cuba chapter
+
+- Authority: US National Geospatial-Intelligence Agency (NGA).
+- URL: https://msi.nga.mil/api/publications/download?key=16694492/SFH00000/Pub140bk.pdf&type=view
+- Evidence class: Tier 3.
+- Edition or date: 18th Edition 2025, file updated 20 June 2026.
+- Accessed: 29 September 2026.
+- Use (B42): Cuba country chapter has sections on Pilotage, Pollution, Regulations, Prohibited Areas and Search and Rescue but no Vessel Traffic Service or Ship Reporting System section (other country chapters in the same volume carry such sections). Port approach reporting is to the Port Signal Station on VHF 16.
+- Locator: Cuba chapter pp.183 to 185 (Regulations; Search and Rescue).
+- Passage: "All vessels approaching Cuban ports should contact the Port Signal Station on VHF channel 16, or by light signals, to announce their presence, nationality, and characteristics."
