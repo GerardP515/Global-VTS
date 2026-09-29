@@ -6,20 +6,27 @@ Each batch must be completed and audited before the next batch is closed.
 
 > **Baseline note:** the candidate register remains under primary reconciliation. Batch B01 has already identified a 2026 UKHO baseline issue involving the omitted **Maas** entry and grouped routeing systems. Batch files organise the work; they do not freeze the final TSS count or sequence.
 
+## Active research scope
+
+**B01–B10 only (50 records).**
+
+Research outside B01–B10 is paused until this block is complete. Work must remain sequential: complete, audit and update one five-record batch before closing the next.
+
+
 ## Batch status
 
 | Batch | Records | Region(s) | Status |
 |---|---|---|---|
-| [B01](B01.md) | TSS-0001 to TSS-0005 | British Isles and southern North Sea | Not closed |
-| [B02](B02.md) | TSS-0006 to TSS-0010 | British Isles and southern North Sea | Not closed |
-| [B03](B03.md) | TSS-0011 to TSS-0015 | British Isles and southern North Sea | Not closed |
-| [B04](B04.md) | TSS-0016 to TSS-0020 | British Isles and southern North Sea; Norway and Iceland; Baltic Sea and approaches | Not closed |
-| [B05](B05.md) | TSS-0021 to TSS-0025 | Baltic Sea and approaches | Not closed |
-| [B06](B06.md) | TSS-0026 to TSS-0030 | Baltic Sea and approaches | Not closed |
-| [B07](B07.md) | TSS-0031 to TSS-0035 | Baltic Sea and approaches | Not closed |
-| [B08](B08.md) | TSS-0036 to TSS-0040 | Baltic Sea and approaches | Not closed |
-| [B09](B09.md) | TSS-0041 to TSS-0045 | Baltic Sea and approaches | Not closed |
-| [B10](B10.md) | TSS-0046 to TSS-0050 | North Sea continental coast | Not closed |
+| [B01](B01.md) | TSS-0001 to TSS-0005 | British Isles and southern North Sea | **Active scope — not closed** |
+| [B02](B02.md) | TSS-0006 to TSS-0010 | British Isles and southern North Sea | **Active scope — not closed** |
+| [B03](B03.md) | TSS-0011 to TSS-0015 | British Isles and southern North Sea | **Active scope — not closed** |
+| [B04](B04.md) | TSS-0016 to TSS-0020 | British Isles and southern North Sea; Norway and Iceland; Baltic Sea and approaches | **Active scope — not closed** |
+| [B05](B05.md) | TSS-0021 to TSS-0025 | Baltic Sea and approaches | **Active scope — not closed** |
+| [B06](B06.md) | TSS-0026 to TSS-0030 | Baltic Sea and approaches | **Active scope — not closed** |
+| [B07](B07.md) | TSS-0031 to TSS-0035 | Baltic Sea and approaches | **Active scope — not closed** |
+| [B08](B08.md) | TSS-0036 to TSS-0040 | Baltic Sea and approaches | **Active scope — not closed** |
+| [B09](B09.md) | TSS-0041 to TSS-0045 | Baltic Sea and approaches | **Active scope — not closed** |
+| [B10](B10.md) | TSS-0046 to TSS-0050 | North Sea continental coast | **Active scope — not closed** |
 | [B11](B11.md) | TSS-0051 to TSS-0055 | North Sea continental coast | Not closed |
 | [B12](B12.md) | TSS-0056 to TSS-0060 | North Sea continental coast; France, Iberia and Canary Islands | Not closed |
 | [B13](B13.md) | TSS-0061 to TSS-0065 | France, Iberia and Canary Islands | Not closed |
