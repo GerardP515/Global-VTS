@@ -1,0 +1,16 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary office files
+~$*.xlsx
+~$*.docx
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Local scratch
+scratch/
+tmp/
