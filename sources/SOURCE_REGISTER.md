@@ -1021,3 +1021,36 @@ Third-party material may identify a lead. It must not establish current operatio
 - Use (B36): Callao TSS explicitly linked to mandatory reports to TRAMAR (not described as a VTS); Peruvian port entries for Talara, Paita, Salaverry, Chimbote, Pisco/General San Martin and San Nicolas describe the TSS without any VTS; the publication describes VTS Arica, Iquique and Mejillones (Chile) but no Peruvian VTS; Galapagos routeing and Ecuador MRS in Sector 1 only
 - Locator: Sector 3: PDF p.57 (Talara, 'Talara Control'), p.58 (Paita), p.67 (Salaverry), p.73 (Chimbote), p.86 (Callao, TRAMAR), p.92 (Pisco/General San Martin), p.94 (San Nicolas); Sector 4 p.106 (VTS Arica).
 - Passage: "An IMO-adopted Traffic Separation Scheme (TRAMAR), best seen on the chart, has been established in the approaches to Callao. All vessels must report to TRAMAR on VHF channel 16"
+
+### SRC-115 — Ships' Routeing 2025 Edition, Part I mandatory ship reporting systems (data/authoritative/IMO_2025_Mandatory_Reporting_Systems.csv)
+
+- Authority: IMO (project baseline).
+- URL: 
+- Evidence class: Tier 1.
+- Edition or date: 2025 edition.
+- Accessed: 29 September 2026.
+- Use (B37): Only Part I system in the South American Pacific region is GALREP (VRS-0019, I-I/19), confined to the Galapagos; no Part I system covers Panama or the Peruvian coast
+- Locator: Row I-I/19.
+- Passage: "In the Galapagos Particularly Sensitive Sea Area [GALREP]"
+
+### SRC-116 — Vessel Traffic Management System Port of Callao (case study)
+
+- Authority: Wärtsilä (supplier).
+- URL: https://www.wartsila.com/insights/case-study/port-of-callao
+- Evidence class: Lead only.
+- Edition or date: 17 April 2025.
+- Accessed: 29 September 2026.
+- Use (B37): Peruvian Navy procured and implemented a VTS system at Callao; no service area, TSS coverage or official service description
+- Locator: Case study text.
+- Passage: "The Marina de Guerra del Perú (Peruvian Navy) needed to find a solution to all these challenges."
+
+### SRC-117 — Rol de la Dirección General de Capitanías y Guardacostas ... y el trabajo realizado en Pisco
+
+- Authority: DICAPI, Marina de Guerra del Perú (presentation hosted on gob.pe).
+- URL: https://cdn.www.gob.pe/uploads/document/file/3257676/Presentaci%C3%B3n%20de%20la%20Capitan%C3%ADa%20del%20Puerto%20de%20Pisco.pdf.pdf
+- Evidence class: Tier 4.
+- Edition or date: May 2022.
+- Accessed: 29 September 2026.
+- Use (B37): DICAPI lists 'Control y vigilancia del tráfico acuático' among functions; text layer names no VTS for Pisco (command and control slides are images, not read)
+- Locator: Slides 4 to 19.
+- Passage: "Control y vigilancia del tráfico acuático."
