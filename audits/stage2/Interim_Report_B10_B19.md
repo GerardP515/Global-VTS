@@ -77,7 +77,7 @@ All ten batch audits closed as PASS WITH UNRESOLVED ITEMS, except B14 and B16 (P
 
 This work was first done on a branch with reserved IDs (VTS-0101 onward, SRC-Bxx-nn) to avoid clashing with parallel sessions.
 It has since been merged into main's canonical registers: the six VTS are VTS-0017 to VTS-0022 in `data/current/VTS_Entity_Register.csv`,
-and the 56 sources are SRC-029 to SRC-084 in `sources/SOURCE_REGISTER.md`. The mapping is in `research/stage2/id_mapping_b10_b19.csv`.
+and the 56 sources are SRC-033 to SRC-088 in `sources/SOURCE_REGISTER.md`. The mapping is in `research/stage2/id_mapping_b10_b19.csv`.
 
 ## Files
 
