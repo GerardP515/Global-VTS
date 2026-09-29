@@ -1,0 +1,307 @@
+[
+ {
+  "tss_id": "TSS-0066",
+  "verdict": "Upheld",
+  "reason": "Off Vardø: MRS confirmed. Kystverket Barents SRS page states verbatim 'The traffic separation systems off the Norwegian coast from Vardø to Røst are within the operational area of Barents SRS.' SN.1/Circ.318 (MSC.348(91)) para 2.1 points A to H re-read (A/B at 67°10'N; C 68°15'N 009°30'E; D 71°15'N 019°E; E/F 71°50'N; G 71°N 033°20'E). Independent rhumb-line test on Kystverket WFS layer_706 polygons puts every lane and zone polygon landward of the seaward limit (my margins about 8 to 30 nm; small differences from the record's figures do not matter). Norway's national Regulation on vessels' notification obligations (2015 no. 1790) ch.7 ss.19 to 22 also imposes the Barents SRS duty on tankers, hazardous/polluting cargo ships, ships of 5,000 GT and above, etc. in the same Norwegian monitoring area (points a to f identical to MSC.348(91)). VTS dimension: Maritime Traffic Regulations s.6 (Tier 1) lists exactly six VTS areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya), and the official s.6 polygons (WFS layer_696) are disjoint from this TSS on re-computation. Kystverket nonetheless describes NOR VTS (Vardø) as providing an 'Information service for Barents SRS and routing schemes (TSS)' and monitoring 'tankers and other risk vessels that follow the routing measures established outside the Norwegian coast', and s.172 gives the NCA a supervisory/intervention role. Under Norway's own regulations that is not a VTS area, so the classification stands, but the coordinator should apply one policy consistently: if shore-based TSS monitoring by a VTS centre outside a declared VTS area is counted, all 19 Norwegian records move up one step (northern to VTS + MRS, southern to VTS only).",
+  "evidence_urls": [
+   "https://www.kystverket.no/en/klima-og-barekraft/barents-srs/",
+   "https://fma.fo/wp-content/uploads/2016/12/2013_navigational_03_sn_circ-318_new-mandatory-ship-reporting-system-in-the-barents-area.pdf",
+   "https://www.kystverket.no/globalassets/ohm-regelverk/engelsk/regulation-on-vessels-notification-obligations-under-the-harbour-and-fairways-act-1.pdf",
+   "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_706&srsName=EPSG:4326",
+   "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_696&srsName=EPSG:4326",
+   "https://www.kystverket.no/globalassets/maritime-traffic-regulations---20260601.pdf/download",
+   "https://www.kystverket.no/en/contact/vts-service/",
+   "https://www.kystverket.no/en/navigation-and-monitoring/vts---vessel-traffic-service/about-the-vessel-traffic-service-vts/"
+  ]
+ },
+ {
+  "tss_id": "TSS-0067",
+  "verdict": "Upheld",
+  "reason": "Off Slettnes: MRS confirmed. Kystverket Barents SRS page states verbatim 'The traffic separation systems off the Norwegian coast from Vardø to Røst are within the operational area of Barents SRS.' SN.1/Circ.318 (MSC.348(91)) para 2.1 points A to H re-read (A/B at 67°10'N; C 68°15'N 009°30'E; D 71°15'N 019°E; E/F 71°50'N; G 71°N 033°20'E). Independent rhumb-line test on Kystverket WFS layer_706 polygons puts every lane and zone polygon landward of the seaward limit (my margins about 8 to 30 nm; small differences from the record's figures do not matter). Norway's national Regulation on vessels' notification obligations (2015 no. 1790) ch.7 ss.19 to 22 also imposes the Barents SRS duty on tankers, hazardous/polluting cargo ships, ships of 5,000 GT and above, etc. in the same Norwegian monitoring area (points a to f identical to MSC.348(91)). VTS dimension: Maritime Traffic Regulations s.6 (Tier 1) lists exactly six VTS areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya), and the official s.6 polygons (WFS layer_696) are disjoint from this TSS on re-computation. Kystverket nonetheless describes NOR VTS (Vardø) as providing an 'Information service for Barents SRS and routing schemes (TSS)' and monitoring 'tankers and other risk vessels that follow the routing measures established outside the Norwegian coast', and s.172 gives the NCA a supervisory/intervention role. Under Norway's own regulations that is not a VTS area, so the classification stands, but the coordinator should apply one policy consistently: if shore-based TSS monitoring by a VTS centre outside a declared VTS area is counted, all 19 Norwegian records move up one step (northern to VTS + MRS, southern to VTS only).",
+  "evidence_urls": [
+   "https://www.kystverket.no/en/klima-og-barekraft/barents-srs/",
+   "https://fma.fo/wp-content/uploads/2016/12/2013_navigational_03_sn_circ-318_new-mandatory-ship-reporting-system-in-the-barents-area.pdf",
+   "https://www.kystverket.no/globalassets/ohm-regelverk/engelsk/regulation-on-vessels-notification-obligations-under-the-harbour-and-fairways-act-1.pdf",
+   "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_706&srsName=EPSG:4326",
+   "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_696&srsName=EPSG:4326",
+   "https://www.kystverket.no/globalassets/maritime-traffic-regulations---20260601.pdf/download",
+   "https://www.kystverket.no/en/contact/vts-service/",
+   "https://www.kystverket.no/en/navigation-and-monitoring/vts---vessel-traffic-service/about-the-vessel-traffic-service-vts/"
+  ]
+ },
+ {
+  "tss_id": "TSS-0068",
+  "verdict": "Upheld",
+  "reason": "Off North Cape: MRS confirmed. Kystverket Barents SRS page states verbatim 'The traffic separation systems off the Norwegian coast from Vardø to Røst are within the operational area of Barents SRS.' SN.1/Circ.318 (MSC.348(91)) para 2.1 points A to H re-read (A/B at 67°10'N; C 68°15'N 009°30'E; D 71°15'N 019°E; E/F 71°50'N; G 71°N 033°20'E). Independent rhumb-line test on Kystverket WFS layer_706 polygons puts every lane and zone polygon landward of the seaward limit (my margins about 8 to 30 nm; small differences from the record's figures do not matter). Norway's national Regulation on vessels' notification obligations (2015 no. 1790) ch.7 ss.19 to 22 also imposes the Barents SRS duty on tankers, hazardous/polluting cargo ships, ships of 5,000 GT and above, etc. in the same Norwegian monitoring area (points a to f identical to MSC.348(91)). VTS dimension: Maritime Traffic Regulations s.6 (Tier 1) lists exactly six VTS areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya), and the official s.6 polygons (WFS layer_696) are disjoint from this TSS on re-computation. Kystverket nonetheless describes NOR VTS (Vardø) as providing an 'Information service for Barents SRS and routing schemes (TSS)' and monitoring 'tankers and other risk vessels that follow the routing measures established outside the Norwegian coast', and s.172 gives the NCA a supervisory/intervention role. Under Norway's own regulations that is not a VTS area, so the classification stands, but the coordinator should apply one policy consistently: if shore-based TSS monitoring by a VTS centre outside a declared VTS area is counted, all 19 Norwegian records move up one step (northern to VTS + MRS, southern to VTS only).",
+  "evidence_urls": [
+   "https://www.kystverket.no/en/klima-og-barekraft/barents-srs/",
+   "https://fma.fo/wp-content/uploads/2016/12/2013_navigational_03_sn_circ-318_new-mandatory-ship-reporting-system-in-the-barents-area.pdf",
+   "https://www.kystverket.no/globalassets/ohm-regelverk/engelsk/regulation-on-vessels-notification-obligations-under-the-harbour-and-fairways-act-1.pdf",
+   "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_706&srsName=EPSG:4326",
+   "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_696&srsName=EPSG:4326",
+   "https://www.kystverket.no/globalassets/maritime-traffic-regulations---20260601.pdf/download",
+   "https://www.kystverket.no/en/contact/vts-service/",
+   "https://www.kystverket.no/en/navigation-and-monitoring/vts---vessel-traffic-service/about-the-vessel-traffic-service-vts/"
+  ]
+ },
+ {
+  "tss_id": "TSS-0069",
+  "verdict": "Upheld",
+  "reason": "Off Sørøya: MRS confirmed. Kystverket Barents SRS page states verbatim 'The traffic separation systems off the Norwegian coast from Vardø to Røst are within the operational area of Barents SRS.' SN.1/Circ.318 (MSC.348(91)) para 2.1 points A to H re-read (A/B at 67°10'N; C 68°15'N 009°30'E; D 71°15'N 019°E; E/F 71°50'N; G 71°N 033°20'E). Independent rhumb-line test on Kystverket WFS layer_706 polygons puts every lane and zone polygon landward of the seaward limit (my margins about 8 to 30 nm; small differences from the record's figures do not matter). Norway's national Regulation on vessels' notification obligations (2015 no. 1790) ch.7 ss.19 to 22 also imposes the Barents SRS duty on tankers, hazardous/polluting cargo ships, ships of 5,000 GT and above, etc. in the same Norwegian monitoring area (points a to f identical to MSC.348(91)). VTS dimension: Maritime Traffic Regulations s.6 (Tier 1) lists exactly six VTS areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya), and the official s.6 polygons (WFS layer_696) are disjoint from this TSS on re-computation. Kystverket nonetheless describes NOR VTS (Vardø) as providing an 'Information service for Barents SRS and routing schemes (TSS)' and monitoring 'tankers and other risk vessels that follow the routing measures established outside the Norwegian coast', and s.172 gives the NCA a supervisory/intervention role. Under Norway's own regulations that is not a VTS area, so the classification stands, but the coordinator should apply one policy consistently: if shore-based TSS monitoring by a VTS centre outside a declared VTS area is counted, all 19 Norwegian records move up one step (northern to VTS + MRS, southern to VTS only).",
+  "evidence_urls": [
+   "https://www.kystverket.no/en/klima-og-barekraft/barents-srs/",
+   "https://fma.fo/wp-content/uploads/2016/12/2013_navigational_03_sn_circ-318_new-mandatory-ship-reporting-system-in-the-barents-area.pdf",
+   "https://www.kystverket.no/globalassets/ohm-regelverk/engelsk/regulation-on-vessels-notification-obligations-under-the-harbour-and-fairways-act-1.pdf",
+   "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_706&srsName=EPSG:4326",
+   "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_696&srsName=EPSG:4326",
+   "https://www.kystverket.no/globalassets/maritime-traffic-regulations---20260601.pdf/download",
+   "https://www.kystverket.no/en/contact/vts-service/",
+   "https://www.kystverket.no/en/navigation-and-monitoring/vts---vessel-traffic-service/about-the-vessel-traffic-service-vts/"
+  ]
+ },
+ {
+  "tss_id": "TSS-0070",
+  "verdict": "Upheld",
+  "reason": "Off Torsvåg: MRS confirmed. Kystverket Barents SRS page states verbatim 'The traffic separation systems off the Norwegian coast from Vardø to Røst are within the operational area of Barents SRS.' SN.1/Circ.318 (MSC.348(91)) para 2.1 points A to H re-read (A/B at 67°10'N; C 68°15'N 009°30'E; D 71°15'N 019°E; E/F 71°50'N; G 71°N 033°20'E). Independent rhumb-line test on Kystverket WFS layer_706 polygons puts every lane and zone polygon landward of the seaward limit (my margins about 8 to 30 nm; small differences from the record's figures do not matter). Norway's national Regulation on vessels' notification obligations (2015 no. 1790) ch.7 ss.19 to 22 also imposes the Barents SRS duty on tankers, hazardous/polluting cargo ships, ships of 5,000 GT and above, etc. in the same Norwegian monitoring area (points a to f identical to MSC.348(91)). VTS dimension: Maritime Traffic Regulations s.6 (Tier 1) lists exactly six VTS areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya), and the official s.6 polygons (WFS layer_696) are disjoint from this TSS on re-computation. Kystverket nonetheless describes NOR VTS (Vardø) as providing an 'Information service for Barents SRS and routing schemes (TSS)' and monitoring 'tankers and other risk vessels that follow the routing measures established outside the Norwegian coast', and s.172 gives the NCA a supervisory/intervention role. Under Norway's own regulations that is not a VTS area, so the classification stands, but the coordinator should apply one policy consistently: if shore-based TSS monitoring by a VTS centre outside a declared VTS area is counted, all 19 Norwegian records move up one step (northern to VTS + MRS, southern to VTS only).",
+  "evidence_urls": [
+   "https://www.kystverket.no/en/klima-og-barekraft/barents-srs/",
+   "https://fma.fo/wp-content/uploads/2016/12/2013_navigational_03_sn_circ-318_new-mandatory-ship-reporting-system-in-the-barents-area.pdf",
+   "https://www.kystverket.no/globalassets/ohm-regelverk/engelsk/regulation-on-vessels-notification-obligations-under-the-harbour-and-fairways-act-1.pdf",
+   "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_706&srsName=EPSG:4326",
+   "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_696&srsName=EPSG:4326",
+   "https://www.kystverket.no/globalassets/maritime-traffic-regulations---20260601.pdf/download",
+   "https://www.kystverket.no/en/contact/vts-service/",
+   "https://www.kystverket.no/en/navigation-and-monitoring/vts---vessel-traffic-service/about-the-vessel-traffic-service-vts/"
+  ]
+ },
+ {
+  "tss_id": "TSS-0071",
+  "verdict": "Upheld",
+  "reason": "Off Andenes: MRS confirmed. Kystverket Barents SRS page states verbatim 'The traffic separation systems off the Norwegian coast from Vardø to Røst are within the operational area of Barents SRS.' SN.1/Circ.318 (MSC.348(91)) para 2.1 points A to H re-read (A/B at 67°10'N; C 68°15'N 009°30'E; D 71°15'N 019°E; E/F 71°50'N; G 71°N 033°20'E). Independent rhumb-line test on Kystverket WFS layer_706 polygons puts every lane and zone polygon landward of the seaward limit (my margins about 8 to 30 nm; small differences from the record's figures do not matter). Norway's national Regulation on vessels' notification obligations (2015 no. 1790) ch.7 ss.19 to 22 also imposes the Barents SRS duty on tankers, hazardous/polluting cargo ships, ships of 5,000 GT and above, etc. in the same Norwegian monitoring area (points a to f identical to MSC.348(91)). VTS dimension: Maritime Traffic Regulations s.6 (Tier 1) lists exactly six VTS areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya), and the official s.6 polygons (WFS layer_696) are disjoint from this TSS on re-computation. Kystverket nonetheless describes NOR VTS (Vardø) as providing an 'Information service for Barents SRS and routing schemes (TSS)' and monitoring 'tankers and other risk vessels that follow the routing measures established outside the Norwegian coast', and s.172 gives the NCA a supervisory/intervention role. Under Norway's own regulations that is not a VTS area, so the classification stands, but the coordinator should apply one policy consistently: if shore-based TSS monitoring by a VTS centre outside a declared VTS area is counted, all 19 Norwegian records move up one step (northern to VTS + MRS, southern to VTS only).",
+  "evidence_urls": [
+   "https://www.kystverket.no/en/klima-og-barekraft/barents-srs/",
+   "https://fma.fo/wp-content/uploads/2016/12/2013_navigational_03_sn_circ-318_new-mandatory-ship-reporting-system-in-the-barents-area.pdf",
+   "https://www.kystverket.no/globalassets/ohm-regelverk/engelsk/regulation-on-vessels-notification-obligations-under-the-harbour-and-fairways-act-1.pdf",
+   "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_706&srsName=EPSG:4326",
+   "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_696&srsName=EPSG:4326",
+   "https://www.kystverket.no/globalassets/maritime-traffic-regulations---20260601.pdf/download",
+   "https://www.kystverket.no/en/contact/vts-service/",
+   "https://www.kystverket.no/en/navigation-and-monitoring/vts---vessel-traffic-service/about-the-vessel-traffic-service-vts/"
+  ]
+ },
+ {
+  "tss_id": "TSS-0072",
+  "verdict": "Upheld",
+  "reason": "Off Røst (1): MRS confirmed. Kystverket Barents SRS page states verbatim 'The traffic separation systems off the Norwegian coast from Vardø to Røst are within the operational area of Barents SRS.' SN.1/Circ.318 (MSC.348(91)) para 2.1 points A to H re-read (A/B at 67°10'N; C 68°15'N 009°30'E; D 71°15'N 019°E; E/F 71°50'N; G 71°N 033°20'E). Independent rhumb-line test on Kystverket WFS layer_706 polygons puts every lane and zone polygon landward of the seaward limit (my margins about 8 to 30 nm; small differences from the record's figures do not matter). Norway's national Regulation on vessels' notification obligations (2015 no. 1790) ch.7 ss.19 to 22 also imposes the Barents SRS duty on tankers, hazardous/polluting cargo ships, ships of 5,000 GT and above, etc. in the same Norwegian monitoring area (points a to f identical to MSC.348(91)). The (1)/(2) position mapping remains unlabelled in the WFS, but both Røst clusters (67°29'N to 67°40'N and 68°01'N to 68°16'N) are north of 67°10'N and landward of line B to C on my own check, so the classification is unaffected. VTS dimension: Maritime Traffic Regulations s.6 (Tier 1) lists exactly six VTS areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya), and the official s.6 polygons (WFS layer_696) are disjoint from this TSS on re-computation. Kystverket nonetheless describes NOR VTS (Vardø) as providing an 'Information service for Barents SRS and routing schemes (TSS)' and monitoring 'tankers and other risk vessels that follow the routing measures established outside the Norwegian coast', and s.172 gives the NCA a supervisory/intervention role. Under Norway's own regulations that is not a VTS area, so the classification stands, but the coordinator should apply one policy consistently: if shore-based TSS monitoring by a VTS centre outside a declared VTS area is counted, all 19 Norwegian records move up one step (northern to VTS + MRS, southern to VTS only).",
+  "evidence_urls": [
+   "https://www.kystverket.no/en/klima-og-barekraft/barents-srs/",
+   "https://fma.fo/wp-content/uploads/2016/12/2013_navigational_03_sn_circ-318_new-mandatory-ship-reporting-system-in-the-barents-area.pdf",
+   "https://www.kystverket.no/globalassets/ohm-regelverk/engelsk/regulation-on-vessels-notification-obligations-under-the-harbour-and-fairways-act-1.pdf",
+   "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_706&srsName=EPSG:4326",
+   "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_696&srsName=EPSG:4326",
+   "https://www.kystverket.no/globalassets/maritime-traffic-regulations---20260601.pdf/download",
+   "https://www.kystverket.no/en/contact/vts-service/",
+   "https://www.kystverket.no/en/navigation-and-monitoring/vts---vessel-traffic-service/about-the-vessel-traffic-service-vts/"
+  ]
+ },
+ {
+  "tss_id": "TSS-0073",
+  "verdict": "Upheld",
+  "reason": "Off Røst (2): MRS confirmed. Kystverket Barents SRS page states verbatim 'The traffic separation systems off the Norwegian coast from Vardø to Røst are within the operational area of Barents SRS.' SN.1/Circ.318 (MSC.348(91)) para 2.1 points A to H re-read (A/B at 67°10'N; C 68°15'N 009°30'E; D 71°15'N 019°E; E/F 71°50'N; G 71°N 033°20'E). Independent rhumb-line test on Kystverket WFS layer_706 polygons puts every lane and zone polygon landward of the seaward limit (my margins about 8 to 30 nm; small differences from the record's figures do not matter). Norway's national Regulation on vessels' notification obligations (2015 no. 1790) ch.7 ss.19 to 22 also imposes the Barents SRS duty on tankers, hazardous/polluting cargo ships, ships of 5,000 GT and above, etc. in the same Norwegian monitoring area (points a to f identical to MSC.348(91)). The (1)/(2) position mapping remains unlabelled in the WFS, but both Røst clusters (67°29'N to 67°40'N and 68°01'N to 68°16'N) are north of 67°10'N and landward of line B to C on my own check, so the classification is unaffected. VTS dimension: Maritime Traffic Regulations s.6 (Tier 1) lists exactly six VTS areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya), and the official s.6 polygons (WFS layer_696) are disjoint from this TSS on re-computation. Kystverket nonetheless describes NOR VTS (Vardø) as providing an 'Information service for Barents SRS and routing schemes (TSS)' and monitoring 'tankers and other risk vessels that follow the routing measures established outside the Norwegian coast', and s.172 gives the NCA a supervisory/intervention role. Under Norway's own regulations that is not a VTS area, so the classification stands, but the coordinator should apply one policy consistently: if shore-based TSS monitoring by a VTS centre outside a declared VTS area is counted, all 19 Norwegian records move up one step (northern to VTS + MRS, southern to VTS only).",
+  "evidence_urls": [
+   "https://www.kystverket.no/en/klima-og-barekraft/barents-srs/",
+   "https://fma.fo/wp-content/uploads/2016/12/2013_navigational_03_sn_circ-318_new-mandatory-ship-reporting-system-in-the-barents-area.pdf",
+   "https://www.kystverket.no/globalassets/ohm-regelverk/engelsk/regulation-on-vessels-notification-obligations-under-the-harbour-and-fairways-act-1.pdf",
+   "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_706&srsName=EPSG:4326",
+   "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_696&srsName=EPSG:4326",
+   "https://www.kystverket.no/globalassets/maritime-traffic-regulations---20260601.pdf/download",
+   "https://www.kystverket.no/en/contact/vts-service/",
+   "https://www.kystverket.no/en/navigation-and-monitoring/vts---vessel-traffic-service/about-the-vessel-traffic-service-vts/"
+  ]
+ },
+ {
+  "tss_id": "TSS-0074",
+  "verdict": "Upheld",
+  "reason": "Off Træna: absence of mandatory reporting is now positively established, not merely inferred. (1) TSS lies wholly south of 67°10'N (WFS layer_706 re-checked), outside Barents SRS points A/B. (2) Norway's current Regulation on vessels' notification obligations under the Harbour and Fairways Act (21 Dec 2015 no. 1790, cited by Kystverket's SafeSeaNet reporting-requirements page as the governing regulation) contains only one en-route transit reporting duty, ch.7 'Mandatory ship reporting system in Norwegian territorial waters and economic zone', whose s.19 scope is Barents SRS and whose s.21 monitoring area has the same 67°10'N southern limit; all other duties (chs.2 to 6) are port-arrival, departure, ISPS, bulk-carrier and STS notifications, not transit reporting in the TSS. (3) Maritime Traffic Regulations ch.5 ss.169 to 172 impose only a duty to use the TSS, with NCA supervision and flag-state referral; no reporting provision. (4) WETREP's northern limit is 000° between 58°30'N and 62°N, well west of this TSS. This resolves the record's residual concern about a national non-IMO reporting scheme. VTS dimension: Maritime Traffic Regulations s.6 (Tier 1) lists exactly six VTS areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya), and the official s.6 polygons (WFS layer_696) are disjoint from this TSS on re-computation. Kystverket nonetheless describes NOR VTS (Vardø) as providing an 'Information service for Barents SRS and routing schemes (TSS)' and monitoring 'tankers and other risk vessels that follow the routing measures established outside the Norwegian coast', and s.172 gives the NCA a supervisory/intervention role. Under Norway's own regulations that is not a VTS area, so the classification stands, but the coordinator should apply one policy consistently: if shore-based TSS monitoring by a VTS centre outside a declared VTS area is counted, all 19 Norwegian records move up one step (northern to VTS + MRS, southern to VTS only).",
+  "evidence_urls": [
+   "https://www.kystverket.no/globalassets/ohm-regelverk/engelsk/regulation-on-vessels-notification-obligations-under-the-harbour-and-fairways-act-1.pdf",
+   "https://www.kystverket.no/en/port/safeseanet-norway/reporting-requirements/",
+   "https://www.kystverket.no/globalassets/maritime-traffic-regulations---20260601.pdf/download",
+   "https://fma.fo/wp-content/uploads/2016/12/2013_navigational_03_sn_circ-318_new-mandatory-ship-reporting-system-in-the-barents-area.pdf",
+   "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_706&srsName=EPSG:4326",
+   "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_696&srsName=EPSG:4326",
+   "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.190(79).pdf",
+   "https://www.kystverket.no/en/contact/vts-service/",
+   "https://www.kystverket.no/en/navigation-and-monitoring/vts---vessel-traffic-service/about-the-vessel-traffic-service-vts/"
+  ]
+ },
+ {
+  "tss_id": "TSS-0075",
+  "verdict": "Upheld",
+  "reason": "Off Halten: absence of mandatory reporting is now positively established, not merely inferred. (1) TSS lies wholly south of 67°10'N (WFS layer_706 re-checked), outside Barents SRS points A/B. (2) Norway's current Regulation on vessels' notification obligations under the Harbour and Fairways Act (21 Dec 2015 no. 1790, cited by Kystverket's SafeSeaNet reporting-requirements page as the governing regulation) contains only one en-route transit reporting duty, ch.7 'Mandatory ship reporting system in Norwegian territorial waters and economic zone', whose s.19 scope is Barents SRS and whose s.21 monitoring area has the same 67°10'N southern limit; all other duties (chs.2 to 6) are port-arrival, departure, ISPS, bulk-carrier and STS notifications, not transit reporting in the TSS. (3) Maritime Traffic Regulations ch.5 ss.169 to 172 impose only a duty to use the TSS, with NCA supervision and flag-state referral; no reporting provision. (4) WETREP's northern limit is 000° between 58°30'N and 62°N, well west of this TSS. This resolves the record's residual concern about a national non-IMO reporting scheme. VTS dimension: Maritime Traffic Regulations s.6 (Tier 1) lists exactly six VTS areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya), and the official s.6 polygons (WFS layer_696) are disjoint from this TSS on re-computation. Kystverket nonetheless describes NOR VTS (Vardø) as providing an 'Information service for Barents SRS and routing schemes (TSS)' and monitoring 'tankers and other risk vessels that follow the routing measures established outside the Norwegian coast', and s.172 gives the NCA a supervisory/intervention role. Under Norway's own regulations that is not a VTS area, so the classification stands, but the coordinator should apply one policy consistently: if shore-based TSS monitoring by a VTS centre outside a declared VTS area is counted, all 19 Norwegian records move up one step (northern to VTS + MRS, southern to VTS only).",
+  "evidence_urls": [
+   "https://www.kystverket.no/globalassets/ohm-regelverk/engelsk/regulation-on-vessels-notification-obligations-under-the-harbour-and-fairways-act-1.pdf",
+   "https://www.kystverket.no/en/port/safeseanet-norway/reporting-requirements/",
+   "https://www.kystverket.no/globalassets/maritime-traffic-regulations---20260601.pdf/download",
+   "https://fma.fo/wp-content/uploads/2016/12/2013_navigational_03_sn_circ-318_new-mandatory-ship-reporting-system-in-the-barents-area.pdf",
+   "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_706&srsName=EPSG:4326",
+   "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_696&srsName=EPSG:4326",
+   "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.190(79).pdf",
+   "https://www.kystverket.no/en/contact/vts-service/",
+   "https://www.kystverket.no/en/navigation-and-monitoring/vts---vessel-traffic-service/about-the-vessel-traffic-service-vts/"
+  ]
+ },
+ {
+  "tss_id": "TSS-0076",
+  "verdict": "Upheld",
+  "reason": "Off Runde: absence of mandatory reporting is now positively established, not merely inferred. (1) TSS lies wholly south of 67°10'N (WFS layer_706 re-checked), outside Barents SRS points A/B. (2) Norway's current Regulation on vessels' notification obligations under the Harbour and Fairways Act (21 Dec 2015 no. 1790, cited by Kystverket's SafeSeaNet reporting-requirements page as the governing regulation) contains only one en-route transit reporting duty, ch.7 'Mandatory ship reporting system in Norwegian territorial waters and economic zone', whose s.19 scope is Barents SRS and whose s.21 monitoring area has the same 67°10'N southern limit; all other duties (chs.2 to 6) are port-arrival, departure, ISPS, bulk-carrier and STS notifications, not transit reporting in the TSS. (3) Maritime Traffic Regulations ch.5 ss.169 to 172 impose only a duty to use the TSS, with NCA supervision and flag-state referral; no reporting provision. (4) WETREP's northern limit is 000° between 58°30'N and 62°N, well west of this TSS. This resolves the record's residual concern about a national non-IMO reporting scheme. VTS dimension: Maritime Traffic Regulations s.6 (Tier 1) lists exactly six VTS areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya), and the official s.6 polygons (WFS layer_696) are disjoint from this TSS on re-computation. Kystverket nonetheless describes NOR VTS (Vardø) as providing an 'Information service for Barents SRS and routing schemes (TSS)' and monitoring 'tankers and other risk vessels that follow the routing measures established outside the Norwegian coast', and s.172 gives the NCA a supervisory/intervention role. Under Norway's own regulations that is not a VTS area, so the classification stands, but the coordinator should apply one policy consistently: if shore-based TSS monitoring by a VTS centre outside a declared VTS area is counted, all 19 Norwegian records move up one step (northern to VTS + MRS, southern to VTS only).",
+  "evidence_urls": [
+   "https://www.kystverket.no/globalassets/ohm-regelverk/engelsk/regulation-on-vessels-notification-obligations-under-the-harbour-and-fairways-act-1.pdf",
+   "https://www.kystverket.no/en/port/safeseanet-norway/reporting-requirements/",
+   "https://www.kystverket.no/globalassets/maritime-traffic-regulations---20260601.pdf/download",
+   "https://fma.fo/wp-content/uploads/2016/12/2013_navigational_03_sn_circ-318_new-mandatory-ship-reporting-system-in-the-barents-area.pdf",
+   "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_706&srsName=EPSG:4326",
+   "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_696&srsName=EPSG:4326",
+   "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.190(79).pdf",
+   "https://www.kystverket.no/en/contact/vts-service/",
+   "https://www.kystverket.no/en/navigation-and-monitoring/vts---vessel-traffic-service/about-the-vessel-traffic-service-vts/"
+  ]
+ },
+ {
+  "tss_id": "TSS-0077",
+  "verdict": "Upheld",
+  "reason": "Off Stad: absence of mandatory reporting is now positively established, not merely inferred. (1) TSS lies wholly south of 67°10'N (WFS layer_706 re-checked), outside Barents SRS points A/B. (2) Norway's current Regulation on vessels' notification obligations under the Harbour and Fairways Act (21 Dec 2015 no. 1790, cited by Kystverket's SafeSeaNet reporting-requirements page as the governing regulation) contains only one en-route transit reporting duty, ch.7 'Mandatory ship reporting system in Norwegian territorial waters and economic zone', whose s.19 scope is Barents SRS and whose s.21 monitoring area has the same 67°10'N southern limit; all other duties (chs.2 to 6) are port-arrival, departure, ISPS, bulk-carrier and STS notifications, not transit reporting in the TSS. (3) Maritime Traffic Regulations ch.5 ss.169 to 172 impose only a duty to use the TSS, with NCA supervision and flag-state referral; no reporting provision. (4) WETREP's northern limit is 000° between 58°30'N and 62°N, well west of this TSS. This resolves the record's residual concern about a national non-IMO reporting scheme. VTS dimension: Maritime Traffic Regulations s.6 (Tier 1) lists exactly six VTS areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya), and the official s.6 polygons (WFS layer_696) are disjoint from this TSS on re-computation. Kystverket nonetheless describes NOR VTS (Vardø) as providing an 'Information service for Barents SRS and routing schemes (TSS)' and monitoring 'tankers and other risk vessels that follow the routing measures established outside the Norwegian coast', and s.172 gives the NCA a supervisory/intervention role. Under Norway's own regulations that is not a VTS area, so the classification stands, but the coordinator should apply one policy consistently: if shore-based TSS monitoring by a VTS centre outside a declared VTS area is counted, all 19 Norwegian records move up one step (northern to VTS + MRS, southern to VTS only).",
+  "evidence_urls": [
+   "https://www.kystverket.no/globalassets/ohm-regelverk/engelsk/regulation-on-vessels-notification-obligations-under-the-harbour-and-fairways-act-1.pdf",
+   "https://www.kystverket.no/en/port/safeseanet-norway/reporting-requirements/",
+   "https://www.kystverket.no/globalassets/maritime-traffic-regulations---20260601.pdf/download",
+   "https://fma.fo/wp-content/uploads/2016/12/2013_navigational_03_sn_circ-318_new-mandatory-ship-reporting-system-in-the-barents-area.pdf",
+   "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_706&srsName=EPSG:4326",
+   "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_696&srsName=EPSG:4326",
+   "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.190(79).pdf",
+   "https://www.kystverket.no/en/contact/vts-service/",
+   "https://www.kystverket.no/en/navigation-and-monitoring/vts---vessel-traffic-service/about-the-vessel-traffic-service-vts/"
+  ]
+ },
+ {
+  "tss_id": "TSS-0078",
+  "verdict": "Upheld",
+  "reason": "Off Sotra: absence of mandatory reporting is now positively established, not merely inferred. (1) TSS lies wholly south of 67°10'N (WFS layer_706 re-checked), outside Barents SRS points A/B. (2) Norway's current Regulation on vessels' notification obligations under the Harbour and Fairways Act (21 Dec 2015 no. 1790, cited by Kystverket's SafeSeaNet reporting-requirements page as the governing regulation) contains only one en-route transit reporting duty, ch.7 'Mandatory ship reporting system in Norwegian territorial waters and economic zone', whose s.19 scope is Barents SRS and whose s.21 monitoring area has the same 67°10'N southern limit; all other duties (chs.2 to 6) are port-arrival, departure, ISPS, bulk-carrier and STS notifications, not transit reporting in the TSS. (3) Maritime Traffic Regulations ch.5 ss.169 to 172 impose only a duty to use the TSS, with NCA supervision and flag-state referral; no reporting provision. (4) WETREP's northern limit is 000° between 58°30'N and 62°N, well west of this TSS. This resolves the record's residual concern about a national non-IMO reporting scheme. VTS dimension: Maritime Traffic Regulations s.6 (Tier 1) lists exactly six VTS areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya), and the official s.6 polygons (WFS layer_696) are disjoint from this TSS on re-computation. Kystverket nonetheless describes NOR VTS (Vardø) as providing an 'Information service for Barents SRS and routing schemes (TSS)' and monitoring 'tankers and other risk vessels that follow the routing measures established outside the Norwegian coast', and s.172 gives the NCA a supervisory/intervention role. Under Norway's own regulations that is not a VTS area, so the classification stands, but the coordinator should apply one policy consistently: if shore-based TSS monitoring by a VTS centre outside a declared VTS area is counted, all 19 Norwegian records move up one step (northern to VTS + MRS, southern to VTS only).",
+  "evidence_urls": [
+   "https://www.kystverket.no/globalassets/ohm-regelverk/engelsk/regulation-on-vessels-notification-obligations-under-the-harbour-and-fairways-act-1.pdf",
+   "https://www.kystverket.no/en/port/safeseanet-norway/reporting-requirements/",
+   "https://www.kystverket.no/globalassets/maritime-traffic-regulations---20260601.pdf/download",
+   "https://fma.fo/wp-content/uploads/2016/12/2013_navigational_03_sn_circ-318_new-mandatory-ship-reporting-system-in-the-barents-area.pdf",
+   "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_706&srsName=EPSG:4326",
+   "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_696&srsName=EPSG:4326",
+   "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.190(79).pdf",
+   "https://www.kystverket.no/en/contact/vts-service/",
+   "https://www.kystverket.no/en/navigation-and-monitoring/vts---vessel-traffic-service/about-the-vessel-traffic-service-vts/"
+  ]
+ },
+ {
+  "tss_id": "TSS-0079",
+  "verdict": "Upheld",
+  "reason": "Off Utsira: absence of mandatory reporting is now positively established, not merely inferred. (1) TSS lies wholly south of 67°10'N (WFS layer_706 re-checked), outside Barents SRS points A/B. (2) Norway's current Regulation on vessels' notification obligations under the Harbour and Fairways Act (21 Dec 2015 no. 1790, cited by Kystverket's SafeSeaNet reporting-requirements page as the governing regulation) contains only one en-route transit reporting duty, ch.7 'Mandatory ship reporting system in Norwegian territorial waters and economic zone', whose s.19 scope is Barents SRS and whose s.21 monitoring area has the same 67°10'N southern limit; all other duties (chs.2 to 6) are port-arrival, departure, ISPS, bulk-carrier and STS notifications, not transit reporting in the TSS. (3) Maritime Traffic Regulations ch.5 ss.169 to 172 impose only a duty to use the TSS, with NCA supervision and flag-state referral; no reporting provision. (4) WETREP's northern limit is 000° between 58°30'N and 62°N, well west of this TSS. This resolves the record's residual concern about a national non-IMO reporting scheme. VTS dimension: Maritime Traffic Regulations s.6 (Tier 1) lists exactly six VTS areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya), and the official s.6 polygons (WFS layer_696) are disjoint from this TSS on re-computation. Kystverket nonetheless describes NOR VTS (Vardø) as providing an 'Information service for Barents SRS and routing schemes (TSS)' and monitoring 'tankers and other risk vessels that follow the routing measures established outside the Norwegian coast', and s.172 gives the NCA a supervisory/intervention role. Under Norway's own regulations that is not a VTS area, so the classification stands, but the coordinator should apply one policy consistently: if shore-based TSS monitoring by a VTS centre outside a declared VTS area is counted, all 19 Norwegian records move up one step (northern to VTS + MRS, southern to VTS only).",
+  "evidence_urls": [
+   "https://www.kystverket.no/globalassets/ohm-regelverk/engelsk/regulation-on-vessels-notification-obligations-under-the-harbour-and-fairways-act-1.pdf",
+   "https://www.kystverket.no/en/port/safeseanet-norway/reporting-requirements/",
+   "https://www.kystverket.no/globalassets/maritime-traffic-regulations---20260601.pdf/download",
+   "https://fma.fo/wp-content/uploads/2016/12/2013_navigational_03_sn_circ-318_new-mandatory-ship-reporting-system-in-the-barents-area.pdf",
+   "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_706&srsName=EPSG:4326",
+   "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_696&srsName=EPSG:4326",
+   "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.190(79).pdf",
+   "https://www.kystverket.no/en/contact/vts-service/",
+   "https://www.kystverket.no/en/navigation-and-monitoring/vts---vessel-traffic-service/about-the-vessel-traffic-service-vts/"
+  ]
+ },
+ {
+  "tss_id": "TSS-0080",
+  "verdict": "Upheld",
+  "reason": "Off Egersund: absence of mandatory reporting is now positively established, not merely inferred. (1) TSS lies wholly south of 67°10'N (WFS layer_706 re-checked), outside Barents SRS points A/B. (2) Norway's current Regulation on vessels' notification obligations under the Harbour and Fairways Act (21 Dec 2015 no. 1790, cited by Kystverket's SafeSeaNet reporting-requirements page as the governing regulation) contains only one en-route transit reporting duty, ch.7 'Mandatory ship reporting system in Norwegian territorial waters and economic zone', whose s.19 scope is Barents SRS and whose s.21 monitoring area has the same 67°10'N southern limit; all other duties (chs.2 to 6) are port-arrival, departure, ISPS, bulk-carrier and STS notifications, not transit reporting in the TSS. (3) Maritime Traffic Regulations ch.5 ss.169 to 172 impose only a duty to use the TSS, with NCA supervision and flag-state referral; no reporting provision. (4) WETREP's northern limit is 000° between 58°30'N and 62°N, well west of this TSS. This resolves the record's residual concern about a national non-IMO reporting scheme. VTS dimension: Maritime Traffic Regulations s.6 (Tier 1) lists exactly six VTS areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya), and the official s.6 polygons (WFS layer_696) are disjoint from this TSS on re-computation. Kystverket nonetheless describes NOR VTS (Vardø) as providing an 'Information service for Barents SRS and routing schemes (TSS)' and monitoring 'tankers and other risk vessels that follow the routing measures established outside the Norwegian coast', and s.172 gives the NCA a supervisory/intervention role. Under Norway's own regulations that is not a VTS area, so the classification stands, but the coordinator should apply one policy consistently: if shore-based TSS monitoring by a VTS centre outside a declared VTS area is counted, all 19 Norwegian records move up one step (northern to VTS + MRS, southern to VTS only).",
+  "evidence_urls": [
+   "https://www.kystverket.no/globalassets/ohm-regelverk/engelsk/regulation-on-vessels-notification-obligations-under-the-harbour-and-fairways-act-1.pdf",
+   "https://www.kystverket.no/en/port/safeseanet-norway/reporting-requirements/",
+   "https://www.kystverket.no/globalassets/maritime-traffic-regulations---20260601.pdf/download",
+   "https://fma.fo/wp-content/uploads/2016/12/2013_navigational_03_sn_circ-318_new-mandatory-ship-reporting-system-in-the-barents-area.pdf",
+   "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_706&srsName=EPSG:4326",
+   "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_696&srsName=EPSG:4326",
+   "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.190(79).pdf",
+   "https://www.kystverket.no/en/contact/vts-service/",
+   "https://www.kystverket.no/en/navigation-and-monitoring/vts---vessel-traffic-service/about-the-vessel-traffic-service-vts/"
+  ]
+ },
+ {
+  "tss_id": "TSS-0081",
+  "verdict": "Upheld",
+  "reason": "Off Farsund: absence of mandatory reporting is now positively established, not merely inferred. (1) TSS lies wholly south of 67°10'N (WFS layer_706 re-checked), outside Barents SRS points A/B. (2) Norway's current Regulation on vessels' notification obligations under the Harbour and Fairways Act (21 Dec 2015 no. 1790, cited by Kystverket's SafeSeaNet reporting-requirements page as the governing regulation) contains only one en-route transit reporting duty, ch.7 'Mandatory ship reporting system in Norwegian territorial waters and economic zone', whose s.19 scope is Barents SRS and whose s.21 monitoring area has the same 67°10'N southern limit; all other duties (chs.2 to 6) are port-arrival, departure, ISPS, bulk-carrier and STS notifications, not transit reporting in the TSS. (3) Maritime Traffic Regulations ch.5 ss.169 to 172 impose only a duty to use the TSS, with NCA supervision and flag-state referral; no reporting provision. (4) WETREP's northern limit is 000° between 58°30'N and 62°N, well west of this TSS. This resolves the record's residual concern about a national non-IMO reporting scheme. VTS dimension: Maritime Traffic Regulations s.6 (Tier 1) lists exactly six VTS areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya), and the official s.6 polygons (WFS layer_696) are disjoint from this TSS on re-computation. Kystverket nonetheless describes NOR VTS (Vardø) as providing an 'Information service for Barents SRS and routing schemes (TSS)' and monitoring 'tankers and other risk vessels that follow the routing measures established outside the Norwegian coast', and s.172 gives the NCA a supervisory/intervention role. Under Norway's own regulations that is not a VTS area, so the classification stands, but the coordinator should apply one policy consistently: if shore-based TSS monitoring by a VTS centre outside a declared VTS area is counted, all 19 Norwegian records move up one step (northern to VTS + MRS, southern to VTS only).",
+  "evidence_urls": [
+   "https://www.kystverket.no/globalassets/ohm-regelverk/engelsk/regulation-on-vessels-notification-obligations-under-the-harbour-and-fairways-act-1.pdf",
+   "https://www.kystverket.no/en/port/safeseanet-norway/reporting-requirements/",
+   "https://www.kystverket.no/globalassets/maritime-traffic-regulations---20260601.pdf/download",
+   "https://fma.fo/wp-content/uploads/2016/12/2013_navigational_03_sn_circ-318_new-mandatory-ship-reporting-system-in-the-barents-area.pdf",
+   "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_706&srsName=EPSG:4326",
+   "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_696&srsName=EPSG:4326",
+   "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.190(79).pdf",
+   "https://www.kystverket.no/en/contact/vts-service/",
+   "https://www.kystverket.no/en/navigation-and-monitoring/vts---vessel-traffic-service/about-the-vessel-traffic-service-vts/"
+  ]
+ },
+ {
+  "tss_id": "TSS-0082",
+  "verdict": "Upheld",
+  "reason": "Off Ryvingen: absence of mandatory reporting is now positively established, not merely inferred. (1) TSS lies wholly south of 67°10'N (WFS layer_706 re-checked), outside Barents SRS points A/B. (2) Norway's current Regulation on vessels' notification obligations under the Harbour and Fairways Act (21 Dec 2015 no. 1790, cited by Kystverket's SafeSeaNet reporting-requirements page as the governing regulation) contains only one en-route transit reporting duty, ch.7 'Mandatory ship reporting system in Norwegian territorial waters and economic zone', whose s.19 scope is Barents SRS and whose s.21 monitoring area has the same 67°10'N southern limit; all other duties (chs.2 to 6) are port-arrival, departure, ISPS, bulk-carrier and STS notifications, not transit reporting in the TSS. (3) Maritime Traffic Regulations ch.5 ss.169 to 172 impose only a duty to use the TSS, with NCA supervision and flag-state referral; no reporting provision. (4) WETREP's northern limit is 000° between 58°30'N and 62°N, well west of this TSS. This resolves the record's residual concern about a national non-IMO reporting scheme. VTS dimension: Maritime Traffic Regulations s.6 (Tier 1) lists exactly six VTS areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya), and the official s.6 polygons (WFS layer_696) are disjoint from this TSS on re-computation. Kystverket nonetheless describes NOR VTS (Vardø) as providing an 'Information service for Barents SRS and routing schemes (TSS)' and monitoring 'tankers and other risk vessels that follow the routing measures established outside the Norwegian coast', and s.172 gives the NCA a supervisory/intervention role. Under Norway's own regulations that is not a VTS area, so the classification stands, but the coordinator should apply one policy consistently: if shore-based TSS monitoring by a VTS centre outside a declared VTS area is counted, all 19 Norwegian records move up one step (northern to VTS + MRS, southern to VTS only).",
+  "evidence_urls": [
+   "https://www.kystverket.no/globalassets/ohm-regelverk/engelsk/regulation-on-vessels-notification-obligations-under-the-harbour-and-fairways-act-1.pdf",
+   "https://www.kystverket.no/en/port/safeseanet-norway/reporting-requirements/",
+   "https://www.kystverket.no/globalassets/maritime-traffic-regulations---20260601.pdf/download",
+   "https://fma.fo/wp-content/uploads/2016/12/2013_navigational_03_sn_circ-318_new-mandatory-ship-reporting-system-in-the-barents-area.pdf",
+   "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_706&srsName=EPSG:4326",
+   "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_696&srsName=EPSG:4326",
+   "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.190(79).pdf",
+   "https://www.kystverket.no/en/contact/vts-service/",
+   "https://www.kystverket.no/en/navigation-and-monitoring/vts---vessel-traffic-service/about-the-vessel-traffic-service-vts/"
+  ]
+ },
+ {
+  "tss_id": "TSS-0083",
+  "verdict": "Upheld",
+  "reason": "Off Lillesand: absence of mandatory reporting is now positively established, not merely inferred. (1) TSS lies wholly south of 67°10'N (WFS layer_706 re-checked), outside Barents SRS points A/B. (2) Norway's current Regulation on vessels' notification obligations under the Harbour and Fairways Act (21 Dec 2015 no. 1790, cited by Kystverket's SafeSeaNet reporting-requirements page as the governing regulation) contains only one en-route transit reporting duty, ch.7 'Mandatory ship reporting system in Norwegian territorial waters and economic zone', whose s.19 scope is Barents SRS and whose s.21 monitoring area has the same 67°10'N southern limit; all other duties (chs.2 to 6) are port-arrival, departure, ISPS, bulk-carrier and STS notifications, not transit reporting in the TSS. (3) Maritime Traffic Regulations ch.5 ss.169 to 172 impose only a duty to use the TSS, with NCA supervision and flag-state referral; no reporting provision. (4) WETREP's northern limit is 000° between 58°30'N and 62°N, well west of this TSS. This resolves the record's residual concern about a national non-IMO reporting scheme. VTS dimension: Maritime Traffic Regulations s.6 (Tier 1) lists exactly six VTS areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya), and the official s.6 polygons (WFS layer_696) are disjoint from this TSS on re-computation. Kystverket nonetheless describes NOR VTS (Vardø) as providing an 'Information service for Barents SRS and routing schemes (TSS)' and monitoring 'tankers and other risk vessels that follow the routing measures established outside the Norwegian coast', and s.172 gives the NCA a supervisory/intervention role. Under Norway's own regulations that is not a VTS area, so the classification stands, but the coordinator should apply one policy consistently: if shore-based TSS monitoring by a VTS centre outside a declared VTS area is counted, all 19 Norwegian records move up one step (northern to VTS + MRS, southern to VTS only).",
+  "evidence_urls": [
+   "https://www.kystverket.no/globalassets/ohm-regelverk/engelsk/regulation-on-vessels-notification-obligations-under-the-harbour-and-fairways-act-1.pdf",
+   "https://www.kystverket.no/en/port/safeseanet-norway/reporting-requirements/",
+   "https://www.kystverket.no/globalassets/maritime-traffic-regulations---20260601.pdf/download",
+   "https://fma.fo/wp-content/uploads/2016/12/2013_navigational_03_sn_circ-318_new-mandatory-ship-reporting-system-in-the-barents-area.pdf",
+   "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_706&srsName=EPSG:4326",
+   "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_696&srsName=EPSG:4326",
+   "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.190(79).pdf",
+   "https://www.kystverket.no/en/contact/vts-service/",
+   "https://www.kystverket.no/en/navigation-and-monitoring/vts---vessel-traffic-service/about-the-vessel-traffic-service-vts/"
+  ]
+ },
+ {
+  "tss_id": "TSS-0084",
+  "verdict": "Upheld",
+  "reason": "Off Risør: absence of mandatory reporting is now positively established, not merely inferred. (1) TSS lies wholly south of 67°10'N (WFS layer_706 re-checked), outside Barents SRS points A/B. (2) Norway's current Regulation on vessels' notification obligations under the Harbour and Fairways Act (21 Dec 2015 no. 1790, cited by Kystverket's SafeSeaNet reporting-requirements page as the governing regulation) contains only one en-route transit reporting duty, ch.7 'Mandatory ship reporting system in Norwegian territorial waters and economic zone', whose s.19 scope is Barents SRS and whose s.21 monitoring area has the same 67°10'N southern limit; all other duties (chs.2 to 6) are port-arrival, departure, ISPS, bulk-carrier and STS notifications, not transit reporting in the TSS. (3) Maritime Traffic Regulations ch.5 ss.169 to 172 impose only a duty to use the TSS, with NCA supervision and flag-state referral; no reporting provision. (4) WETREP's northern limit is 000° between 58°30'N and 62°N, well west of this TSS. This resolves the record's residual concern about a national non-IMO reporting scheme. VTS dimension: Maritime Traffic Regulations s.6 (Tier 1) lists exactly six VTS areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya), and the official s.6 polygons (WFS layer_696) are disjoint from this TSS on re-computation. Kystverket nonetheless describes NOR VTS (Vardø) as providing an 'Information service for Barents SRS and routing schemes (TSS)' and monitoring 'tankers and other risk vessels that follow the routing measures established outside the Norwegian coast', and s.172 gives the NCA a supervisory/intervention role. Under Norway's own regulations that is not a VTS area, so the classification stands, but the coordinator should apply one policy consistently: if shore-based TSS monitoring by a VTS centre outside a declared VTS area is counted, all 19 Norwegian records move up one step (northern to VTS + MRS, southern to VTS only).",
+  "evidence_urls": [
+   "https://www.kystverket.no/globalassets/ohm-regelverk/engelsk/regulation-on-vessels-notification-obligations-under-the-harbour-and-fairways-act-1.pdf",
+   "https://www.kystverket.no/en/port/safeseanet-norway/reporting-requirements/",
+   "https://www.kystverket.no/globalassets/maritime-traffic-regulations---20260601.pdf/download",
+   "https://fma.fo/wp-content/uploads/2016/12/2013_navigational_03_sn_circ-318_new-mandatory-ship-reporting-system-in-the-barents-area.pdf",
+   "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_706&srsName=EPSG:4326",
+   "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_696&srsName=EPSG:4326",
+   "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.190(79).pdf",
+   "https://www.kystverket.no/en/contact/vts-service/",
+   "https://www.kystverket.no/en/navigation-and-monitoring/vts---vessel-traffic-service/about-the-vessel-traffic-service-vts/"
+  ]
+ },
+ {
+  "tss_id": "TSS-0085",
+  "verdict": "Upheld",
+  "reason": "MSC.190(79) annex para 2.1 boundary re-read (points 5 to 8 run 56°30'N 012°W, 54°40'41\"N 015°W, 50°56'45\"N 015°W, 48°27'N 006°25'W, closing at point 21 on the Irish coast), so the waters south of Ireland at c. 51°N 009°36'W are enclosed. Stronger evidence than the geometry test: annex para 6.2.1 explicitly lists 'Off Fastnet Rock' among the IMO-adopted TSS in the area of the system, which meets association standard item 4; recommend citing para 6.2.1. Participation is limited to oil tankers over 600 dwt carrying heavy grade oil, which should be recorded but does not change 'MRS only'. No Irish VTS designation covering the TSS was found; Irish Coast Guard traffic monitoring is not described as a VTS, so 'MRS only' is defensible, with the existing unresolved note kept.",
+  "evidence_urls": [
+   "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.190(79).pdf",
+   "https://www.gov.ie/en/department-of-transport/policy-information/the-irish-coast-guard/"
+  ]
+ }
+]

@@ -62,6 +62,21 @@ def norm(name):
     return re.sub(r"[^a-z0-9]+", " ", (name or "").lower()).strip()
 
 
+def split_top(text):
+    """Split on semicolons that are not inside brackets."""
+    parts, depth, cur = [], 0, ""
+    for ch in text:
+        depth += ch == "("
+        depth -= ch == ")"
+        if ch == ";" and depth == 0:
+            parts.append(cur)
+            cur = ""
+        else:
+            cur += ch
+    parts.append(cur)
+    return parts
+
+
 def load():
     groups = [json.load(open(p, encoding="utf-8")) for p in sorted(glob.glob(os.path.join(RAW, "*.json")))]
     adj = json.load(open(ADJ, encoding="utf-8")) if os.path.exists(ADJ) else {}
@@ -90,7 +105,11 @@ def main(batches):
         for k, v in fields.items():
             if k.startswith("_"):
                 continue
-            changes.setdefault(tid, []).append(f"{k}: {records[tid].get(k)!r} -> {v!r}. {reason}")
+            before = records[tid].get(k) or ""
+            if isinstance(v, str) and before and v.startswith(before):
+                changes.setdefault(tid, []).append(f"{k}: note added: \"{v[len(before):].strip()}\" ({reason})")
+            else:
+                changes.setdefault(tid, []).append(f"{k}: {before!r} -> {v!r}. {reason}")
             records[tid][k] = v
     alias = {norm(k): v for k, v in adj.get("vts_alias", {}).items()}
 
@@ -98,7 +117,7 @@ def main(batches):
     src_reg = {r["source_id"]: r for r in read_csv(SRC_REG)}
     url_to_id = {r["url"]: r["source_id"] for r in src_reg.values()}
     local_to_global = {}
-    for b in sorted({r["batch"] for r in records.values()}):
+    for b in sorted({r["batch"] for r in records.values()} & set(batches)):
         n = sum(1 for k in src_reg if k.startswith(f"SRC-{b}-"))
         for tid in sorted(t for t, r in records.items() if r["batch"] == b):
             r = records[tid]
@@ -134,7 +153,7 @@ def main(batches):
 
     def vts_ids_for(rec):
         ids = []
-        names = [n.strip() for n in re.split(r";", rec.get("vts_name") or "") if n.strip()]
+        names = [n.strip() for n in split_top(rec.get("vts_name") or "") if n.strip()]
         nonlocal next_id
         for n in names:
             canon = alias.get(norm(n), n)

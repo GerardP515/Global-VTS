@@ -1,0 +1,2186 @@
+[
+ {
+  "record": {
+   "tss_id": "TSS-0066",
+   "batch": "B14",
+   "tss_name": "Off Vardø",
+   "imo_parent_ref": "B-II/19",
+   "coastal_state_s": "Norway",
+   "association_status": "MRS only",
+   "vts_name": null,
+   "vts_authority": null,
+   "vts_centre": null,
+   "vts_sector": null,
+   "vts_boundary_basis": "Not inside any statutory VTS service area: Sjøtrafikkforskriften §6 lists six areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya) and Kystverket's official VTS-area polygons (R-S7) do not overlap this TSS (R-S6 polygons). Vardø VTS centre (NOR VTS) monitoring and information service for the offshore TSS is recorded as a lead, not as VTS coverage.",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "R-S7",
+    "R-S8",
+    "R-S3",
+    "R-S4"
+   ],
+   "mandatory_reporting": "Yes",
+   "vrs_id": "VRS-0009",
+   "reporting_scheme_name": "Mandatory ship reporting system In the Barents Area (BARENTS SRS)",
+   "reporting_authority": "Norwegian Coastal Administration (Kystverket), Vardø VTS centre (NOR VTS) for the Norwegian monitoring area",
+   "reporting_boundary_basis": "Kystverket names the TSS from Vardø to Røst as inside the Barents SRS operational area (R-S2). Independently, every lane and separation-zone polygon of this TSS (Kystverket WFS, R-S6; extent 70°42'N to 70°53'N, 031°25'E to 031°59'E) lies landward of the MSC.348(91) seaward limit A to H (R-S1), minimum margin about 22.6 nm (rhumb-line test), and north of 67°10'N. Full inclusion.",
+   "reporting_source_ids": [
+    "R-S1",
+    "R-S2",
+    "R-S6"
+   ],
+   "voluntary_reporting": "No",
+   "evidence_summary": "IMO B-II/19 'Off the coast of Norway' component, part of the former 2007 'Vardø to Røst' system (consolidated 1 June 2021, R-S10). Inside BARENTS SRS (VRS-0009): Kystverket states the Vardø to Røst TSS are within its operational area and the Kystverket TSS polygons fall inside the MSC.348(91) boundary. Ships of 5,000 GT and above, all tankers, hazardous cargo ships etc. report to Vardø VTS centre. No statutory VTS area covers the TSS; NOR VTS monitors routeing-measure traffic as an information service outside VTS areas.",
+   "source_date": "MSC.348(91) 28 Nov 2012 (in force 1 June 2013); Sjøtrafikkforskriften consolidated to FOR-2026-06-29-1454; VTS-area polygons valid from 2021-04-01; accessed 29 Sep 2026",
+   "unresolved_issue": null,
+   "vts_leads": "Vardø VTS centre (NOR VTS), Kystverket: 'Information service for Barents SRS and routing schemes (TSS) in Norway' and monitoring of risk vessels following the offshore routeing measures (R-S3, R-S4). Not a declared VTS area; coordinator may wish to decide project policy on shore-based TSS monitoring outside a VTS area.",
+   "prior_lead_outcome": "n/a: no prior_research_lead supplied for this record"
+  },
+  "sources": [
+   {
+    "id": "R-S7",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Kystverket WFS layer 'VTS tjenesteområde 2021 versjon 2' (layer_696)",
+    "date_or_edition": "features valid from 2021-04-01 (Kinn 2021-06-01); accessed 29 September 2026",
+    "url": "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_696&srsName=EPSG:4326",
+    "source_class": "Tier 2",
+    "supports": "Complete set of statutory VTS service areas (six polygons, each referenced to Sjøtrafikkforskriften §6); none overlaps any B-II/19 TSS in this group (Melkøya area max latitude 71.09N, east of 22.56E; others south of 62.05N)",
+    "locator": "Features 1 to 6 (attributes omraadenavn, forskriftsreferanse)",
+    "passage": "Melkøya tjenesteområde ... Sjøtrafikkforskriften §6"
+   },
+   {
+    "id": "R-S8",
+    "authority": "Lovdata / Ministry of Transport (Norway)",
+    "title": "Forskrift om bruk av sjøtrafikksentralenes tjenesteområde og bruk av bestemte farvann (sjøtrafikkforskriften), FOR-2021-02-10-523",
+    "date_or_edition": "consolidated text, last amended FOR-2026-06-29-1454 (in force 1 July 2026) as reported by the fetch tool; accessed 29 September 2026",
+    "url": "https://lovdata.no/dokument/SF/forskrift/2021-02-10-523",
+    "source_class": "Tier 1",
+    "supports": "§6 lists six VTS service areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya); chapter 5 (§§169 to 172) routeing measures in the EEZ with no reporting provision",
+    "locator": "§6; Kapittel 5 §§169 to 172",
+    "passage": "Horten tjenesteområde, Brevik tjenesteområde, Kvitsøy tjenesteområde, Fedje tjenesteområde, Kinn tjenesteområde, Melkøya tjenesteområde"
+   },
+   {
+    "id": "R-S3",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Vessel Traffic Service (VTS) centres (contact page)",
+    "date_or_edition": "undated web page; accessed 29 September 2026",
+    "url": "https://www.kystverket.no/en/contact/vts-service/",
+    "source_class": "Tier 2",
+    "supports": "Lists the six VTS areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya) and separately an NOR VTS information service for Barents SRS and TSS",
+    "locator": "Final contact block",
+    "passage": "Information service for Barents SRS and routing schemes (TSS) in Norway - NOR VTS"
+   },
+   {
+    "id": "R-S4",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "About the Vessel Traffic Service (VTS)",
+    "date_or_edition": "page timestamp 2021-06-02; accessed 29 September 2026",
+    "url": "https://www.kystverket.no/en/navigation-and-monitoring/vts---vessel-traffic-service/about-the-vessel-traffic-service-vts/",
+    "source_class": "Tier 2",
+    "supports": "Vardø VTS centre (NOR VTS) monitors risk vessels following the offshore routeing measures; its VTS area task is Melkøya",
+    "locator": "Section 'Vardø VTS centre'",
+    "passage": "The centre monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast."
+   },
+   {
+    "id": "R-S1",
+    "authority": "IMO (Maritime Safety Committee)",
+    "title": "SN.1/Circ.318, New mandatory ship reporting system 'In the Barents Area (Barents SRS)', annex resolution MSC.348(91)",
+    "date_or_edition": "4 December 2012 (MSC.348(91) adopted 28 November 2012; in force 0000 UTC 1 June 2013); accessed 29 September 2026",
+    "url": "https://fma.fo/wp-content/uploads/2016/12/2013_navigational_03_sn_circ-318_new-mandatory-ship-reporting-system-in-the-barents-area.pdf",
+    "source_class": "Tier 1",
+    "supports": "Barents SRS participation thresholds, geographical boundary (points A to H), reporting to Vardø VTS centre (Norwegian monitoring area)",
+    "locator": "Annex paras 1.1, 2.1 and 3.1.1 (copy hosted by the Faroese Maritime Authority, fma.fo; text is the IMO circular itself)",
+    "passage": "All Barents SRS reports must be sent to either Vardø VTS centre or Murmansk VTS centre."
+   },
+   {
+    "id": "R-S2",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Barents Ship Reporting System",
+    "date_or_edition": "undated web page; accessed 29 September 2026",
+    "url": "https://www.kystverket.no/en/klima-og-barekraft/barents-srs/",
+    "source_class": "Tier 2",
+    "supports": "Kystverket states the TSS from Vardø to Røst are inside the Barents SRS operational area; reports in Norwegian area go to NOR VTS (Vardø)",
+    "locator": "Main text",
+    "passage": "The traffic separation systems off the Norwegian coast from Vardø to Røst are within the operational area of Barents SRS."
+   },
+   {
+    "id": "R-S6",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Kystverket WFS layer 'TSS områder' (layer_706), services.kystverket.no",
+    "date_or_edition": "live dataset; accessed 29 September 2026",
+    "url": "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_706&srsName=EPSG:4326",
+    "source_class": "Tier 2",
+    "supports": "Official polygons of each TSS lane and separation zone; eight clusters named 'Trafikkseparasjonssystemer utenfor norskekysten mellom Vardø og Røst', plus separately named Træna and Halten TSS; used to test inclusion in Barents SRS and VTS areas",
+    "locator": "Features 50 to 79 (attribute tss_navn)",
+    "passage": "Trafikkseparasjonssystem utenfor Træna"
+   }
+  ]
+ },
+ {
+  "record": {
+   "tss_id": "TSS-0067",
+   "batch": "B14",
+   "tss_name": "Off Slettnes",
+   "imo_parent_ref": "B-II/19",
+   "coastal_state_s": "Norway",
+   "association_status": "MRS only",
+   "vts_name": null,
+   "vts_authority": null,
+   "vts_centre": null,
+   "vts_sector": null,
+   "vts_boundary_basis": "Not inside any statutory VTS service area: Sjøtrafikkforskriften §6 lists six areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya) and Kystverket's official VTS-area polygons (R-S7) do not overlap this TSS (R-S6 polygons). Vardø VTS centre (NOR VTS) monitoring and information service for the offshore TSS is recorded as a lead, not as VTS coverage.",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "R-S7",
+    "R-S8",
+    "R-S3",
+    "R-S4"
+   ],
+   "mandatory_reporting": "Yes",
+   "vrs_id": "VRS-0009",
+   "reporting_scheme_name": "Mandatory ship reporting system In the Barents Area (BARENTS SRS)",
+   "reporting_authority": "Norwegian Coastal Administration (Kystverket), Vardø VTS centre (NOR VTS) for the Norwegian monitoring area",
+   "reporting_boundary_basis": "Kystverket names the TSS from Vardø to Røst as inside the Barents SRS operational area (R-S2). Independently, every lane and separation-zone polygon of this TSS (Kystverket WFS, R-S6; extent 71°21'N to 71°32'N, 028°41'E to 029°20'E) lies landward of the MSC.348(91) seaward limit A to H (R-S1), minimum margin about 9.4 nm (rhumb-line test), and north of 67°10'N. Full inclusion.",
+   "reporting_source_ids": [
+    "R-S1",
+    "R-S2",
+    "R-S6"
+   ],
+   "voluntary_reporting": "No",
+   "evidence_summary": "IMO B-II/19 'Off the coast of Norway' component, part of the former 2007 'Vardø to Røst' system (consolidated 1 June 2021, R-S10). Inside BARENTS SRS (VRS-0009): Kystverket states the Vardø to Røst TSS are within its operational area and the Kystverket TSS polygons fall inside the MSC.348(91) boundary. Ships of 5,000 GT and above, all tankers, hazardous cargo ships etc. report to Vardø VTS centre. No statutory VTS area covers the TSS; NOR VTS monitors routeing-measure traffic as an information service outside VTS areas.",
+   "source_date": "MSC.348(91) 28 Nov 2012 (in force 1 June 2013); Sjøtrafikkforskriften consolidated to FOR-2026-06-29-1454; VTS-area polygons valid from 2021-04-01; accessed 29 Sep 2026",
+   "unresolved_issue": null,
+   "vts_leads": "Vardø VTS centre (NOR VTS), Kystverket: 'Information service for Barents SRS and routing schemes (TSS) in Norway' and monitoring of risk vessels following the offshore routeing measures (R-S3, R-S4). Not a declared VTS area; coordinator may wish to decide project policy on shore-based TSS monitoring outside a VTS area.",
+   "prior_lead_outcome": "n/a: no prior_research_lead supplied for this record"
+  },
+  "sources": [
+   {
+    "id": "R-S7",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Kystverket WFS layer 'VTS tjenesteområde 2021 versjon 2' (layer_696)",
+    "date_or_edition": "features valid from 2021-04-01 (Kinn 2021-06-01); accessed 29 September 2026",
+    "url": "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_696&srsName=EPSG:4326",
+    "source_class": "Tier 2",
+    "supports": "Complete set of statutory VTS service areas (six polygons, each referenced to Sjøtrafikkforskriften §6); none overlaps any B-II/19 TSS in this group (Melkøya area max latitude 71.09N, east of 22.56E; others south of 62.05N)",
+    "locator": "Features 1 to 6 (attributes omraadenavn, forskriftsreferanse)",
+    "passage": "Melkøya tjenesteområde ... Sjøtrafikkforskriften §6"
+   },
+   {
+    "id": "R-S8",
+    "authority": "Lovdata / Ministry of Transport (Norway)",
+    "title": "Forskrift om bruk av sjøtrafikksentralenes tjenesteområde og bruk av bestemte farvann (sjøtrafikkforskriften), FOR-2021-02-10-523",
+    "date_or_edition": "consolidated text, last amended FOR-2026-06-29-1454 (in force 1 July 2026) as reported by the fetch tool; accessed 29 September 2026",
+    "url": "https://lovdata.no/dokument/SF/forskrift/2021-02-10-523",
+    "source_class": "Tier 1",
+    "supports": "§6 lists six VTS service areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya); chapter 5 (§§169 to 172) routeing measures in the EEZ with no reporting provision",
+    "locator": "§6; Kapittel 5 §§169 to 172",
+    "passage": "Horten tjenesteområde, Brevik tjenesteområde, Kvitsøy tjenesteområde, Fedje tjenesteområde, Kinn tjenesteområde, Melkøya tjenesteområde"
+   },
+   {
+    "id": "R-S3",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Vessel Traffic Service (VTS) centres (contact page)",
+    "date_or_edition": "undated web page; accessed 29 September 2026",
+    "url": "https://www.kystverket.no/en/contact/vts-service/",
+    "source_class": "Tier 2",
+    "supports": "Lists the six VTS areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya) and separately an NOR VTS information service for Barents SRS and TSS",
+    "locator": "Final contact block",
+    "passage": "Information service for Barents SRS and routing schemes (TSS) in Norway - NOR VTS"
+   },
+   {
+    "id": "R-S4",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "About the Vessel Traffic Service (VTS)",
+    "date_or_edition": "page timestamp 2021-06-02; accessed 29 September 2026",
+    "url": "https://www.kystverket.no/en/navigation-and-monitoring/vts---vessel-traffic-service/about-the-vessel-traffic-service-vts/",
+    "source_class": "Tier 2",
+    "supports": "Vardø VTS centre (NOR VTS) monitors risk vessels following the offshore routeing measures; its VTS area task is Melkøya",
+    "locator": "Section 'Vardø VTS centre'",
+    "passage": "The centre monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast."
+   },
+   {
+    "id": "R-S1",
+    "authority": "IMO (Maritime Safety Committee)",
+    "title": "SN.1/Circ.318, New mandatory ship reporting system 'In the Barents Area (Barents SRS)', annex resolution MSC.348(91)",
+    "date_or_edition": "4 December 2012 (MSC.348(91) adopted 28 November 2012; in force 0000 UTC 1 June 2013); accessed 29 September 2026",
+    "url": "https://fma.fo/wp-content/uploads/2016/12/2013_navigational_03_sn_circ-318_new-mandatory-ship-reporting-system-in-the-barents-area.pdf",
+    "source_class": "Tier 1",
+    "supports": "Barents SRS participation thresholds, geographical boundary (points A to H), reporting to Vardø VTS centre (Norwegian monitoring area)",
+    "locator": "Annex paras 1.1, 2.1 and 3.1.1 (copy hosted by the Faroese Maritime Authority, fma.fo; text is the IMO circular itself)",
+    "passage": "All Barents SRS reports must be sent to either Vardø VTS centre or Murmansk VTS centre."
+   },
+   {
+    "id": "R-S2",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Barents Ship Reporting System",
+    "date_or_edition": "undated web page; accessed 29 September 2026",
+    "url": "https://www.kystverket.no/en/klima-og-barekraft/barents-srs/",
+    "source_class": "Tier 2",
+    "supports": "Kystverket states the TSS from Vardø to Røst are inside the Barents SRS operational area; reports in Norwegian area go to NOR VTS (Vardø)",
+    "locator": "Main text",
+    "passage": "The traffic separation systems off the Norwegian coast from Vardø to Røst are within the operational area of Barents SRS."
+   },
+   {
+    "id": "R-S6",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Kystverket WFS layer 'TSS områder' (layer_706), services.kystverket.no",
+    "date_or_edition": "live dataset; accessed 29 September 2026",
+    "url": "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_706&srsName=EPSG:4326",
+    "source_class": "Tier 2",
+    "supports": "Official polygons of each TSS lane and separation zone; eight clusters named 'Trafikkseparasjonssystemer utenfor norskekysten mellom Vardø og Røst', plus separately named Træna and Halten TSS; used to test inclusion in Barents SRS and VTS areas",
+    "locator": "Features 50 to 79 (attribute tss_navn)",
+    "passage": "Trafikkseparasjonssystem utenfor Træna"
+   }
+  ]
+ },
+ {
+  "record": {
+   "tss_id": "TSS-0068",
+   "batch": "B14",
+   "tss_name": "Off North Cape",
+   "imo_parent_ref": "B-II/19",
+   "coastal_state_s": "Norway",
+   "association_status": "MRS only",
+   "vts_name": null,
+   "vts_authority": null,
+   "vts_centre": null,
+   "vts_sector": null,
+   "vts_boundary_basis": "Not inside any statutory VTS service area: Sjøtrafikkforskriften §6 lists six areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya) and Kystverket's official VTS-area polygons (R-S7) do not overlap this TSS (R-S6 polygons). Vardø VTS centre (NOR VTS) monitoring and information service for the offshore TSS is recorded as a lead, not as VTS coverage.",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "R-S7",
+    "R-S8",
+    "R-S3",
+    "R-S4"
+   ],
+   "mandatory_reporting": "Yes",
+   "vrs_id": "VRS-0009",
+   "reporting_scheme_name": "Mandatory ship reporting system In the Barents Area (BARENTS SRS)",
+   "reporting_authority": "Norwegian Coastal Administration (Kystverket), Vardø VTS centre (NOR VTS) for the Norwegian monitoring area",
+   "reporting_boundary_basis": "Kystverket names the TSS from Vardø to Røst as inside the Barents SRS operational area (R-S2). Independently, every lane and separation-zone polygon of this TSS (Kystverket WFS, R-S6; extent 71°37'N to 71°47'N, 025°24'E to 026°13'E) lies landward of the MSC.348(91) seaward limit A to H (R-S1), minimum margin about 3.0 nm (rhumb-line test), and north of 67°10'N. Full inclusion.",
+   "reporting_source_ids": [
+    "R-S1",
+    "R-S2",
+    "R-S6"
+   ],
+   "voluntary_reporting": "No",
+   "evidence_summary": "IMO B-II/19 'Off the coast of Norway' component, part of the former 2007 'Vardø to Røst' system (consolidated 1 June 2021, R-S10). Inside BARENTS SRS (VRS-0009): Kystverket states the Vardø to Røst TSS are within its operational area and the Kystverket TSS polygons fall inside the MSC.348(91) boundary. Ships of 5,000 GT and above, all tankers, hazardous cargo ships etc. report to Vardø VTS centre. No statutory VTS area covers the TSS; NOR VTS monitors routeing-measure traffic as an information service outside VTS areas.",
+   "source_date": "MSC.348(91) 28 Nov 2012 (in force 1 June 2013); Sjøtrafikkforskriften consolidated to FOR-2026-06-29-1454; VTS-area polygons valid from 2021-04-01; accessed 29 Sep 2026",
+   "unresolved_issue": null,
+   "vts_leads": "Vardø VTS centre (NOR VTS), Kystverket: 'Information service for Barents SRS and routing schemes (TSS) in Norway' and monitoring of risk vessels following the offshore routeing measures (R-S3, R-S4). Not a declared VTS area; coordinator may wish to decide project policy on shore-based TSS monitoring outside a VTS area.",
+   "prior_lead_outcome": "n/a: no prior_research_lead supplied for this record"
+  },
+  "sources": [
+   {
+    "id": "R-S7",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Kystverket WFS layer 'VTS tjenesteområde 2021 versjon 2' (layer_696)",
+    "date_or_edition": "features valid from 2021-04-01 (Kinn 2021-06-01); accessed 29 September 2026",
+    "url": "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_696&srsName=EPSG:4326",
+    "source_class": "Tier 2",
+    "supports": "Complete set of statutory VTS service areas (six polygons, each referenced to Sjøtrafikkforskriften §6); none overlaps any B-II/19 TSS in this group (Melkøya area max latitude 71.09N, east of 22.56E; others south of 62.05N)",
+    "locator": "Features 1 to 6 (attributes omraadenavn, forskriftsreferanse)",
+    "passage": "Melkøya tjenesteområde ... Sjøtrafikkforskriften §6"
+   },
+   {
+    "id": "R-S8",
+    "authority": "Lovdata / Ministry of Transport (Norway)",
+    "title": "Forskrift om bruk av sjøtrafikksentralenes tjenesteområde og bruk av bestemte farvann (sjøtrafikkforskriften), FOR-2021-02-10-523",
+    "date_or_edition": "consolidated text, last amended FOR-2026-06-29-1454 (in force 1 July 2026) as reported by the fetch tool; accessed 29 September 2026",
+    "url": "https://lovdata.no/dokument/SF/forskrift/2021-02-10-523",
+    "source_class": "Tier 1",
+    "supports": "§6 lists six VTS service areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya); chapter 5 (§§169 to 172) routeing measures in the EEZ with no reporting provision",
+    "locator": "§6; Kapittel 5 §§169 to 172",
+    "passage": "Horten tjenesteområde, Brevik tjenesteområde, Kvitsøy tjenesteområde, Fedje tjenesteområde, Kinn tjenesteområde, Melkøya tjenesteområde"
+   },
+   {
+    "id": "R-S3",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Vessel Traffic Service (VTS) centres (contact page)",
+    "date_or_edition": "undated web page; accessed 29 September 2026",
+    "url": "https://www.kystverket.no/en/contact/vts-service/",
+    "source_class": "Tier 2",
+    "supports": "Lists the six VTS areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya) and separately an NOR VTS information service for Barents SRS and TSS",
+    "locator": "Final contact block",
+    "passage": "Information service for Barents SRS and routing schemes (TSS) in Norway - NOR VTS"
+   },
+   {
+    "id": "R-S4",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "About the Vessel Traffic Service (VTS)",
+    "date_or_edition": "page timestamp 2021-06-02; accessed 29 September 2026",
+    "url": "https://www.kystverket.no/en/navigation-and-monitoring/vts---vessel-traffic-service/about-the-vessel-traffic-service-vts/",
+    "source_class": "Tier 2",
+    "supports": "Vardø VTS centre (NOR VTS) monitors risk vessels following the offshore routeing measures; its VTS area task is Melkøya",
+    "locator": "Section 'Vardø VTS centre'",
+    "passage": "The centre monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast."
+   },
+   {
+    "id": "R-S1",
+    "authority": "IMO (Maritime Safety Committee)",
+    "title": "SN.1/Circ.318, New mandatory ship reporting system 'In the Barents Area (Barents SRS)', annex resolution MSC.348(91)",
+    "date_or_edition": "4 December 2012 (MSC.348(91) adopted 28 November 2012; in force 0000 UTC 1 June 2013); accessed 29 September 2026",
+    "url": "https://fma.fo/wp-content/uploads/2016/12/2013_navigational_03_sn_circ-318_new-mandatory-ship-reporting-system-in-the-barents-area.pdf",
+    "source_class": "Tier 1",
+    "supports": "Barents SRS participation thresholds, geographical boundary (points A to H), reporting to Vardø VTS centre (Norwegian monitoring area)",
+    "locator": "Annex paras 1.1, 2.1 and 3.1.1 (copy hosted by the Faroese Maritime Authority, fma.fo; text is the IMO circular itself)",
+    "passage": "All Barents SRS reports must be sent to either Vardø VTS centre or Murmansk VTS centre."
+   },
+   {
+    "id": "R-S2",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Barents Ship Reporting System",
+    "date_or_edition": "undated web page; accessed 29 September 2026",
+    "url": "https://www.kystverket.no/en/klima-og-barekraft/barents-srs/",
+    "source_class": "Tier 2",
+    "supports": "Kystverket states the TSS from Vardø to Røst are inside the Barents SRS operational area; reports in Norwegian area go to NOR VTS (Vardø)",
+    "locator": "Main text",
+    "passage": "The traffic separation systems off the Norwegian coast from Vardø to Røst are within the operational area of Barents SRS."
+   },
+   {
+    "id": "R-S6",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Kystverket WFS layer 'TSS områder' (layer_706), services.kystverket.no",
+    "date_or_edition": "live dataset; accessed 29 September 2026",
+    "url": "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_706&srsName=EPSG:4326",
+    "source_class": "Tier 2",
+    "supports": "Official polygons of each TSS lane and separation zone; eight clusters named 'Trafikkseparasjonssystemer utenfor norskekysten mellom Vardø og Røst', plus separately named Træna and Halten TSS; used to test inclusion in Barents SRS and VTS areas",
+    "locator": "Features 50 to 79 (attribute tss_navn)",
+    "passage": "Trafikkseparasjonssystem utenfor Træna"
+   }
+  ]
+ },
+ {
+  "record": {
+   "tss_id": "TSS-0069",
+   "batch": "B14",
+   "tss_name": "Off Sørøya",
+   "imo_parent_ref": "B-II/19",
+   "coastal_state_s": "Norway",
+   "association_status": "MRS only",
+   "vts_name": null,
+   "vts_authority": null,
+   "vts_centre": null,
+   "vts_sector": null,
+   "vts_boundary_basis": "Not inside any statutory VTS service area: Sjøtrafikkforskriften §6 lists six areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya) and Kystverket's official VTS-area polygons (R-S7) do not overlap this TSS (R-S6 polygons). Vardø VTS centre (NOR VTS) monitoring and information service for the offshore TSS is recorded as a lead, not as VTS coverage.",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "R-S7",
+    "R-S8",
+    "R-S3",
+    "R-S4"
+   ],
+   "mandatory_reporting": "Yes",
+   "vrs_id": "VRS-0009",
+   "reporting_scheme_name": "Mandatory ship reporting system In the Barents Area (BARENTS SRS)",
+   "reporting_authority": "Norwegian Coastal Administration (Kystverket), Vardø VTS centre (NOR VTS) for the Norwegian monitoring area",
+   "reporting_boundary_basis": "Kystverket names the TSS from Vardø to Røst as inside the Barents SRS operational area (R-S2). Independently, every lane and separation-zone polygon of this TSS (Kystverket WFS, R-S6; extent 71°24'N to 71°35'N, 021°56'E to 022°41'E) lies landward of the MSC.348(91) seaward limit A to H (R-S1), minimum margin about 4.3 nm (rhumb-line test), and north of 67°10'N. Full inclusion.",
+   "reporting_source_ids": [
+    "R-S1",
+    "R-S2",
+    "R-S6"
+   ],
+   "voluntary_reporting": "No",
+   "evidence_summary": "IMO B-II/19 'Off the coast of Norway' component, part of the former 2007 'Vardø to Røst' system (consolidated 1 June 2021, R-S10). Inside BARENTS SRS (VRS-0009): Kystverket states the Vardø to Røst TSS are within its operational area and the Kystverket TSS polygons fall inside the MSC.348(91) boundary. Ships of 5,000 GT and above, all tankers, hazardous cargo ships etc. report to Vardø VTS centre. No statutory VTS area covers the TSS; NOR VTS monitors routeing-measure traffic as an information service outside VTS areas.",
+   "source_date": "MSC.348(91) 28 Nov 2012 (in force 1 June 2013); Sjøtrafikkforskriften consolidated to FOR-2026-06-29-1454; VTS-area polygons valid from 2021-04-01; accessed 29 Sep 2026",
+   "unresolved_issue": null,
+   "vts_leads": "Vardø VTS centre (NOR VTS), Kystverket: 'Information service for Barents SRS and routing schemes (TSS) in Norway' and monitoring of risk vessels following the offshore routeing measures (R-S3, R-S4). Not a declared VTS area; coordinator may wish to decide project policy on shore-based TSS monitoring outside a VTS area.",
+   "prior_lead_outcome": "n/a: no prior_research_lead supplied for this record"
+  },
+  "sources": [
+   {
+    "id": "R-S7",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Kystverket WFS layer 'VTS tjenesteområde 2021 versjon 2' (layer_696)",
+    "date_or_edition": "features valid from 2021-04-01 (Kinn 2021-06-01); accessed 29 September 2026",
+    "url": "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_696&srsName=EPSG:4326",
+    "source_class": "Tier 2",
+    "supports": "Complete set of statutory VTS service areas (six polygons, each referenced to Sjøtrafikkforskriften §6); none overlaps any B-II/19 TSS in this group (Melkøya area max latitude 71.09N, east of 22.56E; others south of 62.05N)",
+    "locator": "Features 1 to 6 (attributes omraadenavn, forskriftsreferanse)",
+    "passage": "Melkøya tjenesteområde ... Sjøtrafikkforskriften §6"
+   },
+   {
+    "id": "R-S8",
+    "authority": "Lovdata / Ministry of Transport (Norway)",
+    "title": "Forskrift om bruk av sjøtrafikksentralenes tjenesteområde og bruk av bestemte farvann (sjøtrafikkforskriften), FOR-2021-02-10-523",
+    "date_or_edition": "consolidated text, last amended FOR-2026-06-29-1454 (in force 1 July 2026) as reported by the fetch tool; accessed 29 September 2026",
+    "url": "https://lovdata.no/dokument/SF/forskrift/2021-02-10-523",
+    "source_class": "Tier 1",
+    "supports": "§6 lists six VTS service areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya); chapter 5 (§§169 to 172) routeing measures in the EEZ with no reporting provision",
+    "locator": "§6; Kapittel 5 §§169 to 172",
+    "passage": "Horten tjenesteområde, Brevik tjenesteområde, Kvitsøy tjenesteområde, Fedje tjenesteområde, Kinn tjenesteområde, Melkøya tjenesteområde"
+   },
+   {
+    "id": "R-S3",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Vessel Traffic Service (VTS) centres (contact page)",
+    "date_or_edition": "undated web page; accessed 29 September 2026",
+    "url": "https://www.kystverket.no/en/contact/vts-service/",
+    "source_class": "Tier 2",
+    "supports": "Lists the six VTS areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya) and separately an NOR VTS information service for Barents SRS and TSS",
+    "locator": "Final contact block",
+    "passage": "Information service for Barents SRS and routing schemes (TSS) in Norway - NOR VTS"
+   },
+   {
+    "id": "R-S4",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "About the Vessel Traffic Service (VTS)",
+    "date_or_edition": "page timestamp 2021-06-02; accessed 29 September 2026",
+    "url": "https://www.kystverket.no/en/navigation-and-monitoring/vts---vessel-traffic-service/about-the-vessel-traffic-service-vts/",
+    "source_class": "Tier 2",
+    "supports": "Vardø VTS centre (NOR VTS) monitors risk vessels following the offshore routeing measures; its VTS area task is Melkøya",
+    "locator": "Section 'Vardø VTS centre'",
+    "passage": "The centre monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast."
+   },
+   {
+    "id": "R-S1",
+    "authority": "IMO (Maritime Safety Committee)",
+    "title": "SN.1/Circ.318, New mandatory ship reporting system 'In the Barents Area (Barents SRS)', annex resolution MSC.348(91)",
+    "date_or_edition": "4 December 2012 (MSC.348(91) adopted 28 November 2012; in force 0000 UTC 1 June 2013); accessed 29 September 2026",
+    "url": "https://fma.fo/wp-content/uploads/2016/12/2013_navigational_03_sn_circ-318_new-mandatory-ship-reporting-system-in-the-barents-area.pdf",
+    "source_class": "Tier 1",
+    "supports": "Barents SRS participation thresholds, geographical boundary (points A to H), reporting to Vardø VTS centre (Norwegian monitoring area)",
+    "locator": "Annex paras 1.1, 2.1 and 3.1.1 (copy hosted by the Faroese Maritime Authority, fma.fo; text is the IMO circular itself)",
+    "passage": "All Barents SRS reports must be sent to either Vardø VTS centre or Murmansk VTS centre."
+   },
+   {
+    "id": "R-S2",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Barents Ship Reporting System",
+    "date_or_edition": "undated web page; accessed 29 September 2026",
+    "url": "https://www.kystverket.no/en/klima-og-barekraft/barents-srs/",
+    "source_class": "Tier 2",
+    "supports": "Kystverket states the TSS from Vardø to Røst are inside the Barents SRS operational area; reports in Norwegian area go to NOR VTS (Vardø)",
+    "locator": "Main text",
+    "passage": "The traffic separation systems off the Norwegian coast from Vardø to Røst are within the operational area of Barents SRS."
+   },
+   {
+    "id": "R-S6",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Kystverket WFS layer 'TSS områder' (layer_706), services.kystverket.no",
+    "date_or_edition": "live dataset; accessed 29 September 2026",
+    "url": "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_706&srsName=EPSG:4326",
+    "source_class": "Tier 2",
+    "supports": "Official polygons of each TSS lane and separation zone; eight clusters named 'Trafikkseparasjonssystemer utenfor norskekysten mellom Vardø og Røst', plus separately named Træna and Halten TSS; used to test inclusion in Barents SRS and VTS areas",
+    "locator": "Features 50 to 79 (attribute tss_navn)",
+    "passage": "Trafikkseparasjonssystem utenfor Træna"
+   }
+  ]
+ },
+ {
+  "record": {
+   "tss_id": "TSS-0070",
+   "batch": "B14",
+   "tss_name": "Off Torsvåg",
+   "imo_parent_ref": "B-II/19",
+   "coastal_state_s": "Norway",
+   "association_status": "MRS only",
+   "vts_name": null,
+   "vts_authority": null,
+   "vts_centre": null,
+   "vts_sector": null,
+   "vts_boundary_basis": "Not inside any statutory VTS service area: Sjøtrafikkforskriften §6 lists six areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya) and Kystverket's official VTS-area polygons (R-S7) do not overlap this TSS (R-S6 polygons). Vardø VTS centre (NOR VTS) monitoring and information service for the offshore TSS is recorded as a lead, not as VTS coverage.",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "R-S7",
+    "R-S8",
+    "R-S3",
+    "R-S4"
+   ],
+   "mandatory_reporting": "Yes",
+   "vrs_id": "VRS-0009",
+   "reporting_scheme_name": "Mandatory ship reporting system In the Barents Area (BARENTS SRS)",
+   "reporting_authority": "Norwegian Coastal Administration (Kystverket), Vardø VTS centre (NOR VTS) for the Norwegian monitoring area",
+   "reporting_boundary_basis": "Kystverket names the TSS from Vardø to Røst as inside the Barents SRS operational area (R-S2). Independently, every lane and separation-zone polygon of this TSS (Kystverket WFS, R-S6; extent 70°53'N to 71°07'N, 018°30'E to 019°18'E) lies landward of the MSC.348(91) seaward limit A to H (R-S1), minimum margin about 7.5 nm (rhumb-line test), and north of 67°10'N. Full inclusion.",
+   "reporting_source_ids": [
+    "R-S1",
+    "R-S2",
+    "R-S6"
+   ],
+   "voluntary_reporting": "No",
+   "evidence_summary": "IMO B-II/19 'Off the coast of Norway' component, part of the former 2007 'Vardø to Røst' system (consolidated 1 June 2021, R-S10). Inside BARENTS SRS (VRS-0009): Kystverket states the Vardø to Røst TSS are within its operational area and the Kystverket TSS polygons fall inside the MSC.348(91) boundary. Ships of 5,000 GT and above, all tankers, hazardous cargo ships etc. report to Vardø VTS centre. No statutory VTS area covers the TSS; NOR VTS monitors routeing-measure traffic as an information service outside VTS areas.",
+   "source_date": "MSC.348(91) 28 Nov 2012 (in force 1 June 2013); Sjøtrafikkforskriften consolidated to FOR-2026-06-29-1454; VTS-area polygons valid from 2021-04-01; accessed 29 Sep 2026",
+   "unresolved_issue": null,
+   "vts_leads": "Vardø VTS centre (NOR VTS), Kystverket: 'Information service for Barents SRS and routing schemes (TSS) in Norway' and monitoring of risk vessels following the offshore routeing measures (R-S3, R-S4). Not a declared VTS area; coordinator may wish to decide project policy on shore-based TSS monitoring outside a VTS area.",
+   "prior_lead_outcome": "n/a: no prior_research_lead supplied for this record"
+  },
+  "sources": [
+   {
+    "id": "R-S7",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Kystverket WFS layer 'VTS tjenesteområde 2021 versjon 2' (layer_696)",
+    "date_or_edition": "features valid from 2021-04-01 (Kinn 2021-06-01); accessed 29 September 2026",
+    "url": "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_696&srsName=EPSG:4326",
+    "source_class": "Tier 2",
+    "supports": "Complete set of statutory VTS service areas (six polygons, each referenced to Sjøtrafikkforskriften §6); none overlaps any B-II/19 TSS in this group (Melkøya area max latitude 71.09N, east of 22.56E; others south of 62.05N)",
+    "locator": "Features 1 to 6 (attributes omraadenavn, forskriftsreferanse)",
+    "passage": "Melkøya tjenesteområde ... Sjøtrafikkforskriften §6"
+   },
+   {
+    "id": "R-S8",
+    "authority": "Lovdata / Ministry of Transport (Norway)",
+    "title": "Forskrift om bruk av sjøtrafikksentralenes tjenesteområde og bruk av bestemte farvann (sjøtrafikkforskriften), FOR-2021-02-10-523",
+    "date_or_edition": "consolidated text, last amended FOR-2026-06-29-1454 (in force 1 July 2026) as reported by the fetch tool; accessed 29 September 2026",
+    "url": "https://lovdata.no/dokument/SF/forskrift/2021-02-10-523",
+    "source_class": "Tier 1",
+    "supports": "§6 lists six VTS service areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya); chapter 5 (§§169 to 172) routeing measures in the EEZ with no reporting provision",
+    "locator": "§6; Kapittel 5 §§169 to 172",
+    "passage": "Horten tjenesteområde, Brevik tjenesteområde, Kvitsøy tjenesteområde, Fedje tjenesteområde, Kinn tjenesteområde, Melkøya tjenesteområde"
+   },
+   {
+    "id": "R-S3",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Vessel Traffic Service (VTS) centres (contact page)",
+    "date_or_edition": "undated web page; accessed 29 September 2026",
+    "url": "https://www.kystverket.no/en/contact/vts-service/",
+    "source_class": "Tier 2",
+    "supports": "Lists the six VTS areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya) and separately an NOR VTS information service for Barents SRS and TSS",
+    "locator": "Final contact block",
+    "passage": "Information service for Barents SRS and routing schemes (TSS) in Norway - NOR VTS"
+   },
+   {
+    "id": "R-S4",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "About the Vessel Traffic Service (VTS)",
+    "date_or_edition": "page timestamp 2021-06-02; accessed 29 September 2026",
+    "url": "https://www.kystverket.no/en/navigation-and-monitoring/vts---vessel-traffic-service/about-the-vessel-traffic-service-vts/",
+    "source_class": "Tier 2",
+    "supports": "Vardø VTS centre (NOR VTS) monitors risk vessels following the offshore routeing measures; its VTS area task is Melkøya",
+    "locator": "Section 'Vardø VTS centre'",
+    "passage": "The centre monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast."
+   },
+   {
+    "id": "R-S1",
+    "authority": "IMO (Maritime Safety Committee)",
+    "title": "SN.1/Circ.318, New mandatory ship reporting system 'In the Barents Area (Barents SRS)', annex resolution MSC.348(91)",
+    "date_or_edition": "4 December 2012 (MSC.348(91) adopted 28 November 2012; in force 0000 UTC 1 June 2013); accessed 29 September 2026",
+    "url": "https://fma.fo/wp-content/uploads/2016/12/2013_navigational_03_sn_circ-318_new-mandatory-ship-reporting-system-in-the-barents-area.pdf",
+    "source_class": "Tier 1",
+    "supports": "Barents SRS participation thresholds, geographical boundary (points A to H), reporting to Vardø VTS centre (Norwegian monitoring area)",
+    "locator": "Annex paras 1.1, 2.1 and 3.1.1 (copy hosted by the Faroese Maritime Authority, fma.fo; text is the IMO circular itself)",
+    "passage": "All Barents SRS reports must be sent to either Vardø VTS centre or Murmansk VTS centre."
+   },
+   {
+    "id": "R-S2",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Barents Ship Reporting System",
+    "date_or_edition": "undated web page; accessed 29 September 2026",
+    "url": "https://www.kystverket.no/en/klima-og-barekraft/barents-srs/",
+    "source_class": "Tier 2",
+    "supports": "Kystverket states the TSS from Vardø to Røst are inside the Barents SRS operational area; reports in Norwegian area go to NOR VTS (Vardø)",
+    "locator": "Main text",
+    "passage": "The traffic separation systems off the Norwegian coast from Vardø to Røst are within the operational area of Barents SRS."
+   },
+   {
+    "id": "R-S6",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Kystverket WFS layer 'TSS områder' (layer_706), services.kystverket.no",
+    "date_or_edition": "live dataset; accessed 29 September 2026",
+    "url": "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_706&srsName=EPSG:4326",
+    "source_class": "Tier 2",
+    "supports": "Official polygons of each TSS lane and separation zone; eight clusters named 'Trafikkseparasjonssystemer utenfor norskekysten mellom Vardø og Røst', plus separately named Træna and Halten TSS; used to test inclusion in Barents SRS and VTS areas",
+    "locator": "Features 50 to 79 (attribute tss_navn)",
+    "passage": "Trafikkseparasjonssystem utenfor Træna"
+   }
+  ]
+ },
+ {
+  "record": {
+   "tss_id": "TSS-0071",
+   "batch": "B15",
+   "tss_name": "Off Andenes",
+   "imo_parent_ref": "B-II/19",
+   "coastal_state_s": "Norway",
+   "association_status": "MRS only",
+   "vts_name": null,
+   "vts_authority": null,
+   "vts_centre": null,
+   "vts_sector": null,
+   "vts_boundary_basis": "Not inside any statutory VTS service area: Sjøtrafikkforskriften §6 lists six areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya) and Kystverket's official VTS-area polygons (R-S7) do not overlap this TSS (R-S6 polygons). Vardø VTS centre (NOR VTS) monitoring and information service for the offshore TSS is recorded as a lead, not as VTS coverage.",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "R-S7",
+    "R-S8",
+    "R-S3",
+    "R-S4"
+   ],
+   "mandatory_reporting": "Yes",
+   "vrs_id": "VRS-0009",
+   "reporting_scheme_name": "Mandatory ship reporting system In the Barents Area (BARENTS SRS)",
+   "reporting_authority": "Norwegian Coastal Administration (Kystverket), Vardø VTS centre (NOR VTS) for the Norwegian monitoring area",
+   "reporting_boundary_basis": "Kystverket names the TSS from Vardø to Røst as inside the Barents SRS operational area (R-S2). Independently, every lane and separation-zone polygon of this TSS (Kystverket WFS, R-S6; extent 69°41'N to 69°52'N, 014°40'E to 015°13'E) lies landward of the MSC.348(91) seaward limit A to H (R-S1), minimum margin about 9.1 nm (rhumb-line test), and north of 67°10'N. Full inclusion.",
+   "reporting_source_ids": [
+    "R-S1",
+    "R-S2",
+    "R-S6"
+   ],
+   "voluntary_reporting": "No",
+   "evidence_summary": "IMO B-II/19 'Off the coast of Norway' component, part of the former 2007 'Vardø to Røst' system (consolidated 1 June 2021, R-S10). Inside BARENTS SRS (VRS-0009): Kystverket states the Vardø to Røst TSS are within its operational area and the Kystverket TSS polygons fall inside the MSC.348(91) boundary. Ships of 5,000 GT and above, all tankers, hazardous cargo ships etc. report to Vardø VTS centre. No statutory VTS area covers the TSS; NOR VTS monitors routeing-measure traffic as an information service outside VTS areas.",
+   "source_date": "MSC.348(91) 28 Nov 2012 (in force 1 June 2013); Sjøtrafikkforskriften consolidated to FOR-2026-06-29-1454; VTS-area polygons valid from 2021-04-01; accessed 29 Sep 2026",
+   "unresolved_issue": null,
+   "vts_leads": "Vardø VTS centre (NOR VTS), Kystverket: 'Information service for Barents SRS and routing schemes (TSS) in Norway' and monitoring of risk vessels following the offshore routeing measures (R-S3, R-S4). Not a declared VTS area; coordinator may wish to decide project policy on shore-based TSS monitoring outside a VTS area.",
+   "prior_lead_outcome": "n/a: no prior_research_lead supplied for this record"
+  },
+  "sources": [
+   {
+    "id": "R-S7",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Kystverket WFS layer 'VTS tjenesteområde 2021 versjon 2' (layer_696)",
+    "date_or_edition": "features valid from 2021-04-01 (Kinn 2021-06-01); accessed 29 September 2026",
+    "url": "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_696&srsName=EPSG:4326",
+    "source_class": "Tier 2",
+    "supports": "Complete set of statutory VTS service areas (six polygons, each referenced to Sjøtrafikkforskriften §6); none overlaps any B-II/19 TSS in this group (Melkøya area max latitude 71.09N, east of 22.56E; others south of 62.05N)",
+    "locator": "Features 1 to 6 (attributes omraadenavn, forskriftsreferanse)",
+    "passage": "Melkøya tjenesteområde ... Sjøtrafikkforskriften §6"
+   },
+   {
+    "id": "R-S8",
+    "authority": "Lovdata / Ministry of Transport (Norway)",
+    "title": "Forskrift om bruk av sjøtrafikksentralenes tjenesteområde og bruk av bestemte farvann (sjøtrafikkforskriften), FOR-2021-02-10-523",
+    "date_or_edition": "consolidated text, last amended FOR-2026-06-29-1454 (in force 1 July 2026) as reported by the fetch tool; accessed 29 September 2026",
+    "url": "https://lovdata.no/dokument/SF/forskrift/2021-02-10-523",
+    "source_class": "Tier 1",
+    "supports": "§6 lists six VTS service areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya); chapter 5 (§§169 to 172) routeing measures in the EEZ with no reporting provision",
+    "locator": "§6; Kapittel 5 §§169 to 172",
+    "passage": "Horten tjenesteområde, Brevik tjenesteområde, Kvitsøy tjenesteområde, Fedje tjenesteområde, Kinn tjenesteområde, Melkøya tjenesteområde"
+   },
+   {
+    "id": "R-S3",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Vessel Traffic Service (VTS) centres (contact page)",
+    "date_or_edition": "undated web page; accessed 29 September 2026",
+    "url": "https://www.kystverket.no/en/contact/vts-service/",
+    "source_class": "Tier 2",
+    "supports": "Lists the six VTS areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya) and separately an NOR VTS information service for Barents SRS and TSS",
+    "locator": "Final contact block",
+    "passage": "Information service for Barents SRS and routing schemes (TSS) in Norway - NOR VTS"
+   },
+   {
+    "id": "R-S4",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "About the Vessel Traffic Service (VTS)",
+    "date_or_edition": "page timestamp 2021-06-02; accessed 29 September 2026",
+    "url": "https://www.kystverket.no/en/navigation-and-monitoring/vts---vessel-traffic-service/about-the-vessel-traffic-service-vts/",
+    "source_class": "Tier 2",
+    "supports": "Vardø VTS centre (NOR VTS) monitors risk vessels following the offshore routeing measures; its VTS area task is Melkøya",
+    "locator": "Section 'Vardø VTS centre'",
+    "passage": "The centre monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast."
+   },
+   {
+    "id": "R-S1",
+    "authority": "IMO (Maritime Safety Committee)",
+    "title": "SN.1/Circ.318, New mandatory ship reporting system 'In the Barents Area (Barents SRS)', annex resolution MSC.348(91)",
+    "date_or_edition": "4 December 2012 (MSC.348(91) adopted 28 November 2012; in force 0000 UTC 1 June 2013); accessed 29 September 2026",
+    "url": "https://fma.fo/wp-content/uploads/2016/12/2013_navigational_03_sn_circ-318_new-mandatory-ship-reporting-system-in-the-barents-area.pdf",
+    "source_class": "Tier 1",
+    "supports": "Barents SRS participation thresholds, geographical boundary (points A to H), reporting to Vardø VTS centre (Norwegian monitoring area)",
+    "locator": "Annex paras 1.1, 2.1 and 3.1.1 (copy hosted by the Faroese Maritime Authority, fma.fo; text is the IMO circular itself)",
+    "passage": "All Barents SRS reports must be sent to either Vardø VTS centre or Murmansk VTS centre."
+   },
+   {
+    "id": "R-S2",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Barents Ship Reporting System",
+    "date_or_edition": "undated web page; accessed 29 September 2026",
+    "url": "https://www.kystverket.no/en/klima-og-barekraft/barents-srs/",
+    "source_class": "Tier 2",
+    "supports": "Kystverket states the TSS from Vardø to Røst are inside the Barents SRS operational area; reports in Norwegian area go to NOR VTS (Vardø)",
+    "locator": "Main text",
+    "passage": "The traffic separation systems off the Norwegian coast from Vardø to Røst are within the operational area of Barents SRS."
+   },
+   {
+    "id": "R-S6",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Kystverket WFS layer 'TSS områder' (layer_706), services.kystverket.no",
+    "date_or_edition": "live dataset; accessed 29 September 2026",
+    "url": "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_706&srsName=EPSG:4326",
+    "source_class": "Tier 2",
+    "supports": "Official polygons of each TSS lane and separation zone; eight clusters named 'Trafikkseparasjonssystemer utenfor norskekysten mellom Vardø og Røst', plus separately named Træna and Halten TSS; used to test inclusion in Barents SRS and VTS areas",
+    "locator": "Features 50 to 79 (attribute tss_navn)",
+    "passage": "Trafikkseparasjonssystem utenfor Træna"
+   }
+  ]
+ },
+ {
+  "record": {
+   "tss_id": "TSS-0072",
+   "batch": "B15",
+   "tss_name": "Off Røst (1)",
+   "imo_parent_ref": "B-II/19",
+   "coastal_state_s": "Norway",
+   "association_status": "MRS only",
+   "vts_name": null,
+   "vts_authority": null,
+   "vts_centre": null,
+   "vts_sector": null,
+   "vts_boundary_basis": "Not inside any statutory VTS service area: Sjøtrafikkforskriften §6 lists six areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya) and Kystverket's official VTS-area polygons (R-S7) do not overlap this TSS (R-S6 polygons). Vardø VTS centre (NOR VTS) monitoring and information service for the offshore TSS is recorded as a lead, not as VTS coverage.",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "R-S7",
+    "R-S8",
+    "R-S3",
+    "R-S4"
+   ],
+   "mandatory_reporting": "Yes",
+   "vrs_id": "VRS-0009",
+   "reporting_scheme_name": "Mandatory ship reporting system In the Barents Area (BARENTS SRS)",
+   "reporting_authority": "Norwegian Coastal Administration (Kystverket), Vardø VTS centre (NOR VTS) for the Norwegian monitoring area",
+   "reporting_boundary_basis": "Kystverket names the TSS from Vardø to Røst as inside the Barents SRS operational area (R-S2). Independently, every lane and separation-zone polygon of this TSS (Kystverket WFS, R-S6; extent two Kystverket clusters south-west of Lofoten: 68°01'N to 68°16'N, 009°43'E to 010°22'E and 67°29'N to 67°40'N, 009°00'E to 009°28'E) lies landward of the MSC.348(91) seaward limit A to H (R-S1), minimum margin about 10.8 nm (rhumb-line test), and north of 67°10'N. Full inclusion.",
+   "reporting_source_ids": [
+    "R-S1",
+    "R-S2",
+    "R-S6"
+   ],
+   "voluntary_reporting": "No",
+   "evidence_summary": "IMO B-II/19 'Off the coast of Norway' component, part of the former 2007 'Vardø to Røst' system (consolidated 1 June 2021, R-S10). Inside BARENTS SRS (VRS-0009): Kystverket states the Vardø to Røst TSS are within its operational area and the Kystverket TSS polygons fall inside the MSC.348(91) boundary. Ships of 5,000 GT and above, all tankers, hazardous cargo ships etc. report to Vardø VTS centre. No statutory VTS area covers the TSS; NOR VTS monitors routeing-measure traffic as an information service outside VTS areas. Both Røst clusters (northern 68°01'N to 68°16'N; southern 67°29'N to 67°40'N) are inside the Barents SRS boundary.",
+   "source_date": "MSC.348(91) 28 Nov 2012 (in force 1 June 2013); Sjøtrafikkforskriften consolidated to FOR-2026-06-29-1454; VTS-area polygons valid from 2021-04-01; accessed 29 Sep 2026",
+   "unresolved_issue": "Kystverket WFS does not label which of the two Røst clusters is IMO 'Off Røst (1)' and which is '(2)'. Both clusters are inside BARENTS SRS (minimum margins about 10.8 nm and 20.6 nm), so classification is unaffected; only the position mapping is unconfirmed.",
+   "vts_leads": "Vardø VTS centre (NOR VTS), Kystverket: 'Information service for Barents SRS and routing schemes (TSS) in Norway' and monitoring of risk vessels following the offshore routeing measures (R-S3, R-S4). Not a declared VTS area; coordinator may wish to decide project policy on shore-based TSS monitoring outside a VTS area.",
+   "prior_lead_outcome": "n/a: no prior_research_lead supplied for this record"
+  },
+  "sources": [
+   {
+    "id": "R-S7",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Kystverket WFS layer 'VTS tjenesteområde 2021 versjon 2' (layer_696)",
+    "date_or_edition": "features valid from 2021-04-01 (Kinn 2021-06-01); accessed 29 September 2026",
+    "url": "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_696&srsName=EPSG:4326",
+    "source_class": "Tier 2",
+    "supports": "Complete set of statutory VTS service areas (six polygons, each referenced to Sjøtrafikkforskriften §6); none overlaps any B-II/19 TSS in this group (Melkøya area max latitude 71.09N, east of 22.56E; others south of 62.05N)",
+    "locator": "Features 1 to 6 (attributes omraadenavn, forskriftsreferanse)",
+    "passage": "Melkøya tjenesteområde ... Sjøtrafikkforskriften §6"
+   },
+   {
+    "id": "R-S8",
+    "authority": "Lovdata / Ministry of Transport (Norway)",
+    "title": "Forskrift om bruk av sjøtrafikksentralenes tjenesteområde og bruk av bestemte farvann (sjøtrafikkforskriften), FOR-2021-02-10-523",
+    "date_or_edition": "consolidated text, last amended FOR-2026-06-29-1454 (in force 1 July 2026) as reported by the fetch tool; accessed 29 September 2026",
+    "url": "https://lovdata.no/dokument/SF/forskrift/2021-02-10-523",
+    "source_class": "Tier 1",
+    "supports": "§6 lists six VTS service areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya); chapter 5 (§§169 to 172) routeing measures in the EEZ with no reporting provision",
+    "locator": "§6; Kapittel 5 §§169 to 172",
+    "passage": "Horten tjenesteområde, Brevik tjenesteområde, Kvitsøy tjenesteområde, Fedje tjenesteområde, Kinn tjenesteområde, Melkøya tjenesteområde"
+   },
+   {
+    "id": "R-S3",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Vessel Traffic Service (VTS) centres (contact page)",
+    "date_or_edition": "undated web page; accessed 29 September 2026",
+    "url": "https://www.kystverket.no/en/contact/vts-service/",
+    "source_class": "Tier 2",
+    "supports": "Lists the six VTS areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya) and separately an NOR VTS information service for Barents SRS and TSS",
+    "locator": "Final contact block",
+    "passage": "Information service for Barents SRS and routing schemes (TSS) in Norway - NOR VTS"
+   },
+   {
+    "id": "R-S4",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "About the Vessel Traffic Service (VTS)",
+    "date_or_edition": "page timestamp 2021-06-02; accessed 29 September 2026",
+    "url": "https://www.kystverket.no/en/navigation-and-monitoring/vts---vessel-traffic-service/about-the-vessel-traffic-service-vts/",
+    "source_class": "Tier 2",
+    "supports": "Vardø VTS centre (NOR VTS) monitors risk vessels following the offshore routeing measures; its VTS area task is Melkøya",
+    "locator": "Section 'Vardø VTS centre'",
+    "passage": "The centre monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast."
+   },
+   {
+    "id": "R-S1",
+    "authority": "IMO (Maritime Safety Committee)",
+    "title": "SN.1/Circ.318, New mandatory ship reporting system 'In the Barents Area (Barents SRS)', annex resolution MSC.348(91)",
+    "date_or_edition": "4 December 2012 (MSC.348(91) adopted 28 November 2012; in force 0000 UTC 1 June 2013); accessed 29 September 2026",
+    "url": "https://fma.fo/wp-content/uploads/2016/12/2013_navigational_03_sn_circ-318_new-mandatory-ship-reporting-system-in-the-barents-area.pdf",
+    "source_class": "Tier 1",
+    "supports": "Barents SRS participation thresholds, geographical boundary (points A to H), reporting to Vardø VTS centre (Norwegian monitoring area)",
+    "locator": "Annex paras 1.1, 2.1 and 3.1.1 (copy hosted by the Faroese Maritime Authority, fma.fo; text is the IMO circular itself)",
+    "passage": "All Barents SRS reports must be sent to either Vardø VTS centre or Murmansk VTS centre."
+   },
+   {
+    "id": "R-S2",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Barents Ship Reporting System",
+    "date_or_edition": "undated web page; accessed 29 September 2026",
+    "url": "https://www.kystverket.no/en/klima-og-barekraft/barents-srs/",
+    "source_class": "Tier 2",
+    "supports": "Kystverket states the TSS from Vardø to Røst are inside the Barents SRS operational area; reports in Norwegian area go to NOR VTS (Vardø)",
+    "locator": "Main text",
+    "passage": "The traffic separation systems off the Norwegian coast from Vardø to Røst are within the operational area of Barents SRS."
+   },
+   {
+    "id": "R-S6",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Kystverket WFS layer 'TSS områder' (layer_706), services.kystverket.no",
+    "date_or_edition": "live dataset; accessed 29 September 2026",
+    "url": "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_706&srsName=EPSG:4326",
+    "source_class": "Tier 2",
+    "supports": "Official polygons of each TSS lane and separation zone; eight clusters named 'Trafikkseparasjonssystemer utenfor norskekysten mellom Vardø og Røst', plus separately named Træna and Halten TSS; used to test inclusion in Barents SRS and VTS areas",
+    "locator": "Features 50 to 79 (attribute tss_navn)",
+    "passage": "Trafikkseparasjonssystem utenfor Træna"
+   }
+  ]
+ },
+ {
+  "record": {
+   "tss_id": "TSS-0073",
+   "batch": "B15",
+   "tss_name": "Off Røst (2)",
+   "imo_parent_ref": "B-II/19",
+   "coastal_state_s": "Norway",
+   "association_status": "MRS only",
+   "vts_name": null,
+   "vts_authority": null,
+   "vts_centre": null,
+   "vts_sector": null,
+   "vts_boundary_basis": "Not inside any statutory VTS service area: Sjøtrafikkforskriften §6 lists six areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya) and Kystverket's official VTS-area polygons (R-S7) do not overlap this TSS (R-S6 polygons). Vardø VTS centre (NOR VTS) monitoring and information service for the offshore TSS is recorded as a lead, not as VTS coverage.",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "R-S7",
+    "R-S8",
+    "R-S3",
+    "R-S4"
+   ],
+   "mandatory_reporting": "Yes",
+   "vrs_id": "VRS-0009",
+   "reporting_scheme_name": "Mandatory ship reporting system In the Barents Area (BARENTS SRS)",
+   "reporting_authority": "Norwegian Coastal Administration (Kystverket), Vardø VTS centre (NOR VTS) for the Norwegian monitoring area",
+   "reporting_boundary_basis": "Kystverket names the TSS from Vardø to Røst as inside the Barents SRS operational area (R-S2). Independently, every lane and separation-zone polygon of this TSS (Kystverket WFS, R-S6; extent two Kystverket clusters south-west of Lofoten: 68°01'N to 68°16'N, 009°43'E to 010°22'E and 67°29'N to 67°40'N, 009°00'E to 009°28'E) lies landward of the MSC.348(91) seaward limit A to H (R-S1), minimum margin about 10.8 nm (rhumb-line test), and north of 67°10'N. Full inclusion.",
+   "reporting_source_ids": [
+    "R-S1",
+    "R-S2",
+    "R-S6"
+   ],
+   "voluntary_reporting": "No",
+   "evidence_summary": "IMO B-II/19 'Off the coast of Norway' component, part of the former 2007 'Vardø to Røst' system (consolidated 1 June 2021, R-S10). Inside BARENTS SRS (VRS-0009): Kystverket states the Vardø to Røst TSS are within its operational area and the Kystverket TSS polygons fall inside the MSC.348(91) boundary. Ships of 5,000 GT and above, all tankers, hazardous cargo ships etc. report to Vardø VTS centre. No statutory VTS area covers the TSS; NOR VTS monitors routeing-measure traffic as an information service outside VTS areas. Both Røst clusters (northern 68°01'N to 68°16'N; southern 67°29'N to 67°40'N) are inside the Barents SRS boundary.",
+   "source_date": "MSC.348(91) 28 Nov 2012 (in force 1 June 2013); Sjøtrafikkforskriften consolidated to FOR-2026-06-29-1454; VTS-area polygons valid from 2021-04-01; accessed 29 Sep 2026",
+   "unresolved_issue": "Kystverket WFS does not label which of the two Røst clusters is IMO 'Off Røst (1)' and which is '(2)'. Both clusters are inside BARENTS SRS (minimum margins about 10.8 nm and 20.6 nm), so classification is unaffected; only the position mapping is unconfirmed.",
+   "vts_leads": "Vardø VTS centre (NOR VTS), Kystverket: 'Information service for Barents SRS and routing schemes (TSS) in Norway' and monitoring of risk vessels following the offshore routeing measures (R-S3, R-S4). Not a declared VTS area; coordinator may wish to decide project policy on shore-based TSS monitoring outside a VTS area.",
+   "prior_lead_outcome": "n/a: no prior_research_lead supplied for this record"
+  },
+  "sources": [
+   {
+    "id": "R-S7",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Kystverket WFS layer 'VTS tjenesteområde 2021 versjon 2' (layer_696)",
+    "date_or_edition": "features valid from 2021-04-01 (Kinn 2021-06-01); accessed 29 September 2026",
+    "url": "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_696&srsName=EPSG:4326",
+    "source_class": "Tier 2",
+    "supports": "Complete set of statutory VTS service areas (six polygons, each referenced to Sjøtrafikkforskriften §6); none overlaps any B-II/19 TSS in this group (Melkøya area max latitude 71.09N, east of 22.56E; others south of 62.05N)",
+    "locator": "Features 1 to 6 (attributes omraadenavn, forskriftsreferanse)",
+    "passage": "Melkøya tjenesteområde ... Sjøtrafikkforskriften §6"
+   },
+   {
+    "id": "R-S8",
+    "authority": "Lovdata / Ministry of Transport (Norway)",
+    "title": "Forskrift om bruk av sjøtrafikksentralenes tjenesteområde og bruk av bestemte farvann (sjøtrafikkforskriften), FOR-2021-02-10-523",
+    "date_or_edition": "consolidated text, last amended FOR-2026-06-29-1454 (in force 1 July 2026) as reported by the fetch tool; accessed 29 September 2026",
+    "url": "https://lovdata.no/dokument/SF/forskrift/2021-02-10-523",
+    "source_class": "Tier 1",
+    "supports": "§6 lists six VTS service areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya); chapter 5 (§§169 to 172) routeing measures in the EEZ with no reporting provision",
+    "locator": "§6; Kapittel 5 §§169 to 172",
+    "passage": "Horten tjenesteområde, Brevik tjenesteområde, Kvitsøy tjenesteområde, Fedje tjenesteområde, Kinn tjenesteområde, Melkøya tjenesteområde"
+   },
+   {
+    "id": "R-S3",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Vessel Traffic Service (VTS) centres (contact page)",
+    "date_or_edition": "undated web page; accessed 29 September 2026",
+    "url": "https://www.kystverket.no/en/contact/vts-service/",
+    "source_class": "Tier 2",
+    "supports": "Lists the six VTS areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya) and separately an NOR VTS information service for Barents SRS and TSS",
+    "locator": "Final contact block",
+    "passage": "Information service for Barents SRS and routing schemes (TSS) in Norway - NOR VTS"
+   },
+   {
+    "id": "R-S4",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "About the Vessel Traffic Service (VTS)",
+    "date_or_edition": "page timestamp 2021-06-02; accessed 29 September 2026",
+    "url": "https://www.kystverket.no/en/navigation-and-monitoring/vts---vessel-traffic-service/about-the-vessel-traffic-service-vts/",
+    "source_class": "Tier 2",
+    "supports": "Vardø VTS centre (NOR VTS) monitors risk vessels following the offshore routeing measures; its VTS area task is Melkøya",
+    "locator": "Section 'Vardø VTS centre'",
+    "passage": "The centre monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast."
+   },
+   {
+    "id": "R-S1",
+    "authority": "IMO (Maritime Safety Committee)",
+    "title": "SN.1/Circ.318, New mandatory ship reporting system 'In the Barents Area (Barents SRS)', annex resolution MSC.348(91)",
+    "date_or_edition": "4 December 2012 (MSC.348(91) adopted 28 November 2012; in force 0000 UTC 1 June 2013); accessed 29 September 2026",
+    "url": "https://fma.fo/wp-content/uploads/2016/12/2013_navigational_03_sn_circ-318_new-mandatory-ship-reporting-system-in-the-barents-area.pdf",
+    "source_class": "Tier 1",
+    "supports": "Barents SRS participation thresholds, geographical boundary (points A to H), reporting to Vardø VTS centre (Norwegian monitoring area)",
+    "locator": "Annex paras 1.1, 2.1 and 3.1.1 (copy hosted by the Faroese Maritime Authority, fma.fo; text is the IMO circular itself)",
+    "passage": "All Barents SRS reports must be sent to either Vardø VTS centre or Murmansk VTS centre."
+   },
+   {
+    "id": "R-S2",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Barents Ship Reporting System",
+    "date_or_edition": "undated web page; accessed 29 September 2026",
+    "url": "https://www.kystverket.no/en/klima-og-barekraft/barents-srs/",
+    "source_class": "Tier 2",
+    "supports": "Kystverket states the TSS from Vardø to Røst are inside the Barents SRS operational area; reports in Norwegian area go to NOR VTS (Vardø)",
+    "locator": "Main text",
+    "passage": "The traffic separation systems off the Norwegian coast from Vardø to Røst are within the operational area of Barents SRS."
+   },
+   {
+    "id": "R-S6",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Kystverket WFS layer 'TSS områder' (layer_706), services.kystverket.no",
+    "date_or_edition": "live dataset; accessed 29 September 2026",
+    "url": "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_706&srsName=EPSG:4326",
+    "source_class": "Tier 2",
+    "supports": "Official polygons of each TSS lane and separation zone; eight clusters named 'Trafikkseparasjonssystemer utenfor norskekysten mellom Vardø og Røst', plus separately named Træna and Halten TSS; used to test inclusion in Barents SRS and VTS areas",
+    "locator": "Features 50 to 79 (attribute tss_navn)",
+    "passage": "Trafikkseparasjonssystem utenfor Træna"
+   }
+  ]
+ },
+ {
+  "record": {
+   "tss_id": "TSS-0074",
+   "batch": "B15",
+   "tss_name": "Off Træna",
+   "imo_parent_ref": "B-II/19",
+   "coastal_state_s": "Norway",
+   "association_status": "Neither confirmed",
+   "vts_name": null,
+   "vts_authority": null,
+   "vts_centre": null,
+   "vts_sector": null,
+   "vts_boundary_basis": "Not inside any statutory VTS service area: Sjøtrafikkforskriften §6 is the complete list of six Norwegian VTS areas and their official polygons (R-S7) are all south of 62°03'N or at Melkøya (70°27'N to 71°06'N); this TSS (65°40'N to 65°50'N, 006°54'E to 007°20'E, R-S6) is outside all of them.",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "R-S7",
+    "R-S8",
+    "R-S3"
+   ],
+   "mandatory_reporting": "No",
+   "vrs_id": null,
+   "reporting_scheme_name": null,
+   "reporting_authority": null,
+   "reporting_boundary_basis": "Outside BARENTS SRS: the MSC.348(91) southern limit is 67°10'N (points A and B) and this TSS lies wholly south of it (65°40'N to 65°50'N, 006°54'E to 007°20'E). Outside WETREP: MSC.190(79) limit runs 58°30'N to 62°N along 000°, far to the west. No other IMO Part I system concerns Norway in the project inventory (IMO_2025_Mandatory_Reporting_Systems.csv). Kystverket's TSS navigation rules state routeing obligations only, no reporting.",
+   "reporting_source_ids": [
+    "R-S1",
+    "R-S9",
+    "R-S6",
+    "R-S5"
+   ],
+   "voluntary_reporting": "No",
+   "evidence_summary": "New TSS in the 'Off the coast of Norway' system from 1 June 2021 (R-S10), separately named in Kystverket data ('Trafikkseparasjonssystem utenfor Træna'). Kystverket's Barents SRS statement covers only 'Vardø to Røst'; geometry confirms the TSS is south of the Barents SRS limit. Not in any statutory VTS area (complete §6 list). NOR VTS information service for routeing schemes south of 65N exists (contact line) but is not a VTS area and involves no mandatory report.",
+   "source_date": "MSC.348(91) 28 Nov 2012; MSC.190(79) 6 Dec 2004; Sjøtrafikkforskriften consolidated to FOR-2026-06-29-1454; accessed 29 Sep 2026",
+   "unresolved_issue": "Residual: no single official list of all Norwegian national (non-IMO) mandatory reporting schemes was located; absence of a national EEZ transit-reporting obligation rests on the IMO Part I inventory, the Sjøtrafikkforskriften chapter structure (chapter 5, routeing only) and Kystverket's TSS rules page. Kystverket's navigation-rules page lists the 2007 system as 'Vardø - Træna', inconsistent with its own WFS naming and Barents page ('Vardø to Røst'); does not affect this classification.",
+   "vts_leads": "Vardø VTS centre (NOR VTS) 'Information service for Barents SRS and routing schemes (TSS) in Norway' (separate telephone line for area south of N65, R-S3). Monitoring/information only, outside declared VTS areas.",
+   "prior_lead_outcome": "n/a: no prior_research_lead supplied for this record"
+  },
+  "sources": [
+   {
+    "id": "R-S7",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Kystverket WFS layer 'VTS tjenesteområde 2021 versjon 2' (layer_696)",
+    "date_or_edition": "features valid from 2021-04-01 (Kinn 2021-06-01); accessed 29 September 2026",
+    "url": "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_696&srsName=EPSG:4326",
+    "source_class": "Tier 2",
+    "supports": "Complete set of statutory VTS service areas (six polygons, each referenced to Sjøtrafikkforskriften §6); none overlaps any B-II/19 TSS in this group (Melkøya area max latitude 71.09N, east of 22.56E; others south of 62.05N)",
+    "locator": "Features 1 to 6 (attributes omraadenavn, forskriftsreferanse)",
+    "passage": "Melkøya tjenesteområde ... Sjøtrafikkforskriften §6"
+   },
+   {
+    "id": "R-S8",
+    "authority": "Lovdata / Ministry of Transport (Norway)",
+    "title": "Forskrift om bruk av sjøtrafikksentralenes tjenesteområde og bruk av bestemte farvann (sjøtrafikkforskriften), FOR-2021-02-10-523",
+    "date_or_edition": "consolidated text, last amended FOR-2026-06-29-1454 (in force 1 July 2026) as reported by the fetch tool; accessed 29 September 2026",
+    "url": "https://lovdata.no/dokument/SF/forskrift/2021-02-10-523",
+    "source_class": "Tier 1",
+    "supports": "§6 lists six VTS service areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya); chapter 5 (§§169 to 172) routeing measures in the EEZ with no reporting provision",
+    "locator": "§6; Kapittel 5 §§169 to 172",
+    "passage": "Horten tjenesteområde, Brevik tjenesteområde, Kvitsøy tjenesteområde, Fedje tjenesteområde, Kinn tjenesteområde, Melkøya tjenesteområde"
+   },
+   {
+    "id": "R-S3",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Vessel Traffic Service (VTS) centres (contact page)",
+    "date_or_edition": "undated web page; accessed 29 September 2026",
+    "url": "https://www.kystverket.no/en/contact/vts-service/",
+    "source_class": "Tier 2",
+    "supports": "Lists the six VTS areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya) and separately an NOR VTS information service for Barents SRS and TSS",
+    "locator": "Final contact block",
+    "passage": "Information service for Barents SRS and routing schemes (TSS) in Norway - NOR VTS"
+   },
+   {
+    "id": "R-S1",
+    "authority": "IMO (Maritime Safety Committee)",
+    "title": "SN.1/Circ.318, New mandatory ship reporting system 'In the Barents Area (Barents SRS)', annex resolution MSC.348(91)",
+    "date_or_edition": "4 December 2012 (MSC.348(91) adopted 28 November 2012; in force 0000 UTC 1 June 2013); accessed 29 September 2026",
+    "url": "https://fma.fo/wp-content/uploads/2016/12/2013_navigational_03_sn_circ-318_new-mandatory-ship-reporting-system-in-the-barents-area.pdf",
+    "source_class": "Tier 1",
+    "supports": "Barents SRS participation thresholds, geographical boundary (points A to H), reporting to Vardø VTS centre (Norwegian monitoring area)",
+    "locator": "Annex paras 1.1, 2.1 and 3.1.1 (copy hosted by the Faroese Maritime Authority, fma.fo; text is the IMO circular itself)",
+    "passage": "All Barents SRS reports must be sent to either Vardø VTS centre or Murmansk VTS centre."
+   },
+   {
+    "id": "R-S9",
+    "authority": "IMO (Maritime Safety Committee)",
+    "title": "Resolution MSC.190(79), Mandatory ship reporting system in the Western European PSSA (WETREP)",
+    "date_or_edition": "adopted 6 December 2004; accessed 29 September 2026",
+    "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.190(79).pdf",
+    "source_class": "Tier 1",
+    "supports": "WETREP northern/eastern limit (58°30'N to 62°N at 000°) lies far west of the Træna and Halten TSS (about 005°E to 007°E); WETREP does not include them",
+    "locator": "Annex para 2.1, points 1 to 4",
+    "passage": "2 (UK) 58° 30’ N 000° W 3 (UK) 62° N 000° W"
+   },
+   {
+    "id": "R-S6",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Kystverket WFS layer 'TSS områder' (layer_706), services.kystverket.no",
+    "date_or_edition": "live dataset; accessed 29 September 2026",
+    "url": "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_706&srsName=EPSG:4326",
+    "source_class": "Tier 2",
+    "supports": "Official polygons of each TSS lane and separation zone; eight clusters named 'Trafikkseparasjonssystemer utenfor norskekysten mellom Vardø og Røst', plus separately named Træna and Halten TSS; used to test inclusion in Barents SRS and VTS areas",
+    "locator": "Features 50 to 79 (attribute tss_navn)",
+    "passage": "Trafikkseparasjonssystem utenfor Træna"
+   },
+   {
+    "id": "R-S5",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Navigation rules (TSS in the Norwegian economic zone)",
+    "date_or_edition": "undated web page (refers to changes from 1 June 2021); accessed 29 September 2026",
+    "url": "https://www.kystverket.no/en/navigation-and-monitoring/vts---vessel-traffic-service/sailing-rules/",
+    "source_class": "Tier 2",
+    "supports": "Routeing system in the EEZ; applicable ship categories; no reporting obligation stated for the TSS",
+    "locator": "Section 'Navigation rules in the Norwegian economic zone (TSS)'",
+    "passage": "Vessels in international traffic that may represent a high environmental risk must follow route measures that take these vessels further off the coast."
+   }
+  ]
+ },
+ {
+  "record": {
+   "tss_id": "TSS-0075",
+   "batch": "B15",
+   "tss_name": "Off Halten",
+   "imo_parent_ref": "B-II/19",
+   "coastal_state_s": "Norway",
+   "association_status": "Neither confirmed",
+   "vts_name": null,
+   "vts_authority": null,
+   "vts_centre": null,
+   "vts_sector": null,
+   "vts_boundary_basis": "Not inside any statutory VTS service area: Sjøtrafikkforskriften §6 is the complete list of six Norwegian VTS areas and their official polygons (R-S7) are all south of 62°03'N or at Melkøya (70°27'N to 71°06'N); this TSS (64°09'N to 64°20'N, 005°16'E to 005°41'E, R-S6) is outside all of them.",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "R-S7",
+    "R-S8",
+    "R-S3"
+   ],
+   "mandatory_reporting": "No",
+   "vrs_id": null,
+   "reporting_scheme_name": null,
+   "reporting_authority": null,
+   "reporting_boundary_basis": "Outside BARENTS SRS: the MSC.348(91) southern limit is 67°10'N (points A and B) and this TSS lies wholly south of it (64°09'N to 64°20'N, 005°16'E to 005°41'E). Outside WETREP: MSC.190(79) limit runs 58°30'N to 62°N along 000°, far to the west. No other IMO Part I system concerns Norway in the project inventory (IMO_2025_Mandatory_Reporting_Systems.csv). Kystverket's TSS navigation rules state routeing obligations only, no reporting.",
+   "reporting_source_ids": [
+    "R-S1",
+    "R-S9",
+    "R-S6",
+    "R-S5"
+   ],
+   "voluntary_reporting": "No",
+   "evidence_summary": "New TSS in the 'Off the coast of Norway' system from 1 June 2021 (R-S10), separately named in Kystverket data ('Trafikkseparasjonssystem utenfor Halten'). Kystverket's Barents SRS statement covers only 'Vardø to Røst'; geometry confirms the TSS is south of the Barents SRS limit. Not in any statutory VTS area (complete §6 list). NOR VTS information service for routeing schemes south of 65N exists (contact line) but is not a VTS area and involves no mandatory report.",
+   "source_date": "MSC.348(91) 28 Nov 2012; MSC.190(79) 6 Dec 2004; Sjøtrafikkforskriften consolidated to FOR-2026-06-29-1454; accessed 29 Sep 2026",
+   "unresolved_issue": "Residual: no single official list of all Norwegian national (non-IMO) mandatory reporting schemes was located; absence of a national EEZ transit-reporting obligation rests on the IMO Part I inventory, the Sjøtrafikkforskriften chapter structure (chapter 5, routeing only) and Kystverket's TSS rules page. Kystverket's navigation-rules page lists the 2007 system as 'Vardø - Træna', inconsistent with its own WFS naming and Barents page ('Vardø to Røst'); does not affect this classification.",
+   "vts_leads": "Vardø VTS centre (NOR VTS) 'Information service for Barents SRS and routing schemes (TSS) in Norway' (separate telephone line for area south of N65, R-S3). Monitoring/information only, outside declared VTS areas.",
+   "prior_lead_outcome": "n/a: no prior_research_lead supplied for this record"
+  },
+  "sources": [
+   {
+    "id": "R-S7",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Kystverket WFS layer 'VTS tjenesteområde 2021 versjon 2' (layer_696)",
+    "date_or_edition": "features valid from 2021-04-01 (Kinn 2021-06-01); accessed 29 September 2026",
+    "url": "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_696&srsName=EPSG:4326",
+    "source_class": "Tier 2",
+    "supports": "Complete set of statutory VTS service areas (six polygons, each referenced to Sjøtrafikkforskriften §6); none overlaps any B-II/19 TSS in this group (Melkøya area max latitude 71.09N, east of 22.56E; others south of 62.05N)",
+    "locator": "Features 1 to 6 (attributes omraadenavn, forskriftsreferanse)",
+    "passage": "Melkøya tjenesteområde ... Sjøtrafikkforskriften §6"
+   },
+   {
+    "id": "R-S8",
+    "authority": "Lovdata / Ministry of Transport (Norway)",
+    "title": "Forskrift om bruk av sjøtrafikksentralenes tjenesteområde og bruk av bestemte farvann (sjøtrafikkforskriften), FOR-2021-02-10-523",
+    "date_or_edition": "consolidated text, last amended FOR-2026-06-29-1454 (in force 1 July 2026) as reported by the fetch tool; accessed 29 September 2026",
+    "url": "https://lovdata.no/dokument/SF/forskrift/2021-02-10-523",
+    "source_class": "Tier 1",
+    "supports": "§6 lists six VTS service areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya); chapter 5 (§§169 to 172) routeing measures in the EEZ with no reporting provision",
+    "locator": "§6; Kapittel 5 §§169 to 172",
+    "passage": "Horten tjenesteområde, Brevik tjenesteområde, Kvitsøy tjenesteområde, Fedje tjenesteområde, Kinn tjenesteområde, Melkøya tjenesteområde"
+   },
+   {
+    "id": "R-S3",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Vessel Traffic Service (VTS) centres (contact page)",
+    "date_or_edition": "undated web page; accessed 29 September 2026",
+    "url": "https://www.kystverket.no/en/contact/vts-service/",
+    "source_class": "Tier 2",
+    "supports": "Lists the six VTS areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya) and separately an NOR VTS information service for Barents SRS and TSS",
+    "locator": "Final contact block",
+    "passage": "Information service for Barents SRS and routing schemes (TSS) in Norway - NOR VTS"
+   },
+   {
+    "id": "R-S1",
+    "authority": "IMO (Maritime Safety Committee)",
+    "title": "SN.1/Circ.318, New mandatory ship reporting system 'In the Barents Area (Barents SRS)', annex resolution MSC.348(91)",
+    "date_or_edition": "4 December 2012 (MSC.348(91) adopted 28 November 2012; in force 0000 UTC 1 June 2013); accessed 29 September 2026",
+    "url": "https://fma.fo/wp-content/uploads/2016/12/2013_navigational_03_sn_circ-318_new-mandatory-ship-reporting-system-in-the-barents-area.pdf",
+    "source_class": "Tier 1",
+    "supports": "Barents SRS participation thresholds, geographical boundary (points A to H), reporting to Vardø VTS centre (Norwegian monitoring area)",
+    "locator": "Annex paras 1.1, 2.1 and 3.1.1 (copy hosted by the Faroese Maritime Authority, fma.fo; text is the IMO circular itself)",
+    "passage": "All Barents SRS reports must be sent to either Vardø VTS centre or Murmansk VTS centre."
+   },
+   {
+    "id": "R-S9",
+    "authority": "IMO (Maritime Safety Committee)",
+    "title": "Resolution MSC.190(79), Mandatory ship reporting system in the Western European PSSA (WETREP)",
+    "date_or_edition": "adopted 6 December 2004; accessed 29 September 2026",
+    "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.190(79).pdf",
+    "source_class": "Tier 1",
+    "supports": "WETREP northern/eastern limit (58°30'N to 62°N at 000°) lies far west of the Træna and Halten TSS (about 005°E to 007°E); WETREP does not include them",
+    "locator": "Annex para 2.1, points 1 to 4",
+    "passage": "2 (UK) 58° 30’ N 000° W 3 (UK) 62° N 000° W"
+   },
+   {
+    "id": "R-S6",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Kystverket WFS layer 'TSS områder' (layer_706), services.kystverket.no",
+    "date_or_edition": "live dataset; accessed 29 September 2026",
+    "url": "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_706&srsName=EPSG:4326",
+    "source_class": "Tier 2",
+    "supports": "Official polygons of each TSS lane and separation zone; eight clusters named 'Trafikkseparasjonssystemer utenfor norskekysten mellom Vardø og Røst', plus separately named Træna and Halten TSS; used to test inclusion in Barents SRS and VTS areas",
+    "locator": "Features 50 to 79 (attribute tss_navn)",
+    "passage": "Trafikkseparasjonssystem utenfor Træna"
+   },
+   {
+    "id": "R-S5",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Navigation rules (TSS in the Norwegian economic zone)",
+    "date_or_edition": "undated web page (refers to changes from 1 June 2021); accessed 29 September 2026",
+    "url": "https://www.kystverket.no/en/navigation-and-monitoring/vts---vessel-traffic-service/sailing-rules/",
+    "source_class": "Tier 2",
+    "supports": "Routeing system in the EEZ; applicable ship categories; no reporting obligation stated for the TSS",
+    "locator": "Section 'Navigation rules in the Norwegian economic zone (TSS)'",
+    "passage": "Vessels in international traffic that may represent a high environmental risk must follow route measures that take these vessels further off the coast."
+   }
+  ]
+ },
+ {
+  "record": {
+   "tss_id": "TSS-0076",
+   "batch": "B16",
+   "tss_name": "Off Runde",
+   "imo_parent_ref": "B-II/19",
+   "coastal_state_s": "Norway",
+   "association_status": "Neither confirmed",
+   "vts_name": null,
+   "vts_authority": null,
+   "vts_centre": null,
+   "vts_sector": null,
+   "vts_boundary_basis": "Sjøtrafikkforskriften (FOR-2021-02-10-523) s.6 is the complete statutory list of Norwegian VTS areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya). NCA official VTS-area geometry (WFS layer_696) compared with NCA TSS geometry (WFS layer_706, group 'mellom Runde og Utsira', layer_706.23-25 (62.83-63.02N, 3.96-4.31E)): bounding boxes disjoint, so the TSS is outside every VTS area. Nearest: Kinn VTS area (c. 50 nm). TSS-to-feature matching is by position (my inference; the WFS names only the group).",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "S-S1",
+    "S-S2",
+    "S-S3"
+   ],
+   "mandatory_reporting": "No",
+   "vrs_id": null,
+   "reporting_scheme_name": null,
+   "reporting_authority": null,
+   "reporting_boundary_basis": "Only Norwegian Part I system in the IMO 2025 inventory is BARENTS SRS (VRS-0009), whose southern limit is 67°10'N (SN.1/Circ.318 points A-B); this TSS lies south of 63.1°N. WETREP (VRS-0005) boundary runs along 000° in the north and does not reach Norwegian waters. Chapter 5 of the Maritime Traffic Regulations makes use of the TSS compulsory for listed ships on the stretch Halten-Utsira but imposes no reporting duty (supervision by NCA only). SafeSeaNet Norway port notification is general, not TSS-linked, and not counted.",
+   "reporting_source_ids": [
+    "S-S7",
+    "S-S8",
+    "S-S1"
+   ],
+   "voluntary_reporting": "No",
+   "evidence_summary": "IMO B-II/19 'Off the coast of Norway' (consolidated 1 June 2021, S-S6), stretch Halten-Utsira (in force 2011, S-S5). Not inside any statutory Norwegian VTS area and not inside any Part I reporting area. Vardø VTS (NOR VTS) monitors tanker and risk traffic along the whole coast outside VTS areas and the NCA supervises compliance with the routeing measures (s.172), but this is surveillance outside a declared VTS area, not a VTS service area covering the TSS.",
+   "source_date": "Maritime Traffic Regulations translation as at 1 July 2026; VTS areas valid from 2021-04-01/2021-06-01; SN.1/Circ.318 2012-12-04; MSC.190(79) 2004-12-06; accessed 2026-09-29",
+   "unresolved_issue": "None blocking. Caveat for Pass 4: if the project decides to count Vardø VTS (NOR VTS) coast-wide monitoring of routeing compliance as VTS coverage, this record would move to 'VTS only'. No official source found that names this TSS as within a Vardø VTS service area.",
+   "vts_leads": "Vardø VTS (NOR VTS), Kystverket: coast-wide monitoring of risk traffic and routeing compliance outside the VTS areas (S-S10, historical SSB text; S-S1 s.172)",
+   "prior_lead_outcome": "n/a: no prior lead; coordinator leads checked: Barents SRS rejected (south limit 67°10'N); local VTS (Kvitsøy, Fedje, Brevik, Horten, plus Kinn) rejected as not covering; Vardø monitoring kept as lead only"
+  },
+  "sources": [
+   {
+    "id": "S-S1",
+    "authority": "Norwegian Coastal Administration (Kystverket), for the Ministry of Transport",
+    "title": "Maritime Traffic Regulations (unofficial English translation of Forskrift om sjøtrafikk i bestemte farvann og om rutetiltak, FOR-2021-02-10-523)",
+    "date_or_edition": "Translation updated to reflect amendments in force as of 1 July 2026 (file dated 2026-06-01); regulations in force 1 April 2021",
+    "url": "https://www.kystverket.no/globalassets/maritime-traffic-regulations---20260601.pdf/download",
+    "source_class": "Tier 1",
+    "supports": "Complete statutory list of Norwegian VTS areas (s.6: Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya); Chapter 5 obligation to use the TSS on the stretches Egersund-Risør and Halten-Utsira; supervision by NCA; no reporting obligation attached to the coastal routeing measures",
+    "locator": "Sections 6, 169-172",
+    "passage": "Vessels mentioned in section 170 that operate on the stretches Egersund-Risør, Halten – Utsira and Træna-Vardø use the traffic separation schemes described in the Norwegian Coastal Administration's electronic charts \"Kystinfo\""
+   },
+   {
+    "id": "S-S2",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Kystverket WFS layer_696 'VTS tjenesteområde 2021 versjon 2' (official VTS area polygons referenced by Sjøtrafikkforskriften s.6)",
+    "date_or_edition": "Features gyldig_fra 2021-04-01 (Kinn 2021-06-01); retrieved 2026-09-29",
+    "url": "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_696&srsName=EPSG:4326",
+    "source_class": "Tier 2",
+    "supports": "Official boundary geometry of all six Norwegian VTS areas; none overlaps any B-II/19 TSS in B16/B17 (bounding boxes disjoint)",
+    "locator": "Features layer_696.1-6 (Brevik, Fedje, Kvitsøy, Horten, Melkøya, Kinn tjenesteområde)",
+    "passage": "omraadenavn: Fedje tjenesteområde; forskriftsreferanse: Sjøtrafikkforskriften §6; gyldig_fra: 2021-04-01"
+   },
+   {
+    "id": "S-S3",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Kystverket WFS layer_706 'TSS områder' (TSS lanes and separation zones)",
+    "date_or_edition": "Current service; retrieved 2026-09-29",
+    "url": "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_706&srsName=EPSG:4326",
+    "source_class": "Tier 2",
+    "supports": "Official geometry of the TSS groups 'mellom Runde og Utsira' (features 23-34) and 'mellom Egersund og Risør' (features 35-49), used to test overlap with VTS areas",
+    "locator": "Features layer_706.23-49",
+    "passage": "tss_navn: Trafikkseparasjonssystem utenfor norskekysten mellom Egersund og Risør"
+   },
+   {
+    "id": "S-S7",
+    "authority": "IMO",
+    "title": "SN.1/Circ.318 New mandatory ship reporting system 'In the Barents Area (Barents SRS)' (copy hosted by Faroese Maritime Authority)",
+    "date_or_edition": "4 December 2012 (MSC 91); in force 1 June 2013",
+    "url": "https://fma.fo/wp-content/uploads/2016/12/2013_navigational_03_sn_circ-318_new-mandatory-ship-reporting-system-in-the-barents-area.pdf",
+    "source_class": "Tier 1",
+    "supports": "Barents SRS (VRS-0009) southern limit is 67°10'N; all B16/B17 Norwegian TSS lie south of 63.1°N and so outside",
+    "locator": "Annex, para 2.1 (points A and B)",
+    "passage": "A - Norway 67º 10´.00 N Norwegian coast / B - Norway 67º 10´.00 N 008º 00´.00 E"
+   },
+   {
+    "id": "S-S8",
+    "authority": "IMO",
+    "title": "Resolution MSC.190(79) Adoption of mandatory ship reporting system in the Western European Particularly Sensitive Sea Area (WETREP)",
+    "date_or_edition": "Adopted 6 December 2004; in force 1 July 2005",
+    "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.190(79).pdf",
+    "source_class": "Tier 1",
+    "supports": "WETREP (VRS-0005) area encloses the waters south and west of Ireland out to 015°W (points 5-8, 21) and so includes the Fastnet TSS; excludes Norwegian waters (northern points at 000°); participation limited to oil tankers >600 dwt carrying heavy grade oil; Irish authority MRCC Dublin via MRSC Valentia/Malin Head",
+    "locator": "Annex 1, paras 1.1, 2.1; Appendix (shore authorities, IRELAND)",
+    "passage": "Every kind of oil tanker of more than 600 tonnes deadweight, carrying a cargo of: heavy crude oil ... heavy fuel oils ... bitumen and tar and their emulsions."
+   },
+   {
+    "id": "S-S1",
+    "authority": "Norwegian Coastal Administration (Kystverket), for the Ministry of Transport",
+    "title": "Maritime Traffic Regulations (unofficial English translation of Forskrift om sjøtrafikk i bestemte farvann og om rutetiltak, FOR-2021-02-10-523)",
+    "date_or_edition": "Translation updated to reflect amendments in force as of 1 July 2026 (file dated 2026-06-01); regulations in force 1 April 2021",
+    "url": "https://www.kystverket.no/globalassets/maritime-traffic-regulations---20260601.pdf/download",
+    "source_class": "Tier 1",
+    "supports": "Complete statutory list of Norwegian VTS areas (s.6: Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya); Chapter 5 obligation to use the TSS on the stretches Egersund-Risør and Halten-Utsira; supervision by NCA; no reporting obligation attached to the coastal routeing measures",
+    "locator": "Sections 6, 169-172",
+    "passage": "Vessels mentioned in section 170 that operate on the stretches Egersund-Risør, Halten – Utsira and Træna-Vardø use the traffic separation schemes described in the Norwegian Coastal Administration's electronic charts \"Kystinfo\""
+   }
+  ]
+ },
+ {
+  "record": {
+   "tss_id": "TSS-0077",
+   "batch": "B16",
+   "tss_name": "Off Stad",
+   "imo_parent_ref": "B-II/19",
+   "coastal_state_s": "Norway",
+   "association_status": "Neither confirmed",
+   "vts_name": null,
+   "vts_authority": null,
+   "vts_centre": null,
+   "vts_sector": null,
+   "vts_boundary_basis": "Sjøtrafikkforskriften (FOR-2021-02-10-523) s.6 is the complete statutory list of Norwegian VTS areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya). NCA official VTS-area geometry (WFS layer_696) compared with NCA TSS geometry (WFS layer_706, group 'mellom Runde og Utsira', layer_706.26-28 (61.90-61.98N, 3.96-4.25E)): bounding boxes disjoint, so the TSS is outside every VTS area. Nearest: Kinn VTS area (c. 14 nm, vertex-to-vertex; Kinn area ends at the baseline). TSS-to-feature matching is by position (my inference; the WFS names only the group).",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "S-S1",
+    "S-S2",
+    "S-S3",
+    "S-S4"
+   ],
+   "mandatory_reporting": "No",
+   "vrs_id": null,
+   "reporting_scheme_name": null,
+   "reporting_authority": null,
+   "reporting_boundary_basis": "Only Norwegian Part I system in the IMO 2025 inventory is BARENTS SRS (VRS-0009), whose southern limit is 67°10'N (SN.1/Circ.318 points A-B); this TSS lies south of 63.1°N. WETREP (VRS-0005) boundary runs along 000° in the north and does not reach Norwegian waters. Chapter 5 of the Maritime Traffic Regulations makes use of the TSS compulsory for listed ships on the stretch Halten-Utsira but imposes no reporting duty (supervision by NCA only). SafeSeaNet Norway port notification is general, not TSS-linked, and not counted.",
+   "reporting_source_ids": [
+    "S-S7",
+    "S-S8",
+    "S-S1"
+   ],
+   "voluntary_reporting": "No",
+   "evidence_summary": "IMO B-II/19 'Off the coast of Norway' (consolidated 1 June 2021, S-S6), stretch Halten-Utsira (in force 2011, S-S5). Not inside any statutory Norwegian VTS area and not inside any Part I reporting area. Vardø VTS (NOR VTS) monitors tanker and risk traffic along the whole coast outside VTS areas and the NCA supervises compliance with the routeing measures (s.172), but this is surveillance outside a declared VTS area, not a VTS service area covering the TSS.",
+   "source_date": "Maritime Traffic Regulations translation as at 1 July 2026; VTS areas valid from 2021-04-01/2021-06-01; SN.1/Circ.318 2012-12-04; MSC.190(79) 2004-12-06; accessed 2026-09-29",
+   "unresolved_issue": "None blocking. Caveat for Pass 4: if the project decides to count Vardø VTS (NOR VTS) coast-wide monitoring of routeing compliance as VTS coverage, this record would move to 'VTS only'. No official source found that names this TSS as within a Vardø VTS service area.",
+   "vts_leads": "Vardø VTS (NOR VTS), Kystverket: coast-wide monitoring of risk traffic and routeing compliance outside the VTS areas (S-S10, historical SSB text; S-S1 s.172)",
+   "prior_lead_outcome": "n/a: no prior lead; coordinator leads checked: Barents SRS rejected (south limit 67°10'N); local VTS (Kvitsøy, Fedje, Brevik, Horten, plus Kinn) rejected as not covering; Vardø monitoring kept as lead only"
+  },
+  "sources": [
+   {
+    "id": "S-S1",
+    "authority": "Norwegian Coastal Administration (Kystverket), for the Ministry of Transport",
+    "title": "Maritime Traffic Regulations (unofficial English translation of Forskrift om sjøtrafikk i bestemte farvann og om rutetiltak, FOR-2021-02-10-523)",
+    "date_or_edition": "Translation updated to reflect amendments in force as of 1 July 2026 (file dated 2026-06-01); regulations in force 1 April 2021",
+    "url": "https://www.kystverket.no/globalassets/maritime-traffic-regulations---20260601.pdf/download",
+    "source_class": "Tier 1",
+    "supports": "Complete statutory list of Norwegian VTS areas (s.6: Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya); Chapter 5 obligation to use the TSS on the stretches Egersund-Risør and Halten-Utsira; supervision by NCA; no reporting obligation attached to the coastal routeing measures",
+    "locator": "Sections 6, 169-172",
+    "passage": "Vessels mentioned in section 170 that operate on the stretches Egersund-Risør, Halten – Utsira and Træna-Vardø use the traffic separation schemes described in the Norwegian Coastal Administration's electronic charts \"Kystinfo\""
+   },
+   {
+    "id": "S-S2",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Kystverket WFS layer_696 'VTS tjenesteområde 2021 versjon 2' (official VTS area polygons referenced by Sjøtrafikkforskriften s.6)",
+    "date_or_edition": "Features gyldig_fra 2021-04-01 (Kinn 2021-06-01); retrieved 2026-09-29",
+    "url": "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_696&srsName=EPSG:4326",
+    "source_class": "Tier 2",
+    "supports": "Official boundary geometry of all six Norwegian VTS areas; none overlaps any B-II/19 TSS in B16/B17 (bounding boxes disjoint)",
+    "locator": "Features layer_696.1-6 (Brevik, Fedje, Kvitsøy, Horten, Melkøya, Kinn tjenesteområde)",
+    "passage": "omraadenavn: Fedje tjenesteområde; forskriftsreferanse: Sjøtrafikkforskriften §6; gyldig_fra: 2021-04-01"
+   },
+   {
+    "id": "S-S3",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Kystverket WFS layer_706 'TSS områder' (TSS lanes and separation zones)",
+    "date_or_edition": "Current service; retrieved 2026-09-29",
+    "url": "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_706&srsName=EPSG:4326",
+    "source_class": "Tier 2",
+    "supports": "Official geometry of the TSS groups 'mellom Runde og Utsira' (features 23-34) and 'mellom Egersund og Risør' (features 35-49), used to test overlap with VTS areas",
+    "locator": "Features layer_706.23-49",
+    "passage": "tss_navn: Trafikkseparasjonssystem utenfor norskekysten mellom Egersund og Risør"
+   },
+   {
+    "id": "S-S4",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Kinn Vessel Traffic Service (VTS) service flyer",
+    "date_or_edition": "From 1 June 2021",
+    "url": "https://www.kystverket.no/contentassets/3a43d44b50e24a02ba69b50559a4f32c/kinn-vts-service-flyer.pdf",
+    "source_class": "Tier 2",
+    "supports": "Kinn VTS area (nearest VTS area to Off Stad TSS) extends seaward only to the baseline",
+    "locator": "Page 1",
+    "passage": "Primarily for inner waters, but extends out to the baseline from Kråkenes in the north, along the baseline south to the southwest of Kinn island."
+   },
+   {
+    "id": "S-S7",
+    "authority": "IMO",
+    "title": "SN.1/Circ.318 New mandatory ship reporting system 'In the Barents Area (Barents SRS)' (copy hosted by Faroese Maritime Authority)",
+    "date_or_edition": "4 December 2012 (MSC 91); in force 1 June 2013",
+    "url": "https://fma.fo/wp-content/uploads/2016/12/2013_navigational_03_sn_circ-318_new-mandatory-ship-reporting-system-in-the-barents-area.pdf",
+    "source_class": "Tier 1",
+    "supports": "Barents SRS (VRS-0009) southern limit is 67°10'N; all B16/B17 Norwegian TSS lie south of 63.1°N and so outside",
+    "locator": "Annex, para 2.1 (points A and B)",
+    "passage": "A - Norway 67º 10´.00 N Norwegian coast / B - Norway 67º 10´.00 N 008º 00´.00 E"
+   },
+   {
+    "id": "S-S8",
+    "authority": "IMO",
+    "title": "Resolution MSC.190(79) Adoption of mandatory ship reporting system in the Western European Particularly Sensitive Sea Area (WETREP)",
+    "date_or_edition": "Adopted 6 December 2004; in force 1 July 2005",
+    "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.190(79).pdf",
+    "source_class": "Tier 1",
+    "supports": "WETREP (VRS-0005) area encloses the waters south and west of Ireland out to 015°W (points 5-8, 21) and so includes the Fastnet TSS; excludes Norwegian waters (northern points at 000°); participation limited to oil tankers >600 dwt carrying heavy grade oil; Irish authority MRCC Dublin via MRSC Valentia/Malin Head",
+    "locator": "Annex 1, paras 1.1, 2.1; Appendix (shore authorities, IRELAND)",
+    "passage": "Every kind of oil tanker of more than 600 tonnes deadweight, carrying a cargo of: heavy crude oil ... heavy fuel oils ... bitumen and tar and their emulsions."
+   },
+   {
+    "id": "S-S1",
+    "authority": "Norwegian Coastal Administration (Kystverket), for the Ministry of Transport",
+    "title": "Maritime Traffic Regulations (unofficial English translation of Forskrift om sjøtrafikk i bestemte farvann og om rutetiltak, FOR-2021-02-10-523)",
+    "date_or_edition": "Translation updated to reflect amendments in force as of 1 July 2026 (file dated 2026-06-01); regulations in force 1 April 2021",
+    "url": "https://www.kystverket.no/globalassets/maritime-traffic-regulations---20260601.pdf/download",
+    "source_class": "Tier 1",
+    "supports": "Complete statutory list of Norwegian VTS areas (s.6: Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya); Chapter 5 obligation to use the TSS on the stretches Egersund-Risør and Halten-Utsira; supervision by NCA; no reporting obligation attached to the coastal routeing measures",
+    "locator": "Sections 6, 169-172",
+    "passage": "Vessels mentioned in section 170 that operate on the stretches Egersund-Risør, Halten – Utsira and Træna-Vardø use the traffic separation schemes described in the Norwegian Coastal Administration's electronic charts \"Kystinfo\""
+   }
+  ]
+ },
+ {
+  "record": {
+   "tss_id": "TSS-0078",
+   "batch": "B16",
+   "tss_name": "Off Sotra",
+   "imo_parent_ref": "B-II/19",
+   "coastal_state_s": "Norway",
+   "association_status": "Neither confirmed",
+   "vts_name": null,
+   "vts_authority": null,
+   "vts_centre": null,
+   "vts_sector": null,
+   "vts_boundary_basis": "Sjøtrafikkforskriften (FOR-2021-02-10-523) s.6 is the complete statutory list of Norwegian VTS areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya). NCA official VTS-area geometry (WFS layer_696) compared with NCA TSS geometry (WFS layer_706, group 'mellom Runde og Utsira', layer_706.29-31 (60.25-60.33N, 3.97-4.24E)): bounding boxes disjoint, so the TSS is outside every VTS area. Nearest: Fedje VTS area (western limit 004°18'E; TSS eastern edge c. 004°14'E). TSS-to-feature matching is by position (my inference; the WFS names only the group).",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "S-S1",
+    "S-S2",
+    "S-S3"
+   ],
+   "mandatory_reporting": "No",
+   "vrs_id": null,
+   "reporting_scheme_name": null,
+   "reporting_authority": null,
+   "reporting_boundary_basis": "Only Norwegian Part I system in the IMO 2025 inventory is BARENTS SRS (VRS-0009), whose southern limit is 67°10'N (SN.1/Circ.318 points A-B); this TSS lies south of 63.1°N. WETREP (VRS-0005) boundary runs along 000° in the north and does not reach Norwegian waters. Chapter 5 of the Maritime Traffic Regulations makes use of the TSS compulsory for listed ships on the stretch Halten-Utsira but imposes no reporting duty (supervision by NCA only). SafeSeaNet Norway port notification is general, not TSS-linked, and not counted.",
+   "reporting_source_ids": [
+    "S-S7",
+    "S-S8",
+    "S-S1"
+   ],
+   "voluntary_reporting": "No",
+   "evidence_summary": "IMO B-II/19 'Off the coast of Norway' (consolidated 1 June 2021, S-S6), stretch Halten-Utsira (in force 2011, S-S5). Not inside any statutory Norwegian VTS area and not inside any Part I reporting area. Vardø VTS (NOR VTS) monitors tanker and risk traffic along the whole coast outside VTS areas and the NCA supervises compliance with the routeing measures (s.172), but this is surveillance outside a declared VTS area, not a VTS service area covering the TSS.",
+   "source_date": "Maritime Traffic Regulations translation as at 1 July 2026; VTS areas valid from 2021-04-01/2021-06-01; SN.1/Circ.318 2012-12-04; MSC.190(79) 2004-12-06; accessed 2026-09-29",
+   "unresolved_issue": "None blocking. Caveat for Pass 4: if the project decides to count Vardø VTS (NOR VTS) coast-wide monitoring of routeing compliance as VTS coverage, this record would move to 'VTS only'. No official source found that names this TSS as within a Vardø VTS service area.",
+   "vts_leads": "Vardø VTS (NOR VTS), Kystverket: coast-wide monitoring of risk traffic and routeing compliance outside the VTS areas (S-S10, historical SSB text; S-S1 s.172)",
+   "prior_lead_outcome": "n/a: no prior lead; coordinator leads checked: Barents SRS rejected (south limit 67°10'N); local VTS (Kvitsøy, Fedje, Brevik, Horten, plus Kinn) rejected as not covering; Vardø monitoring kept as lead only"
+  },
+  "sources": [
+   {
+    "id": "S-S1",
+    "authority": "Norwegian Coastal Administration (Kystverket), for the Ministry of Transport",
+    "title": "Maritime Traffic Regulations (unofficial English translation of Forskrift om sjøtrafikk i bestemte farvann og om rutetiltak, FOR-2021-02-10-523)",
+    "date_or_edition": "Translation updated to reflect amendments in force as of 1 July 2026 (file dated 2026-06-01); regulations in force 1 April 2021",
+    "url": "https://www.kystverket.no/globalassets/maritime-traffic-regulations---20260601.pdf/download",
+    "source_class": "Tier 1",
+    "supports": "Complete statutory list of Norwegian VTS areas (s.6: Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya); Chapter 5 obligation to use the TSS on the stretches Egersund-Risør and Halten-Utsira; supervision by NCA; no reporting obligation attached to the coastal routeing measures",
+    "locator": "Sections 6, 169-172",
+    "passage": "Vessels mentioned in section 170 that operate on the stretches Egersund-Risør, Halten – Utsira and Træna-Vardø use the traffic separation schemes described in the Norwegian Coastal Administration's electronic charts \"Kystinfo\""
+   },
+   {
+    "id": "S-S2",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Kystverket WFS layer_696 'VTS tjenesteområde 2021 versjon 2' (official VTS area polygons referenced by Sjøtrafikkforskriften s.6)",
+    "date_or_edition": "Features gyldig_fra 2021-04-01 (Kinn 2021-06-01); retrieved 2026-09-29",
+    "url": "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_696&srsName=EPSG:4326",
+    "source_class": "Tier 2",
+    "supports": "Official boundary geometry of all six Norwegian VTS areas; none overlaps any B-II/19 TSS in B16/B17 (bounding boxes disjoint)",
+    "locator": "Features layer_696.1-6 (Brevik, Fedje, Kvitsøy, Horten, Melkøya, Kinn tjenesteområde)",
+    "passage": "omraadenavn: Fedje tjenesteområde; forskriftsreferanse: Sjøtrafikkforskriften §6; gyldig_fra: 2021-04-01"
+   },
+   {
+    "id": "S-S3",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Kystverket WFS layer_706 'TSS områder' (TSS lanes and separation zones)",
+    "date_or_edition": "Current service; retrieved 2026-09-29",
+    "url": "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_706&srsName=EPSG:4326",
+    "source_class": "Tier 2",
+    "supports": "Official geometry of the TSS groups 'mellom Runde og Utsira' (features 23-34) and 'mellom Egersund og Risør' (features 35-49), used to test overlap with VTS areas",
+    "locator": "Features layer_706.23-49",
+    "passage": "tss_navn: Trafikkseparasjonssystem utenfor norskekysten mellom Egersund og Risør"
+   },
+   {
+    "id": "S-S7",
+    "authority": "IMO",
+    "title": "SN.1/Circ.318 New mandatory ship reporting system 'In the Barents Area (Barents SRS)' (copy hosted by Faroese Maritime Authority)",
+    "date_or_edition": "4 December 2012 (MSC 91); in force 1 June 2013",
+    "url": "https://fma.fo/wp-content/uploads/2016/12/2013_navigational_03_sn_circ-318_new-mandatory-ship-reporting-system-in-the-barents-area.pdf",
+    "source_class": "Tier 1",
+    "supports": "Barents SRS (VRS-0009) southern limit is 67°10'N; all B16/B17 Norwegian TSS lie south of 63.1°N and so outside",
+    "locator": "Annex, para 2.1 (points A and B)",
+    "passage": "A - Norway 67º 10´.00 N Norwegian coast / B - Norway 67º 10´.00 N 008º 00´.00 E"
+   },
+   {
+    "id": "S-S8",
+    "authority": "IMO",
+    "title": "Resolution MSC.190(79) Adoption of mandatory ship reporting system in the Western European Particularly Sensitive Sea Area (WETREP)",
+    "date_or_edition": "Adopted 6 December 2004; in force 1 July 2005",
+    "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.190(79).pdf",
+    "source_class": "Tier 1",
+    "supports": "WETREP (VRS-0005) area encloses the waters south and west of Ireland out to 015°W (points 5-8, 21) and so includes the Fastnet TSS; excludes Norwegian waters (northern points at 000°); participation limited to oil tankers >600 dwt carrying heavy grade oil; Irish authority MRCC Dublin via MRSC Valentia/Malin Head",
+    "locator": "Annex 1, paras 1.1, 2.1; Appendix (shore authorities, IRELAND)",
+    "passage": "Every kind of oil tanker of more than 600 tonnes deadweight, carrying a cargo of: heavy crude oil ... heavy fuel oils ... bitumen and tar and their emulsions."
+   },
+   {
+    "id": "S-S1",
+    "authority": "Norwegian Coastal Administration (Kystverket), for the Ministry of Transport",
+    "title": "Maritime Traffic Regulations (unofficial English translation of Forskrift om sjøtrafikk i bestemte farvann og om rutetiltak, FOR-2021-02-10-523)",
+    "date_or_edition": "Translation updated to reflect amendments in force as of 1 July 2026 (file dated 2026-06-01); regulations in force 1 April 2021",
+    "url": "https://www.kystverket.no/globalassets/maritime-traffic-regulations---20260601.pdf/download",
+    "source_class": "Tier 1",
+    "supports": "Complete statutory list of Norwegian VTS areas (s.6: Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya); Chapter 5 obligation to use the TSS on the stretches Egersund-Risør and Halten-Utsira; supervision by NCA; no reporting obligation attached to the coastal routeing measures",
+    "locator": "Sections 6, 169-172",
+    "passage": "Vessels mentioned in section 170 that operate on the stretches Egersund-Risør, Halten – Utsira and Træna-Vardø use the traffic separation schemes described in the Norwegian Coastal Administration's electronic charts \"Kystinfo\""
+   }
+  ]
+ },
+ {
+  "record": {
+   "tss_id": "TSS-0079",
+   "batch": "B16",
+   "tss_name": "Off Utsira",
+   "imo_parent_ref": "B-II/19",
+   "coastal_state_s": "Norway",
+   "association_status": "Neither confirmed",
+   "vts_name": null,
+   "vts_authority": null,
+   "vts_centre": null,
+   "vts_sector": null,
+   "vts_boundary_basis": "Sjøtrafikkforskriften (FOR-2021-02-10-523) s.6 is the complete statutory list of Norwegian VTS areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya). NCA official VTS-area geometry (WFS layer_696) compared with NCA TSS geometry (WFS layer_706, group 'mellom Runde og Utsira', layer_706.32-34 (58.96-59.08N, 3.97-4.33E)): bounding boxes disjoint, so the TSS is outside every VTS area. Nearest: Kvitsøy VTS area (western limit c. 004°43'E). TSS-to-feature matching is by position (my inference; the WFS names only the group).",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "S-S1",
+    "S-S2",
+    "S-S3"
+   ],
+   "mandatory_reporting": "No",
+   "vrs_id": null,
+   "reporting_scheme_name": null,
+   "reporting_authority": null,
+   "reporting_boundary_basis": "Only Norwegian Part I system in the IMO 2025 inventory is BARENTS SRS (VRS-0009), whose southern limit is 67°10'N (SN.1/Circ.318 points A-B); this TSS lies south of 63.1°N. WETREP (VRS-0005) boundary runs along 000° in the north and does not reach Norwegian waters. Chapter 5 of the Maritime Traffic Regulations makes use of the TSS compulsory for listed ships on the stretch Halten-Utsira but imposes no reporting duty (supervision by NCA only). SafeSeaNet Norway port notification is general, not TSS-linked, and not counted.",
+   "reporting_source_ids": [
+    "S-S7",
+    "S-S8",
+    "S-S1"
+   ],
+   "voluntary_reporting": "No",
+   "evidence_summary": "IMO B-II/19 'Off the coast of Norway' (consolidated 1 June 2021, S-S6), stretch Halten-Utsira (in force 2011, S-S5). Not inside any statutory Norwegian VTS area and not inside any Part I reporting area. Vardø VTS (NOR VTS) monitors tanker and risk traffic along the whole coast outside VTS areas and the NCA supervises compliance with the routeing measures (s.172), but this is surveillance outside a declared VTS area, not a VTS service area covering the TSS.",
+   "source_date": "Maritime Traffic Regulations translation as at 1 July 2026; VTS areas valid from 2021-04-01/2021-06-01; SN.1/Circ.318 2012-12-04; MSC.190(79) 2004-12-06; accessed 2026-09-29",
+   "unresolved_issue": "None blocking. Caveat for Pass 4: if the project decides to count Vardø VTS (NOR VTS) coast-wide monitoring of routeing compliance as VTS coverage, this record would move to 'VTS only'. No official source found that names this TSS as within a Vardø VTS service area.",
+   "vts_leads": "Vardø VTS (NOR VTS), Kystverket: coast-wide monitoring of risk traffic and routeing compliance outside the VTS areas (S-S10, historical SSB text; S-S1 s.172)",
+   "prior_lead_outcome": "n/a: no prior lead; coordinator leads checked: Barents SRS rejected (south limit 67°10'N); local VTS (Kvitsøy, Fedje, Brevik, Horten, plus Kinn) rejected as not covering; Vardø monitoring kept as lead only"
+  },
+  "sources": [
+   {
+    "id": "S-S1",
+    "authority": "Norwegian Coastal Administration (Kystverket), for the Ministry of Transport",
+    "title": "Maritime Traffic Regulations (unofficial English translation of Forskrift om sjøtrafikk i bestemte farvann og om rutetiltak, FOR-2021-02-10-523)",
+    "date_or_edition": "Translation updated to reflect amendments in force as of 1 July 2026 (file dated 2026-06-01); regulations in force 1 April 2021",
+    "url": "https://www.kystverket.no/globalassets/maritime-traffic-regulations---20260601.pdf/download",
+    "source_class": "Tier 1",
+    "supports": "Complete statutory list of Norwegian VTS areas (s.6: Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya); Chapter 5 obligation to use the TSS on the stretches Egersund-Risør and Halten-Utsira; supervision by NCA; no reporting obligation attached to the coastal routeing measures",
+    "locator": "Sections 6, 169-172",
+    "passage": "Vessels mentioned in section 170 that operate on the stretches Egersund-Risør, Halten – Utsira and Træna-Vardø use the traffic separation schemes described in the Norwegian Coastal Administration's electronic charts \"Kystinfo\""
+   },
+   {
+    "id": "S-S2",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Kystverket WFS layer_696 'VTS tjenesteområde 2021 versjon 2' (official VTS area polygons referenced by Sjøtrafikkforskriften s.6)",
+    "date_or_edition": "Features gyldig_fra 2021-04-01 (Kinn 2021-06-01); retrieved 2026-09-29",
+    "url": "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_696&srsName=EPSG:4326",
+    "source_class": "Tier 2",
+    "supports": "Official boundary geometry of all six Norwegian VTS areas; none overlaps any B-II/19 TSS in B16/B17 (bounding boxes disjoint)",
+    "locator": "Features layer_696.1-6 (Brevik, Fedje, Kvitsøy, Horten, Melkøya, Kinn tjenesteområde)",
+    "passage": "omraadenavn: Fedje tjenesteområde; forskriftsreferanse: Sjøtrafikkforskriften §6; gyldig_fra: 2021-04-01"
+   },
+   {
+    "id": "S-S3",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Kystverket WFS layer_706 'TSS områder' (TSS lanes and separation zones)",
+    "date_or_edition": "Current service; retrieved 2026-09-29",
+    "url": "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_706&srsName=EPSG:4326",
+    "source_class": "Tier 2",
+    "supports": "Official geometry of the TSS groups 'mellom Runde og Utsira' (features 23-34) and 'mellom Egersund og Risør' (features 35-49), used to test overlap with VTS areas",
+    "locator": "Features layer_706.23-49",
+    "passage": "tss_navn: Trafikkseparasjonssystem utenfor norskekysten mellom Egersund og Risør"
+   },
+   {
+    "id": "S-S7",
+    "authority": "IMO",
+    "title": "SN.1/Circ.318 New mandatory ship reporting system 'In the Barents Area (Barents SRS)' (copy hosted by Faroese Maritime Authority)",
+    "date_or_edition": "4 December 2012 (MSC 91); in force 1 June 2013",
+    "url": "https://fma.fo/wp-content/uploads/2016/12/2013_navigational_03_sn_circ-318_new-mandatory-ship-reporting-system-in-the-barents-area.pdf",
+    "source_class": "Tier 1",
+    "supports": "Barents SRS (VRS-0009) southern limit is 67°10'N; all B16/B17 Norwegian TSS lie south of 63.1°N and so outside",
+    "locator": "Annex, para 2.1 (points A and B)",
+    "passage": "A - Norway 67º 10´.00 N Norwegian coast / B - Norway 67º 10´.00 N 008º 00´.00 E"
+   },
+   {
+    "id": "S-S8",
+    "authority": "IMO",
+    "title": "Resolution MSC.190(79) Adoption of mandatory ship reporting system in the Western European Particularly Sensitive Sea Area (WETREP)",
+    "date_or_edition": "Adopted 6 December 2004; in force 1 July 2005",
+    "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.190(79).pdf",
+    "source_class": "Tier 1",
+    "supports": "WETREP (VRS-0005) area encloses the waters south and west of Ireland out to 015°W (points 5-8, 21) and so includes the Fastnet TSS; excludes Norwegian waters (northern points at 000°); participation limited to oil tankers >600 dwt carrying heavy grade oil; Irish authority MRCC Dublin via MRSC Valentia/Malin Head",
+    "locator": "Annex 1, paras 1.1, 2.1; Appendix (shore authorities, IRELAND)",
+    "passage": "Every kind of oil tanker of more than 600 tonnes deadweight, carrying a cargo of: heavy crude oil ... heavy fuel oils ... bitumen and tar and their emulsions."
+   },
+   {
+    "id": "S-S1",
+    "authority": "Norwegian Coastal Administration (Kystverket), for the Ministry of Transport",
+    "title": "Maritime Traffic Regulations (unofficial English translation of Forskrift om sjøtrafikk i bestemte farvann og om rutetiltak, FOR-2021-02-10-523)",
+    "date_or_edition": "Translation updated to reflect amendments in force as of 1 July 2026 (file dated 2026-06-01); regulations in force 1 April 2021",
+    "url": "https://www.kystverket.no/globalassets/maritime-traffic-regulations---20260601.pdf/download",
+    "source_class": "Tier 1",
+    "supports": "Complete statutory list of Norwegian VTS areas (s.6: Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya); Chapter 5 obligation to use the TSS on the stretches Egersund-Risør and Halten-Utsira; supervision by NCA; no reporting obligation attached to the coastal routeing measures",
+    "locator": "Sections 6, 169-172",
+    "passage": "Vessels mentioned in section 170 that operate on the stretches Egersund-Risør, Halten – Utsira and Træna-Vardø use the traffic separation schemes described in the Norwegian Coastal Administration's electronic charts \"Kystinfo\""
+   }
+  ]
+ },
+ {
+  "record": {
+   "tss_id": "TSS-0080",
+   "batch": "B16",
+   "tss_name": "Off Egersund",
+   "imo_parent_ref": "B-II/19",
+   "coastal_state_s": "Norway",
+   "association_status": "Neither confirmed",
+   "vts_name": null,
+   "vts_authority": null,
+   "vts_centre": null,
+   "vts_sector": null,
+   "vts_boundary_basis": "Sjøtrafikkforskriften (FOR-2021-02-10-523) s.6 is the complete statutory list of Norwegian VTS areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya). NCA official VTS-area geometry (WFS layer_696) compared with NCA TSS geometry (WFS layer_706, group 'mellom Egersund og Risør', layer_706.35-37 (58.24-58.41N, 5.18-5.50E)): bounding boxes disjoint, so the TSS is outside every VTS area. Nearest: Kvitsøy VTS area (southern limit 58°45'N). TSS-to-feature matching is by position (my inference; the WFS names only the group).",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "S-S1",
+    "S-S2",
+    "S-S3"
+   ],
+   "mandatory_reporting": "No",
+   "vrs_id": null,
+   "reporting_scheme_name": null,
+   "reporting_authority": null,
+   "reporting_boundary_basis": "Only Norwegian Part I system in the IMO 2025 inventory is BARENTS SRS (VRS-0009), whose southern limit is 67°10'N (SN.1/Circ.318 points A-B); this TSS lies south of 63.1°N. WETREP (VRS-0005) boundary runs along 000° in the north and does not reach Norwegian waters. Chapter 5 of the Maritime Traffic Regulations makes use of the TSS compulsory for listed ships on the stretch Egersund-Risør but imposes no reporting duty (supervision by NCA only). SafeSeaNet Norway port notification is general, not TSS-linked, and not counted.",
+   "reporting_source_ids": [
+    "S-S7",
+    "S-S8",
+    "S-S1"
+   ],
+   "voluntary_reporting": "No",
+   "evidence_summary": "IMO B-II/19 'Off the coast of Norway' (consolidated 1 June 2021, S-S6), stretch Egersund-Risør (in force 2011, S-S5). Not inside any statutory Norwegian VTS area and not inside any Part I reporting area. Vardø VTS (NOR VTS) monitors tanker and risk traffic along the whole coast outside VTS areas and the NCA supervises compliance with the routeing measures (s.172), but this is surveillance outside a declared VTS area, not a VTS service area covering the TSS.",
+   "source_date": "Maritime Traffic Regulations translation as at 1 July 2026; VTS areas valid from 2021-04-01/2021-06-01; SN.1/Circ.318 2012-12-04; MSC.190(79) 2004-12-06; accessed 2026-09-29",
+   "unresolved_issue": "None blocking. Caveat for Pass 4: if the project decides to count Vardø VTS (NOR VTS) coast-wide monitoring of routeing compliance as VTS coverage, this record would move to 'VTS only'. No official source found that names this TSS as within a Vardø VTS service area.",
+   "vts_leads": "Vardø VTS (NOR VTS), Kystverket: coast-wide monitoring of risk traffic and routeing compliance outside the VTS areas (S-S10, historical SSB text; S-S1 s.172)",
+   "prior_lead_outcome": "n/a: no prior lead; coordinator leads checked: Barents SRS rejected (south limit 67°10'N); local VTS (Kvitsøy, Fedje, Brevik, Horten, plus Kinn) rejected as not covering; Vardø monitoring kept as lead only"
+  },
+  "sources": [
+   {
+    "id": "S-S1",
+    "authority": "Norwegian Coastal Administration (Kystverket), for the Ministry of Transport",
+    "title": "Maritime Traffic Regulations (unofficial English translation of Forskrift om sjøtrafikk i bestemte farvann og om rutetiltak, FOR-2021-02-10-523)",
+    "date_or_edition": "Translation updated to reflect amendments in force as of 1 July 2026 (file dated 2026-06-01); regulations in force 1 April 2021",
+    "url": "https://www.kystverket.no/globalassets/maritime-traffic-regulations---20260601.pdf/download",
+    "source_class": "Tier 1",
+    "supports": "Complete statutory list of Norwegian VTS areas (s.6: Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya); Chapter 5 obligation to use the TSS on the stretches Egersund-Risør and Halten-Utsira; supervision by NCA; no reporting obligation attached to the coastal routeing measures",
+    "locator": "Sections 6, 169-172",
+    "passage": "Vessels mentioned in section 170 that operate on the stretches Egersund-Risør, Halten – Utsira and Træna-Vardø use the traffic separation schemes described in the Norwegian Coastal Administration's electronic charts \"Kystinfo\""
+   },
+   {
+    "id": "S-S2",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Kystverket WFS layer_696 'VTS tjenesteområde 2021 versjon 2' (official VTS area polygons referenced by Sjøtrafikkforskriften s.6)",
+    "date_or_edition": "Features gyldig_fra 2021-04-01 (Kinn 2021-06-01); retrieved 2026-09-29",
+    "url": "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_696&srsName=EPSG:4326",
+    "source_class": "Tier 2",
+    "supports": "Official boundary geometry of all six Norwegian VTS areas; none overlaps any B-II/19 TSS in B16/B17 (bounding boxes disjoint)",
+    "locator": "Features layer_696.1-6 (Brevik, Fedje, Kvitsøy, Horten, Melkøya, Kinn tjenesteområde)",
+    "passage": "omraadenavn: Fedje tjenesteområde; forskriftsreferanse: Sjøtrafikkforskriften §6; gyldig_fra: 2021-04-01"
+   },
+   {
+    "id": "S-S3",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Kystverket WFS layer_706 'TSS områder' (TSS lanes and separation zones)",
+    "date_or_edition": "Current service; retrieved 2026-09-29",
+    "url": "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_706&srsName=EPSG:4326",
+    "source_class": "Tier 2",
+    "supports": "Official geometry of the TSS groups 'mellom Runde og Utsira' (features 23-34) and 'mellom Egersund og Risør' (features 35-49), used to test overlap with VTS areas",
+    "locator": "Features layer_706.23-49",
+    "passage": "tss_navn: Trafikkseparasjonssystem utenfor norskekysten mellom Egersund og Risør"
+   },
+   {
+    "id": "S-S7",
+    "authority": "IMO",
+    "title": "SN.1/Circ.318 New mandatory ship reporting system 'In the Barents Area (Barents SRS)' (copy hosted by Faroese Maritime Authority)",
+    "date_or_edition": "4 December 2012 (MSC 91); in force 1 June 2013",
+    "url": "https://fma.fo/wp-content/uploads/2016/12/2013_navigational_03_sn_circ-318_new-mandatory-ship-reporting-system-in-the-barents-area.pdf",
+    "source_class": "Tier 1",
+    "supports": "Barents SRS (VRS-0009) southern limit is 67°10'N; all B16/B17 Norwegian TSS lie south of 63.1°N and so outside",
+    "locator": "Annex, para 2.1 (points A and B)",
+    "passage": "A - Norway 67º 10´.00 N Norwegian coast / B - Norway 67º 10´.00 N 008º 00´.00 E"
+   },
+   {
+    "id": "S-S8",
+    "authority": "IMO",
+    "title": "Resolution MSC.190(79) Adoption of mandatory ship reporting system in the Western European Particularly Sensitive Sea Area (WETREP)",
+    "date_or_edition": "Adopted 6 December 2004; in force 1 July 2005",
+    "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.190(79).pdf",
+    "source_class": "Tier 1",
+    "supports": "WETREP (VRS-0005) area encloses the waters south and west of Ireland out to 015°W (points 5-8, 21) and so includes the Fastnet TSS; excludes Norwegian waters (northern points at 000°); participation limited to oil tankers >600 dwt carrying heavy grade oil; Irish authority MRCC Dublin via MRSC Valentia/Malin Head",
+    "locator": "Annex 1, paras 1.1, 2.1; Appendix (shore authorities, IRELAND)",
+    "passage": "Every kind of oil tanker of more than 600 tonnes deadweight, carrying a cargo of: heavy crude oil ... heavy fuel oils ... bitumen and tar and their emulsions."
+   },
+   {
+    "id": "S-S1",
+    "authority": "Norwegian Coastal Administration (Kystverket), for the Ministry of Transport",
+    "title": "Maritime Traffic Regulations (unofficial English translation of Forskrift om sjøtrafikk i bestemte farvann og om rutetiltak, FOR-2021-02-10-523)",
+    "date_or_edition": "Translation updated to reflect amendments in force as of 1 July 2026 (file dated 2026-06-01); regulations in force 1 April 2021",
+    "url": "https://www.kystverket.no/globalassets/maritime-traffic-regulations---20260601.pdf/download",
+    "source_class": "Tier 1",
+    "supports": "Complete statutory list of Norwegian VTS areas (s.6: Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya); Chapter 5 obligation to use the TSS on the stretches Egersund-Risør and Halten-Utsira; supervision by NCA; no reporting obligation attached to the coastal routeing measures",
+    "locator": "Sections 6, 169-172",
+    "passage": "Vessels mentioned in section 170 that operate on the stretches Egersund-Risør, Halten – Utsira and Træna-Vardø use the traffic separation schemes described in the Norwegian Coastal Administration's electronic charts \"Kystinfo\""
+   }
+  ]
+ },
+ {
+  "record": {
+   "tss_id": "TSS-0081",
+   "batch": "B17",
+   "tss_name": "Off Farsund",
+   "imo_parent_ref": "B-II/19",
+   "coastal_state_s": "Norway",
+   "association_status": "Neither confirmed",
+   "vts_name": null,
+   "vts_authority": null,
+   "vts_centre": null,
+   "vts_sector": null,
+   "vts_boundary_basis": "Sjøtrafikkforskriften (FOR-2021-02-10-523) s.6 is the complete statutory list of Norwegian VTS areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya). NCA official VTS-area geometry (WFS layer_696) compared with NCA TSS geometry (WFS layer_706, group 'mellom Egersund og Risør', layer_706.38-40 (57.69-57.84N, 6.45-6.70E)): bounding boxes disjoint, so the TSS is outside every VTS area. Nearest: Kvitsøy VTS area (c. 60 nm). TSS-to-feature matching is by position (my inference; the WFS names only the group).",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "S-S1",
+    "S-S2",
+    "S-S3"
+   ],
+   "mandatory_reporting": "No",
+   "vrs_id": null,
+   "reporting_scheme_name": null,
+   "reporting_authority": null,
+   "reporting_boundary_basis": "Only Norwegian Part I system in the IMO 2025 inventory is BARENTS SRS (VRS-0009), whose southern limit is 67°10'N (SN.1/Circ.318 points A-B); this TSS lies south of 63.1°N. WETREP (VRS-0005) boundary runs along 000° in the north and does not reach Norwegian waters. Chapter 5 of the Maritime Traffic Regulations makes use of the TSS compulsory for listed ships on the stretch Egersund-Risør but imposes no reporting duty (supervision by NCA only). SafeSeaNet Norway port notification is general, not TSS-linked, and not counted.",
+   "reporting_source_ids": [
+    "S-S7",
+    "S-S8",
+    "S-S1"
+   ],
+   "voluntary_reporting": "No",
+   "evidence_summary": "IMO B-II/19 'Off the coast of Norway' (consolidated 1 June 2021, S-S6), stretch Egersund-Risør (in force 2011, S-S5). Not inside any statutory Norwegian VTS area and not inside any Part I reporting area. Vardø VTS (NOR VTS) monitors tanker and risk traffic along the whole coast outside VTS areas and the NCA supervises compliance with the routeing measures (s.172), but this is surveillance outside a declared VTS area, not a VTS service area covering the TSS.",
+   "source_date": "Maritime Traffic Regulations translation as at 1 July 2026; VTS areas valid from 2021-04-01/2021-06-01; SN.1/Circ.318 2012-12-04; MSC.190(79) 2004-12-06; accessed 2026-09-29",
+   "unresolved_issue": "None blocking. Caveat for Pass 4: if the project decides to count Vardø VTS (NOR VTS) coast-wide monitoring of routeing compliance as VTS coverage, this record would move to 'VTS only'. No official source found that names this TSS as within a Vardø VTS service area.",
+   "vts_leads": "Vardø VTS (NOR VTS), Kystverket: coast-wide monitoring of risk traffic and routeing compliance outside the VTS areas (S-S10, historical SSB text; S-S1 s.172)",
+   "prior_lead_outcome": "n/a: no prior lead; coordinator leads checked: Barents SRS rejected (south limit 67°10'N); local VTS (Kvitsøy, Fedje, Brevik, Horten, plus Kinn) rejected as not covering; Vardø monitoring kept as lead only"
+  },
+  "sources": [
+   {
+    "id": "S-S1",
+    "authority": "Norwegian Coastal Administration (Kystverket), for the Ministry of Transport",
+    "title": "Maritime Traffic Regulations (unofficial English translation of Forskrift om sjøtrafikk i bestemte farvann og om rutetiltak, FOR-2021-02-10-523)",
+    "date_or_edition": "Translation updated to reflect amendments in force as of 1 July 2026 (file dated 2026-06-01); regulations in force 1 April 2021",
+    "url": "https://www.kystverket.no/globalassets/maritime-traffic-regulations---20260601.pdf/download",
+    "source_class": "Tier 1",
+    "supports": "Complete statutory list of Norwegian VTS areas (s.6: Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya); Chapter 5 obligation to use the TSS on the stretches Egersund-Risør and Halten-Utsira; supervision by NCA; no reporting obligation attached to the coastal routeing measures",
+    "locator": "Sections 6, 169-172",
+    "passage": "Vessels mentioned in section 170 that operate on the stretches Egersund-Risør, Halten – Utsira and Træna-Vardø use the traffic separation schemes described in the Norwegian Coastal Administration's electronic charts \"Kystinfo\""
+   },
+   {
+    "id": "S-S2",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Kystverket WFS layer_696 'VTS tjenesteområde 2021 versjon 2' (official VTS area polygons referenced by Sjøtrafikkforskriften s.6)",
+    "date_or_edition": "Features gyldig_fra 2021-04-01 (Kinn 2021-06-01); retrieved 2026-09-29",
+    "url": "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_696&srsName=EPSG:4326",
+    "source_class": "Tier 2",
+    "supports": "Official boundary geometry of all six Norwegian VTS areas; none overlaps any B-II/19 TSS in B16/B17 (bounding boxes disjoint)",
+    "locator": "Features layer_696.1-6 (Brevik, Fedje, Kvitsøy, Horten, Melkøya, Kinn tjenesteområde)",
+    "passage": "omraadenavn: Fedje tjenesteområde; forskriftsreferanse: Sjøtrafikkforskriften §6; gyldig_fra: 2021-04-01"
+   },
+   {
+    "id": "S-S3",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Kystverket WFS layer_706 'TSS områder' (TSS lanes and separation zones)",
+    "date_or_edition": "Current service; retrieved 2026-09-29",
+    "url": "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_706&srsName=EPSG:4326",
+    "source_class": "Tier 2",
+    "supports": "Official geometry of the TSS groups 'mellom Runde og Utsira' (features 23-34) and 'mellom Egersund og Risør' (features 35-49), used to test overlap with VTS areas",
+    "locator": "Features layer_706.23-49",
+    "passage": "tss_navn: Trafikkseparasjonssystem utenfor norskekysten mellom Egersund og Risør"
+   },
+   {
+    "id": "S-S7",
+    "authority": "IMO",
+    "title": "SN.1/Circ.318 New mandatory ship reporting system 'In the Barents Area (Barents SRS)' (copy hosted by Faroese Maritime Authority)",
+    "date_or_edition": "4 December 2012 (MSC 91); in force 1 June 2013",
+    "url": "https://fma.fo/wp-content/uploads/2016/12/2013_navigational_03_sn_circ-318_new-mandatory-ship-reporting-system-in-the-barents-area.pdf",
+    "source_class": "Tier 1",
+    "supports": "Barents SRS (VRS-0009) southern limit is 67°10'N; all B16/B17 Norwegian TSS lie south of 63.1°N and so outside",
+    "locator": "Annex, para 2.1 (points A and B)",
+    "passage": "A - Norway 67º 10´.00 N Norwegian coast / B - Norway 67º 10´.00 N 008º 00´.00 E"
+   },
+   {
+    "id": "S-S8",
+    "authority": "IMO",
+    "title": "Resolution MSC.190(79) Adoption of mandatory ship reporting system in the Western European Particularly Sensitive Sea Area (WETREP)",
+    "date_or_edition": "Adopted 6 December 2004; in force 1 July 2005",
+    "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.190(79).pdf",
+    "source_class": "Tier 1",
+    "supports": "WETREP (VRS-0005) area encloses the waters south and west of Ireland out to 015°W (points 5-8, 21) and so includes the Fastnet TSS; excludes Norwegian waters (northern points at 000°); participation limited to oil tankers >600 dwt carrying heavy grade oil; Irish authority MRCC Dublin via MRSC Valentia/Malin Head",
+    "locator": "Annex 1, paras 1.1, 2.1; Appendix (shore authorities, IRELAND)",
+    "passage": "Every kind of oil tanker of more than 600 tonnes deadweight, carrying a cargo of: heavy crude oil ... heavy fuel oils ... bitumen and tar and their emulsions."
+   },
+   {
+    "id": "S-S1",
+    "authority": "Norwegian Coastal Administration (Kystverket), for the Ministry of Transport",
+    "title": "Maritime Traffic Regulations (unofficial English translation of Forskrift om sjøtrafikk i bestemte farvann og om rutetiltak, FOR-2021-02-10-523)",
+    "date_or_edition": "Translation updated to reflect amendments in force as of 1 July 2026 (file dated 2026-06-01); regulations in force 1 April 2021",
+    "url": "https://www.kystverket.no/globalassets/maritime-traffic-regulations---20260601.pdf/download",
+    "source_class": "Tier 1",
+    "supports": "Complete statutory list of Norwegian VTS areas (s.6: Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya); Chapter 5 obligation to use the TSS on the stretches Egersund-Risør and Halten-Utsira; supervision by NCA; no reporting obligation attached to the coastal routeing measures",
+    "locator": "Sections 6, 169-172",
+    "passage": "Vessels mentioned in section 170 that operate on the stretches Egersund-Risør, Halten – Utsira and Træna-Vardø use the traffic separation schemes described in the Norwegian Coastal Administration's electronic charts \"Kystinfo\""
+   }
+  ]
+ },
+ {
+  "record": {
+   "tss_id": "TSS-0082",
+   "batch": "B17",
+   "tss_name": "Off Ryvingen",
+   "imo_parent_ref": "B-II/19",
+   "coastal_state_s": "Norway",
+   "association_status": "Neither confirmed",
+   "vts_name": null,
+   "vts_authority": null,
+   "vts_centre": null,
+   "vts_sector": null,
+   "vts_boundary_basis": "Sjøtrafikkforskriften (FOR-2021-02-10-523) s.6 is the complete statutory list of Norwegian VTS areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya). NCA official VTS-area geometry (WFS layer_696) compared with NCA TSS geometry (WFS layer_706, group 'mellom Egersund og Risør', layer_706.41-43 (57.66-57.82N, 7.70-8.00E)): bounding boxes disjoint, so the TSS is outside every VTS area. Nearest: none within c. 75 nm. TSS-to-feature matching is by position (my inference; the WFS names only the group).",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "S-S1",
+    "S-S2",
+    "S-S3"
+   ],
+   "mandatory_reporting": "No",
+   "vrs_id": null,
+   "reporting_scheme_name": null,
+   "reporting_authority": null,
+   "reporting_boundary_basis": "Only Norwegian Part I system in the IMO 2025 inventory is BARENTS SRS (VRS-0009), whose southern limit is 67°10'N (SN.1/Circ.318 points A-B); this TSS lies south of 63.1°N. WETREP (VRS-0005) boundary runs along 000° in the north and does not reach Norwegian waters. Chapter 5 of the Maritime Traffic Regulations makes use of the TSS compulsory for listed ships on the stretch Egersund-Risør but imposes no reporting duty (supervision by NCA only). SafeSeaNet Norway port notification is general, not TSS-linked, and not counted.",
+   "reporting_source_ids": [
+    "S-S7",
+    "S-S8",
+    "S-S1"
+   ],
+   "voluntary_reporting": "No",
+   "evidence_summary": "IMO B-II/19 'Off the coast of Norway' (consolidated 1 June 2021, S-S6), stretch Egersund-Risør (in force 2011, S-S5). Not inside any statutory Norwegian VTS area and not inside any Part I reporting area. Vardø VTS (NOR VTS) monitors tanker and risk traffic along the whole coast outside VTS areas and the NCA supervises compliance with the routeing measures (s.172), but this is surveillance outside a declared VTS area, not a VTS service area covering the TSS.",
+   "source_date": "Maritime Traffic Regulations translation as at 1 July 2026; VTS areas valid from 2021-04-01/2021-06-01; SN.1/Circ.318 2012-12-04; MSC.190(79) 2004-12-06; accessed 2026-09-29",
+   "unresolved_issue": "None blocking. Caveat for Pass 4: if the project decides to count Vardø VTS (NOR VTS) coast-wide monitoring of routeing compliance as VTS coverage, this record would move to 'VTS only'. No official source found that names this TSS as within a Vardø VTS service area.",
+   "vts_leads": "Vardø VTS (NOR VTS), Kystverket: coast-wide monitoring of risk traffic and routeing compliance outside the VTS areas (S-S10, historical SSB text; S-S1 s.172)",
+   "prior_lead_outcome": "n/a: no prior lead; coordinator leads checked: Barents SRS rejected (south limit 67°10'N); local VTS (Kvitsøy, Fedje, Brevik, Horten, plus Kinn) rejected as not covering; Vardø monitoring kept as lead only"
+  },
+  "sources": [
+   {
+    "id": "S-S1",
+    "authority": "Norwegian Coastal Administration (Kystverket), for the Ministry of Transport",
+    "title": "Maritime Traffic Regulations (unofficial English translation of Forskrift om sjøtrafikk i bestemte farvann og om rutetiltak, FOR-2021-02-10-523)",
+    "date_or_edition": "Translation updated to reflect amendments in force as of 1 July 2026 (file dated 2026-06-01); regulations in force 1 April 2021",
+    "url": "https://www.kystverket.no/globalassets/maritime-traffic-regulations---20260601.pdf/download",
+    "source_class": "Tier 1",
+    "supports": "Complete statutory list of Norwegian VTS areas (s.6: Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya); Chapter 5 obligation to use the TSS on the stretches Egersund-Risør and Halten-Utsira; supervision by NCA; no reporting obligation attached to the coastal routeing measures",
+    "locator": "Sections 6, 169-172",
+    "passage": "Vessels mentioned in section 170 that operate on the stretches Egersund-Risør, Halten – Utsira and Træna-Vardø use the traffic separation schemes described in the Norwegian Coastal Administration's electronic charts \"Kystinfo\""
+   },
+   {
+    "id": "S-S2",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Kystverket WFS layer_696 'VTS tjenesteområde 2021 versjon 2' (official VTS area polygons referenced by Sjøtrafikkforskriften s.6)",
+    "date_or_edition": "Features gyldig_fra 2021-04-01 (Kinn 2021-06-01); retrieved 2026-09-29",
+    "url": "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_696&srsName=EPSG:4326",
+    "source_class": "Tier 2",
+    "supports": "Official boundary geometry of all six Norwegian VTS areas; none overlaps any B-II/19 TSS in B16/B17 (bounding boxes disjoint)",
+    "locator": "Features layer_696.1-6 (Brevik, Fedje, Kvitsøy, Horten, Melkøya, Kinn tjenesteområde)",
+    "passage": "omraadenavn: Fedje tjenesteområde; forskriftsreferanse: Sjøtrafikkforskriften §6; gyldig_fra: 2021-04-01"
+   },
+   {
+    "id": "S-S3",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Kystverket WFS layer_706 'TSS områder' (TSS lanes and separation zones)",
+    "date_or_edition": "Current service; retrieved 2026-09-29",
+    "url": "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_706&srsName=EPSG:4326",
+    "source_class": "Tier 2",
+    "supports": "Official geometry of the TSS groups 'mellom Runde og Utsira' (features 23-34) and 'mellom Egersund og Risør' (features 35-49), used to test overlap with VTS areas",
+    "locator": "Features layer_706.23-49",
+    "passage": "tss_navn: Trafikkseparasjonssystem utenfor norskekysten mellom Egersund og Risør"
+   },
+   {
+    "id": "S-S7",
+    "authority": "IMO",
+    "title": "SN.1/Circ.318 New mandatory ship reporting system 'In the Barents Area (Barents SRS)' (copy hosted by Faroese Maritime Authority)",
+    "date_or_edition": "4 December 2012 (MSC 91); in force 1 June 2013",
+    "url": "https://fma.fo/wp-content/uploads/2016/12/2013_navigational_03_sn_circ-318_new-mandatory-ship-reporting-system-in-the-barents-area.pdf",
+    "source_class": "Tier 1",
+    "supports": "Barents SRS (VRS-0009) southern limit is 67°10'N; all B16/B17 Norwegian TSS lie south of 63.1°N and so outside",
+    "locator": "Annex, para 2.1 (points A and B)",
+    "passage": "A - Norway 67º 10´.00 N Norwegian coast / B - Norway 67º 10´.00 N 008º 00´.00 E"
+   },
+   {
+    "id": "S-S8",
+    "authority": "IMO",
+    "title": "Resolution MSC.190(79) Adoption of mandatory ship reporting system in the Western European Particularly Sensitive Sea Area (WETREP)",
+    "date_or_edition": "Adopted 6 December 2004; in force 1 July 2005",
+    "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.190(79).pdf",
+    "source_class": "Tier 1",
+    "supports": "WETREP (VRS-0005) area encloses the waters south and west of Ireland out to 015°W (points 5-8, 21) and so includes the Fastnet TSS; excludes Norwegian waters (northern points at 000°); participation limited to oil tankers >600 dwt carrying heavy grade oil; Irish authority MRCC Dublin via MRSC Valentia/Malin Head",
+    "locator": "Annex 1, paras 1.1, 2.1; Appendix (shore authorities, IRELAND)",
+    "passage": "Every kind of oil tanker of more than 600 tonnes deadweight, carrying a cargo of: heavy crude oil ... heavy fuel oils ... bitumen and tar and their emulsions."
+   },
+   {
+    "id": "S-S1",
+    "authority": "Norwegian Coastal Administration (Kystverket), for the Ministry of Transport",
+    "title": "Maritime Traffic Regulations (unofficial English translation of Forskrift om sjøtrafikk i bestemte farvann og om rutetiltak, FOR-2021-02-10-523)",
+    "date_or_edition": "Translation updated to reflect amendments in force as of 1 July 2026 (file dated 2026-06-01); regulations in force 1 April 2021",
+    "url": "https://www.kystverket.no/globalassets/maritime-traffic-regulations---20260601.pdf/download",
+    "source_class": "Tier 1",
+    "supports": "Complete statutory list of Norwegian VTS areas (s.6: Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya); Chapter 5 obligation to use the TSS on the stretches Egersund-Risør and Halten-Utsira; supervision by NCA; no reporting obligation attached to the coastal routeing measures",
+    "locator": "Sections 6, 169-172",
+    "passage": "Vessels mentioned in section 170 that operate on the stretches Egersund-Risør, Halten – Utsira and Træna-Vardø use the traffic separation schemes described in the Norwegian Coastal Administration's electronic charts \"Kystinfo\""
+   }
+  ]
+ },
+ {
+  "record": {
+   "tss_id": "TSS-0083",
+   "batch": "B17",
+   "tss_name": "Off Lillesand",
+   "imo_parent_ref": "B-II/19",
+   "coastal_state_s": "Norway",
+   "association_status": "Neither confirmed",
+   "vts_name": null,
+   "vts_authority": null,
+   "vts_centre": null,
+   "vts_sector": null,
+   "vts_boundary_basis": "Sjøtrafikkforskriften (FOR-2021-02-10-523) s.6 is the complete statutory list of Norwegian VTS areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya). NCA official VTS-area geometry (WFS layer_696) compared with NCA TSS geometry (WFS layer_706, group 'mellom Egersund og Risør', layer_706.44-46 (57.93-58.09N, 8.71-9.01E)): bounding boxes disjoint, so the TSS is outside every VTS area. Nearest: Brevik VTS area (c. 50 nm). TSS-to-feature matching is by position (my inference; the WFS names only the group).",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "S-S1",
+    "S-S2",
+    "S-S3"
+   ],
+   "mandatory_reporting": "No",
+   "vrs_id": null,
+   "reporting_scheme_name": null,
+   "reporting_authority": null,
+   "reporting_boundary_basis": "Only Norwegian Part I system in the IMO 2025 inventory is BARENTS SRS (VRS-0009), whose southern limit is 67°10'N (SN.1/Circ.318 points A-B); this TSS lies south of 63.1°N. WETREP (VRS-0005) boundary runs along 000° in the north and does not reach Norwegian waters. Chapter 5 of the Maritime Traffic Regulations makes use of the TSS compulsory for listed ships on the stretch Egersund-Risør but imposes no reporting duty (supervision by NCA only). SafeSeaNet Norway port notification is general, not TSS-linked, and not counted.",
+   "reporting_source_ids": [
+    "S-S7",
+    "S-S8",
+    "S-S1"
+   ],
+   "voluntary_reporting": "No",
+   "evidence_summary": "IMO B-II/19 'Off the coast of Norway' (consolidated 1 June 2021, S-S6), stretch Egersund-Risør (in force 2011, S-S5). Not inside any statutory Norwegian VTS area and not inside any Part I reporting area. Vardø VTS (NOR VTS) monitors tanker and risk traffic along the whole coast outside VTS areas and the NCA supervises compliance with the routeing measures (s.172), but this is surveillance outside a declared VTS area, not a VTS service area covering the TSS.",
+   "source_date": "Maritime Traffic Regulations translation as at 1 July 2026; VTS areas valid from 2021-04-01/2021-06-01; SN.1/Circ.318 2012-12-04; MSC.190(79) 2004-12-06; accessed 2026-09-29",
+   "unresolved_issue": "None blocking. Caveat for Pass 4: if the project decides to count Vardø VTS (NOR VTS) coast-wide monitoring of routeing compliance as VTS coverage, this record would move to 'VTS only'. No official source found that names this TSS as within a Vardø VTS service area.",
+   "vts_leads": "Vardø VTS (NOR VTS), Kystverket: coast-wide monitoring of risk traffic and routeing compliance outside the VTS areas (S-S10, historical SSB text; S-S1 s.172)",
+   "prior_lead_outcome": "n/a: no prior lead; coordinator leads checked: Barents SRS rejected (south limit 67°10'N); local VTS (Kvitsøy, Fedje, Brevik, Horten, plus Kinn) rejected as not covering; Vardø monitoring kept as lead only"
+  },
+  "sources": [
+   {
+    "id": "S-S1",
+    "authority": "Norwegian Coastal Administration (Kystverket), for the Ministry of Transport",
+    "title": "Maritime Traffic Regulations (unofficial English translation of Forskrift om sjøtrafikk i bestemte farvann og om rutetiltak, FOR-2021-02-10-523)",
+    "date_or_edition": "Translation updated to reflect amendments in force as of 1 July 2026 (file dated 2026-06-01); regulations in force 1 April 2021",
+    "url": "https://www.kystverket.no/globalassets/maritime-traffic-regulations---20260601.pdf/download",
+    "source_class": "Tier 1",
+    "supports": "Complete statutory list of Norwegian VTS areas (s.6: Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya); Chapter 5 obligation to use the TSS on the stretches Egersund-Risør and Halten-Utsira; supervision by NCA; no reporting obligation attached to the coastal routeing measures",
+    "locator": "Sections 6, 169-172",
+    "passage": "Vessels mentioned in section 170 that operate on the stretches Egersund-Risør, Halten – Utsira and Træna-Vardø use the traffic separation schemes described in the Norwegian Coastal Administration's electronic charts \"Kystinfo\""
+   },
+   {
+    "id": "S-S2",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Kystverket WFS layer_696 'VTS tjenesteområde 2021 versjon 2' (official VTS area polygons referenced by Sjøtrafikkforskriften s.6)",
+    "date_or_edition": "Features gyldig_fra 2021-04-01 (Kinn 2021-06-01); retrieved 2026-09-29",
+    "url": "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_696&srsName=EPSG:4326",
+    "source_class": "Tier 2",
+    "supports": "Official boundary geometry of all six Norwegian VTS areas; none overlaps any B-II/19 TSS in B16/B17 (bounding boxes disjoint)",
+    "locator": "Features layer_696.1-6 (Brevik, Fedje, Kvitsøy, Horten, Melkøya, Kinn tjenesteområde)",
+    "passage": "omraadenavn: Fedje tjenesteområde; forskriftsreferanse: Sjøtrafikkforskriften §6; gyldig_fra: 2021-04-01"
+   },
+   {
+    "id": "S-S3",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Kystverket WFS layer_706 'TSS områder' (TSS lanes and separation zones)",
+    "date_or_edition": "Current service; retrieved 2026-09-29",
+    "url": "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_706&srsName=EPSG:4326",
+    "source_class": "Tier 2",
+    "supports": "Official geometry of the TSS groups 'mellom Runde og Utsira' (features 23-34) and 'mellom Egersund og Risør' (features 35-49), used to test overlap with VTS areas",
+    "locator": "Features layer_706.23-49",
+    "passage": "tss_navn: Trafikkseparasjonssystem utenfor norskekysten mellom Egersund og Risør"
+   },
+   {
+    "id": "S-S7",
+    "authority": "IMO",
+    "title": "SN.1/Circ.318 New mandatory ship reporting system 'In the Barents Area (Barents SRS)' (copy hosted by Faroese Maritime Authority)",
+    "date_or_edition": "4 December 2012 (MSC 91); in force 1 June 2013",
+    "url": "https://fma.fo/wp-content/uploads/2016/12/2013_navigational_03_sn_circ-318_new-mandatory-ship-reporting-system-in-the-barents-area.pdf",
+    "source_class": "Tier 1",
+    "supports": "Barents SRS (VRS-0009) southern limit is 67°10'N; all B16/B17 Norwegian TSS lie south of 63.1°N and so outside",
+    "locator": "Annex, para 2.1 (points A and B)",
+    "passage": "A - Norway 67º 10´.00 N Norwegian coast / B - Norway 67º 10´.00 N 008º 00´.00 E"
+   },
+   {
+    "id": "S-S8",
+    "authority": "IMO",
+    "title": "Resolution MSC.190(79) Adoption of mandatory ship reporting system in the Western European Particularly Sensitive Sea Area (WETREP)",
+    "date_or_edition": "Adopted 6 December 2004; in force 1 July 2005",
+    "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.190(79).pdf",
+    "source_class": "Tier 1",
+    "supports": "WETREP (VRS-0005) area encloses the waters south and west of Ireland out to 015°W (points 5-8, 21) and so includes the Fastnet TSS; excludes Norwegian waters (northern points at 000°); participation limited to oil tankers >600 dwt carrying heavy grade oil; Irish authority MRCC Dublin via MRSC Valentia/Malin Head",
+    "locator": "Annex 1, paras 1.1, 2.1; Appendix (shore authorities, IRELAND)",
+    "passage": "Every kind of oil tanker of more than 600 tonnes deadweight, carrying a cargo of: heavy crude oil ... heavy fuel oils ... bitumen and tar and their emulsions."
+   },
+   {
+    "id": "S-S1",
+    "authority": "Norwegian Coastal Administration (Kystverket), for the Ministry of Transport",
+    "title": "Maritime Traffic Regulations (unofficial English translation of Forskrift om sjøtrafikk i bestemte farvann og om rutetiltak, FOR-2021-02-10-523)",
+    "date_or_edition": "Translation updated to reflect amendments in force as of 1 July 2026 (file dated 2026-06-01); regulations in force 1 April 2021",
+    "url": "https://www.kystverket.no/globalassets/maritime-traffic-regulations---20260601.pdf/download",
+    "source_class": "Tier 1",
+    "supports": "Complete statutory list of Norwegian VTS areas (s.6: Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya); Chapter 5 obligation to use the TSS on the stretches Egersund-Risør and Halten-Utsira; supervision by NCA; no reporting obligation attached to the coastal routeing measures",
+    "locator": "Sections 6, 169-172",
+    "passage": "Vessels mentioned in section 170 that operate on the stretches Egersund-Risør, Halten – Utsira and Træna-Vardø use the traffic separation schemes described in the Norwegian Coastal Administration's electronic charts \"Kystinfo\""
+   }
+  ]
+ },
+ {
+  "record": {
+   "tss_id": "TSS-0084",
+   "batch": "B17",
+   "tss_name": "Off Risør",
+   "imo_parent_ref": "B-II/19",
+   "coastal_state_s": "Norway",
+   "association_status": "Neither confirmed",
+   "vts_name": null,
+   "vts_authority": null,
+   "vts_centre": null,
+   "vts_sector": null,
+   "vts_boundary_basis": "Sjøtrafikkforskriften (FOR-2021-02-10-523) s.6 is the complete statutory list of Norwegian VTS areas (Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya). NCA official VTS-area geometry (WFS layer_696) compared with NCA TSS geometry (WFS layer_706, group 'mellom Egersund og Risør', layer_706.47-49 (58.41-58.56N, 9.48-9.78E)): bounding boxes disjoint, so the TSS is outside every VTS area. Nearest: Brevik VTS area (southern limit c. 58°52'N). TSS-to-feature matching is by position (my inference; the WFS names only the group).",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "S-S1",
+    "S-S2",
+    "S-S3"
+   ],
+   "mandatory_reporting": "No",
+   "vrs_id": null,
+   "reporting_scheme_name": null,
+   "reporting_authority": null,
+   "reporting_boundary_basis": "Only Norwegian Part I system in the IMO 2025 inventory is BARENTS SRS (VRS-0009), whose southern limit is 67°10'N (SN.1/Circ.318 points A-B); this TSS lies south of 63.1°N. WETREP (VRS-0005) boundary runs along 000° in the north and does not reach Norwegian waters. Chapter 5 of the Maritime Traffic Regulations makes use of the TSS compulsory for listed ships on the stretch Egersund-Risør but imposes no reporting duty (supervision by NCA only). SafeSeaNet Norway port notification is general, not TSS-linked, and not counted.",
+   "reporting_source_ids": [
+    "S-S7",
+    "S-S8",
+    "S-S1"
+   ],
+   "voluntary_reporting": "No",
+   "evidence_summary": "IMO B-II/19 'Off the coast of Norway' (consolidated 1 June 2021, S-S6), stretch Egersund-Risør (in force 2011, S-S5). Not inside any statutory Norwegian VTS area and not inside any Part I reporting area. Vardø VTS (NOR VTS) monitors tanker and risk traffic along the whole coast outside VTS areas and the NCA supervises compliance with the routeing measures (s.172), but this is surveillance outside a declared VTS area, not a VTS service area covering the TSS.",
+   "source_date": "Maritime Traffic Regulations translation as at 1 July 2026; VTS areas valid from 2021-04-01/2021-06-01; SN.1/Circ.318 2012-12-04; MSC.190(79) 2004-12-06; accessed 2026-09-29",
+   "unresolved_issue": "None blocking. Caveat for Pass 4: if the project decides to count Vardø VTS (NOR VTS) coast-wide monitoring of routeing compliance as VTS coverage, this record would move to 'VTS only'. No official source found that names this TSS as within a Vardø VTS service area.",
+   "vts_leads": "Vardø VTS (NOR VTS), Kystverket: coast-wide monitoring of risk traffic and routeing compliance outside the VTS areas (S-S10, historical SSB text; S-S1 s.172)",
+   "prior_lead_outcome": "n/a: no prior lead; coordinator leads checked: Barents SRS rejected (south limit 67°10'N); local VTS (Kvitsøy, Fedje, Brevik, Horten, plus Kinn) rejected as not covering; Vardø monitoring kept as lead only"
+  },
+  "sources": [
+   {
+    "id": "S-S1",
+    "authority": "Norwegian Coastal Administration (Kystverket), for the Ministry of Transport",
+    "title": "Maritime Traffic Regulations (unofficial English translation of Forskrift om sjøtrafikk i bestemte farvann og om rutetiltak, FOR-2021-02-10-523)",
+    "date_or_edition": "Translation updated to reflect amendments in force as of 1 July 2026 (file dated 2026-06-01); regulations in force 1 April 2021",
+    "url": "https://www.kystverket.no/globalassets/maritime-traffic-regulations---20260601.pdf/download",
+    "source_class": "Tier 1",
+    "supports": "Complete statutory list of Norwegian VTS areas (s.6: Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya); Chapter 5 obligation to use the TSS on the stretches Egersund-Risør and Halten-Utsira; supervision by NCA; no reporting obligation attached to the coastal routeing measures",
+    "locator": "Sections 6, 169-172",
+    "passage": "Vessels mentioned in section 170 that operate on the stretches Egersund-Risør, Halten – Utsira and Træna-Vardø use the traffic separation schemes described in the Norwegian Coastal Administration's electronic charts \"Kystinfo\""
+   },
+   {
+    "id": "S-S2",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Kystverket WFS layer_696 'VTS tjenesteområde 2021 versjon 2' (official VTS area polygons referenced by Sjøtrafikkforskriften s.6)",
+    "date_or_edition": "Features gyldig_fra 2021-04-01 (Kinn 2021-06-01); retrieved 2026-09-29",
+    "url": "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_696&srsName=EPSG:4326",
+    "source_class": "Tier 2",
+    "supports": "Official boundary geometry of all six Norwegian VTS areas; none overlaps any B-II/19 TSS in B16/B17 (bounding boxes disjoint)",
+    "locator": "Features layer_696.1-6 (Brevik, Fedje, Kvitsøy, Horten, Melkøya, Kinn tjenesteområde)",
+    "passage": "omraadenavn: Fedje tjenesteområde; forskriftsreferanse: Sjøtrafikkforskriften §6; gyldig_fra: 2021-04-01"
+   },
+   {
+    "id": "S-S3",
+    "authority": "Norwegian Coastal Administration (Kystverket)",
+    "title": "Kystverket WFS layer_706 'TSS områder' (TSS lanes and separation zones)",
+    "date_or_edition": "Current service; retrieved 2026-09-29",
+    "url": "https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_706&srsName=EPSG:4326",
+    "source_class": "Tier 2",
+    "supports": "Official geometry of the TSS groups 'mellom Runde og Utsira' (features 23-34) and 'mellom Egersund og Risør' (features 35-49), used to test overlap with VTS areas",
+    "locator": "Features layer_706.23-49",
+    "passage": "tss_navn: Trafikkseparasjonssystem utenfor norskekysten mellom Egersund og Risør"
+   },
+   {
+    "id": "S-S7",
+    "authority": "IMO",
+    "title": "SN.1/Circ.318 New mandatory ship reporting system 'In the Barents Area (Barents SRS)' (copy hosted by Faroese Maritime Authority)",
+    "date_or_edition": "4 December 2012 (MSC 91); in force 1 June 2013",
+    "url": "https://fma.fo/wp-content/uploads/2016/12/2013_navigational_03_sn_circ-318_new-mandatory-ship-reporting-system-in-the-barents-area.pdf",
+    "source_class": "Tier 1",
+    "supports": "Barents SRS (VRS-0009) southern limit is 67°10'N; all B16/B17 Norwegian TSS lie south of 63.1°N and so outside",
+    "locator": "Annex, para 2.1 (points A and B)",
+    "passage": "A - Norway 67º 10´.00 N Norwegian coast / B - Norway 67º 10´.00 N 008º 00´.00 E"
+   },
+   {
+    "id": "S-S8",
+    "authority": "IMO",
+    "title": "Resolution MSC.190(79) Adoption of mandatory ship reporting system in the Western European Particularly Sensitive Sea Area (WETREP)",
+    "date_or_edition": "Adopted 6 December 2004; in force 1 July 2005",
+    "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.190(79).pdf",
+    "source_class": "Tier 1",
+    "supports": "WETREP (VRS-0005) area encloses the waters south and west of Ireland out to 015°W (points 5-8, 21) and so includes the Fastnet TSS; excludes Norwegian waters (northern points at 000°); participation limited to oil tankers >600 dwt carrying heavy grade oil; Irish authority MRCC Dublin via MRSC Valentia/Malin Head",
+    "locator": "Annex 1, paras 1.1, 2.1; Appendix (shore authorities, IRELAND)",
+    "passage": "Every kind of oil tanker of more than 600 tonnes deadweight, carrying a cargo of: heavy crude oil ... heavy fuel oils ... bitumen and tar and their emulsions."
+   },
+   {
+    "id": "S-S1",
+    "authority": "Norwegian Coastal Administration (Kystverket), for the Ministry of Transport",
+    "title": "Maritime Traffic Regulations (unofficial English translation of Forskrift om sjøtrafikk i bestemte farvann og om rutetiltak, FOR-2021-02-10-523)",
+    "date_or_edition": "Translation updated to reflect amendments in force as of 1 July 2026 (file dated 2026-06-01); regulations in force 1 April 2021",
+    "url": "https://www.kystverket.no/globalassets/maritime-traffic-regulations---20260601.pdf/download",
+    "source_class": "Tier 1",
+    "supports": "Complete statutory list of Norwegian VTS areas (s.6: Horten, Brevik, Kvitsøy, Fedje, Kinn, Melkøya); Chapter 5 obligation to use the TSS on the stretches Egersund-Risør and Halten-Utsira; supervision by NCA; no reporting obligation attached to the coastal routeing measures",
+    "locator": "Sections 6, 169-172",
+    "passage": "Vessels mentioned in section 170 that operate on the stretches Egersund-Risør, Halten – Utsira and Træna-Vardø use the traffic separation schemes described in the Norwegian Coastal Administration's electronic charts \"Kystinfo\""
+   }
+  ]
+ },
+ {
+  "record": {
+   "tss_id": "TSS-0085",
+   "batch": "B17",
+   "tss_name": "Off Fastnet Rock",
+   "imo_parent_ref": "B-II/20",
+   "coastal_state_s": "Ireland",
+   "association_status": "MRS only",
+   "vts_name": null,
+   "vts_authority": null,
+   "vts_centre": null,
+   "vts_sector": null,
+   "vts_boundary_basis": "No official source found that places the TSS in a declared VTS area. The Irish Coast Guard states it monitors traffic in the Tuskar/Fastnet TSS (S-S9), but does not describe this as a VTS. Irish port VTS (e.g. Port of Cork) serve harbour approaches only and were not shown to reach the TSS. Absence of a VTS not proven, so VTS relationship left not established.",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "S-S9"
+   ],
+   "mandatory_reporting": "Yes",
+   "vrs_id": "VRS-0005",
+   "reporting_scheme_name": "West European Tanker Reporting System (WETREP)",
+   "reporting_authority": "Irish Coast Guard: MRCC Dublin (communications also via MRSC Valentia and MRSC Malin Head); other WETREP coastal States for their sectors",
+   "reporting_boundary_basis": "MSC.190(79) para 2.1: the WETREP polygon runs 56°30'N 012°W - 54°40'41\"N 015°W - 50°56'45\"N 015°W - 48°27'N 006°25'W, with the inner closing point 21 on the Irish east coast (52°10'N 006°22'W). At Fastnet's longitude (c. 009°36'W) the southern boundary line lies near 49°23'N, about 2° south of the TSS, so the TSS (off Fastnet Rock, c. 51°18'-51°23'N) is wholly inside. Applies only to oil tankers >600 dwt carrying heavy crude, heavy fuel oil or bitumen/tar; WETREP does not name the TSS.",
+   "reporting_source_ids": [
+    "S-S8"
+   ],
+   "voluntary_reporting": "No",
+   "evidence_summary": "Inside the WETREP (VRS-0005) mandatory reporting area (tankers with heavy grade oil only). The Irish Coast Guard monitors traffic in the TSS, but no declared VTS area was found covering it.",
+   "source_date": "MSC.190(79) 2004-12-06 (in force 2005-07-01); gov.ie IRCG page modified 2025-07-08; accessed 2026-09-29",
+   "unresolved_issue": "Whether Irish Coast Guard monitoring of the Fastnet TSS amounts to a VTS (no official VTS designation found); no official list of Irish VTS consulted to prove absence. TSS coordinates taken from a search snippet only (lead only); inclusion in WETREP rests on the boundary geometry, not on those coordinates.",
+   "vts_leads": "Irish Coast Guard traffic monitoring of the Tuskar/Fastnet TSS (MRCC Dublin / MRSC Valentia); Port of Cork VTS (harbour only, not coverage)",
+   "prior_lead_outcome": "n/a: no prior lead; coordinator lead WETREP confirmed; Irish Coast Guard Valentia/Malin confirmed as WETREP shore authorities, not VTS"
+  },
+  "sources": [
+   {
+    "id": "S-S9",
+    "authority": "Department of Transport, Ireland (gov.ie)",
+    "title": "The Irish Coast Guard (policy information page)",
+    "date_or_edition": "Published 9 July 2019; dateModified 2025-07-08",
+    "url": "https://www.gov.ie/en/department-of-transport/policy-information/the-irish-coast-guard/",
+    "source_class": "Tier 2",
+    "supports": "Irish Coast Guard monitors traffic in the Fastnet TSS (monitoring function, not described as a VTS)",
+    "locator": "List of IRCG functions",
+    "passage": "Monitors maritime traffic within Ireland's Traffic Separation Schemes (Tuskar/Fastnet)"
+   },
+   {
+    "id": "S-S8",
+    "authority": "IMO",
+    "title": "Resolution MSC.190(79) Adoption of mandatory ship reporting system in the Western European Particularly Sensitive Sea Area (WETREP)",
+    "date_or_edition": "Adopted 6 December 2004; in force 1 July 2005",
+    "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.190(79).pdf",
+    "source_class": "Tier 1",
+    "supports": "WETREP (VRS-0005) area encloses the waters south and west of Ireland out to 015°W (points 5-8, 21) and so includes the Fastnet TSS; excludes Norwegian waters (northern points at 000°); participation limited to oil tankers >600 dwt carrying heavy grade oil; Irish authority MRCC Dublin via MRSC Valentia/Malin Head",
+    "locator": "Annex 1, paras 1.1, 2.1; Appendix (shore authorities, IRELAND)",
+    "passage": "Every kind of oil tanker of more than 600 tonnes deadweight, carrying a cargo of: heavy crude oil ... heavy fuel oils ... bitumen and tar and their emulsions."
+   }
+  ]
+ }
+]
