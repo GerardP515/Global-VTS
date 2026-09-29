@@ -889,3 +889,69 @@ Third-party material may identify a lead. It must not establish current operatio
 - Use (B30): Longitude limits of STRAITREP Sectors 7, 8 and 9 (VTIS West, Central, East)
 - Locator: VHF communication guide table.
 - Passage: "Sector 8, STRAITREP operational area (area between Long. 103°44.5'E and 104°02.1'E)"
+
+### SRC-103 — Berlaku 1 Juli 2020, Kemenhub jelaskan sistem pelaporan kapal di TSS Selat Sunda dan Selat Lombok
+
+- Authority: Direktorat Jenderal Perhubungan Laut (Hubla), Kementerian Perhubungan Republik Indonesia.
+- URL: https://hubla.dephub.go.id/home/post/read/7657/berlaku-1-juli-2020-kemenhub-jelaskan-sistem-pelaporan-kapal-di-tss-selat-sunda-dan-selat-lombok
+- Evidence class: Tier 2.
+- Edition or date: 22 Jun 2020; accessed 29 Sep 2026.
+- Accessed: 29 September 2026.
+- Use (B31): SUNDAREP and LOMBOKREP established under KM 129/2020 and KM 130/2020; mandatory for Indonesian-flag ships, foreign ships strongly recommended to participate; Merak VTS (VHF 22/68) for Sunda TSS and Benoa VTS (VHF 16/68) for Lombok TSS; VTS Merak and VTS Benoa to monitor the whole TSS areas; VTS operated by DG Sea Transportation
+- Locator: paras 2-3, 6-8.
+- Passage: "Sistem Pelaporan dan Informasi Navigasi di Selat Sunda dan Selat Lombok bersifat wajib, yaitu bagi semua kapal berbendera Indonesia yang melintas, menyeberangi/memotong bagan pemisah lalu lintas (TSS)"
+
+### SRC-104 — COLREG.2/Circ.74 New traffic separation schemes and associated measures: In the Sunda Strait; In the Lombok Strait
+
+- Authority: IMO (document hosted by BIMCO).
+- URL: https://bimco.org/media/gusfhkrc/colreg2circ74-new-traffic-separation-schemes-secretariat.pdf
+- Evidence class: Tier 1.
+- Edition or date: 2019 (MSC 101 adoption); implementation 1 Jul 2020; accessed 29 Sep 2026.
+- Accessed: 29 September 2026.
+- Use (B31): Identity and implementation date of the Sunda and Lombok TSS
+- Locator: para 1-2 and Annex.
+- Passage: "Accordingly, these new traffic separation schemes and associated routeing measures should be implemented on 1 July 2020."
+
+### SRC-105 — Hong Kong Fact Sheet (Marine Department publications)
+
+- Authority: Marine Department, HKSAR Government.
+- URL: https://www.mardep.gov.hk/en/materials-and-publications/publications/hk-fact-sheet/index.html
+- Evidence class: Tier 2.
+- Edition or date: Undated web page; accessed 29 Sep 2026.
+- Accessed: 29 September 2026.
+- Use (B31): VTS covers all navigable waters of Hong Kong; TSS implemented in Tathong Channel
+- Locator: Vessel Traffic Services section.
+- Passage: "covers all navigable waters of Hong Kong used by sea-going vessels and ferries"
+
+### SRC-106 — Arrangement for Vessel Traffic Service (VTC pamphlet)
+
+- Authority: Marine Department, HKSAR Government.
+- URL: https://www.mardep.gov.hk/filemanager/en/share/publications/pdf/materials/vtc_pamphlet.pdf
+- Evidence class: Tier 2.
+- Edition or date: April 2025; accessed 29 Sep 2026.
+- Accessed: 29 September 2026.
+- Use (B31): Vessels required to participate in Hong Kong Vessel Traffic Service (Cap 313A reg 4: over 300 GT etc.; Cap 548F s57 local vessels); Eastern Approaches sector Ch 12 with calling-in point Tathong Channel Separation Buoy No. 1
+- Locator: Participation and VHF sectors panels.
+- Passage: "Pursuant to Regulation 4 of the Shipping and port control regulations, (Cap 313A), (a) a vessel of over 300 gross tonnage;"
+
+### SRC-107 — Hong Kong Vessel Traffic Service - VHF Sectors and Calling-in Points (Drawing No. 2025MAR032)
+
+- Authority: Marine Department, HKSAR Government (Hydrographic Office).
+- URL: https://www.mardep.gov.hk/filemanager/en/share/pub-services/pdf/vts_vscp.pdf
+- Evidence class: Tier 2.
+- Edition or date: September 2025; accessed 29 Sep 2026.
+- Accessed: 29 September 2026.
+- Use (B31): Official service name and VHF sector layout: Eastern Approaches Ch 12, Harbour East Ch 02 etc.
+- Locator: Chart title and sector labels.
+- Passage: "Hong Kong Vessel Traffic Service – VHF Sectors and Calling-in Points"
+
+### SRC-108 — Guide to Hong Kong waters (hkwaterlk_guide)
+
+- Authority: Marine Department, HKSAR Government.
+- URL: https://www.mardep.gov.hk/filemanager/en/share/pub-services/pdf/hkwaterlk_guide.pdf
+- Evidence class: Tier 4.
+- Edition or date: March 2026 Edition; accessed 29 Sep 2026.
+- Accessed: 29 September 2026.
+- Use (B31): Tathong Channel TSS lies within Hong Kong waters; channel extends from Lei Yue Mun to north of Waglan Island
+- Locator: Chapter 2 Principal Fairways and Traffic Separation Schemes.
+- Passage: "There are two traffic separation schemes (TSS) within Hong Kong waters which are adopted by IMO: (a) Tathong Channel (b) East Lamma Channel"
