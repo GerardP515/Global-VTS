@@ -63,3 +63,47 @@ Third-party material may identify a lead. It must not establish current operatio
 - Evidence class: Current official navigational publication.
 - Accessed: 29 September 2026.
 - Use: Saint Petersburg Coastal VTS area, Sector 1/2 split, VHF channels and repeater stations at Gogland and Sommers.
+
+### SRC-024 — Fintraffic Hanko VTS area
+
+- Authority: Fintraffic Vessel Traffic Services.
+- URL: https://mastersguide.fintraffic.fi/en/print/pdf/node/64
+- Evidence class: Primary operating-authority source.
+- Current PDF publication: 2026.
+- Accessed: 29 September 2026.
+- Use: Hanko VTS boundary coordinates and operating procedures.
+
+### SRC-025 — Estonian Transport Administration VTS / GOFREP
+
+- Authority: Estonian Transport Administration (Transpordiamet).
+- URL: https://www.transpordiamet.ee/laevaliikluse-korraldamine
+- Evidence class: Primary national authority source.
+- Accessed: 29 September 2026.
+- Use: Separation of Estonian VTS and GOFREP areas, Western VTS entry at the reporting line beginning at Kõpu, working channels and participation rules.
+
+### SRC-026 — Swedish Maritime Administration VTS directory
+
+- Authority: Sjöfartsverket.
+- URL: https://www.sjofartsverket.se/sv/om-oss/kontakta-oss/vessel-traffic-service-vts/
+- Evidence class: Primary national VTS authority source.
+- Updated: 24 February 2026.
+- Accessed: 29 September 2026.
+- Use: Current Swedish VTS-area inventory.
+
+### SRC-027 — Traficom decision establishing current Finnish VTS areas
+
+- Authority: Finnish Transport and Communications Agency Traficom.
+- Document: TRAFICOM/124393/05.01.24/2024.
+- URL: https://traficom.fi/sites/default/files/media/regulation/Decision_Establishment_of_VTS_1.pdf
+- Evidence class: Primary statutory/administrative source.
+- Accessed: 29 September 2026.
+- Use: Current Bothnia VTS boundary, including Ritgrund and the territorial-sea limit.
+
+### SRC-028 — Fintraffic Bothnia VTS area
+
+- Authority: Fintraffic Vessel Traffic Services.
+- URL: https://mastersguide.fintraffic.fi/en/print/pdf/node/55
+- Evidence class: Primary operating-authority source.
+- Current PDF publication: 2026.
+- Accessed: 29 September 2026.
+- Use: Current Bothnia VTS area description, VHF 67 and advance-report procedure for Finland-bound traffic via the Quark.

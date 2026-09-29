@@ -1,3 +1,5 @@
+> **Superseded for Stage 2 classification.** This preliminary audit has been replaced by [audits/stage2/B02_Association_Audit.md](stage2/B02_Association_Audit.md), which used current VTS boundary evidence and closed B02.
+
 # IMO 2025 Batch 02 audit
 
 **Sequence:** `research/batches_imo2025`  
