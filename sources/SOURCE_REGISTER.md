@@ -1417,3 +1417,80 @@ Third-party material may identify a lead. It must not establish current operatio
 - Use (B43): Lists Russian east coast TSS (including Proliv Bussol and Chetvertyy Kurilskiy Proliv as IMO approved) and lists 19 Russian VTS (Pacific: Zaliv Petra Velikogo, Nakhodka, Vladivostok, Zaliv Aniva, Vanino, Petropavlovsk-Kamchatskiy, Magadan) plus VTMS at Nevelsk and Okhotsk. None is in the Kuril Islands. Foreign secondary list, not an official Russian list.
 - Locator: Russia chapter pp.497 to 498 (Traffic Separation Schemes; Vessel Traffic Service).
 - Passage: "Vessel Traffic Management Systems are in operation in Nevelsk (46˝40'N., 141°51'E.) and Okhotsk (59°21'N., 143°11'E.)."
+
+### SRC-151 — Обязательные постановления в морском порту Корсаков (draft, file pr_mt_korsakov_op.doc)
+
+- Authority: Ministry of Transport of the Russian Federation (draft document on mintrans.gov.ru).
+- URL: https://mintrans.gov.ru/file/398609
+- Evidence class: Lead only.
+- Edition or date: Undated draft; file metadata March 2013; approval status and currency not established.
+- Accessed: 29 September 2026.
+- Use (B44): Korsakov port VTS (СУДС) zone limited by the coast and points 46°37.50'N 142°26.00'E, 46°25.00'N 142°30.00'E, 46°25.00'N 143°04.00'E, 46°35.70'N 143°04.00'E (Aniva Bay only); scheme off Cape Aniva lies south and east of this zone
+- Locator: Section on VTS zone (Зона действия СУДС).
+- Passage: "Зона действия СУДС ограничена береговой линией и прямой линией, соединяющей по порядку точки с координатами:1) 46°37,50' северной широты и 142°26,00' восточной долготы"
+
+### SRC-152 — data/authoritative/IMO_2025_Mandatory_Reporting_Systems.csv
+
+- Authority: Global VTS project (derived from IMO Ships' Routeing 2025 Part I).
+- URL: repo:data/authoritative/IMO_2025_Mandatory_Reporting_Systems.csv
+- Evidence class: Tier 1.
+- Edition or date: Ships' Routeing 2025 Edition baseline.
+- Accessed: 29 September 2026.
+- Use (B44): VRS-0022 = I-I/22 Off Chengshan Jiao Promontory; VRS-0023 = I-I/23 The Canary Islands [CANREP]; no Part I system for the Russian Pacific (Sakhalin, Primorye) areas
+- Locator: Rows I-I/22, I-I/23.
+- Passage: "I-I/23,The Canary Islands [CANREP],847,Mandatory ship reporting systems,Part I,VRS-0023"
+
+### SRC-153 — Обязательные постановления в морском порту Находка (Order of Mintrans of Russia No. 169 of 23 June 2011, reg. No. 21263)
+
+- Authority: Ministry of Transport of the Russian Federation (published in Rossiyskaya Gazeta).
+- URL: https://rg.ru/documents/2011/07/05/naxodka-site-dok.html
+- Evidence class: Tier 1.
+- Edition or date: 23 June 2011 original text; RG publication July 2011.
+- Accessed: 29 September 2026.
+- Use (B44): Regional VTS of Peter the Great Gulf (РСУДС) sector No. 2 (inside Nakhodka Gulf, VTS acts as port VTS 'Nakhodka-Traffic') and sector No. 1B on the approaches to Nakhodka Gulf (south to the territorial sea boundary, 132°28.00'E to 133°43.00'E, VHF 9)
+- Locator: Paras 52-55.
+- Passage: "На подходах к заливу Находка в секторе № 1 Б, который ограничен с юга границей территориального моря, с запада меридианом 132°28,00' восточной долготы, с востока меридианом 133°43,00' восточной долготы, связь с РСУДС осуществляется на канале 9 ОВЧ."
+
+### SRC-154 — Приказ Минтранса России от 23.06.2011 N 169 (ред. от 15.12.2017)
+
+- Authority: legalacts.ru (third-party consolidation of Mintrans Order No. 169).
+- URL: https://legalacts.ru/doc/prikaz-mintransa-rf-ot-23062011-n-169/
+- Evidence class: Lead only.
+- Edition or date: Consolidated to amendment of 15 December 2017.
+- Accessed: 29 September 2026.
+- Use (B44): Paras 52-54 on РСУДС sectors unchanged as at the 15.12.2017 amendment; does not establish that the order is in force in 2026
+- Locator: Header '(ред. от 15.12.2017)'; paras 52-54.
+- Passage: "Приказ Минтранса России от 23.06.2011 N 169 (ред. от 15.12.2017)"
+
+### SRC-155 — Resolution MSC.389(94): Amendments to the existing mandatory ship reporting system "Off Chengshan Jiao Promontory"
+
+- Authority: IMO Maritime Safety Committee.
+- URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC%20389%2094.pdf
+- Evidence class: Tier 1.
+- Edition or date: Adopted 21 November 2014; in force 0000 UTC 1 June 2015.
+- Accessed: 29 September 2026.
+- Use (B44): VRS-0022 area (24 nm radius around Chengshan Jiao VTS Centre, 37°23'.65N 122°42'.12E), participating ships, competent authority (Weihai MSA), VTS Centre as shore authority with radar and continuous watch, compulsory reports to VTS by ships NUC or at anchor in the TSSs
+- Locator: Annex 16, paras 1.1, 2.1, 3.3, 4.1-4.2, 7.1-7.2.
+- Passage: "The waters covered by the Ship Reporting System is the water area with the VTS Centre (geographical position is 37°23′.65N, 122°42′.12E) as the centre and 24 miles as the radius."
+
+### SRC-156 — COLREG.2/Circ.66 Amended traffic separation schemes, Annex 2: "In the waters off the Chengshan Jiao Promontory"
+
+- Authority: IMO (COLREG.2/Circ.66; copy hosted by Vietnam Maritime Administration).
+- URL: https://www.vimawa.gov.vn/f/Circ%2066.pdf
+- Evidence class: Tier 1.
+- Edition or date: 21 November 2014; implemented 0000 UTC 1 June 2015.
+- Accessed: 29 September 2026.
+- Use (B44): Coordinates of inner TSS (points 1-10, 13-15, 26-27) and outer North (11-12, 14-17), East (18-23) and South (20, 24-28) TSSs; cross-reference to the mandatory SRS
+- Locator: Annex 2, Parts I and II, paras (a)-(v); Note under title.
+- Passage: "Note: See mandatory ship reporting system "Off the Chengshan Jiao Promontory"."
+
+### SRC-157 — Notice on the revised Chengshan Jiao VTS rules and VTS User Guide (in force 2 December 2024)
+
+- Authority: Shandong Maritime Safety Administration (China MSA).
+- URL: https://www.sd.msa.gov.cn/art/2024/11/12/art_1443_1818894.html
+- Evidence class: Tier 2.
+- Edition or date: 12 November 2024.
+- Accessed: 29 September 2026.
+- Use (B44): Chengshan Jiao VTS area includes the routeing lanes and precautionary areas (added at Pass 4 by the independent checker)
+- Locator: Notice text on fishing within the VTS area.
+- Passage: "VTS区域内的警戒区及通航分道"
