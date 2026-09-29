@@ -484,6 +484,13 @@ def main(apply_adjustments):
     dvi = DataValidation(type="list", formula1='"Open,Closed"', allow_blank=False)
     dvi.add(f"E7:E{iss_end}")
     ws_i.add_data_validation(dvi)
+    # extend the "High" priority highlight to the new issue rows
+    from openpyxl.formatting.formatting import ConditionalFormattingList
+    old_cf = ws_i.conditional_formatting
+    ws_i.conditional_formatting = ConditionalFormattingList()
+    for cf in old_cf:
+        for rule in cf.rules:
+            ws_i.conditional_formatting.add(f"B7:B{iss_end}", rule)
 
     # ---------------- overview ---------------------------------------------
     import re
