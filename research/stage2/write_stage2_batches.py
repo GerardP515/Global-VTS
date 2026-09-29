@@ -156,8 +156,12 @@ def main(batches):
             canon = alias.get(norm(n), n)
             key = norm(canon)
             if key not in name_to_vts:
-                vid = f"VTS-{next_id:04d}"
-                next_id += 1
+                fixed = {norm(k): v for k, v in adj.get("vts_fixed_ids", {}).items()}.get(key)
+                if fixed and fixed not in vts_reg:
+                    vid = fixed  # legacy v0.2 service: reuse its normalised ID (VTS-00N -> VTS-000N)
+                else:
+                    vid = f"VTS-{next_id:04d}"
+                    next_id += 1
                 name_to_vts[key] = vid
                 s = services.get(key) or services.get(norm(n)) or {}
                 sids = gids(s.get("source_ids")) or gids(rec.get("vts_source_ids"))
@@ -166,7 +170,7 @@ def main(batches):
                                 "centre": s.get("centre") or rec.get("vts_centre"), "sectors": s.get("sectors"),
                                 "service_status": "Operational (see evidence)", "evidence_status": s.get("operational_evidence"),
                                 "source_ids": "; ".join(sids), "source_urls": "; ".join(src_url[x] for x in sids),
-                                "accessed_date": TODAY, "notes": f"Stage 2 canonical addition from {rec['batch']}."}
+                                "accessed_date": TODAY, "notes": (f"Canonical normalisation of legacy VTS-{vid[5:]}; " if vid in adj.get("vts_fixed_ids", {}).values() else "") + f"Stage 2 canonical addition from {rec['batch']}."}
             ids.append(name_to_vts[key])
         return ids
 

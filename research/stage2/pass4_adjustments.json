@@ -186,7 +186,8 @@
   },
   "TSS-0148": {
    "vts_boundary_basis": "Scheme spans 101°59.7'E to 103°29.6'E (U-S6). Chartlet Appendix 1 (U-S6 p.119) shows it crossing Sectors 4, 5 and 6. Sector 7's western limit is the line Tg Piai (01°15.50'N 103°30.75'E) - Pulau Karimun Kecil (01°09.20'N 103°24.35'E) (U-S1 para 3.3.1, U-S5). A side-of-line calculation on the WGS 84 coordinates shows the eastern end points (58) 01°12.20'N 103°28.40'E, (70) 01°14.30'N 103°29.60'E and (76) 01°09.20'N 103°26.70'E lie slightly east of that line (well under 1 nm), so a very small terminal portion is in Singapore VTS Sector 7; the remainder is Klang (4-5) and Johor (6). Pass 4 correction: the eastern lane ends lie up to about 1.6 nm east of the Tg Piai to Pulau Karimun Kecil line (point 70 about 0.05 nm, 58 about 0.7 nm, 59 about 1.2 nm, 76 about 1.6 nm), so they are in Singapore VTS Sector 7.",
-   "_reason": "Pass 4 correction."
+   "_reason": "Pass 4 correction.",
+   "vts_name": "Klang VTS; Johor VTS; Singapore VTS"
   },
   "TSS-0152": {
    "unresolved_issue": "No evidence found of VTS or mandatory reporting coverage of the part of the scheme east of 104°23'E; possible Malaysian (Johor) or Indonesian (Batam/Tanjung Pinang) VTS coverage not researched. Pass 4: MPA asks eastbound-arriving ships to report to VTIS East when Horsburgh Lt (104 24.3E) is abeam; that is a reporting point and does not extend VTS coverage east of 104 23E.",
@@ -213,5 +214,17 @@
  "vts_alias": {
   "VTS North Sea Canal Area": "VTS North Sea Canal Area (Noordzeekanaalgebied)"
  },
- "assignment": "assigned B30–B39"
+ "assignment": "assigned B30–B39",
+ "vts_fixed_ids": {
+  "Klang VTS": "VTS-0004",
+  "Johor VTS": "VTS-0005",
+  "Singapore VTS": "VTS-0006",
+  "VTS Prince William Sound": "VTS-0009",
+  "Vessel Traffic Service Puget Sound": "VTS-0010",
+  "VTS Puget Sound": "VTS-0010",
+  "Vessel Traffic Service San Francisco": "VTS-0011",
+  "VTS San Francisco": "VTS-0011",
+  "Vessel Traffic Service Los Angeles-Long Beach": "VTS-0012",
+  "VTS Los Angeles-Long Beach": "VTS-0012"
+ }
 }
