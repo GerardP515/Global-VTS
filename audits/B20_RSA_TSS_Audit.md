@@ -6,6 +6,8 @@
 **Review stage after this audit:** Identity checked; association screening started  
 **Status:** Batch researched. Not closed as fully verified. Official baseline reconciliation against *Ships’ Routeing* 2025 and UKHO Annual Notice 17 remains outstanding for all five rows.
 
+**Correction note (29 September 2026, second pass):** three wordings from the first draft were tightened. Findings are otherwise unchanged. Hanish / Zuqar sit in B19, not later. Hormuz waters and the 1968 date are supporting claims, not coordinates or instruments opened for this batch. NGA “19.7 m” is not the COLREG Rule 10 limit.
+
 ## Batch rule reminder
 
 - A nearby port control station is not a VTS covering the TSS unless a source establishes coverage of the scheme, part of it, or a directly relevant approach.
@@ -22,10 +24,10 @@
 | Official name (working) | In the Strait of Bab el Mandeb |
 | States | Yemen / Djibouti (strait); related southern Red Sea schemes involve Eritrea / Yemen |
 | Recognition basis | IMO-adopted. Amended by MSC 76 / COLREG.2/Circ.52 (implemented 1 July 2003). Earlier adoption in IMCO Res. A.284(VIII), 1973. |
-| Grouping note | Separate IMO schemes exist *West and South of Hanish al Kubra* and *In the Southern Red Sea*. Do not fold those into this row. Check whether they already appear later in the 170-row list. |
+| Grouping note | Separate IMO schemes already exist immediately before this batch: TSS-0094 *In the Southern Red Sea – West and South of Hanish al Kubra* and TSS-0095 *In the Southern Red Sea – East of Jabal Zuqar Island* (both B19). Do not fold those rows into TSS-0096. |
 | Current status of scheme | Adopted measure remains on the books. Security situation in the southern Red Sea / BAM is severe (MARSEC 3 on some flag-state advice). That is operational risk, not withdrawal of the TSS. |
 | VTS screening | **Unresolved.** No authoritative source found that a coastal-state VTS area covers this TSS. Port services at Djibouti or Yemeni ports are not evidenced as covering the strait scheme. |
-| Reporting screening | **No IMO V/11 scheme found.** Industry/security reporting to UKMTO, IMSC and IFC-IOR is voluntary maritime-security reporting for the wider region. Do not create a VRS record from that material. |
+| Reporting screening | **No IMO V/11 scheme found on the lists checked.** Industry/security reporting to UKMTO, IMSC and IFC-IOR is voluntary maritime-security reporting for the wider region. Do not create a VRS record from that material. *Ships’ Routeing* 2025 reporting annex not opened. |
 | Proposed relationship | None active. |
 | Guide-entry hint | If later included, one strait entry; directional views both ways; security overlay belongs in a general note, not as a VTS. |
 
@@ -34,9 +36,9 @@
 - COLREG.2/Circ.52 (6 Jan 2003), Annex 6: amendments to the existing TSS in the Strait of Bab el Mandeb; implementation 0000 UTC 1 July 2003.
 - MSC 76/23/Add.1 Annex 10: amended BAM scheme geometry and associated new Hanish scheme.
 - IMCO Res. A.284(VIII), 20 Nov 1973 (historical first adoption).
-- SRC-001 candidate label.
+- SRC-001 candidate label; inventory rows TSS-0094 and TSS-0095.
 
-**Unresolved:** official name spelling (Bab el Mandeb / Bab-el-Mandeb / Bab al Mandab) against *Ships’ Routeing* 2025; whether the UKHO Notice 17 heading is one scheme or a group label; current Yemeni / Djiboutian VTS status.
+**Unresolved:** official name spelling (Bab el Mandeb / Bab-el-Mandeb / Bab al Mandab) against *Ships’ Routeing* 2025; current Yemeni / Djiboutian VTS status.
 
 ---
 
@@ -46,10 +48,10 @@
 |---|---|
 | Official name (working) | Off Ras al Hadd (also Ra’s al Hadd) |
 | States | Oman |
-| Recognition basis | IMO-adopted. NGA Sailing Directions Pub. 172 records an IMO-adopted TSS off Ras al Hadd with an inshore traffic zone between the western separation limit and the coast. |
+| Recognition basis | IMO-adopted. NGA Sailing Directions Pub. 172 records an IMO-adopted TSS off Ras al Hadd with an inshore traffic zone between the western separation limit and the coast. The adopting circular itself was not opened in this batch. |
 | Grouping note | Appears to be a single scheme plus ITZ. Confirm official heading in *Ships’ Routeing*. |
 | VTS screening | **Unresolved.** AMNAS provides Oman AtoN under Royal Decree 81/2003; that is not a VTS. Port pilotage at Port Sultan Qaboos / Muscat and Sohar is not evidenced as covering this TSS. No Oman national VTS user guide for Ras al Hadd was found. |
-| Reporting screening | **No IMO V/11 scheme found.** No national mandatory coastal SRS evidenced for this TSS. |
+| Reporting screening | **No IMO V/11 scheme found on the lists checked.** No national mandatory coastal SRS evidenced for this TSS. |
 | Proposed relationship | None active. |
 | Guide-entry hint | Possible short TSS-only entry, or omit from a VTS guide if no associated service is later confirmed. |
 
@@ -59,7 +61,7 @@
 - IALA note on AMNAS (Oman AtoN concession) — lead only; not VTS evidence.
 - SRC-001 candidate label.
 
-**Unresolved:** Oman Ministry of Transport / Royal Navy of Oman confirmation; ALRS Vol. 6 Part covering Oman.
+**Unresolved:** Oman Ministry of Transport / Royal Navy of Oman confirmation; ALRS Vol. 6 Part covering Oman; adopting IMO instrument.
 
 ---
 
@@ -91,18 +93,20 @@
 | Field | Finding |
 |---|---|
 | Official name (working) | In the Strait of Hormuz |
-| States | Oman (TSS lies in Omani territorial waters); Iran is the opposite coastal State |
-| Recognition basis | IMO-adopted. First generation 1968 / A.284(VIII) 1973 cluster. Two-mile lanes and two-mile separation zone. 1979 amendment added an inshore traffic zone on the Musandam side. NGA Pub. 172 confirms the IMO TSS east of the Musandam Peninsula and Omani ITZ restrictions (through traffic under 19.7 m / sailing vessels). |
+| States | Oman and Iran are the coastal States. The adopted scheme is described in secondary sources as sitting on the Musandam / Omani side of the strait. That is a supporting legal-geographic claim. Lane coordinates were not checked against the 12 nm limits in this batch. Do not record “entirely Omani territorial waters” as a verified fact. |
+| Recognition basis | IMO-adopted. Firm instrument cluster cited here: IMCO Res. A.284(VIII), 1973, plus later amendments. A 1968 first-adoption date is widely repeated (INTERTANKO and secondary legal notes) but the 1968 instrument was not opened. Treat 1968 as commonly cited, not as a source used. NGA Pub. 172 confirms the IMO TSS east of the Musandam Peninsula. |
+| ITZ wording | NGA Pub. 172 records an Omani ITZ restriction using “under 19.7 m” and sailing vessels. That is NGA wording (65 ft converted). COLREG Rule 10 uses **20 metres**. Do not treat 19.7 m as the official IMO limit. |
 | Current operational overlay (2026) | Separate from scheme identity. NAVAREA IX 208/26 and Oman NtM (Jun 2026): existing TSS reported unsafe because of mine risk; temporary north and south corridors; waiting area 26°16.17'N 055°46.52'E; Oman radio A4N on VHF 16. Iran has published alternative lanes and a “PGSA” control claim. These are crisis traffic-management measures. They are **not** recorded here as a confirmed standing VTS under IMO Res. A.1158(32). |
-| VTS screening | **Unresolved as a formal VTS.** Coastal States are directing traffic in 2026, but no pre-crisis official VTS users’ guide for “Hormuz VTS” was found. Do not create VTS-0xx from PGSA or IRGC instructions. |
-| Reporting screening | **No IMO V/11 scheme on the adopted-SRS lists used by this project.** Regional security reporting (UKMTO / IMSC / BMP) and 2026 coastal-state VHF instructions are not a distinct SOLAS V/11 scheme. |
+| VTS screening | **Unresolved as a formal VTS.** Coastal States are directing traffic in 2026, but no pre-crisis official VTS users’ guide for “Hormuz VTS” was found. Do not create VTS-0xx from PGSA or IRGC instructions. ALRS Vol. 6 not checked. |
+| Reporting screening | **No IMO V/11 scheme on the adopted-SRS lists used by this project.** Regional security reporting (UKMTO / IMSC / BMP) and 2026 coastal-state VHF instructions are not a distinct SOLAS V/11 scheme. *Ships’ Routeing* 2025 reporting annex not opened. |
 | Proposed relationship | None active. |
 | Guide-entry hint | High-complexity passage if the product proceeds. Would need both-direction diagrams, ITZ note, and a dated operational-status warning. Not a simple template case. |
 
 **Sources**
 
-- NGA Pub. 172, Sector 13: two IMO TSS in the sector (Musandam / Hormuz, and Tunb–Forur); Omani ITZ rule.
-- Washington Institute / secondary legal commentary: 1968 IMO TSS; 1979 ITZ. Treat as supporting, not primary.
+- NGA Pub. 172, Sector 13: two IMO TSS in the sector (Musandam / Hormuz, and Tunb–Forur); Omani ITZ rule as published by NGA.
+- COLREG Rule 10: 20-metre ITZ threshold.
+- Washington Institute / INTERTANKO: supporting only for 1968 date and ITZ history.
 - NAVAREA IX 208/26 (23 Jun 2026); Oman NtM on temporary corridors.
 - SRC-001 candidate label.
 
@@ -114,21 +118,21 @@
 
 | Field | Finding |
 |---|---|
-| Official name (working) | Tunb-Farur (source label). NGA: scheme passing N and S of Jazireh-ye Tomb-e Bozorg and Jazireh-ye Forur. |
-| States | Iran (administers the islands); UAE disputes Greater and Lesser Tunb. Record both claims in the note; do not pick a sovereignty side in the register. |
-| Recognition basis | IMO-adopted. NGA Pub. 172 states two IMO TSS in Sector 13, the second passing north and south of Greater Tunb and Forur. |
-| Grouping note | One source heading; two island names. Treat as one scheme pending *Ships’ Routeing* unpack. Alternate romanisations: Tonb-Forur, Tomb-e Bozorg / Forur, Tunb-Farur. |
+| Official name (working) | Tunb-Farur (source label). IMO / UKHO variants: Tunb–Farur; Tonb-Forur (Jazireh-ye Tonb-e Bozorg to Jazireh-ye Forur). NGA: westbound lane north of Greater Tunb and Forur; eastbound south of both. |
+| States | Iran administers the islands; UAE disputes Greater and Lesser Tunb. Record both claims in the note; do not pick a sovereignty side in the register. |
+| Recognition basis | IMO-adopted. NGA Pub. 172 states two IMO TSS in Sector 13, the second passing north and south of Greater Tunb and Forur. Older *Ships’ Routeing* contents list the heading as Tunb–Farur. |
+| Grouping note | One source heading; two island names. Treat as one scheme pending *Ships’ Routeing* 2025 unpack. |
 | VTS screening | **Unresolved.** No authority page found that a named VTS covers this scheme. Bandar Abbas / Lengeh port control is nearby and is not associated on present evidence. |
-| Reporting screening | **No IMO V/11 scheme found.** |
+| Reporting screening | **No IMO V/11 scheme found on the lists checked.** |
 | Proposed relationship | None active. |
 | Guide-entry hint | May later combine with Hormuz as a linked inner-Gulf entry, or stand alone. Decision after geometry check. |
 
 **Sources**
 
-- NGA Pub. 172, Sector 13 opening: two IMO TSS; second passes N and S of Tomb-e Bozorg and Forur.
+- NGA Pub. 172, Sector 13: second IMO TSS; westbound N of Tonb-e Bozorg and Forur, eastbound S of both.
 - SRC-001 candidate label.
 
-**Unresolved:** official IMO heading; component count; current usability given 2026 Gulf routing disruption.
+**Unresolved:** official 2025 heading; component count; current usability given 2026 Gulf routing disruption.
 
 ---
 
@@ -138,10 +142,10 @@
 
 | Record | TSS identity | VTS association | Reporting association |
 |---|---|---|---|
-| TSS-0096 | Provisional — IMO circulars support identity | Unresolved | No IMO V/11; security reporting is out of scope |
-| TSS-0097 | Provisional — NGA Pub. 172 | Unresolved | Unresolved / none found |
+| TSS-0096 | Provisional — IMO circulars support identity | Unresolved | No IMO V/11 on lists checked; security reporting is out of scope |
+| TSS-0097 | Provisional — NGA Pub. 172; adopting circular not opened | Unresolved | Unresolved / none found |
 | TSS-0098 | Provisional — COLREG.2/Circ.54 | Not established as TSS coverage | Iran-bound cape report only |
-| TSS-0099 | Provisional — NGA + long IMO history | Unresolved as formal VTS | No IMO V/11 |
+| TSS-0099 | Provisional — NGA + A.284(VIII) cluster | Unresolved as formal VTS | No IMO V/11 on lists checked |
 | TSS-0100 | Provisional — NGA names the second Sector 13 TSS | Unresolved | None found |
 
 ### Classification
@@ -153,7 +157,7 @@
 ### Duplicates
 
 - Hormuz (TSS-0099) and Tunb-Farur (TSS-0100) are distinct NGA/IMO schemes. Do not merge.
-- Bab-el-Mandeb (TSS-0096) must stay separate from any later Hanish / southern Red Sea rows.
+- Bab-el-Mandeb (TSS-0096) stays separate from B19 rows TSS-0094 (Hanish) and TSS-0095 (Zuqar).
 
 ### Absence rule
 
