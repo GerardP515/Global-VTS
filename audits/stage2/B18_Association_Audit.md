@@ -46,4 +46,4 @@ Changes at Pass 4 (coordinator review of the research output):
 ### Audit result
 PASS WITH UNRESOLVED ITEMS
 
-Sources are listed in `sources/Stage2_Source_Register.csv` (IDs SRC-B18-nn). VTS entities are in `data/current/VTS_Service_Register.csv`.
+Sources are listed in `sources/SOURCE_REGISTER.md` (renumbered from SRC-B18-nn; see `research/stage2/id_mapping_b10_b19.csv`). VTS entities are in `data/current/VTS_Entity_Register.csv`.

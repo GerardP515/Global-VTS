@@ -34,16 +34,16 @@ All ten batch audits closed as PASS WITH UNRESOLVED ITEMS, except B14 and B16 (P
 
 ## Distinct entities
 
-**VTS areas identified: 6** (IDs from the reserved block VTS-0101 onward; see ID note below)
+**VTS areas identified: 6** (canonical IDs VTS-0017 to VTS-0022; see ID note below)
 
 | ID | VTS | TSS linked |
 |---|---|---:|
-| VTS-0101 | Finisterre VTS | 1 |
-| VTS-0102 | Coast of Portugal VTS (Roca Control) | 1 |
-| VTS-0103 | Rotterdam VTS (Sector Maas Approach) | 4 |
-| VTS-0104 | VTS North Sea Canal Area | 1 (partial) |
-| VTS-0105 | German Bight Traffic | 4 (2 partial) |
-| VTS-0106 | VTS Humber | 1 |
+| VTS-0017 | Finisterre VTS | 1 |
+| VTS-0018 | Coast of Portugal VTS (Roca Control) | 1 |
+| VTS-0019 | Rotterdam VTS (Sector Maas Approach) | 4 |
+| VTS-0020 | VTS North Sea Canal Area | 1 (partial) |
+| VTS-0021 | German Bight Traffic | 4 (2 partial) |
+| VTS-0022 | VTS Humber | 1 |
 
 **Mandatory reporting schemes identified: 4**, all existing IMO Part I IDs: BARENTS SRS (VRS-0009, 8 TSS), WETREP (VRS-0005, 7 TSS), FINREP (VRS-0011, 1), COPREP (VRS-0012, 1). No national scheme and no new VRS ID was needed.
 
@@ -75,12 +75,14 @@ All ten batch audits closed as PASS WITH UNRESOLVED ITEMS, except B14 and B16 (P
 
 ## ID note
 
-VTS IDs VTS-0101 onward and batch-prefixed source IDs (SRC-B10-nn) were used so this work could not collide with IDs allocated in parallel by other sessions. They should be reconciled once all batches are merged.
+This work was first done on a branch with reserved IDs (VTS-0101 onward, SRC-Bxx-nn) to avoid clashing with parallel sessions.
+It has since been merged into main's canonical registers: the six VTS are VTS-0017 to VTS-0022 in `data/current/VTS_Entity_Register.csv`,
+and the 56 sources are SRC-029 to SRC-084 in `sources/SOURCE_REGISTER.md`. The mapping is in `research/stage2/id_mapping_b10_b19.csv`.
 
 ## Files
 
 - Register: `data/current/TSS_VTS_MRS_Association_Register.csv`
-- VTS entities: `data/current/VTS_Service_Register.csv`
-- Sources: `sources/Stage2_Source_Register.csv` (56 sources)
+- VTS entities: `data/current/VTS_Entity_Register.csv`
+- Sources: `sources/SOURCE_REGISTER.md` (56 sources)
 - Batch audits: `audits/stage2/B10_Association_Audit.md` to `B19_Association_Audit.md`
 - Raw research and Pass 4 checks: `research/stage2/`

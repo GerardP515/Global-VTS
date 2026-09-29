@@ -14,11 +14,11 @@ B13
 
 | TSS | VTS | Mandatory reporting | Classification |
 |---|---|---|---|
-| TSS-0061 Terschelling–German Bight | VTS-0105 German Bight Traffic | No | VTS only |
-| TSS-0062 German Bight western approach | VTS-0105 German Bight Traffic | No | VTS only |
-| TSS-0063 Jade approach | VTS-0105 German Bight Traffic | No | VTS only |
-| TSS-0064 Elbe approach | VTS-0105 German Bight Traffic | No | VTS only |
-| TSS-0065 In the approaches to the River Humber | VTS-0106 VTS Humber | No | VTS only |
+| TSS-0061 Terschelling–German Bight | VTS-0021 German Bight Traffic | No | VTS only |
+| TSS-0062 German Bight western approach | VTS-0021 German Bight Traffic | No | VTS only |
+| TSS-0063 Jade approach | VTS-0021 German Bight Traffic | No | VTS only |
+| TSS-0064 Elbe approach | VTS-0021 German Bight Traffic | No | VTS only |
+| TSS-0065 In the approaches to the River Humber | VTS-0022 VTS Humber | No | VTS only |
 
 ### Evidence check
 Pass 2 (researcher): Re-opened AnlBV Anlage (Nr. 1.17, 3.1, 5.1, 6, 8) and rendered the BGBl. I 2005 p. 2297 Anhang chart to read the Inner German Bight boundary; re-read ELWIS VTS list, WSA pages, GDWS Bekanntmachung Nr. 29.1, VTS Humber description and Circ.60 coordinates (Humber vertices checked against the VTS limit lines by calculation). The GBWA lead was corrected to partial coverage. The unretrieved GDWS Bekanntmachung 19.1.x cited by the lead is not relied on.
@@ -29,7 +29,7 @@ Pass 4 (coordinator): An independent checker re-rendered the AnlBV Anhang chart,
 German Bight Traffic is one VTS sector entity (Verkehrszentrale Wilhelmshaven) shared by TSS-0061, 0062, 0063 and 0064; do not create four entries. Cuxhaven Elbe Traffic and German North Sea Traffic are separate sectors of Verkehrszentrale Cuxhaven (adjoining/lead). AnlBV 3.1 and SeeSchStrO § 58 reports are VTS reporting, not an MRS. No IMO Part I system applies (WETREP boundary checked). VTS Humber is recorded once, for TSS-0065.
 
 Shared entities in this batch:
-- VTS-0105: TSS-0061, TSS-0062, TSS-0063, TSS-0064
+- VTS-0021: TSS-0061, TSS-0062, TSS-0063, TSS-0064
 
 ### Changes made
 Changes at Pass 4 (coordinator review of the research output):
@@ -45,4 +45,4 @@ Changes at Pass 4 (coordinator review of the research output):
 ### Audit result
 PASS WITH UNRESOLVED ITEMS
 
-Sources are listed in `sources/Stage2_Source_Register.csv` (IDs SRC-B13-nn). VTS entities are in `data/current/VTS_Service_Register.csv`.
+Sources are listed in `sources/SOURCE_REGISTER.md` (renumbered from SRC-B13-nn; see `research/stage2/id_mapping_b10_b19.csv`). VTS entities are in `data/current/VTS_Entity_Register.csv`.

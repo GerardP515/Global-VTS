@@ -1,3 +1,5 @@
+> **Superseded for Stage 2 classification.** This preliminary audit has been replaced by [audits/stage2/B01_Association_Audit.md](stage2/B01_Association_Audit.md), which used current Rosmorport and UKHO VTS-area evidence and closed B01.
+
 # IMO 2025 Batch 01 audit
 
 **Sequence:** `research/batches_imo2025`  
