@@ -823,3 +823,69 @@ Third-party material may identify a lead. It must not establish current operatio
 - Use (B19): WETREP amended to add COPREP and 'Coast of Portugal VTS'; Portuguese WETREP contact is ROCA CONTROL; area co-ordinates not amended
 - Locator: Annex, items 1-3.
 - Passage: "2 In paragraph 6.2.6, under Coastal Vessel Traffic Services (VTS), insert: Coast of Portugal VTS"
+
+### SRC-097 — Resolution MSC.73(69) Mandatory ship reporting systems, Annex 1: Description of the mandatory ship reporting system in the Straits of Malacca and Singapore (STRAITREP)
+
+- Authority: IMO Maritime Safety Committee.
+- URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.73(69).pdf
+- Evidence class: Tier 1.
+- Edition or date: Adopted 19 May 1998; in force 0000 UTC 1 Dec 1998; accessed 29 Sep 2026.
+- Accessed: 29 September 2026.
+- Use (B30): STRAITREP (VRS-0016) operational area, inclusion of the routeing system, participation categories, VTS authority per sector (Klang VTS sectors 1-5, Johor VTS sector 6, Singapore VTS sectors 7-9), Tg Piai - Pulau Karimun Kecil reporting line, Horsburgh Lt as reference point
+- Locator: Annex 1 paras 1.1, 2.1, 3.3, 3.4; appendices 1-3.
+- Passage: "The operational area of STRAITREP covers the Straits of Malacca and Singapore between longitudes 100 40'E and 104 23'E ... The area includes the routeing system in the Straits of Malacca and Singapore."
+
+### SRC-098 — Port Marine Circular No. 65 of 1998: Mandatory Ship Reporting System in the Straits of Malacca and Singapore - STRAITREP (with SN/Circ.201 and Corr.1)
+
+- Authority: Maritime and Port Authority of Singapore.
+- URL: https://www.mpa.gov.sg/api/media/78c165e3-67e4-4da3-9496-c196739374d2/-pc98-65.pdf
+- Evidence class: Tier 2.
+- Edition or date: 20 Oct 1998 (still cited as current by MPA Singapore Port Information updated 17 Apr 2026); accessed 29 Sep 2026.
+- Accessed: 29 September 2026.
+- Use (B30): Singapore implementation of STRAITREP; sector table (Appendix 3) with VHF channels: Sector 1 Ch 66, 2 Ch 88, 3 Ch 84, 4 Ch 61, 5 Ch 88 (Klang VTS), 6 Ch 88 (Johor VTS); shore facilities of Klang, Johor and Singapore VTS and remote radar stations
+- Locator: paras 1-3; SN/Circ.201 Annex 1 para 3.4, para 7; Appendix 3.
+- Passage: "(i) Sector 1 to Sector 5 - Klang VTS; (ii) Sector 6 - Johor VTS; and (iii) Sector 7 to Sector 9 - Singapore VTS."
+
+### SRC-099 — VTIS Operational Areas web page (STRAITREP sectors and chartlets)
+
+- Authority: Maritime and Port Authority of Singapore.
+- URL: https://www.mpa.gov.sg/port-marine-ops/operations/vessel-traffic-information-system/operational-areas
+- Evidence class: Tier 2.
+- Edition or date: Page last updated 28 Sep 2026; accessed 29 Sep 2026.
+- Accessed: 29 September 2026.
+- Use (B30): Current sector table: Sectors 1-5 Klang VTS, Sector 6 Johor VTS, Sectors 7 (Ch 73), 8 (Ch 14), 9 (Ch 10) Singapore VTS; chartlets of operational area
+- Locator: Sector/VHF channel/VTS authority table.
+- Passage: "Sector 7 ... VHF Channel 73 ... SINGAPORE VTS (as rendered by fetch tool; table layout)"
+
+### SRC-100 — Singapore Port Information 2026 (Straits of Malacca and Singapore routeing system, Annexes 1-8; STRAITREP chartlets Appendix 1 and 2)
+
+- Authority: Maritime and Port Authority of Singapore, Hydrographic Division.
+- URL: https://file.go.gov.sg/spi2026apr17.pdf
+- Evidence class: Tier 3.
+- Edition or date: Updated to 17 Apr 2026; accessed 29 Sep 2026.
+- Accessed: 29 September 2026.
+- Use (B30): WGS 84 coordinates of each Malacca/Singapore TSS (from COLREG.2/Circ.44 as amended by COLREG.2/Circ.54); chartlets showing sector boundaries 1-9 (only graphically for sectors 1-6) and Long 103°44.5E, 104°02.1E, 104°22.9E limits
+- Locator: pp. 6-14 (Annexes 1-8), p. 16 (STRAITREP), pp. 119-120 (chartlets).
+- Passage: "The following are based on IMO document COLREG.2/Cir.44 dated 26 May 1998 and COLREG.2/Cir.54 dated 28 May 2004."
+
+### SRC-101 — Vessel Traffic Information System (VTIS) web page
+
+- Authority: Maritime and Port Authority of Singapore.
+- URL: https://www.mpa.gov.sg/port-marine-ops/operations/vessel-traffic-information-system
+- Evidence class: Tier 2.
+- Edition or date: Page last updated 28 Sep 2026; accessed 29 Sep 2026.
+- Accessed: 29 September 2026.
+- Use (B30): Current operation of STRAITREP and VTIS by MPA; operational area longitudes; sector allocation to Klang, Johor and Singapore VTS; participation thresholds
+- Locator: VTIS and STRAITREP sections.
+- Passage: "the Straits of Malacca and Singapore between longitudes 100°40'E and 104°23'E"
+
+### SRC-102 — Vessels arriving in Singapore: guide to VHF communication in port and Singapore Strait
+
+- Authority: Maritime and Port Authority of Singapore.
+- URL: https://www.mpa.gov.sg/port-marine-ops/arrivals-and-departures/vessels-arriving-in-singapore
+- Evidence class: Tier 2.
+- Edition or date: Page last updated 28 Sep 2026; accessed 29 Sep 2026.
+- Accessed: 29 September 2026.
+- Use (B30): Longitude limits of STRAITREP Sectors 7, 8 and 9 (VTIS West, Central, East)
+- Locator: VHF communication guide table.
+- Passage: "Sector 8, STRAITREP operational area (area between Long. 103°44.5'E and 104°02.1'E)"

@@ -37,7 +37,7 @@ The earlier `research/batches/` folder is retained for historical/reconciliation
 | [B27](B27.md) | TSS-0131–TSS-0135 | B-IV/7, B-IV/8, B-IV/9, B-IV/10, B-IV/11 | Paused |
 | [B28](B28.md) | TSS-0136–TSS-0140 | B-IV/12, B-IV/13, B-IV/14, B-IV/15 | Paused |
 | [B29](B29.md) | TSS-0141–TSS-0145 | B-IV/15, B-IV/16, B-IV/17, B-IV/18, B-V/1 | Paused |
-| [B30](B30.md) | TSS-0146–TSS-0150 | B-V/2, B-V/3, B-V/4, B-V/5, B-V/6 | Paused |
+| [B30](B30.md) | TSS-0146–TSS-0150 | B-V/2, B-V/3, B-V/4, B-V/5, B-V/6 | **Stage 2 complete** |
 | [B31](B31.md) | TSS-0151–TSS-0155 | B-V/7, B-V/8, B-V/9, B-V/10, B-V/11 | Paused |
 | [B32](B32.md) | TSS-0156–TSS-0160 | B-V/11, B-V/12, B-VI/1, B-VI/2 | Paused |
 | [B33](B33.md) | TSS-0161–TSS-0165 | B-VI/3, B-VII/1, B-VII/2 | Paused |
