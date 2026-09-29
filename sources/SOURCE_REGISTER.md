@@ -1274,3 +1274,36 @@ Third-party material may identify a lead. It must not establish current operatio
 - Use (B33): CVTS area of operation extends to 125°15'W and 48°00'N and names the traffic separation scheme as the point before which inbound vessels check in with Prince Rupert Traffic; participation mandatory within territorial waters
 - Locator: s. 3.5.4.
 - Passage: ""The CVTS Area of Operation is defined as 124°40W south along the Washington coast to 48°00N then west to 125°15W and north to 48°35'45"N." "Inbound vessels are to check in with Prince Rupert Traffic on VHF Channel 74 (156.725 MHz) at either 48°00N or 125°15W prior to entering the traffic separation scheme.""
+
+### SRC-138 — Pub. 125 Sailing Directions (Enroute) West Coast of South America, 17th Edition
+
+- Authority: US National Geospatial-Intelligence Agency (NGA).
+- URL: https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub125bk.pdf&type=download
+- Evidence class: Tier 3.
+- Edition or date: 2025, corrected to 19 April 2025; subsequent updates to 27 August 2026.
+- Accessed: 29 September 2026.
+- Use (B38): VTS Arica, VTS Iquique and VTS Valparaiso descriptions and diagrams showing the TSS inside the VTS boundary limits; VTS Quintero area coordinates; VTS Mejillones area coordinates; Puerto Ilo, Antofagasta, Talcahuano, San Vicente and Concepcion (Boca Grande) sections naming no VTS; CHILREP described as voluntary
+- Locator: Sector 3 p.91 (Ilo); Sector 4 p.95 (CHILREP), pp.96-97 (VTS Arica diagram and text), pp.99-102 (VTS Iquique diagram and text), p.113 (VTS Mejillones), p.117 (Antofagasta); Sector 5 pp.147-148 (VTS Quintero), p.149 (VTS Valparaiso diagram), p.152 (VTS Valparaiso text), p.159 (Boca Grande TSS), pp.162-163, 166 (Talcahuano, San Vicente).
+- Passage: "A Vessel Traffic Management System (VTM-STM) operates 24 hours in the port limits of Arica and outward to the boundary described in the diagram titled VTS Arica."
+
+### SRC-139 — data/authoritative/IMO_2025_Mandatory_Reporting_Systems.csv
+
+- Authority: Global VTS project (IMO Ships' Routeing 2025 Edition, Part I).
+- URL: repository file
+- Evidence class: Tier 1.
+- Edition or date: Ships' Routeing 2025 Edition baseline.
+- Accessed: 29 September 2026.
+- Use (B38): The 23 IMO-adopted mandatory ship reporting systems include none for Peru, Chile or Canada (nearest: VRS-0019 GALREP, Ecuador)
+- Locator: rows VRS-0001 to VRS-0023.
+- Passage: "I-I/19,In the Galapagos Particularly Sensitive Sea Area [GALREP],...,VRS-0019"
+
+### SRC-140 — Sistema de Notificación de la Situación de las Naves (CHILREP), guidance document
+
+- Authority: DIRECTEMAR (Armada de Chile), Servicio de Búsqueda y Salvamento Marítimo - MRCC Chile.
+- URL: https://www.directemar.cl/directemar/site/docs/20200515/20200515201601/chilrep_v2_espa__ol.pdf
+- Evidence class: Tier 2.
+- Edition or date: Actualización agosto 2020.
+- Accessed: 29 September 2026.
+- Use (B38): CHILREP is voluntary; foreign ships bound for a Chilean port must give 24 h arrival notice; foreign ships in Chilean internal waters must report position at 12:00Z and 24:00Z; Chilean-flag ships must report position daily
+- Locator: pp.5-6.
+- Passage: "Cuando los buques extranjeros se desplacen por aguas interiores de la República deberán comunicar su posición a las 12:00Z y 24:00Z."
