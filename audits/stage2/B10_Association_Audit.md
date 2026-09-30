@@ -14,8 +14,8 @@ B10
 
 | TSS | VTS | Mandatory reporting | Classification |
 |---|---|---|---|
-| TSS-0046 East Friesland | - | No | Unresolved |
-| TSS-0047 Off Botney Ground | - | No | Unresolved |
+| TSS-0046 East Friesland | None established | No | **Neither confirmed** |
+| TSS-0047 Off Botney Ground | None established | No | **Neither confirmed** |
 | TSS-0048 Maas North | VTS-0024 Rotterdam VTS | No | VTS only |
 | TSS-0049 Maas North-west | VTS-0024 Rotterdam VTS | No | VTS only |
 | TSS-0050 Maas West Inner | VTS-0024 Rotterdam VTS | No | VTS only |
@@ -37,14 +37,20 @@ Changes at Pass 4 (coordinator review of the research output):
 - TSS-0047 reporting_boundary_basis: note added: "Pass 4: Scheepvaartreglement territoriale zee art. 5(1) requires ships of 300 GT or more, or carrying dangerous goods, to report before entering the Dutch territorial sea; this is made as the VTS or approach-area arrival report and is not a separate ship reporting system." (Pass 4 note.)
 - TSS-0048 unresolved_issue: note added: "Pass 4: the sector chart shows only the southern end; full coverage rests on the 38 nm description (scheme 8.6 to 24.8 nm from the North Mole head)." (Pass 4.)
 
+### Resolution of former Friesland uncertainties
+
+- **TSS-0046 East Friesland:** IMO coordinates were retrieved. The TSS runs from about 005°07.7'E to 006°03.0'E and 54°01.7'N to 54°10.9'N. It is north of VTS Off Texel and west of the Inner German Bight / German Bight Traffic boundary. Classification changed from Unresolved to **Neither confirmed**.
+- **TSS-0047 Off Botney Ground:** IMO coordinates were retrieved. The TSS lies between about 002°46.9'E and 003°44.2'E, wholly west of VTS Off Texel and far west of German Bight Traffic. Classification changed from Unresolved to **Neither confirmed**.
+- Current Rijkswaterstaat VTS-centre data was checked alongside the specific VTS boundaries. No separate current offshore service covering either TSS was found.
+
 ### Unresolved issues
-- TSS-0046: VTS absence not proven by an official complete list of Dutch VTS areas; eastern end of the scheme relative to German Bight Traffic (German VTS) not checked; coordinates of the eastern end not retrieved.
-- TSS-0047: Exact TSS coordinates (IMO B-II/9, positions (41)-(56)) not retrieved; responsible State/EEZ not confirmed; VTS absence not proven by an official complete list.
-- TSS-0048: VTS area outer limit is stated only as '38 nautical miles seawards of the port entrance' plus a schematic chart; no coordinate boundary found. Statutory approach area stops at the TSS southern end. Coordinator may treat coverage as moderate-confidence. Pass 4: the sector chart shows only the southern end; full coverage rests on the 38 nm description (scheme 8.6 to 24.8 nm from the North Mole head).
-- TSS-0049: VTS outer limit given only as a distance and schematic chart; statutory approach area ends at the TSS south-eastern end.
-- TSS-0050: VTS outer limit given only as a distance and schematic chart; statutory approach area ends at the TSS eastern end (MNW3-MW4 / MW5).
+
+- TSS-0048: Rotterdam VTS's published outer service limit is expressed as 38 nautical miles seawards plus the official sector chart, rather than a coordinate polygon. The whole Maas North TSS remains within the stated distance.
+- TSS-0049 and TSS-0050: the same service-area description supports coverage, while the smaller statutory approach area ends at the inner TSS limits. This distinction remains documented.
 
 ### Audit result
 PASS WITH UNRESOLVED ITEMS
+
+B10 was rechecked on 30 September 2026. The two former Friesland classification uncertainties are resolved; the remaining notes concern precision of the published Rotterdam VTS outer boundary, not the positive association decision.
 
 Sources are listed in `sources/SOURCE_REGISTER.md` (renumbered from SRC-B10-nn; see `research/stage2/id_mapping_b10_b19.csv`). VTS entities are in `data/current/VTS_Entity_Register.csv`.

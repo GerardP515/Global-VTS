@@ -1862,3 +1862,11 @@ Third-party material may identify a lead. It must not establish current operatio
 - Evidence class: Primary current operating-authority source.
 - Accessed: 30 September 2026.
 - Use: Confirms current operation of two traffic-service areas from Den Helder: VTS Den Helder on VHF 62 and VTS Off Texel on VHF 63.
+
+### SRC-193 — Rijkswaterstaat current VTS centres dataset
+
+- Authority: Rijkswaterstaat / Fairway Information Services geodata.
+- URL: https://geo.rijkswaterstaat.nl/services/ogc/gdr/fis_vnds/ogc/features/v1/collections/vts_centrales/items?f=text%2Fhtml&limit=25
+- Evidence class: Primary current government geodata.
+- Accessed: 30 September 2026.
+- Use: Current Dutch VTS-centre inventory, including Den Helder, IJmuiden, Rotterdam, Scheveningen and Scheldt-related centres. Used with exact VTS-area boundaries rather than as sole evidence of absence.
