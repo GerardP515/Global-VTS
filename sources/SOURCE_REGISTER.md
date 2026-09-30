@@ -3064,3 +3064,125 @@ Off Cape S. Vicente"
 - Locator: para 7 'SAFREP Services'
 - Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "This service is provided by receiving and preparing messages, for onward transmission, from stations at sea via Radio Telephone and INMARSAT."
 - Use: SAFREP service still provided (message relay via radiotelephone and INMARSAT); no mandatory status stated
+
+### SRC-3001 — USCG Vessel Traffic Services Locations
+
+- Authority: United States Coast Guard Navigation Center.
+- URL: https://navcen.uscg.gov/vessel-traffic-services-locations
+- Evidence class: Tier 2.
+- Edition or date: Current page.
+- Accessed: 2026-09-30.
+- Verification: Reopened during FC-C.
+- Locator: VTS Los Angeles/Long Beach.
+- Use: Defines VTS LA/LB as extending 25 miles to sea from Point Fermin; used with IMO B-VII/6 coordinates to confirm partial Santa Barbara TSS coverage.
+
+### SRC-3002 — Reglas de Operación del Puerto de Salina Cruz
+
+- Authority: Administración del Sistema Portuario Nacional Salina Cruz / port authority.
+- URL: https://www.puertosalinacruz.com.mx/web/upl/sec/Documentos/Reglas_de_Operacion_ASIPONA%20Salina%20Cruz.pdf
+- Evidence class: Tier 2.
+- Edition or date: Document dated September 2014; currently published by port authority.
+- Accessed: 2026-09-30.
+- Verification: Reopened during FC-C.
+- Locator: pp. 109-115 / CCTM operating provisions.
+- Use: Defines the CCTM maritime traffic service, VHF watch, direct communication when a vessel enters the TSS, and mandatory use by applicable SOLAS vessels within the CCTM service zone or TSS.
+
+### SRC-3003 — Audit 2024-0006: ASIPONA Salina Cruz infrastructure and CCTM equipment
+
+- Authority: Auditoría Superior de la Federación, Mexico.
+- URL: https://www.asf.gob.mx/Trans/Informes/IR2024b/Documentos/Auditorias/2024_0006_a.pdf
+- Evidence class: Tier 2.
+- Edition or date: 2025 audit of 2024 expenditure.
+- Accessed: 2026-09-30.
+- Verification: Reopened during FC-C.
+- Locator: CCTM equipment programme.
+- Use: Records 100% physical and financial completion of the 2024 equipment-acquisition programme for the Salina Cruz Maritime Traffic Control Centre.
+
+### SRC-3004 — AMP manages acquisition of Maritime Traffic Control System
+
+- Authority: Autoridad Marítima de Panamá.
+- URL: https://www.amp.gob.pa/noticias/notas-de-prensa/amp-gestiona-adquisicion-de-sistema-de-control-de-trafico-maritimo/
+- Evidence class: Tier 2.
+- Edition or date: 4 April 2025.
+- Accessed: 2026-09-30.
+- Verification: Reopened during FC-C.
+- Locator: National STM/VTS procurement.
+- Use: States the AMP Board authorised a public tender for study, design, supply, installation, training and maintenance of a national maritime traffic control system.
+
+### SRC-3005 — Memoria Institucional 2025-2026
+
+- Authority: Autoridad Marítima de Panamá.
+- URL: https://www.amp.gob.pa/wp-content/uploads/2026/04/MEMORIA-2025-2026-GR-RF-3-WEB.pdf
+- Evidence class: Tier 2.
+- Edition or date: 2026.
+- Accessed: 2026-09-30.
+- Verification: Checked during FC-C.
+- Locator: Maritime Traffic System project.
+- Use: Lists the maritime traffic system as a tender/procurement activity in the 2025-2026 institutional report, supporting that the national AMP VTS remained an implementation project rather than a commissioned service.
+
+### SRC-3006 — OP Notice to Shipping N-2-2026 Harbor Operations
+
+- Authority: Panama Canal Authority.
+- URL: https://pancanal.com/wp-content/uploads/2021/08/N02-2026-Harbor-Operations_BMV.pdf
+- Evidence class: Tier 2.
+- Edition or date: 2026.
+- Accessed: 2026-09-30.
+- Verification: Reopened during FC-C.
+- Locator: Flamenco and Cristobal Signal Stations.
+- Use: Current canal notice identifies Flamenco and Cristobal as Signal Stations/Port Entry Coordinators and sets VHF 12 arrival/harbour coordination procedures; it does not designate a VTS area over the IMO TSS.
+
+### SRC-3007 — DICAPI and FONDEPES: maritime safety and VTS rollout
+
+- Authority: Fondo Nacional de Desarrollo Pesquero / Government of Peru, describing DICAPI systems.
+- URL: https://www.gob.pe/institucion/fondepes/noticias/1143483-dicapi-y-fondepes-como-promueven-la-seguridad-de-los-pescadores-artesanales-en-el-mar
+- Evidence class: Tier 2.
+- Edition or date: 10 April 2025.
+- Accessed: 2026-09-30.
+- Verification: Reopened during FC-C.
+- Locator: National VTS rollout.
+- Use: States that the VTS operates at Callao, described as the first port, and that installation at other Peruvian ports is planned.
+
+### SRC-3008 — Strengthening maritime safety: new traffic-separation buoys at Chimbote and Paita
+
+- Authority: Marina de Guerra del Perú.
+- URL: https://www.gob.pe/institucion/marina/noticias/1386526-fortaleciendo-la-seguridad-maritima-en-nuestro-dominio-maritimo
+- Evidence class: Tier 2.
+- Edition or date: 3 May 2026.
+- Accessed: 2026-09-30.
+- Verification: Checked during FC-C.
+- Locator: Paita and Chimbote routeing aids.
+- Use: Records installation of traffic-separation buoys at Chimbote and Paita; no VTS commissioning is stated.
+
+### SRC-3009 — President visits VTS Callao
+
+- Authority: Dirección General de Capitanías y Guardacostas, Peru.
+- URL: https://www.dicapi.mil.pe/noticias/presidente-de-la-republica-visita-el-sistema-de-trafico-maritimo-vts-callao
+- Evidence class: Tier 2.
+- Edition or date: 15 January 2026.
+- Accessed: 2026-09-30.
+- Verification: Reopened during FC-C.
+- Locator: VTS Callao current status.
+- Use: Confirms the VTS Callao identity and capabilities but says the system was in the final testing stage before formal entry into operation; retained as a current-status caveat.
+
+### SRC-3010 — Callao collision reported to VTS Callao
+
+- Authority: Dirección General de Capitanías y Guardacostas, Peru.
+- URL: https://www.dicapi.mil.pe/noticias/marina-de-guerra-del-peru-evacua-a-seis-tripulantes-tras-colision-en-la-bahia-del-callao
+- Evidence class: Tier 2.
+- Edition or date: 14 March 2025.
+- Accessed: 2026-09-30.
+- Verification: Reopened during FC-C.
+- Locator: Operational use of VTS Callao.
+- Use: Records a real incident reported to VTS Callao and coordinated through the service, evidencing operational use before the January 2026 formal-commissioning caveat.
+
+### SRC-3011 — Guardafronteras where land ends and sea begins
+
+- Authority: Granma, Cuba.
+- URL: https://www.granma.cu/granmad/2012/06/06/pdf/todas.pdf
+- Evidence class: Lead only.
+- Edition or date: 6 June 2012.
+- Accessed: 2026-09-30.
+- Verification: Reopened during FC-C.
+- Locator: Cabo San Antonio border radar post.
+- Use: Historical state-media evidence of a radiotechnical border post monitoring international maritime traffic at Cabo San Antonio. It is not evidence of a VTS and cannot resolve the seven Cuban TSS.
+
