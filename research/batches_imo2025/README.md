@@ -23,16 +23,16 @@ Current status is derived from the master register, not historical PASS labels.
 | [B17](B17.md) | 5 | 0 | 5 | Reviewed records; 5 require follow-up |
 | [B18](B18.md) | 5 | 0 | 5 | Reviewed records; 5 require follow-up |
 | [B19](B19.md) | 5 | 0 | 5 | Reviewed records; 5 require follow-up |
-| [B20](B20.md) | 5 | 5 | 5 | First pass only |
-| [B21](B21.md) | 5 | 5 | 5 | First pass only |
-| [B22](B22.md) | 5 | 5 | 5 | First pass only |
-| [B23](B23.md) | 5 | 5 | 5 | First pass only |
-| [B24](B24.md) | 5 | 5 | 5 | First pass only |
-| [B25](B25.md) | 5 | 5 | 5 | First pass only |
-| [B26](B26.md) | 5 | 5 | 5 | First pass only |
-| [B27](B27.md) | 5 | 5 | 5 | First pass only |
-| [B28](B28.md) | 5 | 5 | 5 | First pass only |
-| [B29](B29.md) | 5 | 5 | 5 | First pass only |
+| [B20](B20.md) | 5 | 0 | 5 | Reviewed records; 5 require follow-up |
+| [B21](B21.md) | 5 | 0 | 5 | Reviewed records; 5 require follow-up |
+| [B22](B22.md) | 5 | 0 | 4 | Reviewed records; 4 require follow-up |
+| [B23](B23.md) | 5 | 0 | 5 | Reviewed records; 5 require follow-up |
+| [B24](B24.md) | 5 | 0 | 5 | Reviewed records; 5 require follow-up |
+| [B25](B25.md) | 5 | 0 | 5 | Reviewed records; 5 require follow-up |
+| [B26](B26.md) | 5 | 0 | 5 | Reviewed records; 5 require follow-up |
+| [B27](B27.md) | 5 | 0 | 5 | Reviewed records; 5 require follow-up |
+| [B28](B28.md) | 5 | 0 | 5 | Reviewed records; 5 require follow-up |
+| [B29](B29.md) | 5 | 0 | 5 | Reviewed records; 5 require follow-up |
 | [B30](B30.md) | 5 | 0 | 3 | Reviewed records; 3 require follow-up |
 | [B31](B31.md) | 5 | 0 | 4 | Reviewed records; 4 require follow-up |
 | [B32](B32.md) | 5 | 0 | 5 | Reviewed records; 5 require follow-up |

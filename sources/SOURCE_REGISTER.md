@@ -1971,3 +1971,1096 @@ Third-party material may identify a lead. It must not establish current operatio
 - Evidence class: Primary authority material.
 - Verification: Opened during the repository review on 30 September 2026.
 - Use: GOFREP centre allocation and four named TSS; South Åland Sea has no obligatory reporting system.
+
+
+### SRC-2000 — Resolution MSC.278(85) Adoption of the new mandatory ship reporting system Off the coast of Portugal - COPREP
+
+- Authority: IMO Maritime Safety Committee.
+- URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.278(85).pdf
+- Evidence class: Tier 1
+- Edition or date: Adopted 1 December 2008; in force 0000 UTC 1 June 2009
+- Accessed: 2026-09-30
+- Locator: Annex 16, paras 2.1 and 7.1
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "ROCA CONTROL maintains a continuous 24-hour watch over the COPREP area."
+- Use: COPREP (VRS-0012) area: shore to 39 45 N; west/south line 39 45 N 010 14 W, 38 41 N 010 14 W, 36 30 N 009 35 W, 36 15 N 008 30 W; east 008 30 W. Roca Control is the shore authority.
+
+
+### SRC-2001 — Decreto-Lei n.º 263/2009, de 28 de Setembro (VTS costeiro do continente) - copy hosted by Marinha (LexMar)
+
+- Authority: Portugal, Government (Diário da República, 1.ª série, N.º 188).
+- URL: https://www.marinha.pt/Conteudos_Externos/LexMar2/PGPAT%20100/PGPAT%201000%20-%20Cap%C3%ADtulos/Capitulo%20K%20EST/Dec.%20Lei%20263_2009,%20de%2028Set.pdf
+- Evidence class: Tier 1
+- Edition or date: 28 September 2009
+- Accessed: 2026-09-30
+- Locator: Arts 6, 9, 10(4)
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "zela ... pela observância das regras nacionais e internacionais sobre o controlo e segurança da navegação ... e, em particular, pela observância das regras aplicáveis aos esquemas de separação de tráfego."
+- Use: Statutory area of the VTS costeiro do continente (art. 6): coast to 41 51 05 N; 41 51 05 N 010 14 W, 38 41 N 010 14 W, 36 30 N 009 35 W, 36 12 N 007 24 W; east 007 24 W. CCTMC directs the service (art. 9) and supervises TSS rules (art. 10(4)).
+
+
+### SRC-2002 — COLREG.2/Circ.55 New and amended existing traffic separation schemes, annex 6 Amendments to the existing TSS Off Cape S. Vicente
+
+- Authority: IMO (circular; copy on Shanghai Maritime University site).
+- URL: https://cimrc.shmtu.edu.cn/_upload/article/files/63/dc/35c66be74d12873254dc88a2ef00/86d93ef4-7703-4521-9e6a-9cf44e04d79d.pdf
+- Evidence class: Tier 1
+- Edition or date: 15 December 2004; implemented 0000 UTC 1 July 2005
+- Accessed: 2026-09-30
+- Locator: Annex 6, paras (a) to (f)
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "(36) 36° 56'.72 N  009° 43'.16 W"
+- Use: Coordinates of the TSS Off Cape S. Vicente (ED50, chart 21101), used for the overlay against COPREP and the Portuguese VTS area. Outermost positions (35) 36 44.37 N 009 39.59 W and (36) 36 56.72 N 009 43.16 W.
+
+
+### SRC-2003 — COLREG.2/Circ.55/Corr.1 New and amended traffic separation schemes, Corrigendum
+
+- Authority: IMO (circular; copy on Shanghai Maritime University site).
+- URL: https://cimrc.shmtu.edu.cn/_upload/article/files/63/dc/35c66be74d12873254dc88a2ef00/f7089b7d-cf39-4f09-869f-1dba08de0dd3.pdf
+- Evidence class: Tier 1
+- Edition or date: 30 March 2005
+- Accessed: 2026-09-30
+- Locator: Item 4
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "The correct co-ordinates for geographical position (36 ß 45΄.16N  009ß 01΄.07W) are: 3 6 ß 45΄.16N  008ß 58΄.93W"
+- Use: Corrects only the inshore-zone position in section (f) of the Cape S. Vicente annex (to 36 45.16 N 008 58.93 W); outer lane positions unchanged.
+
+
+### SRC-2004 — Resolution MSC.190(79) Adoption of mandatory ship reporting system in the Western European Particularly Sensitive Sea Area (WETREP)
+
+- Authority: IMO Maritime Safety Committee.
+- URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.190(79).pdf
+- Evidence class: Tier 1
+- Edition or date: Adopted 6 December 2004
+- Accessed: 2026-09-30
+- Locator: Annex 32, paras 1, 2.1, 6.2.1
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Off Cape Roca 
+Off Cape S. Vicente"
+- Use: WETREP (VRS-0005) names the TSS Off Cape S. Vicente; tanker-only applicability (oil tankers over 600 dwt carrying heavy crude, heavy fuel oil, bitumen/tar); area eastern limit at the Guadiana mouth (37 10 N 007 25 W), so Banco del Hoyo is outside.
+
+
+### SRC-2005 — VTS System (Sistema costeiro de VTS) web page
+
+- Authority: Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM).
+- URL: https://dgrm.pt/en/web/guest/sistema-costeiro-de-vts
+- Evidence class: Tier 2
+- Edition or date: Undated live page; accessed 2026-09-30
+- Accessed: 2026-09-30
+- Locator: Page body
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "namely by organizing traffic through traffic separation schemes (EST)"
+- Use: Current operation of the coastal VTS by DGRM, organising traffic through TSS; CCTM operate the system.
+
+
+### SRC-2006 — Contactos do VTS Costeiro (ROCA CONTROL)
+
+- Authority: DGRM.
+- URL: https://dgrm.pt/en/web/guest/contacto-do-vts-costeiro-roca-contral-
+- Evidence class: Tier 2
+- Edition or date: Undated live page; accessed 2026-09-30
+- Accessed: 2026-09-30
+- Locator: Page heading
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Contactos do VTS Costeiro (ROCA CONTROL)"
+- Use: Current official identification of the coastal VTS call sign Roca Control and its contact details.
+
+
+### SRC-2007 — Resolution A.186(VI) Recommendation on establishing additional traffic separation schemes and areas to be avoided
+
+- Authority: IMO Assembly.
+- URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.186(6).pdf
+- Evidence class: Tier 1
+- Edition or date: Adopted 28 October 1969
+- Accessed: 2026-09-30
+- Locator: Annex, scheme 1
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "A two-mile wide separation zone is centred upon the following geographical positions: (i) 35°55'.5 N., 6°6'.0 W (ii) 35°55'.5 N., 6°12'.0 W"
+- Use: Position of the TSS At Banco del Hoyo: separation zone centred on 35 55.5 N between 006 06 W and 006 12 W; limits 35 52.3 N to 35 58.2 N. Places the TSS west of GIBREP (005 58 W) and east of COPREP (008 30 W) and WETREP (007 25 W).
+
+
+### SRC-2008 — Resolution MSC.300(87) Adoption of amendments to the existing mandatory ship reporting system In the Strait of Gibraltar (GIBREP)
+
+- Authority: IMO Maritime Safety Committee.
+- URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.300(87).pdf
+- Evidence class: Tier 1
+- Edition or date: Adopted 17 May 2010; in force 0000 UTC 1 December 2010
+- Accessed: 2026-09-30
+- Locator: Annex paras 1, 2.1, 3.4, 3.5.1
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "This area includes the amended traffic separation scheme "In the Strait of Gibraltar" (IMO circular COLREG.2/Circ.58)."
+- Use: GIBREP (VRS-0013) area 005 58 W to 005 15 W expressly includes the TSS In the Strait of Gibraltar; shore authorities Tarifa Traffic (MRCC Tarifa) and Tangier Traffic (CSTM Tanger); both monitor the TSS by radar and AIS. Ships of 300 GT and over plus listed smaller categories.
+
+
+### SRC-2009 — Orden del Ministro por la que se aprueba el Plan de Actuación de SASEMAR 2025-2027
+
+- Authority: Ministerio de Transportes y Movilidad Sostenible / SASEMAR.
+- URL: https://www.salvamentomaritimo.es/statics/multimedia/documents/2025/10/08/PLAN_ACTUACION_25-27_F.pdf
+- Evidence class: Tier 2
+- Edition or date: Posted 8 October 2025
+- Accessed: 2026-09-30
+- Locator: Section '20 Centros de Coordinación de Salvamento'
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "los CCS ubicados en Finisterre, Tarifa y Almería tienen asignadas también las tareas de supervisión del tráfico marítimo en los Dispositivos de Separación de Tráfico establecidos en Finisterre, Estrecho y Cabo de Gata, respectivamente."
+- Use: CCS Finisterre, Tarifa and Almería are assigned supervision of traffic in the DST of Finisterre, the Strait and Cabo de Gata respectively; other CCS monitor port traffic only (Cartagena, Castellón etc.). No DST supervision assigned for Cabo de Palos or Cabo de la Nao.
+
+
+### SRC-2010 — Orden del Ministro por la que se aprueba el Plan Anual de Actuación 2025 de SASEMAR
+
+- Authority: Ministerio de Transportes y Movilidad Sostenible / SASEMAR.
+- URL: https://www.salvamentomaritimo.es/statics/multimedia/documents/2025/10/08/Plan_Anual_2025_F.pdf
+- Evidence class: Tier 2
+- Edition or date: Posted 8 October 2025
+- Accessed: 2026-09-30
+- Locator: Section on CCS, p. 9
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Los CCS ubicados en Finisterre, Tarifa, Almería, Tenerife y Las Palmas tienen asignadas también, las tareas de supervisión del tráfico marítimo en los Dispositivos de Separación de Tráfico"
+- Use: Same assignment with Canarias added: CCS Finisterre, Tarifa, Almería, Tenerife and Las Palmas supervise the DST of Finisterre, Estrecho, Cabo de Gata and Canarias.
+
+
+### SRC-2011 — El control del tráfico marítimo en los puertos
+
+- Authority: Ministerio de Transportes y Movilidad Sostenible, Tramos magazine (text by Salvamento Marítimo).
+- URL: https://www.transportes.gob.es/recursos_mfom/comodin/recursos/13_el_control_del_trafico_maritimo.pdf
+- Evidence class: Tier 4
+- Edition or date: Tramos, July-August 2025
+- Accessed: 2026-09-30
+- Locator: p. 92-93
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "el número total de buques controlados en 2024 por los centros de Salvamento Marítimo en los DST de Fisterra, Tarifa, Cabo de Gata, Canarias Oriental y Occidental"
+- Use: 2024 DST traffic control by Salvamento Marítimo limited to Fisterra, Tarifa, Cabo de Gata, Canarias; port traffic contracts with 12 port authorities (including Almería, Cartagena, Castellón, Cádiz).
+
+
+### SRC-2012 — COLREG.2/Circ.57 New and amended existing traffic separation schemes, annex 3 Off Cabo de Gata (amended scheme)
+
+- Authority: IMO (circular; copy on Shanghai Maritime University site).
+- URL: https://cimrc.shmtu.edu.cn/_upload/article/files/63/dc/35c66be74d12873254dc88a2ef00/8c6a3c5f-5a85-4450-980a-5534de9fcd0a.pdf
+- Evidence class: Tier 1
+- Edition or date: 26 May 2006; implemented 0000 UTC 1 December 2006
+- Accessed: 2026-09-30
+- Locator: Annex 3, note
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Note: Ships that so wish may give voluntary notification of entry to and departure from the TSS, via the Almería MRCC, using VHF channel 16."
+- Use: Voluntary notification of entry to and departure from the Cabo de Gata TSS via Almería MRCC on VHF 16 (not a mandatory scheme).
+
+
+### SRC-2013 — COLREG.2/Circ.67 New and amended traffic separation schemes, annex 2 New TSS In the Corsica Channel
+
+- Authority: IMO (circular; copy on Shanghai Maritime University site).
+- URL: https://cimrc.shmtu.edu.cn/_upload/article/files/63/dc/35c66be74d12873254dc88a2ef00/65c44f78-cf76-44e1-aa8a-6727556bcb18.pdf
+- Evidence class: Tier 1
+- Edition or date: 20 May 2016; implemented 0000 UTC 1 December 2016
+- Accessed: 2026-09-30
+- Locator: Annex 2
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "NEW TRAFFIC SEPARATION SCHEME "IN THE CORSICA CHANNEL""
+- Use: Identity and position of the Corsica Channel TSS (43 02 N to 42 54 N, about 009 33 to 009 43 E, between Cap Corse and Capraia); the description contains no reporting provision.
+
+
+### SRC-2014 — Dossier de presse: 60 ans des CROSS
+
+- Authority: Ministère chargé de la Mer (France).
+- URL: https://www.ecologie.gouv.fr/sites/default/files/documents/03062026_DP_60_ans_CROSS.pdf
+- Evidence class: Tier 2
+- Edition or date: 3 June 2026
+- Accessed: 2026-09-30
+- Locator: pp. 3, 7-9
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Les CROSS de la Manche assurent un service de trafic maritime avec en particulier une surveillance renforcée dans les dispositifs de séparation du trafic (DST)"
+- Use: Official 2026 statement that VTS functions and reinforced DST surveillance are provided by the Channel CROSS; CROSS Med en Corse is described as a SAR sub-centre. Does not establish a VTS for the Corsica Channel.
+
+
+### SRC-2015 — Traffico marittimo: intesa tra Italia e Francia
+
+- Authority: Ministero delle Infrastrutture e dei Trasporti (Italy).
+- URL: https://www.mit.gov.it/node/298
+- Evidence class: Lead only
+- Edition or date: Published 3 November 2015; last modified 20 December 2022
+- Accessed: 2026-09-30
+- Locator: Press release
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "prevedendo anche un monitoraggio più attento che consenta una migliore e più rapida risposta in caso di emergenza."
+- Use: Background: Franco-Italian agreement on the Corsica Channel TSS, foreseeing closer monitoring; names no VTS or reporting scheme.
+
+
+### SRC-2016 — Resolution MSC.139(76) Mandatory ship reporting systems, annex 2 In the Adriatic Sea (ADRIREP)
+
+- Authority: IMO Maritime Safety Committee.
+- URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.139(76).pdf
+- Evidence class: Tier 1
+- Edition or date: Adopted 5 December 2002; ADRIREP annex revoked from 0000 UTC 1 December 2026 by MSC.598(111)
+- Accessed: 2026-09-30
+- Locator: Annex 13, annex 2 paras 1.1, 2.1 and sector table
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "The operational area of the mandatory ship reporting system covers the whole Adriatic Sea, north from the latitude 40° 25’.00 N"
+- Use: ADRIREP (VRS-0015) covers the whole Adriatic north of 40 25 N; current applicability oil tankers 150 GT+ and ships 300 GT+ carrying dangerous or polluting goods; sectors 4 (43 20 N to 44 30 N, Ancona) and 5 (north of 44 30 N, Venezia/Trieste/Koper).
+
+
+### SRC-2017 — Resolution MSC.598(111) Mandatory ship reporting system In the Adriatic Sea (ADRIREP)
+
+- Authority: IMO Maritime Safety Committee.
+- URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.598(111).pdf
+- Evidence class: Tier 1
+- Edition or date: Adopted 22 May 2026; implemented 0000 UTC 1 December 2026
+- Accessed: 2026-09-30
+- Locator: Operative paras 1-4; annex paras 1.1, 2.1, 7; appendix 2
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "the revised mandatory ship reporting system In the Adriatic Sea (ADRIREP) ... will be implemented at 0000 hours UTC on 1 December 2026"
+- Use: Revised ADRIREP from 1 December 2026: same area north of 40 25 N; oil tankers 150 GT+, all ships 10,000 GT+, all other ships carrying hazardous cargo; shore authorities include VTS Croatia (Dubrovnik, Split, Rijeka), VTS Venezia, VTS Trieste, Ravenna and Ancona Coast Guard, MRCC Koper.
+
+
+### SRC-2018 — Oglas za pomorce 11/2004: New traffic separation schemes in the Adriatic Sea
+
+- Authority: Hrvatski hidrografski institut (HHI).
+- URL: https://www.hhi.hr/Portals/0/adam/HHI/-8JbRqCwx0uz709cW3WizQ/PdfView/ozp200411.pdf
+- Evidence class: Tier 3
+- Edition or date: Issue 11/2004
+- Accessed: 2026-09-30
+- Locator: Corrections to charts 1-11/04, sections I and II
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "I. Sjeverni Jadran - istočni dio / THE NORTH ADRIATIC SEA - EASTERN PART"
+- Use: Identity: the North Adriatic Sea TSS has an eastern part (about 44 04 N 014 04 E to 44 57 N 013 16 E, towards Istria) and a western part.
+
+
+### SRC-2019 — Oglas za pomorce 5/2007: Amendments to the TSS in the North Adriatic Sea - western part and approaches to the Gulf of Venice
+
+- Authority: Hrvatski hidrografski institut (HHI).
+- URL: https://www.hhi.hr/Portals/0/adam/HHI/e6km52KhgU6Yh_fRdHfSdw/PdfView/ozp200705.pdf
+- Evidence class: Tier 3
+- Edition or date: Issue 5/2007; amendments in force 0000 UTC 1 July 2007
+- Accessed: 2026-09-30
+- Locator: Section 'IN THE NORTH ADRIATIC SEA - WESTERN PART (amended)'
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "At 0000 UTC (0200LT), 1 July 2007, Amendments to the Traffic Separation Scheme in the Adriatic Sea, North Adriatic (western part) and approach to the Gulf of Venice"
+- Use: Coordinates of the amended western part (43 53 N 013 47 E to 44 46 N 013 00 E).
+
+
+### SRC-2020 — Pravilnik o sigurnosti pomorske plovidbe u unutarnjim morskim vodama i teritorijalnom moru RH te načinu i uvjetima obavljanja nadzora i upravljanja pomorskim prometom (NN 52/2025-685)
+
+- Authority: Ministarstvo mora, prometa i infrastrukture (Croatia), Narodne novine.
+- URL: https://narodne-novine.nn.hr/clanci/sluzbeni/2025_03_52_685.html
+- Evidence class: Tier 1
+- Edition or date: Narodne novine 52/2025, 21 March 2025
+- Accessed: 2026-09-30
+- Locator: Arts 92, 93(12), 101, 102
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "(2) VTS služba nadzire primjenu sustava usmjerene i odijeljene plovidbe na Jadranskom moru koje je usvojila IMO."
+- Use: Croatian VTS area covers internal waters, territorial sea and exclusive economic zone (art. 93(12)); the VTS service supervises the IMO-adopted routeing and TSS in the Adriatic and ADRIREP (art. 101(2)-(3)); VTS sectors A, B (surveillance) and Rijeka, Zadar, Šibenik, Split, Ploče, Dubrovnik (art. 102).
+
+
+### SRC-2021 — Dispositivos de separación de tráfico (official web page)
+
+- Authority: Sociedad de Salvamento y Seguridad Marítima (SASEMAR), Spain.
+- URL: https://www.salvamentomaritimo.es/mejora-tu-seguridad/control-y-servicios-en-la-mar/dispositivos-de-separacion-de-trafico
+- Evidence class: Tier 2
+- Edition or date: Undated live page; accessed 2026-09-30
+- Accessed: 2026-09-30
+- Locator: Page body, section 'Dispositivo de Separación de Tráfico del Estrecho de Gibraltar'
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "El Centro de Coordinación de Salvamento de Tarifa presta el Servicio de Tráfico Marítimo en el Estrecho de Gibraltar"
+- Use: Lists Spain's DST (Finisterre, Estrecho, Cabo de Gata, Canarias, Cabo de Palos, Cabo de la Nao); mandatory reporting only at Finisterre, the Strait and the Canarias PSSA, voluntary at Cabo de Gata; CCS Tarifa provides the VTS in the Strait of Gibraltar.
+
+
+### SRC-2022 — Controlamos el tráfico marítimo (official web page)
+
+- Authority: Sociedad de Salvamento y Seguridad Marítima (SASEMAR), Spain.
+- URL: https://www.salvamentomaritimo.es/conocenos/nuestra-actividad/controlamos-el-trafico-maritimo
+- Evidence class: Tier 2
+- Edition or date: Undated live page; accessed 2026-09-30
+- Accessed: 2026-09-30
+- Locator: Page body
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "mediante el seguimiento y ayuda al tráfico, tanto en los Dispositivos de Separación de Tráfico de Finisterre, Tarifa, Cabo de Gata y Canarias Oriental y Occidental"
+- Use: Salvamento Marítimo monitors and assists traffic in the DST of Finisterre, Tarifa, Cabo de Gata and Canarias (not Cabo de Palos or Cabo de la Nao) and in ports where it provides that service.
+
+
+### SRC-2023 — Resolución de 17 de julio de 2023 ... Ordenanza del procedimiento de control del tráfico marítimo en aguas del puerto de Almería (BOE-A-2023-18285)
+
+- Authority: Autoridad Portuaria de Almería (Boletín Oficial del Estado).
+- URL: https://www.boe.es/eli/es/res/2023/07/17/(4)
+- Evidence class: Tier 1
+- Edition or date: BOE núm. 190, 10 August 2023
+- Accessed: 2026-09-30
+- Locator: Sections 1 and 6
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Todas las comunicaciones referentes al Tráfico Marítimo ... serán canalizadas a través de Almería Port Control"
+- Use: CCS Almería (SASEMAR) operates the Almería port maritime traffic service as Almería Port Control (VHF 15), showing the centre is an operating VTS centre; port service only, does not itself reach the Cabo de Gata TSS.
+
+
+### SRC-2024 — Agreement between Italy and Yugoslavia concerning the Delimitation of the Continental Shelf between the two Countries in the Adriatic Sea
+
+- Authority: United Nations DOALOS (treaty text).
+- URL: https://static.un.org/depts/los/LEGISLATIONANDTREATIES/PDFFILES/TREATIES/ITA-YUG1968CS.PDF
+- Evidence class: Tier 1
+- Edition or date: 8 January 1968 (in force 21 January 1970); corrected technically by Croatia-Italy agreement 2005 (not opened)
+- Accessed: 2026-09-30
+- Locator: Article 1, points 07-17
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "16 44° 00'.5 14° 00'.9"
+- Use: Boundary points 7 to 17 used to overlay the North Adriatic TSS: eastern part wholly on the Croatian side, western part mainly on the Italian side.
+
+
+### SRC-2025 — COLREG.2/Circ.54, annex 3: New traffic separation schemes in the Adriatic Sea
+
+- Authority: IMO (compilation of COLREG.2 circulars hosted by Transportstyrelsen, Sweden).
+- URL: https://www.transportstyrelsen.se/globalassets/global/sjofart/dokument/sjotrafik_dok/imo_colreg.2_cirkular.pdf?id=58526
+- Evidence class: Tier 1
+- Edition or date: 28 May 2004 (implemented 1 December 2004)
+- Accessed: 2026-09-30
+- Locator: Annex 3
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "IN THE NORTH ADRIATIC SEA – EASTERN PART"
+- Use: The Adriatic schemes are grouped as 'In the North Adriatic Sea - eastern part' and '- western part', with separate headings for the approaches to the Gulfs of Trieste and Venice.
+
+
+### SRC-2026 — Italy Venice VTS Common Procedures (users' manual)
+
+- Authority: Guardia Costiera, Capitaneria di Porto di Venezia (Italy).
+- URL: https://www.guardiacostiera.gov.it/portale/documents/d/guest/en_venezia_manuale_utentevts
+- Evidence class: Tier 2
+- Edition or date: Edition No. 00, last updated 19/09/17 (file on official portal, re-uploaded 9 Sep 2024)
+- Accessed: 2026-09-30
+- Locator: Section on traffic separation schemes; annex 4
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Even if not inside Venice VTS Area, vessels are bound to report the North Adriatic Traffic Separation Scheme"
+- Use: The North Adriatic TSS lies outside the Venice VTS area.
+
+
+### SRC-2027 — COLREG.2/Circ.58, annex 6: Approaches to Gulf of Venice (amended)
+
+- Authority: IMO (same compilation).
+- URL: https://www.transportstyrelsen.se/globalassets/global/sjofart/dokument/sjotrafik_dok/imo_colreg.2_cirkular.pdf?id=58526
+- Evidence class: Tier 1
+- Edition or date: 11 December 2006 (implemented 1 July 2007)
+- Accessed: 2026-09-30
+- Locator: PDF pp. 315 to 316 (Circ.58 annex 6, paras 14 to 16)
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "The separation zone in the approaches to Gulf of Venice is amended with the establishments of a new scheme consisting of two new separation schemes connected by a precautionary area"
+- Use: Current geometry of the Approaches to Gulf of Venice TSS (northern and southern parts); northern ends at 45°14'.30N 012°34'.00E, 45°12'.00N 012°31'.50E, lane limits 45°15'.70N 012°35'.70E and 45°10'.30N 012°29'.50E
+
+
+### SRC-2028 — Resolution MSC.598(111), Mandatory ship reporting system "In the Adriatic Sea" (ADRIREP)
+
+- Authority: IMO Maritime Safety Committee.
+- URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.598(111).pdf
+- Evidence class: Tier 1
+- Edition or date: Adopted 22 May 2026; implemented 0000 UTC 1 December 2026; revokes annex 2 to MSC.139(76) from that date
+- Accessed: 2026-09-30
+- Locator: Operative para 4; annex para 2.1; para 7 (shore-based facilities)
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "The operational area of the mandatory ship reporting system covers the whole Adriatic Sea, north from the latitude 40° 25'.00 N"
+- Use: ADRIREP area covers the whole Adriatic north of 40°25'N (all five B22 TSS lie inside); VTS Venezia, VTS Trieste, VTS Croatia, MRCC Koper named as shore-based authorities; continuity of ADRIREP after 30 November 2026
+
+
+### SRC-2029 — Koper VTS User's Manual
+
+- Authority: Uprava Republike Slovenije za pomorstvo (Slovenian Maritime Administration).
+- URL: https://www.gov.si/assets/organi-v-sestavi/URSP/Dokumenti/VTS/Koper-VTS-Users-Manual.pdf
+- Evidence class: Tier 2
+- Edition or date: Version 1, 30 November 2025 (PDF created 9 April 2026)
+- Accessed: 2026-09-30
+- Locator: Section 3 VTS area and Photo 1 (p. 5); section 4 (p. 6); section 7.1 (pp. 14 to 15)
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Koper VTS area covers the internal waters and territorial sea of the Republic of Slovenia."
+- Use: Koper VTS area = Slovenian internal waters and territorial sea; Photo 1 (VTS area chart) shows the whole Approaches to/from Koper TSS and the south-eastern part of the In the Gulf of Trieste TSS inside the shaded VTS area; section 7.1 reproduces both TSS and requires lane use within the VTS area; participation 300 GT+
+
+
+### SRC-2030 — Koper VTS (Vessel Traffic Service) service page
+
+- Authority: Government of the Republic of Slovenia (gov.si), Slovenian Maritime Administration.
+- URL: https://www.gov.si/en/registries/services/koper-vts/
+- Evidence class: Tier 2
+- Edition or date: Last edited 15 April 2026
+- Accessed: 2026-09-30
+- Locator: VTS Operations and Objectives
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "This includes the management of the Traffic Separation Scheme (TSS), coordination of traffic flow in relation to vessel arrivals and departures schedule, and oversight of anchoring areas."
+- Use: Koper VTS operational; monitoring and management includes management of the TSS; area Slovenian inland and territorial waters
+
+
+### SRC-2031 — Storitve VTS zagotovljene z današnjim dnem (news item)
+
+- Authority: Government of the Republic of Slovenia (gov.si).
+- URL: https://www.gov.si/novice/2026-01-06-storitve-vts-zagotovljene-z-danasnjim-dnem/
+- Evidence class: Tier 2
+- Edition or date: 6 January 2026
+- Accessed: 2026-09-30
+- Locator: News text
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Služba VTS zagotavlja storitve VTS od 6. januarja 2026 dalje"
+- Use: Koper VTS services started 6 January 2026, operated by the Maritime Administration in Slovenian internal waters and territorial sea
+
+
+### SRC-2032 — VTS Trieste Manuale Utente
+
+- Authority: Guardia Costiera, Capitaneria di Porto di Trieste (Italy).
+- URL: https://www.guardiacostiera.gov.it/portale/documents/d/guest/it_trieste_manuale_utentevts
+- Evidence class: Tier 2
+- Edition or date: Edizione n.002, Gennaio 2018 (file re-uploaded 9 September 2024; current edition on the official portal, accessed 30 September 2026)
+- Accessed: 2026-09-30
+- Locator: p. 2 Limiti Area VTS Trieste; p. 5 Schemi di separazione; Allegato 1 (PDF p. 9); Allegato 3
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "lo schema di separazione del traffico adottato con la Ris. IMO COLREG2/Circ.58 dell'11/12/2006 nella parte finale di ingresso/uscita dal porto di Monfalcone"
+- Use: VTS Trieste area limits (points A to G, westernmost 013°34.600'E); limits drawn taking account of the Monfalcone TSS; Allegato 1 chart shows the Monfalcone lanes inside the area and the Gulf of Trieste TSS outside it; text claims inclusion of the Gulf TSS (conflict)
+
+
+### SRC-2033 — Italy Venice VTS Common Procedures (Venezia VTS users' manual, English)
+
+- Authority: Guardia Costiera, Capitaneria di Porto di Venezia (Italy).
+- URL: https://www.guardiacostiera.gov.it/portale/documents/d/guest/en_venezia_manuale_utentevts
+- Evidence class: Tier 2
+- Edition or date: Edition No. 00, last updated 19/09/17 (file re-uploaded 9 September 2024; current edition on the official portal)
+- Accessed: 2026-09-30
+- Locator: p. 4 VTS area and First call; p. 9 Traffic separation scheme; Annex 3 (p. 15); Annex 4 (p. 19, Figures 13 and 14)
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "ANNEX 4 – TRAFFIC SEPARATION SCHEMES OUTSIDE VENICE V.T.S. AREA"
+- Use: Venice VTS area points A to E; Annex 3 shows local (national) TSS within the VTS area; Annex 4 is headed 'Traffic separation schemes outside Venice V.T.S. area' and shows the IMO Gulf of Venice TSS (Circ.58) there; first call 5 NM outside outer limit
+
+
+### SRC-2034 — Vessel Traffic Service (portal page with list of VTS centre manuals)
+
+- Authority: Comando Generale del Corpo delle Capitanerie di Porto, Guardia Costiera (Italy).
+- URL: https://www.guardiacostiera.gov.it/portale/vessel-traffic-service
+- Evidence class: Tier 2
+- Edition or date: Undated; accessed 30 September 2026
+- Accessed: 2026-09-30
+- Locator: Elenco dei manuali dei centri VTS
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Attualmente i Centri VTS in Italia sono 11."
+- Use: 11 Italian VTS centres currently, including Trieste and Venezia, with current manuals; no Monfalcone centre listed
+
+
+### SRC-2035 — Nadzor i upravljanje pomorskim prometom, VTS Hrvatska (supplement to Radioslužba za pomorce)
+
+- Authority: Hrvatski hidrografski institut (Croatia).
+- URL: https://www.hhi.hr/Portals/0/adam/HHI/a14_Qn4yJECeVbpwF_KLag/CouponFiles/VTS_RS_2015.pdf
+- Evidence class: Lead only
+- Edition or date: 2014/2015 (file VTS_RS_2015; notice 33-12/14)
+- Accessed: 2026-09-30
+- Locator: p. 28-1 Opis; p. 28-2 VTS područje; p. 28-9 Sektor A
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "VTS služba nadzire primjenu sustava usmjerene i odijeljene plovidbe na Jadranskom moru ... u VTS području."
+- Use: Lead: VTS Croatia area includes internal waters, territorial sea and the ZERP (Sector A); VTS monitors Circ.54/58 routeing within its area. Older than three years and does not locate individual TSS; not used for any positive link
+
+
+### SRC-2040 — Στελέχωση των Κέντρων Παρακολούθησης θαλάσσιας Κυκλοφορίας (VTS) της Χώρας
+
+- Authority: mitos.gov.gr (Hellenic Government procedures registry).
+- URL: https://mitos.gov.gr/index.php/%CE%94%CE%94:%CE%A3%CF%84%CE%B5%CE%BB%CE%AD%CF%87%CF%89%CF%83%CE%B7_%CF%84%CF%89%CE%BD_%CE%9A%CE%AD%CE%BD%CF%84%CF%81%CF%89%CE%BD_%CE%A0%CE%B1%CF%81%CE%B1%CE%BA%CE%BF%CE%BB%CE%BF%CF%8D%CE%B8%CE%B7%CF%83%CE%B7%CF%82_%CE%B8%CE%B1%CE%BB%CE%AC%CF%83%CF%83%CE%B9%CE%B1%CF%82_%CE%9A%CF%85%CE%BA%CE%BB%CE%BF%CF%86%CE%BF%CF%81%CE%AF%CE%B1%CF%82_(VTS)_%CF%84%CE%B7%CF%82_%CE%A7%CF%8E%CF%81%CE%B1%CF%82
+- Evidence class: Lead only
+- Edition or date: Last updated 02/09/2026
+- Accessed: 2026-09-30
+- Locator: Procedure description
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Κέντρων Παρακολούθησης θαλάσσιας Κυκλοφορίας (VTS) της Χώρας"
+- Use: Lead: Greek VTS centres exist under the Hellenic Coast Guard; no centre list, areas or TSS (WebFetch summary)
+
+
+### SRC-2041 — Κέντρα Διαχείρισης Θαλάσσιας Κυκλοφορίας (VTS) (contact page)
+
+- Authority: Hellenic Coast Guard (hcg.gr).
+- URL: https://www.hcg.gr/el/epikoinwnia/kentra-diaxeirishs-8alassias-kykloforias-vts/
+- Evidence class: Lead only
+- Edition or date: Not accessible: HTTP 403 on 30 September 2026 (curl, WebFetch and archive)
+- Accessed: 2026-09-30
+- Locator: n/a
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "(not opened; no quotation)"
+- Use: Lead only: first-pass audit reports this page names VTS ΠΕΙΡΑΙΑ (VHF 13, 14, 15); not reopened in this pass
+
+
+### SRC-2042 — VTS Hrvatska - WFS (feature type VTS_WFS:VTS_shp: VTS Croatia sectors)
+
+- Authority: Ministarstvo mora, prometa i infrastrukture (owner) / Hrvatski hidrografski institut (creator and server), Croatia.
+- URL: https://dservices8.arcgis.com/tDYJmhP975urQUZt/arcgis/services/VTS_WFS/WFSServer?service=wfs&version=2.0.0&request=GetFeature&typeNames=VTS_WFS:VTS_shp&outputFormat=GEOJSON
+- Evidence class: Tier 2
+- Edition or date: Dataset revision 31 March 2025 (NIPP metadata); features retrieved 30 September 2026
+- Accessed: 2026-09-30
+- Locator: Features 1 (Sektor A) and 2 (Sektor B); attributes NAME, Vrsta, IS, TOS, VHS_gl, Pozivni
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "'NAME': 'Sektor A', 'Vrsta': 'Sektor nadzora', 'IS': 'po potrebi', 'TOS': 'ne', 'VHS_gl': '10', 'Pozivni': 'VTS CROATIA'"
+- Use: Official VTS Croatia area polygons: Sektor A (surveillance, VTS CROATIA, westernmost 013.0028E) contains about 77% of TSS-0106; Sektor B contains about 46% of TSS-0108; no Croatian polygon touches TSS-0107, TSS-0109 or TSS-0110 (overlaps computed with shapely against COLREG.2/Circ.54 and Circ.58 coordinates)
+
+
+### SRC-2043 — VTS Hrvatska (register entry 1355) and VTS Hrvatska - WFS (entry 1356), with geoportal metadata ad27cd4a-29f2-4d8e-acb1-f4746a05bf7c
+
+- Authority: Nacionalna infrastruktura prostornih podataka (NIPP), Croatia.
+- URL: https://registri.nipp.hr/api/izvori/1355/pdf/
+- Evidence class: Tier 2
+- Edition or date: Register entries generated 30 September 2026; metadata revision date 31 March 2025
+- Accessed: 2026-09-30
+- Locator: Sažetak izvora; Subjekti; metadata CI_Date revision
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "VTS Hrvatska je služba nadzora i upravljanja pomorskim prometom u unutarnjim morskim vodama, teritorijalnom moru i isključivim gospodarskim pojasom Republike Hrvatske"
+- Use: Identifies the WFS as the official VTS Croatia area dataset (owner Ministry of the Sea, Transport and Infrastructure; creator HHI); VTS area covers internal waters, territorial sea and EEZ, divided into sectors; revision date 2025 for currency
+
+
+### SRC-2036 — Resolution A.338(IX) Routeing systems: Saronicos Gulf (in the approaches to Piraeus Harbour) (as amended)
+
+- Authority: IMO Assembly.
+- URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.338(9).pdf
+- Evidence class: Tier 1
+- Edition or date: Adopted 12 November 1975 (inshore traffic zone later cancelled, 1991)
+- Accessed: 2026-09-30
+- Locator: Annex p. 8
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "A separation zone, one-and-a-half miles wide, is centred upon the following geographical positions"
+- Use: TSS identity and geometry for TSS-0111 (separation zone centred on 37°40'.0N 23°44'.0E to 37°50'.0N 23°38'.0E)
+
+
+### SRC-2037 — COLREG.2/Circ.60, annex 1: New traffic separation scheme in the approaches to the Port of Thessaloniki
+
+- Authority: IMO (same compilation as SRC-2025).
+- URL: https://www.transportstyrelsen.se/globalassets/global/sjofart/dokument/sjotrafik_dok/imo_colreg.2_cirkular.pdf?id=58526
+- Evidence class: Tier 1
+- Edition or date: 2008 (MSC 85)
+- Accessed: 2026-09-30
+- Locator: PDF p. 348, annex 1
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "The routeing measures consist of a traffic separation scheme southwest of the Ak. Mikro Emvolon."
+- Use: TSS identity and geometry for TSS-0112 (south-west of Ak. Mikro Emvolon)
+
+
+### SRC-2038 — COLREG.2/Circ.51, annex 1: Off the Mediterranean coast of Egypt (Western/Eastern approaches to Mina Dumyat; Western/Eastern approaches to Bur Said)
+
+- Authority: IMO (same compilation as SRC-2025).
+- URL: https://www.transportstyrelsen.se/globalassets/global/sjofart/dokument/sjotrafik_dok/imo_colreg.2_cirkular.pdf?id=58526
+- Evidence class: Tier 1
+- Edition or date: Circular undated in extract (COLREG.2/Circ.51)
+- Accessed: 2026-09-30
+- Locator: PDF pp. 200 to 202, annex 1
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Western Approaches to Bur Said (135° - 315°) (a) A separation zone half mile wide as the following geographical positions"
+- Use: TSS identity and coordinates for TSS-0113, TSS-0114, TSS-0115
+
+
+### SRC-2039 — Rules of Navigation, December 2020 Edition (official flipbook)
+
+- Authority: Suez Canal Authority (Egypt).
+- URL: https://www.suezcanal.gov.eg/FlipPDFFiles/RulesOfNavigation/index.html
+- Evidence class: Lead only
+- Edition or date: December 2020 edition
+- Accessed: 2026-09-30
+- Locator: Art. 8 (p. 7); Art. 14 (p. 31); Chapter X SC-VTMS Overview (p. 156)
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "(1) Automatic surveillance and tracking of vessel arriving at SC approaches (15 miles faraway) until anchorage in the waiting areas."
+- Use: Lead: SC-VTMS provides surveillance and tracking of vessels arriving at SC approaches (15 miles) until anchorage; vessels contact the Port Said harbour office 15 miles before the Fairway Buoy (31°21'.32N 32°20'.81E). Does not name the TSS; older than three years; treated as lead for TSS-0115
+
+
+### SRC-2044 — Türk Boğazları Deniz Trafik Düzeni Yönetmeliği (Turkish Straits Maritime Traffic Regulation)
+
+- Authority: Republic of Türkiye, Presidency (Presidential Decision No. 1426); consolidated text on mevzuat.gov.tr.
+- URL: https://www.mevzuat.gov.tr/mevzuatmetin/21.5.1426.pdf
+- Evidence class: Tier 1
+- Edition or date: Decision 14/08/2019, Resmî Gazete 15/08/2019 No. 30859; consolidated with amendment of 16/12/2020 (RG 31336, Decision 3305); accessed 2026-09-30
+- Accessed: 2026-09-30
+- Locator: Art. 3(1)(l),(n); Art. 5; Art. 7(1)-(5); Annex 1 (EK-1.1 to EK-1.5)
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Madde 5- (1) Bakanlık/İdare, trafik ayırım düzeninin uygulanması, denetlenmesi ve rapor sisteminin işlerliği için Türk Boğazları Gemi Trafik Hizmetleri Sistemi'ni kurar. | l) TÜBRAP: Seyir Planı-1 ve 2 ile Mevkii Raporu ve Çağırma Noktası Raporunu kapsayan Türk Boğazları Rapor Sistemini"
+- Use: Establishment and statutory purpose of TBGTH (two centres, Istanbul and Çanakkale); TÜBRAP national reporting system (SP-1, SP-2, position report, calling-point report, MARRAP) and applicability; Annex 1 defines the Turkish Straits TSS including Annex 1.1 Istanbul north approach, 1.2 Istanbul Strait, 1.3 Istanbul south approach and Sea of Marmara, 1.4 Çanakkale Strait, 1.5 Çanakkale south-west approach
+
+
+### SRC-2045 — Türk Boğazları Deniz Trafik Düzeni Yönetmeliği Uygulama Yönergesi (Implementation Directive)
+
+- Authority: Ministry of Transport and Infrastructure (Ulaştırma ve Altyapı Bakanlığı), Directorate General of Maritime Affairs.
+- URL: https://denizcilik.uab.gov.tr/uploads/pages/yonerge-talimat/tbdtduy.pdf
+- Evidence class: Tier 1
+- Edition or date: Approved by Ministerial Approval No. 1493540 of 04.12.2023 (in force 01.01.2024 per lexpera metadata, SRC-2054); accessed 2026-09-30
+- Accessed: 2026-09-30
+- Locator: Art. 2(1)(u); Art. 12(1)-(2) 'Türk Boğazlarında rapor sistemi'
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "u) TBGTH: Türk Boğazları Gemi Trafik Hizmetleri'ni, | Gemilerin SP-1 Raporlarında beyan edilen Boğaz varış saatlerinde 2 saati aşacak bir gecikme olması durumunda, beyan veren ilgili bu hususu TBGTH Merkezlerine bildirir."
+- Use: Currency: TBGTH Centres and the Turkish Straits reporting system (SP-1 via the Administration's system, delay reports to TBGTH Centres) remain operative under a 2023 instrument
+
+
+### SRC-2046 — Gemi Trafik ve Kılavuzluk Hizmetleri (Turkish-language service page)
+
+- Authority: Kıyı Emniyeti Genel Müdürlüğü (Directorate General of Coastal Safety).
+- URL: https://kiyiemniyeti.gov.tr/gemi_trafik_ve_kilavuzluk_hizmeti
+- Evidence class: Tier 2
+- Edition or date: Undated web page (text refers to Mersin VTS planned for 2018); accessed 2026-09-30
+- Accessed: 2026-09-30
+- Locator: Section 'Türk Boğazları Gemi Trafik Hizmetleri (TBGTH)'
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "2008 yılında ilave edilen bileşenler ile Marmara Denizi'ndeki "Trafik Ayırım Düzenini" içerecek şekilde genişletilmiş ve Türk Boğazları'nın tamamında gemi trafiğini izleme imkanı sağlanmıştır."
+- Use: KEGM operates TBGTH; 2008 extension to include the Sea of Marmara TSS; continuous 24/7 operation; two VTS centres and 16 surveillance stations; separate İzmit, İzmir and Mersin VTS
+
+
+### SRC-2047 — The Head of Vessel Traffic and Pilotage Services Department (English service page)
+
+- Authority: Kıyı Emniyeti Genel Müdürlüğü (Directorate General of Coastal Safety).
+- URL: https://kiyiemniyeti.gov.tr/vessel_traffic_and_pilotage_services
+- Evidence class: Tier 2
+- Edition or date: Undated web page; accessed 2026-09-30
+- Accessed: 2026-09-30
+- Locator: Sections 'History of TSVTS project' and 'TSVTS components'
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "2 Vessel Traffic Services Center(İstinye - Istanbul, Akbaş - Çanakkale) ... (1 Traffic Surveillance Station in Bozcaada and 2 Traffic Surveillance Stations in Marmara Sea were included in the system on 01 July 2008.)"
+- Use: TSVTS operator, centres (İstinye, Akbaş), start of operation 30 December 2003, Marmara extension 2008, Bozcaada and Marmara surveillance stations added 1 July 2008
+
+
+### SRC-2048 — data/authoritative/IMO_2025_Mandatory_Reporting_Systems.csv
+
+- Authority: Global VTS project (derived from IMO Ships' Routeing 2025 Edition, Part I).
+- URL: repo:data/authoritative/IMO_2025_Mandatory_Reporting_Systems.csv
+- Evidence class: Tier 1
+- Edition or date: Ships' Routeing 2025 Edition baseline
+- Accessed: 2026-09-30
+- Locator: All 23 Part I rows
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30.
+- Use: No IMO Part I mandatory ship reporting system (I-I/1 to I-I/23) covers the Turkish Straits, the Black Sea, the approaches to Port Said or the Gulf of Suez; TÜBRAP is therefore a national scheme
+
+
+### SRC-2049 — Rules of Navigation, December 2020 Edition (online flip-book)
+
+- Authority: Suez Canal Authority.
+- URL: https://www.suezcanal.gov.eg/FlipPDFFiles/RulesOfNavigation/index.html
+- Evidence class: Tier 1
+- Edition or date: December 2020 edition, in effect from 1 January 2021; accessed 2026-09-30
+- Accessed: 2026-09-30
+- Locator: Art. 8 (Port Said approaches); Art. 14 (contacting Port Offices); Part III Chapter X (SC-VTMS), p. 156
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "(1) Automatic surveillance and tracking of vessel arriving at SC approaches (15 miles faraway) until anchorage in the waiting areas."
+- Use: SC-VTMS description (tracking at canal approaches about 15 miles out); Port Said arrival contact 15 miles before Fairway Buoy; Port Said east approach channel; no mention of the IMO eastern approach TSS
+
+
+### SRC-2050 — EAMS website, services page 'Ship traffic information' / 'Search and rescue system' (English text from site language file i18n/en.json)
+
+- Authority: Egyptian Authority for Maritime Safety (EAMS).
+- URL: https://www.eams.gov.eg/i18n/en.json
+- Evidence class: Tier 2
+- Edition or date: Undated; site lists Notices No. 10/2025 and 12/2025 for the Gulf of Suez; accessed 2026-09-30
+- Accessed: 2026-09-30
+- Locator: servicesPage.tabs.searchAndRescueSystem.objectiveOfTheProject; aboutPage.tabs.marineUnits.MainTasksOfTheShipAida4.lists.list4
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "the Egyptian Maritime Safety Authority established and operated a system to serve vessel traffic in the Gulf of Suez (GOS VTIM) and the entrance to the Gulf of Aqaba. This system has been operational since 2002"
+- Use: GOS VTIMS established and operated by EAMS, operational since 2002, serving vessel traffic in the Gulf of Suez and entrance to the Gulf of Aqaba; VTS stations at El-Adabiya, Ras Ghareb, Safaga, Sharm El-Sheikh
+
+
+### SRC-2051 — VTS Services: Kerch Strait VTS coverage area
+
+- Authority: FSUE Rosmorport, Azovo-Chernomorsky Basin Branch (Russian Federation operator; area disputed).
+- URL: https://www.rosmorport.com/filials/nvr_serv_nav/
+- Evidence class: Tier 2
+- Edition or date: Undated web page; cites Russian Ministry of Transport Order No. 16 of 22.01.2014; accessed 2026-09-30
+- Accessed: 2026-09-30
+- Locator: Section 2 'VTS Coverage Areas', Kerch Strait VTS
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Kerch Strait VTS includes: the VTS center in the seaport of Kavkaz, the VTS subcenter in the city of Kerch, radar engineering posts"
+- Use: Claimed Kerch Strait VTS area (Kavkaz centre, Kerch sub-centre) with southern limit 44°59.75'N between 36°27.26'E and 36°41.60'E; recorded as the claim of one party in a disputed area, not as a finding
+
+
+### SRC-2052 — INFORMATION for shipowners, agents, port operators: navigation along the approach corridor to the ports of Ukraine (Chornomorsk, Odesa, Pivdennyi)
+
+- Authority: SE Ukrainian Sea Ports Authority (USPA).
+- URL: https://www.uspa.gov.ua/en/announcements-en/information-for-shipowners-agents-port-operators
+- Evidence class: Tier 2
+- Edition or date: Published 29.07.2022; accessed 2026-09-30
+- Accessed: 2026-09-30
+- Locator: Contact block
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: ""Delta-Lotsman" branch of SE "USPA": pilot-operator of VTCP Odesa"
+- Use: Delta-Lotsman branch pilot-operator of VTCP Odesa in the wartime approach-corridor arrangements (evidence dated 2022, older than three years)
+
+
+### SRC-2053 — Proposals for amendments to TSS No 2. Approaches to the Chornomorsk, Odesa and Pivdennyi Ports
+
+- Authority: State Institution Derzhhydrography / State Service of Maritime and Inland Waterway Transport of Ukraine.
+- URL: https://hydro.gov.ua/?p=3270
+- Evidence class: Tier 2
+- Edition or date: Undated (pre-adoption proposal); accessed 2026-09-30
+- Accessed: 2026-09-30
+- Locator: Summary; Part I proposal
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "За пропозицією Служби регулювання руху суден Філії «Дельта-лоцман» ДП «АМПУ» у частині І СРР пропонується розширити смуги руху"
+- Use: TSS history (COLREG.2/Circ.14 of 22.04.1981) and that the Delta-Lotsman Vessel Traffic Service proposed lane changes; does not define a VTS area
+
+
+### SRC-2054 — Türk Boğazları Deniz Trafik Düzeni Yönetmeliği Uygulama Yönergesi: metadata
+
+- Authority: Lexpera (commercial legal database).
+- URL: https://www.lexpera.com.tr/mevzuat/yonergeler/turk-bogazlari-deniz-trafik-duzeni-yonetmeligi-uygulama-yonergesi-1
+- Evidence class: Lead only
+- Edition or date: Accessed 2026-09-30
+- Accessed: 2026-09-30
+- Locator: Document header
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Kabul Tarihi: 04.12.2023 Yürürlüğe Giriş Tarihi: 01.01.2024"
+- Use: In-force date 01.01.2024 of the Implementation Directive (metadata only)
+
+
+### SRC-2055 — Guidelines for transiting the Turkish Straits
+
+- Authority: Third-party industry guidance hosted on media.ellinikahoaxes.gr.
+- URL: https://media.ellinikahoaxes.gr/uploads/2021/03/Guidelines-Turkist-Straits.pdf
+- Evidence class: Lead only
+- Edition or date: August 2007
+- Accessed: 2026-09-30
+- Locator: p. 5 approx.
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "The service currently covers the Straits of Istanbul in four sectors, and the Strait of Çanakkale in three sectors."
+- Use: Historical lead only: TSVTS then covered the Strait of Istanbul in four sectors and the Strait of Çanakkale in three sectors
+
+
+### SRC-2056 — Türk Boğazları Deniz Trafik Düzeni Yönetmeliği: Art. 4(2) TSS limits
+
+- Authority: Republic of Türkiye, Presidency (Presidential Decision No. 1426); consolidated text on mevzuat.gov.tr.
+- URL: https://www.mevzuat.gov.tr/mevzuatmetin/21.5.1426.pdf
+- Evidence class: Tier 1
+- Edition or date: RG 15/08/2019 No. 30859, consolidated with Decision 3305 (RG 16/12/2020); accessed 2026-09-30
+- Accessed: 2026-09-30
+- Locator: Art. 4(1)-(2); Art. 5; Annex 1.1 points (1)-(9); Annex 1.5 points (92), (115)-(125)
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Madde 4 ... (2) Türk Boğazlarında uygulanacak trafik ayırım düzeni sınırları aşağıda gösterilmiştir. Kuzeyde; a) 41° 16'.330 K, 028° 54'.974 D b) 41° 20'.944 K, 028° 54'.974 D"
+- Use: Statutory outer limits of the Turkish Straits TSS (north line 41°20.944'N; south line to 39°43.940'N), which enclose Annex 1.1 and Annex 1.5; Art. 5 ties TBGTH to implementation and supervision of this TSS
+
+
+### SRC-2057 — Türk Boğazları Deniz Trafik Düzeni Yönetmeliği Uygulama Yönergesi: commencement clause
+
+- Authority: Ministry of Transport and Infrastructure.
+- URL: https://denizcilik.uab.gov.tr/uploads/pages/yonerge-talimat/tbdtduy.pdf
+- Evidence class: Tier 1
+- Edition or date: Approved 04.12.2023 (Olur No. 1493540); in force 01.01.2024; accessed 2026-09-30
+- Accessed: 2026-09-30
+- Locator: Header; Art. 8(1); Art. 23; Art. 24
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "MADDE 24- (1) Bu Yönerge 1/1/2024 tarihinde yürürlüğe girer."
+- Use: In-force date of the Directive from its own text (replaces reliance on the Lexpera metadata, SRC-2054); Art. 8 confirms TBGTH Centres act for the Administration using sensors installed in the Turkish Straits
+
+
+### SRC-2058 — NP 24 Black Sea and Sea of Azov Pilot, 1st edition, para 8.22
+
+- Authority: United Kingdom Hydrographic Office (reproduced as PCA exhibit UA-222).
+- URL: https://files.pca-cpa.org/pcadocs/ua-ru/04.%20UA%20Rejoinder%20Memorial/01.%20Exhibits/UA-222.pdf
+- Evidence class: Lead only
+- Edition or date: 2003; accessed 2026-09-30
+- Accessed: 2026-09-30
+- Locator: Para 8.22
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Recommended routes Nos 85 and 86 lead N and S ... and the S end of the traffic separation scheme (44°50′N, 36°30′E)"
+- Use: Historical position of the south end of the Kerch southern approaches TSS (44°50'N 36°30'E), south of the Rosmorport polygon limit 44°59.75'N; the TSS may since have been amended
+
+
+### SRC-2059 — EAMS website language file: services navigation, 2024/2025 key projects and Gulf of Suez warnings list
+
+- Authority: Egyptian Authority for Maritime Safety (EAMS).
+- URL: https://www.eams.gov.eg/i18n/en.json
+- Evidence class: Tier 2
+- Edition or date: HTTP Last-Modified 23 Sep 2026; accessed 2026-09-30
+- Accessed: 2026-09-30
+- Locator: servicesPage.navLinks.nav3; servicesPage.tabs.mostImportantProjects.keyProjects; servicesPage.tabs.shipTrafficInformation; navigationalWarningsPage.content.gulfOfSuez
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "The available capabilities within the Vessel Traffic Information Management System (VTIMS) are utilized to accomplish its tasks across the Gulf of Suez, the southern Gulf of Aqaba, the northern Red Sea"
+- Use: Currency of the EAMS VTS service description: services menu item 'Vessel Traffic Services (VTS)', 2024/2025 investment plan items 'Radar monitoring and control (VTS)' and 'Regulation of navigation in the Suez Gulf', Gulf of Suez warnings to 4/2026. Note: the GOS VTIMS text sits under the key 'searchAndRescueSystem' and the VTIMS gulf-wide text under 'shipTrafficInformation' (the VTS tab)
+
+
+### SRC-2066 — Pub. 172 Sailing Directions (Enroute) Red Sea and the Persian Gulf
+
+- Authority: US National Geospatial-Intelligence Agency (NGA).
+- URL: https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub172bk.pdf&type=view
+- Evidence class: Tier 3
+- Edition or date: Twenty-fourth Edition, 2025; corrected to 30 August 2025, subsequent updates to 30 July 2026
+- Accessed: 2026-09-30
+- Locator: Sector 6, para 6.5 The Strait of Tiran (printed p. 92)
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "A Vessel Traffic Service Station (call sign: VTS Gulf of Aqaba) ... has been established to provide the following services: 1. Ensure safety of navigation within the Traffic Separation Scheme of the Gulf of Aqaba."
+- Use: TSS-0126: sailing directions describe a VTS station 'VTS Gulf of Aqaba' serving the Tiran TSS; operator, centre location and area polygon not stated
+
+
+### SRC-2072 — EAMS Projects page (search-result snippet only)
+
+- Authority: Egyptian Authority for Maritime Safety (EAMS).
+- URL: https://eams.gov.eg/Projects/ProjectsEN
+- Evidence class: Lead only
+- Edition or date: Unknown; page returned HTTP 404 on 30 September 2026
+- Accessed: 2026-09-30
+- Locator: n/a
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30.
+- Use: TSS-0126: snippet suggests an Egyptian VTMS/positioning system covering the Tiran Straits; not opened, not relied on
+
+
+### SRC-2060 — VTIS External Procedures, AHQ/CD/PPA/PRO/005/R01/20
+
+- Authority: ADNOC Petroleum Ports Authority (PPA).
+- URL: https://ppa.adnoc.ae/-/media/ppa/files/forms/2020/5-ahqcdppapro005r0120---vtis-external-procedures.ashx?la=en
+- Evidence class: Tier 2
+- Edition or date: Rev. 01, effective 20 February 2020; still hosted on ppa.adnoc.ae (retrieved 30 September 2026)
+- Accessed: 2026-09-30
+- Locator: Section 1 Purpose (p. 6); 10.2 Sectors and VHF channels; 10.3 Traffic Separation Schemes; 10.8 Das/Zirku sector; 10.8.3 Zaqqum In; 10.8.4 Zaqqum Out
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "improve the safety of navigation, life, environment, and property in the PPA-VTIS Sectors i.e. the approaches to Ruwais, Das Island, the Zaqqum TSS , the approaches to Zirku and Mubarraz Terminal."
+- Use: TSS-0135: Ruwais/Das VTIS established for PPA-VTIS Sectors that expressly include the Zaqqum TSS; Zaqqum In/Out reporting points; Das/Zirku sector limits; active/passive participants
+
+
+### SRC-2061 — VTIS (Petroleum Ports VTIS Control Stations) web page
+
+- Authority: ADNOC Petroleum Ports Authority (PPA).
+- URL: https://ppa.adnoc.ae/en/ports/vtis
+- Evidence class: Tier 2
+- Edition or date: Undated web page; site footer copyright 2026; accessed 30 September 2026
+- Accessed: 2026-09-30
+- Locator: Section 'Das / Zirku Port VTIS Limits'
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Das / Zirku Port VTIS Limits The VTIS will control the traffic from fairway buoy to inner harbour terminals and berths which will be limited by the following coordinates"
+- Use: TSS-0135: current published Das/Zirku Port VTIS limits (points A to M); the Zaqqum buoy, Zaqqum East and Zaqqum West reporting points of SRC-2060 fall inside this polygon (point-in-polygon check by researcher)
+
+
+### SRC-2062 — Das Zirku and Mubarraz Ports, Part V 11 - Nautical Services
+
+- Authority: ADNOC Petroleum Ports Authority (PPA).
+- URL: https://ppa.adnoc.ae/en/ports/das-zirku-mubarraz/part-v---11
+- Evidence class: Tier 2
+- Edition or date: Undated web page; site footer copyright 2026; accessed 30 September 2026
+- Accessed: 2026-09-30
+- Locator: 11.2.1, 11.2.2, 11.3.5.2
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Das VTIS operates 24/7 on VHF channel 23, with VHF Channel 16 to be used for emergencies only. The VTIS currently operates only as an information system."
+- Use: TSS-0135: Das VTIS operates 24/7 as an information service; limits and reporting points are those of the VTIS External Procedures (SRC-2060); south pilot station for vessels approaching via the Zakkum TSS
+
+
+### SRC-2063 — Das Zirku and Mubarraz Ports, Part III 8 - Port Navigation
+
+- Authority: ADNOC Petroleum Ports Authority (PPA).
+- URL: https://ppa.adnoc.ae/en/ports/das-zirku-mubarraz/part-iii---8
+- Evidence class: Tier 2
+- Edition or date: Undated web page; site footer copyright 2026; accessed 30 September 2026
+- Accessed: 2026-09-30
+- Locator: 8.1.4 VTIS; 8.9.1 Routing
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "A VTIS station is installed in Das Port Control Room and monitors all traffic within the Port limits and established VTIS sectors."
+- Use: TSS-0135: VTIS station in Das Port Control Room monitors port limits and VTIS sectors; inbound routing uses the TSS with Das VTIS instructions
+
+
+### SRC-2064 — Port Marine Notice DZM/MN/016/2026: Mooring Buoys Deployed North of Zirku Island
+
+- Authority: ADNOC PPA, Harbour Master, Port of Das Zirku & Mubarraz.
+- URL: https://ppa.adnoc.ae/-/media/ppa/files/marine-notices/local-marine-notices/das/2026/marine-notice0162026mooring-buoys--north-of-zirku-island.ashx
+- Evidence class: Tier 2
+- Edition or date: 28 September 2026
+- Accessed: 2026-09-30
+- Locator: Caution, item c)
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Maintain a listening watch on VHF Channel 23 (Das VTIS)"
+- Use: TSS-0135: Das VTIS currently operating (currency only; notice does not concern the TSS)
+
+
+### SRC-2065 — Port Marine Notice DZM/MN/019/2023: Traffic arrangement in Zaqqum TSS during pipe laying operation by DLB 750
+
+- Authority: ADNOC PPA, Harbour Master, Port of Das Zirku & Mubarraz.
+- URL: https://ppa.adnoc.ae/-/media/ppa/files/marine-notices/local-marine-notices/das/2023/marine-notice-019-2023---pipe-laying-operation---traffic-arrangement-in-zaqqum-tss.ashx
+- Evidence class: Tier 2
+- Edition or date: 14 March 2023 (temporary; not listed in the active notices list DZM/MN/017/2026 of 28 September 2026)
+- Accessed: 2026-09-30
+- Locator: Page 2, Caution items d) and g)
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Maintain a listening watch on VHF Channel 23 (Das VTIS) all times"
+- Use: TSS-0135: historical corroboration that Das VTIS served traffic in the Zaqqum TSS (2023); not relied on for currency
+
+
+### SRC-2067 — Middle East / Strait of Hormuz (hot topic page)
+
+- Authority: International Maritime Organization.
+- URL: https://www.imo.org/en/mediacentre/hottopics/pages/middle-east-strait-of-hormuz.aspx
+- Evidence class: Tier 1
+- Edition or date: Continuously updated; latest item dated 27 September 2026; accessed 30 September 2026
+- Accessed: 2026-09-30
+- Locator: Sections 'Strait of Hormuz - shipping route' and 'Regional Contact Points: Iran'
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "The existing Traffic Separation Scheme (TSS) in the Strait of Hormuz was proposed by Iran and Oman and adopted by IMO in 1968."
+- Use: TSS-0133: Hormuz TSS proposed by Iran and Oman; Iranian regional contact given as port VTS centres (lead for Iranian port VTS, no area link to the TSS)
+
+
+### SRC-2068 — Operational FAQs - IMO Strait of Hormuz Evacuation Plan
+
+- Authority: International Maritime Organization.
+- URL: https://www.imo.org/en/mediacentre/hottopics/pages/faqs-strait-of-hormuz-evacuation-plan.aspx
+- Evidence class: Tier 1
+- Edition or date: Undated (2026, plan stated to be paused); accessed 30 September 2026
+- Accessed: 2026-09-30
+- Locator: Q20 and Q21
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "No. The TSS should not be used due to the reported presence of mines."
+- Use: TSS-0133: current IMO statement that the TSS should not be used; traffic organised through coastal-State corridors (Iran, Oman)
+
+
+### SRC-2069 — Navigation Warning Promulgation Request: Arabian Gulf, Strait of Hormuz
+
+- Authority: Oman National Hydrographic Office (navigation warning request to NAVAREA IX coordinator, hosted by IMO).
+- URL: https://wwwcdn.imo.org/localresources/en/MediaCentre/PressBriefings/Documents/Oman%20Notice%20to%20Mariners%20on%20Transit%20thru%20Hormuz.pdf
+- Evidence class: Tier 2
+- Edition or date: 23 June 2026 (temporary emergency measure)
+- Accessed: 2026-09-30
+- Locator: Paras 5, 9 and 15
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "CURRENT REPORTS INDICATE THAT THE TSS IS NOT SAFE FOR USE AT THIS TIME."
+- Use: TSS-0133: Oman states the TSS is not safe for use; temporary eastbound corridor; vessels to contact radio station A4N (a radio station, not a VTS) and report dangers to Oman Maritime Security Centre
+
+
+### SRC-2070 — JMIC Advisory Note 010-26: Strait of Hormuz Open (hosted by IMO)
+
+- Authority: Joint Maritime Information Center (JMIC).
+- URL: https://wwwcdn.imo.org/localresources/en/MediaCentre/HotTopics/Documents/JMIC%20Advisory%20Note%2001026%20SoH%20procedure.pdf
+- Evidence class: Tier 4
+- Edition or date: 20 June 2026
+- Accessed: 2026-09-30
+- Locator: Section 1
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Coordination with NCAGS is not mandatory. Ships may transit the southern route without coordination."
+- Use: TSS-0133: NCAGS coordination for Hormuz transits is voluntary (security reporting, not MRS)
+
+
+### SRC-2071 — Marine Security Bulletin 07/2026/Rev.3
+
+- Authority: Liberian International Ship & Corporate Registry (flag administration).
+- URL: https://www.liscr.com/marketing/liscr/media/liscr/online%20library/maritime/msb-07_2026_rev-3.pdf
+- Evidence class: Tier 4
+- Edition or date: 14 July 2026
+- Accessed: 2026-09-30
+- Locator: Recommendations
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "All vessels transiting the Arabian Gulf, Strait of Hormuz, Gulf of Oman and North Araiian Sea are also encouraged to report to the Information Fusion Centre – Indian Ocean Region (IFCIOR), this is a voluntary reporting measure"
+- Use: TSS-0131 to TSS-0135: voluntary security reporting (UKMTO, MSCIO VRA, IFC-IOR) for the Arabian Gulf, Strait of Hormuz, Gulf of Oman and North Arabian Sea
+
+
+### SRC-2073 — Persian Gulf Strait Authority
+
+- Authority: Wikipedia (third-party summary of press reports).
+- URL: https://en.wikipedia.org/wiki/Persian_Gulf_Strait_Authority
+- Evidence class: Lead only
+- Edition or date: Accessed 30 September 2026 (article describes events of May to June 2026)
+- Accessed: 2026-09-30
+- Locator: n/a
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30.
+- Use: TSS-0133, TSS-0134: reported Iranian transit-permit regime for the Strait of Hormuz (2026); no official Iranian notice located; not evidence of an MRS
+
+
+### SRC-2074 — Port Marine Notice DZM/MN/019/2023, attached diagram 'Zaqqum TSS - Traffic Arrangement During Pipelying Operation at East Bound Lane' (chart extract)
+
+- Authority: ADNOC Petroleum Ports Authority (PPA), Harbour Master, Port of Das Zirku & Mubarraz.
+- URL: https://ppa.adnoc.ae/-/media/ppa/files/marine-notices/local-marine-notices/das/2023/marine-notice-019-2023---pipe-laying-operation---traffic-arrangement-in-zaqqum-tss.ashx
+- Evidence class: Tier 2
+- Edition or date: 14 March 2023 (temporary notice, used only for the TSS geometry, not for currency); opened 30 September 2026
+- Accessed: 2026-09-30
+- Locator: Page 3, Phase-1 diagram
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Ensure any non-compliance by any vessel is reported to DAS VTIS immediately on Channel 23"
+- Use: TSS-0135: charted extent of the 'TSS Between Zaqqum and Umm Shaif' from Zaqqum West buoy (about 52°59.6'E) to beyond Zaqqum buoy (eastern corners about 25°07.3'N 53°25.2'E and 25°05.8'N 53°26.4'E), used for the pass 4 overlay against the VTIS polygons
+
+
+### SRC-2075 — Ports and Terminals, July 2025: Ras Tanura Port (North Pier and Sea Island) chapter
+
+- Authority: Saudi Aramco (Ports and Terminals).
+- URL: https://www.aramco.com/-/media/downloads/working-with-us/ports-and-terminals-july-2025/03--ras-tanura-port--si--np-compressed.pdf
+- Evidence class: Tier 2
+- Edition or date: July 2025 edition (PDF modified 2 July 2025)
+- Accessed: 2026-09-30
+- Locator: s.1 Harbor Boundaries; s.3 Early contact / Arrival at the Port; s.4 Arrival Directions; s.5 Vessel Traffic Management System (VTMS)
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "A mandatory Vessel Traffic Management System (VTMS) is in operation to improve navigational safety for all vessels within the Port of Ras Tanura."
+- Use: Port of Ras Tanura harbour boundary (11 points, eastern limit 50 23 E); mandatory VTMS for all vessels within the Port; VTS operator information service; IMO-approved Ras Tanura Channel separation zones; reporting to Ras Tanura Port Control at the Entry buoy
+
+
+### SRC-2076 — Ports and Terminals, July 2025: Ras Tanura Port, Juaymah LPG Terminal chapter
+
+- Authority: Saudi Aramco (Ports and Terminals).
+- URL: https://www.aramco.com/-/media/downloads/working-with-us/ports-and-terminals-july-2025/05--ras-tanura-port--juaymah-ngl-compressed.pdf
+- Evidence class: Tier 2
+- Edition or date: July 2025 edition (PDF modified 2 July 2025)
+- Accessed: 2026-09-30
+- Locator: s.3.1 VTMS; s.3.2 Traffic Rules; s.3.2.4 Arrival Channel Rules
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "The separation zones and routes shown on the charts of the Ras Tanura Channel are approved by IMO."
+- Use: Same VTMS text; traffic rules for ships using the Ras Tanura Channel TSS; reporting positions to Ras Tanura Port Control; Juaymah areas under Ras Tanura Port Control
+
+
+### SRC-2077 — Pub. 172 Sailing Directions (Enroute) Red Sea and the Persian Gulf
+
+- Authority: US National Geospatial-Intelligence Agency.
+- URL: https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub172bk.pdf&type=download
+- Evidence class: Tier 3
+- Edition or date: 24th edition, 2025
+- Accessed: 2026-09-30
+- Locator: Sector 16, paras 16.12, 16.13 (Vessel Traffic Service), 16.28, 16.33, 16.39, 16.41
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "A Vessel Traffic Management System is in operation and covers the following facilities: 1. Ad Damman. 2. Ras Tannurah (paragraph 16.15). 3. Ju Aymah Oil Terminal (paragraph 16.16)."
+- Use: Ras Tanura/Ju Aymah TSS and VTMS coverage and reporting points (16.12, 16.13); Ras al Khafji terminal VHF 16 only, IMO TSS noted (16.28); Marjan/Zuluf TSS with no traffic service (16.33); Mina al Ahmadi TSS, security zone and control tower permission on VHF 69 (16.38 to 16.41)
+
+
+### SRC-2078 — Resolution A.338(IX) Routeing systems: In the approaches to Ras Tanura and Ju'aymah (as amended)
+
+- Authority: IMO (IMCO) Assembly.
+- URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.338(9).pdf
+- Evidence class: Tier 1
+- Edition or date: Adopted 12 November 1975
+- Accessed: 2026-09-30
+- Locator: Annex p.9, Parts I to III
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "A separation zone bounded by a line connecting the following geographical positions. (1) 27°06'50" N., 50°42'00" E. (2) 27°06'06" N., 50°23'18" E."
+- Use: TSS geometry: Ras Tanura Approach separation zone from 27 06 50 N 50 42 00 E west via 27 06 06 N 50 23 18 E to the channel ending about 26 40 52 N 50 12 E; Ju'aymah arrival and departure lanes
+
+
+### SRC-2079 — Compilation of IMO COLREG.2 circulars (incl. COLREG.2/Circ.44, Circ.54, Circ.55)
+
+- Authority: IMO (compilation published by Transportstyrelsen, Sweden).
+- URL: https://www.transportstyrelsen.se/globalassets/global/sjofart/dokument/sjotrafik_dok/imo_colreg.2_cirkular.pdf?id=58526
+- Evidence class: Tier 1
+- Edition or date: Circ.44 May 1998; Circ.54 28 May 2004; Circ.55 15 December 2004
+- Accessed: 2026-09-30
+- Locator: Circ.44 annexes 1 and 9; Circ.54 annex 2; Circ.55 annex 2
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "The new traffic separation scheme for the Ra's Al Khafji approaches will consist of: Two traffic lanes and one traffic separation zone between them."
+- Use: TSS geometry for One Fathom Bank (Circ.44 annex 1, 100 43 E to 101 12 E, 02 41 N to 03 03 N), Alphard Banks and FA platform (Circ.44 annex 9), Ra's al Khafji (Circ.54 annex 2), Mina Al-Ahmadi North I, North II and South (Circ.55 annex 2); implementation 1 December 1998 for Circ.44
+
+
+### SRC-2080 — Traffic Separation Schemes: adoption reference list (ruttsystem.pdf)
+
+- Authority: Transportstyrelsen (Swedish Transport Agency).
+- URL: https://transportstyrelsen.se/globalassets/global/sjofart/dokument/sjotrafik_dok/ruttsystem.pdf
+- Evidence class: Tier 4
+- Edition or date: Undated compilation
+- Accessed: 2026-09-30
+- Locator: Indian Ocean list rows
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Off Dondra Head Colreg.2/Circ.14 1981 MSC 42 1980"
+- Use: Adoption references: Off Dondra Head COLREG.2/Circ.14 (MSC 42, 1980); Alphard Banks and FA platform COLREG.2/Circ.44 (MSC 69, 1998); Khafji Circ.54; Mina Al-Ahmadi Circ.55
+
+
+### SRC-2081 — Pub. 173 Sailing Directions (Enroute) India and the Bay of Bengal
+
+- Authority: US National Geospatial-Intelligence Agency.
+- URL: https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub173bk.pdf&type=download
+- Evidence class: Tier 3
+- Edition or date: 16th edition, 2026
+- Accessed: 2026-09-30
+- Locator: Sector 4, para 4.30
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "An IMO-adopted traffic scheme has been established off Dondra Head."
+- Use: Dondra Head TSS noted with no VTS, vessel traffic or reporting arrangement stated for Sri Lankan waters (Sector 4)
+
+
+### SRC-2082 — MEPC 80/16/3 Call for establishment of a new traffic separation scheme south of Sri Lanka
+
+- Authority: IWC, ICS, BIMCO, INTERTANKO and others (IMO submission).
+- URL: https://www.worldshipping.org/s/MEPC-80-16-3-Call-for-establishment-of-a-new-traffic-separation-scheme-south-of-Sri-Lanka-IWC-ICS-BI.pdf
+- Evidence class: Tier 4
+- Edition or date: 28 April 2023
+- Accessed: 2026-09-30
+- Locator: paras on TSS history
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "territorial waters roughly 15 nm south of the existing TSS that was first established in 1980."
+- Use: Dondra Head TSS still in force (established 1980); proposed relocation; no VTS described
+
+
+### SRC-2083 — Pub. 171 Sailing Directions (Enroute) East Africa and the South Indian Ocean
+
+- Authority: US National Geospatial-Intelligence Agency.
+- URL: https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub171bk.pdf&type=download
+- Evidence class: Tier 3
+- Edition or date: 15th edition, 2026
+- Accessed: 2026-09-30
+- Locator: Sector 1, paras 1.2 (laden tankers), 1.14 (Alphard Banks), 1.18 (Mosselbaai)
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Vessels are required to contact the harbormaster on VHF channel 16 when passing the 12-mile reporting line and the 6-mile reporting line."
+- Use: Alphard Banks: advice to laden tankers, area to avoid within 6 miles, oil development area; no VTS or reporting scheme; Mossel Bay port reporting lines are 12 and 6 mile circles centred on the harbour
+
+
+### SRC-2084 — List of valid Marine Notices
+
+- Authority: South African Maritime Safety Authority (SAMSA).
+- URL: https://www.samsa.org.za/static/media/ListofvalidMarineNotices.6ddd7af5834ec84c9bce.pdf
+- Evidence class: Tier 2
+- Edition or date: Last updated 24 January 2025
+- Accessed: 2026-09-30
+- Locator: List entry '6 of 1999'
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "6 of 1999 South African Ship reporting system (SAFREP)"
+- Use: Marine Notice 6 of 1999 'South African Ship reporting system (SAFREP)' remains on the valid list; its mandatory status, participants and area not established (notice text not opened)
+
+
+### SRC-2085 — South African Maritime and Aeronautical Search and Rescue Act 2002, Regulations: reg. 30 Ship reporting system
+
+- Authority: Acts Online (third-party reproduction of SASAR Regulations 2016).
+- URL: https://source.acts.co.za/south-african-maritime-and%20aeronautical-search-and-rescue-act-2002/r604_30__ship_reporting_sy.php
+- Evidence class: Lead only
+- Edition or date: Regulations 2016 (as reproduced)
+- Accessed: 2026-09-30
+- Locator: reg. 30
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "A ship reporting system must be established in terns of Chapter 5 of the Maritime SAR Convention"
+- Use: General SAR ship reporting system requirement; not TSS-specific; participants and area not stated in the extract
+
+
+### SRC-2086 — Resolution MSC.73(69) Mandatory ship reporting systems, Annex: STRAITREP
+
+- Authority: IMO Maritime Safety Committee.
+- URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.73(69).pdf
+- Evidence class: Tier 1
+- Edition or date: Adopted 19 May 1998 (in force 1 December 1998)
+- Accessed: 2026-09-30
+- Locator: Annex paras 2.1, 3 and appendix 3
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "The operational area of STRAITREP covers the Straits of Malacca and Singapore between longitudes 100E 40'E and 104E 23'E ... The area includes the routeing system in the Straits of Malacca and Singapore."
+- Use: STRAITREP operational area 100 40 E to 104 23 E including the routeing system; nine sectors; Klang VTS is VTS authority for Sectors 1 to 5 (Sector 1 VHF 66, Sector 2 VHF 88)
+
+
+### SRC-2087 — STRAITREP Operational Areas (maps; sectors, VHF channels and VTS authorities)
+
+- Authority: Maritime and Port Authority of Singapore.
+- URL: https://www.mpa.gov.sg/port-marine-ops/operations/vessel-traffic-information-system/operational-areas
+- Evidence class: Tier 2
+- Edition or date: Page footer 'Last Updated on 30 Sep 2026' (accessed 30 September 2026)
+- Accessed: 2026-09-30
+- Locator: Table 'Sectors, VHF channels and VTS authorities'; image 'STRAITREP-operational-area-sectors-1-to-9'
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Sector 1 VHF Channel 66 KLANG VTS Sector 2 VHF Channel 88 KLANG VTS"
+- Use: Current STRAITREP sector table naming KLANG VTS for Sectors 1 to 5; chartlet shows Sector 1 (Angsa) and Sector 2 (Jugra) covering the One Fathom Bank area at the western end of the operational area
+
+
+### SRC-2088 — Pub. 174 Sailing Directions (Enroute) Strait of Malacca and Sumatera
+
+- Authority: US National Geospatial-Intelligence Agency.
+- URL: https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub174bk.pdf&type=download
+- Evidence class: Tier 3
+- Edition or date: 16th edition, 2025
+- Accessed: 2026-09-30
+- Locator: Sector 1 regulations; Sector 2 para 2.13
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "STRAITREP, a joint Indonesia-Malaysia-Singapore mandatory ship reporting system, operates in the Strait of Malacca and Singapore Strait."
+- Use: STRAITREP operates in the Strait; One Fathom Bank TSS adopted as part of the Straits routeing system
+
+
+### SRC-2089 — Marine Notice No. 35 of 2018: The Merchant Shipping (Maritime Security) Regulations, 2004 (para 21, SAFREP)
+
+- Authority: South African Maritime Safety Authority (SAMSA).
+- URL: https://www.samsa.org.za/api/api/File/view/P5Ou7VxVqc2IpxutSORnhg==
+- Evidence class: Tier 2
+- Edition or date: 13 December 2018; on the SAMSA valid Marine Notices list of 24 January 2025
+- Accessed: 2026-09-30
+- Locator: para 21 'SAFREP', pp. 4 to 5
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "It makes use of movement reports submitted to Cape Town Radio by ships within the South African search and rescue region. Participation in the system is voluntary."
+- Use: SAFREP is a voluntary SAR ship reporting system, based on movement reports to Cape Town Radio from ships within the South African SRR; not an MRS
+
+
+### SRC-2090 — Marine Notice No. 52 of 2020: Maritime Safety Information (MSI) and Cospas-Sarsat LEOSAR services provided by Telkom SA
+
+- Authority: South African Maritime Safety Authority (SAMSA).
+- URL: https://samsa.org.za/api/api/File/view/qp1cdD44c6FniSEFv9lQ8A==
+- Evidence class: Tier 2
+- Edition or date: 16 November 2020; on the SAMSA valid list of 24 January 2025
+- Accessed: 2026-09-30
+- Locator: para 7 'SAFREP Services'
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "This service is provided by receiving and preparing messages, for onward transmission, from stations at sea via Radio Telephone and INMARSAT."
+- Use: SAFREP service still provided (message relay via radiotelephone and INMARSAT); no mandatory status stated
