@@ -1774,3 +1774,74 @@ Third-party material may identify a lead. It must not establish current operatio
 - Use (B39): The 23 IMO-adopted mandatory ship reporting systems include none for Peru, Chile or Canada (nearest: VRS-0019 GALREP, Ecuador)
 - Locator: rows VRS-0001 to VRS-0023.
 - Passage: "I-I/19,In the Galapagos Particularly Sensitive Sea Area [GALREP],...,VRS-0019"
+
+### SRC-004 — Channel VTS, Dover Strait
+
+- Authority: UK Maritime and Coastguard Agency.
+- URL: https://www.gov.uk/government/publications/dover-strait-crossings-channel-navigation-information-service/dover-strait-crossings-channel-navigation-information-service-cnis
+- Evidence class: Primary operating-authority source.
+- Updated: 1 February 2024.
+- Accessed: 30 September 2026.
+- Use: Current Channel VTS operation, joint Dover/Gris-Nez centres and CALDOVREP service area.
+
+### SRC-005 — MGN 364 (M+F) Amendment 2
+
+- Authority: UK Maritime and Coastguard Agency.
+- URL: https://www.gov.uk/government/publications/mgn-364-mf-amendment-2-navigation-safety-traffic-separation-schemes-application-of-rule-10-and-navigation-in-the-dover-strait/mgn-364-mf-amendment-2-navigation-safety-traffic-separation-schemes-application-of-rule-10-and-navigation-in-the-dover-strait
+- Evidence class: Primary national navigation guidance.
+- Accessed: 30 September 2026.
+- Use: Direct association between Dover Strait TSS, Channel VTS and CALDOVREP.
+
+
+### SRC-045 — CROSS Corsen Bilan d'activité 2024
+
+- Authority: Préfecture maritime de l'Atlantique / CROSS Corsen.
+- URL: https://www.premar-atlantique.gouv.fr/uploads/atlantique/pages/0aeb0352c8045036ca019e9377ee98fa.pdf
+- Evidence class: Primary current operational report.
+- Published: 2026.
+- Accessed: 30 September 2026.
+- Use: Defines the coastal VTS mission of Ouessant Traffic in the Ouessant TSS and records mandatory vessel reports received during 2024.
+
+### SRC-046 — CROSS Jobourg VTS designation and Casquets scope
+
+- Authority: French maritime administration / CROSS Jobourg.
+- URL: https://www.premar-manche.gouv.fr/uploads/manche/pages/docs-ocr/bilan-2014/cross_jobourg_-_bilan_operationnel_2014_janvier_2015_-2.pdf
+- Evidence class: Primary official VTS description.
+- Accessed: 30 September 2026.
+- Use: Explicitly designates CROSS Jobourg as the VTS for the Casquets TSS and adjacent coastal area and identifies its operation of the mandatory reporting system.
+
+### SRC-047 — Current CROSS Jobourg Casquets operational evidence
+
+- Authority: Préfecture maritime de la Manche et de la mer du Nord.
+- URL: https://www.premar-manche.gouv.fr/communiques-presse/operation-d-assistance-a-un-navire-en-difficulte-au-niveau-du-cap-de-la-hague
+- Evidence class: Primary current operational source.
+- Published: 9 January 2026.
+- Accessed: 30 September 2026.
+- Use: Confirms CROSS Jobourg continues active radar/traffic monitoring of commercial vessels in the Casquets routeing area.
+
+### SRC-048 — PLA Tide Booklet 2026
+
+- Authority: Port of London Authority.
+- URL: https://pla.co.uk/sites/default/files/2025-12/PLA-Tide-Booklet-2026.pdf
+- Evidence class: Primary port-authority navigational publication.
+- Edition: 2026.
+- Accessed: 30 September 2026.
+- Use: States that Sunk VTS covers the Sunk Inner Precautionary Area and TSS and is run by the MCA from CNIS Dover.
+
+### SRC-049 — MCA Sea Link response, April 2026
+
+- Authority: UK Maritime and Coastguard Agency.
+- URL: https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN020026-003122-MCA%20Sea%20Link%20Deadline%206%20response%20Cover%20Letter.pdf
+- Evidence class: Primary current authority submission.
+- Date: 13 April 2026.
+- Accessed: 30 September 2026.
+- Use: Confirms MCA is the National Competent Authority for Sunk VTS and HM Coastguard is responsible for day-to-day operation.
+
+### SRC-050 — VTS-Scheldt VHF Procedures, version 7.3
+
+- Authority: VTS-Scheldt / Common Nautical Management.
+- URL: https://www.vts-scheldt.net/download/d72c012e-266f-4fe4-8412-640b6485834e?dl=0
+- Evidence class: Primary operational VTS publication.
+- Edition: July 2025.
+- Accessed: 30 September 2026.
+- Use: Current VHF-sector limits in the Scheldt approaches. Used to test, but not assert, a West Hinder TSS-to-VTS relationship.
