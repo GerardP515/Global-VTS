@@ -207,3 +207,12 @@ Third-party material may identify a lead. It must not establish current operatio
 - Evidence class: Primary/current regulatory source.
 - Accessed: 29 September 2026.
 - Use: Current Kieler Förde reporting requirements. Assigns VTS Centre Travemünde / Kiel Traffic on VHF 67 and requires reports before and when passing Kiel Lighthouse.
+
+### SRC-041 — Sjöfartsverket VTS Göteborg boundary
+
+- Authority: Swedish Maritime Administration (Sjöfartsverket).
+- URL: https://www.sjofartsverket.se/en/services/pilotage/pilot-area-gothenburg/nautical-information/communication/
+- Evidence class: Primary operating-authority source.
+- Accessed: 30 September 2026.
+- Use: Current Göteborg VTS boundary. Southern boundary is latitude 57°31.9'N on 30 September 2026; this confirms TSS Fladen, around 57°13'N–57°15'N, lies outside the VTS area.
+- Note: A published boundary amendment takes effect 1 October 2026, moving the southern limit to about 57°30.6'N. This does not affect the Fladen conclusion.
