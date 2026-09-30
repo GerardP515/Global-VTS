@@ -2296,3 +2296,159 @@ Off Cape S. Vicente"
 - Locator: Section on traffic separation schemes; annex 4
 - Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Even if not inside Venice VTS Area, vessels are bound to report the North Adriatic Traffic Separation Scheme"
 - Use: The North Adriatic TSS lies outside the Venice VTS area.
+
+
+### SRC-2027 — COLREG.2/Circ.58, annex 6: Approaches to Gulf of Venice (amended)
+
+- Authority: IMO (same compilation).
+- URL: https://www.transportstyrelsen.se/globalassets/global/sjofart/dokument/sjotrafik_dok/imo_colreg.2_cirkular.pdf?id=58526
+- Evidence class: Tier 1
+- Edition or date: 11 December 2006 (implemented 1 July 2007)
+- Accessed: 2026-09-30
+- Locator: PDF pp. 315 to 316 (Circ.58 annex 6, paras 14 to 16)
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "The separation zone in the approaches to Gulf of Venice is amended with the establishments of a new scheme consisting of two new separation schemes connected by a precautionary area"
+- Use: Current geometry of the Approaches to Gulf of Venice TSS (northern and southern parts); northern ends at 45°14'.30N 012°34'.00E, 45°12'.00N 012°31'.50E, lane limits 45°15'.70N 012°35'.70E and 45°10'.30N 012°29'.50E
+
+
+### SRC-2028 — Resolution MSC.598(111), Mandatory ship reporting system "In the Adriatic Sea" (ADRIREP)
+
+- Authority: IMO Maritime Safety Committee.
+- URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.598(111).pdf
+- Evidence class: Tier 1
+- Edition or date: Adopted 22 May 2026; implemented 0000 UTC 1 December 2026; revokes annex 2 to MSC.139(76) from that date
+- Accessed: 2026-09-30
+- Locator: Operative para 4; annex para 2.1; para 7 (shore-based facilities)
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "The operational area of the mandatory ship reporting system covers the whole Adriatic Sea, north from the latitude 40° 25'.00 N"
+- Use: ADRIREP area covers the whole Adriatic north of 40°25'N (all five B22 TSS lie inside); VTS Venezia, VTS Trieste, VTS Croatia, MRCC Koper named as shore-based authorities; continuity of ADRIREP after 30 November 2026
+
+
+### SRC-2029 — Koper VTS User's Manual
+
+- Authority: Uprava Republike Slovenije za pomorstvo (Slovenian Maritime Administration).
+- URL: https://www.gov.si/assets/organi-v-sestavi/URSP/Dokumenti/VTS/Koper-VTS-Users-Manual.pdf
+- Evidence class: Tier 2
+- Edition or date: Version 1, 30 November 2025 (PDF created 9 April 2026)
+- Accessed: 2026-09-30
+- Locator: Section 3 VTS area and Photo 1 (p. 5); section 4 (p. 6); section 7.1 (pp. 14 to 15)
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Koper VTS area covers the internal waters and territorial sea of the Republic of Slovenia."
+- Use: Koper VTS area = Slovenian internal waters and territorial sea; Photo 1 (VTS area chart) shows the whole Approaches to/from Koper TSS and the south-eastern part of the In the Gulf of Trieste TSS inside the shaded VTS area; section 7.1 reproduces both TSS and requires lane use within the VTS area; participation 300 GT+
+
+
+### SRC-2030 — Koper VTS (Vessel Traffic Service) service page
+
+- Authority: Government of the Republic of Slovenia (gov.si), Slovenian Maritime Administration.
+- URL: https://www.gov.si/en/registries/services/koper-vts/
+- Evidence class: Tier 2
+- Edition or date: Last edited 15 April 2026
+- Accessed: 2026-09-30
+- Locator: VTS Operations and Objectives
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "This includes the management of the Traffic Separation Scheme (TSS), coordination of traffic flow in relation to vessel arrivals and departures schedule, and oversight of anchoring areas."
+- Use: Koper VTS operational; monitoring and management includes management of the TSS; area Slovenian inland and territorial waters
+
+
+### SRC-2031 — Storitve VTS zagotovljene z današnjim dnem (news item)
+
+- Authority: Government of the Republic of Slovenia (gov.si).
+- URL: https://www.gov.si/novice/2026-01-06-storitve-vts-zagotovljene-z-danasnjim-dnem/
+- Evidence class: Tier 2
+- Edition or date: 6 January 2026
+- Accessed: 2026-09-30
+- Locator: News text
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Služba VTS zagotavlja storitve VTS od 6. januarja 2026 dalje"
+- Use: Koper VTS services started 6 January 2026, operated by the Maritime Administration in Slovenian internal waters and territorial sea
+
+
+### SRC-2032 — VTS Trieste Manuale Utente
+
+- Authority: Guardia Costiera, Capitaneria di Porto di Trieste (Italy).
+- URL: https://www.guardiacostiera.gov.it/portale/documents/d/guest/it_trieste_manuale_utentevts
+- Evidence class: Tier 2
+- Edition or date: Edizione n.002, Gennaio 2018 (file re-uploaded 9 September 2024; current edition on the official portal, accessed 30 September 2026)
+- Accessed: 2026-09-30
+- Locator: p. 2 Limiti Area VTS Trieste; p. 5 Schemi di separazione; Allegato 1 (PDF p. 9); Allegato 3
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "lo schema di separazione del traffico adottato con la Ris. IMO COLREG2/Circ.58 dell'11/12/2006 nella parte finale di ingresso/uscita dal porto di Monfalcone"
+- Use: VTS Trieste area limits (points A to G, westernmost 013°34.600'E); limits drawn taking account of the Monfalcone TSS; Allegato 1 chart shows the Monfalcone lanes inside the area and the Gulf of Trieste TSS outside it; text claims inclusion of the Gulf TSS (conflict)
+
+
+### SRC-2033 — Italy Venice VTS Common Procedures (Venezia VTS users' manual, English)
+
+- Authority: Guardia Costiera, Capitaneria di Porto di Venezia (Italy).
+- URL: https://www.guardiacostiera.gov.it/portale/documents/d/guest/en_venezia_manuale_utentevts
+- Evidence class: Tier 2
+- Edition or date: Edition No. 00, last updated 19/09/17 (file re-uploaded 9 September 2024; current edition on the official portal)
+- Accessed: 2026-09-30
+- Locator: p. 4 VTS area and First call; p. 9 Traffic separation scheme; Annex 3 (p. 15); Annex 4 (p. 19, Figures 13 and 14)
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "ANNEX 4 – TRAFFIC SEPARATION SCHEMES OUTSIDE VENICE V.T.S. AREA"
+- Use: Venice VTS area points A to E; Annex 3 shows local (national) TSS within the VTS area; Annex 4 is headed 'Traffic separation schemes outside Venice V.T.S. area' and shows the IMO Gulf of Venice TSS (Circ.58) there; first call 5 NM outside outer limit
+
+
+### SRC-2034 — Vessel Traffic Service (portal page with list of VTS centre manuals)
+
+- Authority: Comando Generale del Corpo delle Capitanerie di Porto, Guardia Costiera (Italy).
+- URL: https://www.guardiacostiera.gov.it/portale/vessel-traffic-service
+- Evidence class: Tier 2
+- Edition or date: Undated; accessed 30 September 2026
+- Accessed: 2026-09-30
+- Locator: Elenco dei manuali dei centri VTS
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Attualmente i Centri VTS in Italia sono 11."
+- Use: 11 Italian VTS centres currently, including Trieste and Venezia, with current manuals; no Monfalcone centre listed
+
+
+### SRC-2035 — Nadzor i upravljanje pomorskim prometom, VTS Hrvatska (supplement to Radioslužba za pomorce)
+
+- Authority: Hrvatski hidrografski institut (Croatia).
+- URL: https://www.hhi.hr/Portals/0/adam/HHI/a14_Qn4yJECeVbpwF_KLag/CouponFiles/VTS_RS_2015.pdf
+- Evidence class: Lead only
+- Edition or date: 2014/2015 (file VTS_RS_2015; notice 33-12/14)
+- Accessed: 2026-09-30
+- Locator: p. 28-1 Opis; p. 28-2 VTS područje; p. 28-9 Sektor A
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "VTS služba nadzire primjenu sustava usmjerene i odijeljene plovidbe na Jadranskom moru ... u VTS području."
+- Use: Lead: VTS Croatia area includes internal waters, territorial sea and the ZERP (Sector A); VTS monitors Circ.54/58 routeing within its area. Older than three years and does not locate individual TSS; not used for any positive link
+
+
+### SRC-2040 — Στελέχωση των Κέντρων Παρακολούθησης θαλάσσιας Κυκλοφορίας (VTS) της Χώρας
+
+- Authority: mitos.gov.gr (Hellenic Government procedures registry).
+- URL: https://mitos.gov.gr/index.php/%CE%94%CE%94:%CE%A3%CF%84%CE%B5%CE%BB%CE%AD%CF%87%CF%89%CF%83%CE%B7_%CF%84%CF%89%CE%BD_%CE%9A%CE%AD%CE%BD%CF%84%CF%81%CF%89%CE%BD_%CE%A0%CE%B1%CF%81%CE%B1%CE%BA%CE%BF%CE%BB%CE%BF%CF%8D%CE%B8%CE%B7%CF%83%CE%B7%CF%82_%CE%B8%CE%B1%CE%BB%CE%AC%CF%83%CF%83%CE%B9%CE%B1%CF%82_%CE%9A%CF%85%CE%BA%CE%BB%CE%BF%CF%86%CE%BF%CF%81%CE%AF%CE%B1%CF%82_(VTS)_%CF%84%CE%B7%CF%82_%CE%A7%CF%8E%CF%81%CE%B1%CF%82
+- Evidence class: Lead only
+- Edition or date: Last updated 02/09/2026
+- Accessed: 2026-09-30
+- Locator: Procedure description
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Κέντρων Παρακολούθησης θαλάσσιας Κυκλοφορίας (VTS) της Χώρας"
+- Use: Lead: Greek VTS centres exist under the Hellenic Coast Guard; no centre list, areas or TSS (WebFetch summary)
+
+
+### SRC-2041 — Κέντρα Διαχείρισης Θαλάσσιας Κυκλοφορίας (VTS) (contact page)
+
+- Authority: Hellenic Coast Guard (hcg.gr).
+- URL: https://www.hcg.gr/el/epikoinwnia/kentra-diaxeirishs-8alassias-kykloforias-vts/
+- Evidence class: Lead only
+- Edition or date: Not accessible: HTTP 403 on 30 September 2026 (curl, WebFetch and archive)
+- Accessed: 2026-09-30
+- Locator: n/a
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "(not opened; no quotation)"
+- Use: Lead only: first-pass audit reports this page names VTS ΠΕΙΡΑΙΑ (VHF 13, 14, 15); not reopened in this pass
+
+
+### SRC-2042 — VTS Hrvatska - WFS (feature type VTS_WFS:VTS_shp: VTS Croatia sectors)
+
+- Authority: Ministarstvo mora, prometa i infrastrukture (owner) / Hrvatski hidrografski institut (creator and server), Croatia.
+- URL: https://dservices8.arcgis.com/tDYJmhP975urQUZt/arcgis/services/VTS_WFS/WFSServer?service=wfs&version=2.0.0&request=GetFeature&typeNames=VTS_WFS:VTS_shp&outputFormat=GEOJSON
+- Evidence class: Tier 2
+- Edition or date: Dataset revision 31 March 2025 (NIPP metadata); features retrieved 30 September 2026
+- Accessed: 2026-09-30
+- Locator: Features 1 (Sektor A) and 2 (Sektor B); attributes NAME, Vrsta, IS, TOS, VHS_gl, Pozivni
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "'NAME': 'Sektor A', 'Vrsta': 'Sektor nadzora', 'IS': 'po potrebi', 'TOS': 'ne', 'VHS_gl': '10', 'Pozivni': 'VTS CROATIA'"
+- Use: Official VTS Croatia area polygons: Sektor A (surveillance, VTS CROATIA, westernmost 013.0028E) contains about 77% of TSS-0106; Sektor B contains about 46% of TSS-0108; no Croatian polygon touches TSS-0107, TSS-0109 or TSS-0110 (overlaps computed with shapely against COLREG.2/Circ.54 and Circ.58 coordinates)
+
+
+### SRC-2043 — VTS Hrvatska (register entry 1355) and VTS Hrvatska - WFS (entry 1356), with geoportal metadata ad27cd4a-29f2-4d8e-acb1-f4746a05bf7c
+
+- Authority: Nacionalna infrastruktura prostornih podataka (NIPP), Croatia.
+- URL: https://registri.nipp.hr/api/izvori/1355/pdf/
+- Evidence class: Tier 2
+- Edition or date: Register entries generated 30 September 2026; metadata revision date 31 March 2025
+- Accessed: 2026-09-30
+- Locator: Sažetak izvora; Subjekti; metadata CI_Date revision
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "VTS Hrvatska je služba nadzora i upravljanja pomorskim prometom u unutarnjim morskim vodama, teritorijalnom moru i isključivim gospodarskim pojasom Republike Hrvatske"
+- Use: Identifies the WFS as the official VTS Croatia area dataset (owner Ministry of the Sea, Transport and Infrastructure; creator HHI); VTS area covers internal waters, territorial sea and EEZ, divided into sectors; revision date 2025 for currency
