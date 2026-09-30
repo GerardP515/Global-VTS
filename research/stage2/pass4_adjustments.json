@@ -2,98 +2,374 @@
  "records": {
   "TSS-0066": {
    "evidence_summary": "IMO B-II/19 'Off the coast of Norway' component, part of the former 2007 'Vardø to Røst' system (consolidated 1 June 2021, R-S10). Inside BARENTS SRS (VRS-0009): Kystverket states the Vardø to Røst TSS are within its operational area and the Kystverket TSS polygons fall inside the MSC.348(91) boundary. Ships of 5,000 GT and above, all tankers, hazardous cargo ships etc. report to Vardø VTS centre. No statutory VTS area covers the TSS; NOR VTS monitors routeing-measure traffic as an information service outside VTS areas. Pass 4: the Regulation on vessels' notification obligations (21 Dec 2015 no. 1790) confirms the only transit reporting duty is Barents SRS (chapter 7), southern limit 67 10 N.",
-   "_reason": "Pass 4 (decision flagged).",
-   "unresolved_issue": "Project rule needed: NOR VTS (Vardø) monitors routeing measures outside the statutory VTS areas; if that counts as VTS coverage, all 19 Norwegian TSS move up one class."
+   "_reason": "Project decision 1 (user, 30 Sep 2026): NOR VTS monitoring of the offshore routeing measures counts as VTS coverage.",
+   "unresolved_issue": "Coverage rests on a project rule (decision 1): NOR VTS provides an information and monitoring service for the TSS, not a statutory VTS area; participation is not compulsory.",
+   "association_status": "VTS + MRS",
+   "vts_name": "NOR VTS (Vardø VTS centre)",
+   "vts_authority": "Norwegian Coastal Administration (Kystverket)",
+   "vts_centre": "Vardø",
+   "vts_sector": "Information service and monitoring for routeing measures outside the statutory VTS areas",
+   "vts_coverage": "full",
+   "vts_boundary_basis": "Project decision 1 (user, 30 Sep 2026): shore monitoring of a TSS by a VTS centre outside a statutory VTS area counts as VTS coverage. Kystverket lists NOR VTS (Vardø) as the 'Information service for Barents SRS and routing schemes (TSS) in Norway' and states the centre 'monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast'. The TSS is not inside any statutory VTS area under the Maritime Traffic Regulations s.6.",
+   "vts_source_ids": [
+    "R-S7",
+    "R-S8",
+    "R-S3",
+    "R-S4"
+   ],
+   "vts_leads": ""
   },
   "TSS-0067": {
    "evidence_summary": "IMO B-II/19 'Off the coast of Norway' component, part of the former 2007 'Vardø to Røst' system (consolidated 1 June 2021, R-S10). Inside BARENTS SRS (VRS-0009): Kystverket states the Vardø to Røst TSS are within its operational area and the Kystverket TSS polygons fall inside the MSC.348(91) boundary. Ships of 5,000 GT and above, all tankers, hazardous cargo ships etc. report to Vardø VTS centre. No statutory VTS area covers the TSS; NOR VTS monitors routeing-measure traffic as an information service outside VTS areas. Pass 4: the Regulation on vessels' notification obligations (21 Dec 2015 no. 1790) confirms the only transit reporting duty is Barents SRS (chapter 7), southern limit 67 10 N.",
-   "_reason": "Pass 4 (decision flagged).",
-   "unresolved_issue": "Project rule needed: NOR VTS (Vardø) monitors routeing measures outside the statutory VTS areas; if that counts as VTS coverage, all 19 Norwegian TSS move up one class."
+   "_reason": "Project decision 1 (user, 30 Sep 2026): NOR VTS monitoring of the offshore routeing measures counts as VTS coverage.",
+   "unresolved_issue": "Coverage rests on a project rule (decision 1): NOR VTS provides an information and monitoring service for the TSS, not a statutory VTS area; participation is not compulsory.",
+   "association_status": "VTS + MRS",
+   "vts_name": "NOR VTS (Vardø VTS centre)",
+   "vts_authority": "Norwegian Coastal Administration (Kystverket)",
+   "vts_centre": "Vardø",
+   "vts_sector": "Information service and monitoring for routeing measures outside the statutory VTS areas",
+   "vts_coverage": "full",
+   "vts_boundary_basis": "Project decision 1 (user, 30 Sep 2026): shore monitoring of a TSS by a VTS centre outside a statutory VTS area counts as VTS coverage. Kystverket lists NOR VTS (Vardø) as the 'Information service for Barents SRS and routing schemes (TSS) in Norway' and states the centre 'monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast'. The TSS is not inside any statutory VTS area under the Maritime Traffic Regulations s.6.",
+   "vts_source_ids": [
+    "R-S7",
+    "R-S8",
+    "R-S3",
+    "R-S4"
+   ],
+   "vts_leads": ""
   },
   "TSS-0068": {
    "evidence_summary": "IMO B-II/19 'Off the coast of Norway' component, part of the former 2007 'Vardø to Røst' system (consolidated 1 June 2021, R-S10). Inside BARENTS SRS (VRS-0009): Kystverket states the Vardø to Røst TSS are within its operational area and the Kystverket TSS polygons fall inside the MSC.348(91) boundary. Ships of 5,000 GT and above, all tankers, hazardous cargo ships etc. report to Vardø VTS centre. No statutory VTS area covers the TSS; NOR VTS monitors routeing-measure traffic as an information service outside VTS areas. Pass 4: the Regulation on vessels' notification obligations (21 Dec 2015 no. 1790) confirms the only transit reporting duty is Barents SRS (chapter 7), southern limit 67 10 N.",
-   "_reason": "Pass 4 (decision flagged).",
-   "unresolved_issue": "Project rule needed: NOR VTS (Vardø) monitors routeing measures outside the statutory VTS areas; if that counts as VTS coverage, all 19 Norwegian TSS move up one class."
+   "_reason": "Project decision 1 (user, 30 Sep 2026): NOR VTS monitoring of the offshore routeing measures counts as VTS coverage.",
+   "unresolved_issue": "Coverage rests on a project rule (decision 1): NOR VTS provides an information and monitoring service for the TSS, not a statutory VTS area; participation is not compulsory.",
+   "association_status": "VTS + MRS",
+   "vts_name": "NOR VTS (Vardø VTS centre)",
+   "vts_authority": "Norwegian Coastal Administration (Kystverket)",
+   "vts_centre": "Vardø",
+   "vts_sector": "Information service and monitoring for routeing measures outside the statutory VTS areas",
+   "vts_coverage": "full",
+   "vts_boundary_basis": "Project decision 1 (user, 30 Sep 2026): shore monitoring of a TSS by a VTS centre outside a statutory VTS area counts as VTS coverage. Kystverket lists NOR VTS (Vardø) as the 'Information service for Barents SRS and routing schemes (TSS) in Norway' and states the centre 'monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast'. The TSS is not inside any statutory VTS area under the Maritime Traffic Regulations s.6.",
+   "vts_source_ids": [
+    "R-S7",
+    "R-S8",
+    "R-S3",
+    "R-S4"
+   ],
+   "vts_leads": ""
   },
   "TSS-0069": {
    "evidence_summary": "IMO B-II/19 'Off the coast of Norway' component, part of the former 2007 'Vardø to Røst' system (consolidated 1 June 2021, R-S10). Inside BARENTS SRS (VRS-0009): Kystverket states the Vardø to Røst TSS are within its operational area and the Kystverket TSS polygons fall inside the MSC.348(91) boundary. Ships of 5,000 GT and above, all tankers, hazardous cargo ships etc. report to Vardø VTS centre. No statutory VTS area covers the TSS; NOR VTS monitors routeing-measure traffic as an information service outside VTS areas. Pass 4: the Regulation on vessels' notification obligations (21 Dec 2015 no. 1790) confirms the only transit reporting duty is Barents SRS (chapter 7), southern limit 67 10 N.",
-   "_reason": "Pass 4 (decision flagged).",
-   "unresolved_issue": "Project rule needed: NOR VTS (Vardø) monitors routeing measures outside the statutory VTS areas; if that counts as VTS coverage, all 19 Norwegian TSS move up one class."
+   "_reason": "Project decision 1 (user, 30 Sep 2026): NOR VTS monitoring of the offshore routeing measures counts as VTS coverage.",
+   "unresolved_issue": "Coverage rests on a project rule (decision 1): NOR VTS provides an information and monitoring service for the TSS, not a statutory VTS area; participation is not compulsory.",
+   "association_status": "VTS + MRS",
+   "vts_name": "NOR VTS (Vardø VTS centre)",
+   "vts_authority": "Norwegian Coastal Administration (Kystverket)",
+   "vts_centre": "Vardø",
+   "vts_sector": "Information service and monitoring for routeing measures outside the statutory VTS areas",
+   "vts_coverage": "full",
+   "vts_boundary_basis": "Project decision 1 (user, 30 Sep 2026): shore monitoring of a TSS by a VTS centre outside a statutory VTS area counts as VTS coverage. Kystverket lists NOR VTS (Vardø) as the 'Information service for Barents SRS and routing schemes (TSS) in Norway' and states the centre 'monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast'. The TSS is not inside any statutory VTS area under the Maritime Traffic Regulations s.6.",
+   "vts_source_ids": [
+    "R-S7",
+    "R-S8",
+    "R-S3",
+    "R-S4"
+   ],
+   "vts_leads": ""
   },
   "TSS-0070": {
    "evidence_summary": "IMO B-II/19 'Off the coast of Norway' component, part of the former 2007 'Vardø to Røst' system (consolidated 1 June 2021, R-S10). Inside BARENTS SRS (VRS-0009): Kystverket states the Vardø to Røst TSS are within its operational area and the Kystverket TSS polygons fall inside the MSC.348(91) boundary. Ships of 5,000 GT and above, all tankers, hazardous cargo ships etc. report to Vardø VTS centre. No statutory VTS area covers the TSS; NOR VTS monitors routeing-measure traffic as an information service outside VTS areas. Pass 4: the Regulation on vessels' notification obligations (21 Dec 2015 no. 1790) confirms the only transit reporting duty is Barents SRS (chapter 7), southern limit 67 10 N.",
-   "_reason": "Pass 4 (decision flagged).",
-   "unresolved_issue": "Project rule needed: NOR VTS (Vardø) monitors routeing measures outside the statutory VTS areas; if that counts as VTS coverage, all 19 Norwegian TSS move up one class."
+   "_reason": "Project decision 1 (user, 30 Sep 2026): NOR VTS monitoring of the offshore routeing measures counts as VTS coverage.",
+   "unresolved_issue": "Coverage rests on a project rule (decision 1): NOR VTS provides an information and monitoring service for the TSS, not a statutory VTS area; participation is not compulsory.",
+   "association_status": "VTS + MRS",
+   "vts_name": "NOR VTS (Vardø VTS centre)",
+   "vts_authority": "Norwegian Coastal Administration (Kystverket)",
+   "vts_centre": "Vardø",
+   "vts_sector": "Information service and monitoring for routeing measures outside the statutory VTS areas",
+   "vts_coverage": "full",
+   "vts_boundary_basis": "Project decision 1 (user, 30 Sep 2026): shore monitoring of a TSS by a VTS centre outside a statutory VTS area counts as VTS coverage. Kystverket lists NOR VTS (Vardø) as the 'Information service for Barents SRS and routing schemes (TSS) in Norway' and states the centre 'monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast'. The TSS is not inside any statutory VTS area under the Maritime Traffic Regulations s.6.",
+   "vts_source_ids": [
+    "R-S7",
+    "R-S8",
+    "R-S3",
+    "R-S4"
+   ],
+   "vts_leads": ""
   },
   "TSS-0071": {
    "evidence_summary": "IMO B-II/19 'Off the coast of Norway' component, part of the former 2007 'Vardø to Røst' system (consolidated 1 June 2021, R-S10). Inside BARENTS SRS (VRS-0009): Kystverket states the Vardø to Røst TSS are within its operational area and the Kystverket TSS polygons fall inside the MSC.348(91) boundary. Ships of 5,000 GT and above, all tankers, hazardous cargo ships etc. report to Vardø VTS centre. No statutory VTS area covers the TSS; NOR VTS monitors routeing-measure traffic as an information service outside VTS areas. Pass 4: the Regulation on vessels' notification obligations (21 Dec 2015 no. 1790) confirms the only transit reporting duty is Barents SRS (chapter 7), southern limit 67 10 N.",
-   "_reason": "Pass 4 (decision flagged).",
-   "unresolved_issue": "Project rule needed: NOR VTS (Vardø) monitors routeing measures outside the statutory VTS areas; if that counts as VTS coverage, all 19 Norwegian TSS move up one class."
+   "_reason": "Project decision 1 (user, 30 Sep 2026): NOR VTS monitoring of the offshore routeing measures counts as VTS coverage.",
+   "unresolved_issue": "Coverage rests on a project rule (decision 1): NOR VTS provides an information and monitoring service for the TSS, not a statutory VTS area; participation is not compulsory.",
+   "association_status": "VTS + MRS",
+   "vts_name": "NOR VTS (Vardø VTS centre)",
+   "vts_authority": "Norwegian Coastal Administration (Kystverket)",
+   "vts_centre": "Vardø",
+   "vts_sector": "Information service and monitoring for routeing measures outside the statutory VTS areas",
+   "vts_coverage": "full",
+   "vts_boundary_basis": "Project decision 1 (user, 30 Sep 2026): shore monitoring of a TSS by a VTS centre outside a statutory VTS area counts as VTS coverage. Kystverket lists NOR VTS (Vardø) as the 'Information service for Barents SRS and routing schemes (TSS) in Norway' and states the centre 'monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast'. The TSS is not inside any statutory VTS area under the Maritime Traffic Regulations s.6.",
+   "vts_source_ids": [
+    "R-S7",
+    "R-S8",
+    "R-S3",
+    "R-S4"
+   ],
+   "vts_leads": ""
   },
   "TSS-0072": {
    "evidence_summary": "IMO B-II/19 'Off the coast of Norway' component, part of the former 2007 'Vardø to Røst' system (consolidated 1 June 2021, R-S10). Inside BARENTS SRS (VRS-0009): Kystverket states the Vardø to Røst TSS are within its operational area and the Kystverket TSS polygons fall inside the MSC.348(91) boundary. Ships of 5,000 GT and above, all tankers, hazardous cargo ships etc. report to Vardø VTS centre. No statutory VTS area covers the TSS; NOR VTS monitors routeing-measure traffic as an information service outside VTS areas. Both Røst clusters (northern 68°01'N to 68°16'N; southern 67°29'N to 67°40'N) are inside the Barents SRS boundary. Pass 4: the Regulation on vessels' notification obligations (21 Dec 2015 no. 1790) confirms the only transit reporting duty is Barents SRS (chapter 7), southern limit 67 10 N.",
-   "_reason": "Pass 4 (decision flagged).",
-   "unresolved_issue": "Kystverket WFS does not label which of the two Røst clusters is IMO 'Off Røst (1)' and which is '(2)'. Both clusters are inside BARENTS SRS (minimum margins about 10.8 nm and 20.6 nm), so classification is unaffected; only the position mapping is unconfirmed. Project rule needed: NOR VTS (Vardø) monitors routeing measures outside the statutory VTS areas; if that counts as VTS coverage, all 19 Norwegian TSS move up one class."
+   "_reason": "Project decision 1 (user, 30 Sep 2026): NOR VTS monitoring of the offshore routeing measures counts as VTS coverage.",
+   "unresolved_issue": "Coverage rests on a project rule (decision 1): NOR VTS provides an information and monitoring service for the TSS, not a statutory VTS area; participation is not compulsory.",
+   "association_status": "VTS + MRS",
+   "vts_name": "NOR VTS (Vardø VTS centre)",
+   "vts_authority": "Norwegian Coastal Administration (Kystverket)",
+   "vts_centre": "Vardø",
+   "vts_sector": "Information service and monitoring for routeing measures outside the statutory VTS areas",
+   "vts_coverage": "full",
+   "vts_boundary_basis": "Project decision 1 (user, 30 Sep 2026): shore monitoring of a TSS by a VTS centre outside a statutory VTS area counts as VTS coverage. Kystverket lists NOR VTS (Vardø) as the 'Information service for Barents SRS and routing schemes (TSS) in Norway' and states the centre 'monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast'. The TSS is not inside any statutory VTS area under the Maritime Traffic Regulations s.6.",
+   "vts_source_ids": [
+    "R-S7",
+    "R-S8",
+    "R-S3",
+    "R-S4"
+   ],
+   "vts_leads": ""
   },
   "TSS-0073": {
    "evidence_summary": "IMO B-II/19 'Off the coast of Norway' component, part of the former 2007 'Vardø to Røst' system (consolidated 1 June 2021, R-S10). Inside BARENTS SRS (VRS-0009): Kystverket states the Vardø to Røst TSS are within its operational area and the Kystverket TSS polygons fall inside the MSC.348(91) boundary. Ships of 5,000 GT and above, all tankers, hazardous cargo ships etc. report to Vardø VTS centre. No statutory VTS area covers the TSS; NOR VTS monitors routeing-measure traffic as an information service outside VTS areas. Both Røst clusters (northern 68°01'N to 68°16'N; southern 67°29'N to 67°40'N) are inside the Barents SRS boundary. Pass 4: the Regulation on vessels' notification obligations (21 Dec 2015 no. 1790) confirms the only transit reporting duty is Barents SRS (chapter 7), southern limit 67 10 N.",
-   "_reason": "Pass 4 (decision flagged).",
-   "unresolved_issue": "Kystverket WFS does not label which of the two Røst clusters is IMO 'Off Røst (1)' and which is '(2)'. Both clusters are inside BARENTS SRS (minimum margins about 10.8 nm and 20.6 nm), so classification is unaffected; only the position mapping is unconfirmed. Project rule needed: NOR VTS (Vardø) monitors routeing measures outside the statutory VTS areas; if that counts as VTS coverage, all 19 Norwegian TSS move up one class."
+   "_reason": "Project decision 1 (user, 30 Sep 2026): NOR VTS monitoring of the offshore routeing measures counts as VTS coverage.",
+   "unresolved_issue": "Coverage rests on a project rule (decision 1): NOR VTS provides an information and monitoring service for the TSS, not a statutory VTS area; participation is not compulsory.",
+   "association_status": "VTS + MRS",
+   "vts_name": "NOR VTS (Vardø VTS centre)",
+   "vts_authority": "Norwegian Coastal Administration (Kystverket)",
+   "vts_centre": "Vardø",
+   "vts_sector": "Information service and monitoring for routeing measures outside the statutory VTS areas",
+   "vts_coverage": "full",
+   "vts_boundary_basis": "Project decision 1 (user, 30 Sep 2026): shore monitoring of a TSS by a VTS centre outside a statutory VTS area counts as VTS coverage. Kystverket lists NOR VTS (Vardø) as the 'Information service for Barents SRS and routing schemes (TSS) in Norway' and states the centre 'monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast'. The TSS is not inside any statutory VTS area under the Maritime Traffic Regulations s.6.",
+   "vts_source_ids": [
+    "R-S7",
+    "R-S8",
+    "R-S3",
+    "R-S4"
+   ],
+   "vts_leads": ""
   },
   "TSS-0074": {
    "evidence_summary": "New TSS in the 'Off the coast of Norway' system from 1 June 2021 (R-S10), separately named in Kystverket data ('Trafikkseparasjonssystem utenfor Træna'). Kystverket's Barents SRS statement covers only 'Vardø to Røst'; geometry confirms the TSS is south of the Barents SRS limit. Not in any statutory VTS area (complete §6 list). NOR VTS information service for routeing schemes south of 65N exists (contact line) but is not a VTS area and involves no mandatory report. Pass 4: the Regulation on vessels' notification obligations (21 Dec 2015 no. 1790) confirms the only transit reporting duty is Barents SRS (chapter 7), southern limit 67 10 N.",
-   "_reason": "Pass 4 independent check.",
-   "unresolved_issue": "Resolved at Pass 4: the Regulation on vessels' notification obligations (2015 no. 1790) contains no transit reporting duty south of 67 10 N, so the earlier residual doubt about an unlisted national scheme is closed. Open project rule: NOR VTS (Vardø) monitors routeing measures outside the statutory VTS areas; if that counts as VTS coverage, all 19 Norwegian TSS move up one class."
+   "_reason": "Project decision 1 (user, 30 Sep 2026): NOR VTS monitoring of the offshore routeing measures counts as VTS coverage.",
+   "unresolved_issue": "Coverage rests on a project rule (decision 1): NOR VTS provides an information and monitoring service for the TSS, not a statutory VTS area; participation is not compulsory.",
+   "association_status": "VTS only",
+   "vts_name": "NOR VTS (Vardø VTS centre)",
+   "vts_authority": "Norwegian Coastal Administration (Kystverket)",
+   "vts_centre": "Vardø",
+   "vts_sector": "Information service and monitoring for routeing measures outside the statutory VTS areas",
+   "vts_coverage": "full",
+   "vts_boundary_basis": "Project decision 1 (user, 30 Sep 2026): shore monitoring of a TSS by a VTS centre outside a statutory VTS area counts as VTS coverage. Kystverket lists NOR VTS (Vardø) as the 'Information service for Barents SRS and routing schemes (TSS) in Norway' and states the centre 'monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast'. The TSS is not inside any statutory VTS area under the Maritime Traffic Regulations s.6.",
+   "vts_source_ids": [
+    "R-S7",
+    "R-S8",
+    "R-S3",
+    "R-S4"
+   ],
+   "vts_leads": ""
   },
   "TSS-0075": {
    "evidence_summary": "New TSS in the 'Off the coast of Norway' system from 1 June 2021 (R-S10), separately named in Kystverket data ('Trafikkseparasjonssystem utenfor Halten'). Kystverket's Barents SRS statement covers only 'Vardø to Røst'; geometry confirms the TSS is south of the Barents SRS limit. Not in any statutory VTS area (complete §6 list). NOR VTS information service for routeing schemes south of 65N exists (contact line) but is not a VTS area and involves no mandatory report. Pass 4: the Regulation on vessels' notification obligations (21 Dec 2015 no. 1790) confirms the only transit reporting duty is Barents SRS (chapter 7), southern limit 67 10 N.",
-   "_reason": "Pass 4 independent check.",
-   "unresolved_issue": "Resolved at Pass 4: the Regulation on vessels' notification obligations (2015 no. 1790) contains no transit reporting duty south of 67 10 N, so the earlier residual doubt about an unlisted national scheme is closed. Open project rule: NOR VTS (Vardø) monitors routeing measures outside the statutory VTS areas; if that counts as VTS coverage, all 19 Norwegian TSS move up one class."
+   "_reason": "Project decision 1 (user, 30 Sep 2026): NOR VTS monitoring of the offshore routeing measures counts as VTS coverage.",
+   "unresolved_issue": "Coverage rests on a project rule (decision 1): NOR VTS provides an information and monitoring service for the TSS, not a statutory VTS area; participation is not compulsory.",
+   "association_status": "VTS only",
+   "vts_name": "NOR VTS (Vardø VTS centre)",
+   "vts_authority": "Norwegian Coastal Administration (Kystverket)",
+   "vts_centre": "Vardø",
+   "vts_sector": "Information service and monitoring for routeing measures outside the statutory VTS areas",
+   "vts_coverage": "full",
+   "vts_boundary_basis": "Project decision 1 (user, 30 Sep 2026): shore monitoring of a TSS by a VTS centre outside a statutory VTS area counts as VTS coverage. Kystverket lists NOR VTS (Vardø) as the 'Information service for Barents SRS and routing schemes (TSS) in Norway' and states the centre 'monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast'. The TSS is not inside any statutory VTS area under the Maritime Traffic Regulations s.6.",
+   "vts_source_ids": [
+    "R-S7",
+    "R-S8",
+    "R-S3",
+    "R-S4"
+   ],
+   "vts_leads": ""
   },
   "TSS-0076": {
    "evidence_summary": "IMO B-II/19 'Off the coast of Norway' (consolidated 1 June 2021, S-S6), stretch Halten-Utsira (in force 2011, S-S5). Not inside any statutory Norwegian VTS area and not inside any Part I reporting area. Vardø VTS (NOR VTS) monitors tanker and risk traffic along the whole coast outside VTS areas and the NCA supervises compliance with the routeing measures (s.172), but this is surveillance outside a declared VTS area, not a VTS service area covering the TSS. Pass 4: the Regulation on vessels' notification obligations (21 Dec 2015 no. 1790) confirms the only transit reporting duty is Barents SRS (chapter 7), southern limit 67 10 N.",
-   "_reason": "Pass 4 independent check.",
-   "unresolved_issue": "Resolved at Pass 4: the Regulation on vessels' notification obligations (2015 no. 1790) contains no transit reporting duty south of 67 10 N, so the earlier residual doubt about an unlisted national scheme is closed. Open project rule: NOR VTS (Vardø) monitors routeing measures outside the statutory VTS areas; if that counts as VTS coverage, all 19 Norwegian TSS move up one class."
+   "_reason": "Project decision 1 (user, 30 Sep 2026): NOR VTS monitoring of the offshore routeing measures counts as VTS coverage.",
+   "unresolved_issue": "Coverage rests on a project rule (decision 1): NOR VTS provides an information and monitoring service for the TSS, not a statutory VTS area; participation is not compulsory.",
+   "association_status": "VTS only",
+   "vts_name": "NOR VTS (Vardø VTS centre)",
+   "vts_authority": "Norwegian Coastal Administration (Kystverket)",
+   "vts_centre": "Vardø",
+   "vts_sector": "Information service and monitoring for routeing measures outside the statutory VTS areas",
+   "vts_coverage": "full",
+   "vts_boundary_basis": "Project decision 1 (user, 30 Sep 2026): shore monitoring of a TSS by a VTS centre outside a statutory VTS area counts as VTS coverage. Kystverket lists NOR VTS (Vardø) as the 'Information service for Barents SRS and routing schemes (TSS) in Norway' and states the centre 'monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast'. The TSS is not inside any statutory VTS area under the Maritime Traffic Regulations s.6.",
+   "vts_source_ids": [
+    "S-S1",
+    "S-S2",
+    "S-S3",
+    "R-S3",
+    "R-S4"
+   ],
+   "vts_leads": ""
   },
   "TSS-0077": {
    "evidence_summary": "IMO B-II/19 'Off the coast of Norway' (consolidated 1 June 2021, S-S6), stretch Halten-Utsira (in force 2011, S-S5). Not inside any statutory Norwegian VTS area and not inside any Part I reporting area. Vardø VTS (NOR VTS) monitors tanker and risk traffic along the whole coast outside VTS areas and the NCA supervises compliance with the routeing measures (s.172), but this is surveillance outside a declared VTS area, not a VTS service area covering the TSS. Pass 4: the Regulation on vessels' notification obligations (21 Dec 2015 no. 1790) confirms the only transit reporting duty is Barents SRS (chapter 7), southern limit 67 10 N.",
-   "_reason": "Pass 4 independent check.",
-   "unresolved_issue": "Resolved at Pass 4: the Regulation on vessels' notification obligations (2015 no. 1790) contains no transit reporting duty south of 67 10 N, so the earlier residual doubt about an unlisted national scheme is closed. Open project rule: NOR VTS (Vardø) monitors routeing measures outside the statutory VTS areas; if that counts as VTS coverage, all 19 Norwegian TSS move up one class."
+   "_reason": "Project decision 1 (user, 30 Sep 2026): NOR VTS monitoring of the offshore routeing measures counts as VTS coverage.",
+   "unresolved_issue": "Coverage rests on a project rule (decision 1): NOR VTS provides an information and monitoring service for the TSS, not a statutory VTS area; participation is not compulsory.",
+   "association_status": "VTS only",
+   "vts_name": "NOR VTS (Vardø VTS centre)",
+   "vts_authority": "Norwegian Coastal Administration (Kystverket)",
+   "vts_centre": "Vardø",
+   "vts_sector": "Information service and monitoring for routeing measures outside the statutory VTS areas",
+   "vts_coverage": "full",
+   "vts_boundary_basis": "Project decision 1 (user, 30 Sep 2026): shore monitoring of a TSS by a VTS centre outside a statutory VTS area counts as VTS coverage. Kystverket lists NOR VTS (Vardø) as the 'Information service for Barents SRS and routing schemes (TSS) in Norway' and states the centre 'monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast'. The TSS is not inside any statutory VTS area under the Maritime Traffic Regulations s.6.",
+   "vts_source_ids": [
+    "S-S1",
+    "S-S2",
+    "S-S3",
+    "S-S4",
+    "R-S3",
+    "R-S4"
+   ],
+   "vts_leads": ""
   },
   "TSS-0078": {
    "evidence_summary": "IMO B-II/19 'Off the coast of Norway' (consolidated 1 June 2021, S-S6), stretch Halten-Utsira (in force 2011, S-S5). Not inside any statutory Norwegian VTS area and not inside any Part I reporting area. Vardø VTS (NOR VTS) monitors tanker and risk traffic along the whole coast outside VTS areas and the NCA supervises compliance with the routeing measures (s.172), but this is surveillance outside a declared VTS area, not a VTS service area covering the TSS. Pass 4: the Regulation on vessels' notification obligations (21 Dec 2015 no. 1790) confirms the only transit reporting duty is Barents SRS (chapter 7), southern limit 67 10 N.",
-   "_reason": "Pass 4 independent check.",
-   "unresolved_issue": "Resolved at Pass 4: the Regulation on vessels' notification obligations (2015 no. 1790) contains no transit reporting duty south of 67 10 N, so the earlier residual doubt about an unlisted national scheme is closed. Open project rule: NOR VTS (Vardø) monitors routeing measures outside the statutory VTS areas; if that counts as VTS coverage, all 19 Norwegian TSS move up one class."
+   "_reason": "Project decision 1 (user, 30 Sep 2026): NOR VTS monitoring of the offshore routeing measures counts as VTS coverage.",
+   "unresolved_issue": "Coverage rests on a project rule (decision 1): NOR VTS provides an information and monitoring service for the TSS, not a statutory VTS area; participation is not compulsory.",
+   "association_status": "VTS only",
+   "vts_name": "NOR VTS (Vardø VTS centre)",
+   "vts_authority": "Norwegian Coastal Administration (Kystverket)",
+   "vts_centre": "Vardø",
+   "vts_sector": "Information service and monitoring for routeing measures outside the statutory VTS areas",
+   "vts_coverage": "full",
+   "vts_boundary_basis": "Project decision 1 (user, 30 Sep 2026): shore monitoring of a TSS by a VTS centre outside a statutory VTS area counts as VTS coverage. Kystverket lists NOR VTS (Vardø) as the 'Information service for Barents SRS and routing schemes (TSS) in Norway' and states the centre 'monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast'. The TSS is not inside any statutory VTS area under the Maritime Traffic Regulations s.6.",
+   "vts_source_ids": [
+    "S-S1",
+    "S-S2",
+    "S-S3",
+    "R-S3",
+    "R-S4"
+   ],
+   "vts_leads": ""
   },
   "TSS-0079": {
    "evidence_summary": "IMO B-II/19 'Off the coast of Norway' (consolidated 1 June 2021, S-S6), stretch Halten-Utsira (in force 2011, S-S5). Not inside any statutory Norwegian VTS area and not inside any Part I reporting area. Vardø VTS (NOR VTS) monitors tanker and risk traffic along the whole coast outside VTS areas and the NCA supervises compliance with the routeing measures (s.172), but this is surveillance outside a declared VTS area, not a VTS service area covering the TSS. Pass 4: the Regulation on vessels' notification obligations (21 Dec 2015 no. 1790) confirms the only transit reporting duty is Barents SRS (chapter 7), southern limit 67 10 N.",
-   "_reason": "Pass 4 independent check.",
-   "unresolved_issue": "Resolved at Pass 4: the Regulation on vessels' notification obligations (2015 no. 1790) contains no transit reporting duty south of 67 10 N, so the earlier residual doubt about an unlisted national scheme is closed. Open project rule: NOR VTS (Vardø) monitors routeing measures outside the statutory VTS areas; if that counts as VTS coverage, all 19 Norwegian TSS move up one class."
+   "_reason": "Project decision 1 (user, 30 Sep 2026): NOR VTS monitoring of the offshore routeing measures counts as VTS coverage.",
+   "unresolved_issue": "Coverage rests on a project rule (decision 1): NOR VTS provides an information and monitoring service for the TSS, not a statutory VTS area; participation is not compulsory.",
+   "association_status": "VTS only",
+   "vts_name": "NOR VTS (Vardø VTS centre)",
+   "vts_authority": "Norwegian Coastal Administration (Kystverket)",
+   "vts_centre": "Vardø",
+   "vts_sector": "Information service and monitoring for routeing measures outside the statutory VTS areas",
+   "vts_coverage": "full",
+   "vts_boundary_basis": "Project decision 1 (user, 30 Sep 2026): shore monitoring of a TSS by a VTS centre outside a statutory VTS area counts as VTS coverage. Kystverket lists NOR VTS (Vardø) as the 'Information service for Barents SRS and routing schemes (TSS) in Norway' and states the centre 'monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast'. The TSS is not inside any statutory VTS area under the Maritime Traffic Regulations s.6.",
+   "vts_source_ids": [
+    "S-S1",
+    "S-S2",
+    "S-S3",
+    "R-S3",
+    "R-S4"
+   ],
+   "vts_leads": ""
   },
   "TSS-0080": {
    "evidence_summary": "IMO B-II/19 'Off the coast of Norway' (consolidated 1 June 2021, S-S6), stretch Egersund-Risør (in force 2011, S-S5). Not inside any statutory Norwegian VTS area and not inside any Part I reporting area. Vardø VTS (NOR VTS) monitors tanker and risk traffic along the whole coast outside VTS areas and the NCA supervises compliance with the routeing measures (s.172), but this is surveillance outside a declared VTS area, not a VTS service area covering the TSS. Pass 4: the Regulation on vessels' notification obligations (21 Dec 2015 no. 1790) confirms the only transit reporting duty is Barents SRS (chapter 7), southern limit 67 10 N.",
-   "_reason": "Pass 4 independent check.",
-   "unresolved_issue": "Resolved at Pass 4: the Regulation on vessels' notification obligations (2015 no. 1790) contains no transit reporting duty south of 67 10 N, so the earlier residual doubt about an unlisted national scheme is closed. Open project rule: NOR VTS (Vardø) monitors routeing measures outside the statutory VTS areas; if that counts as VTS coverage, all 19 Norwegian TSS move up one class."
+   "_reason": "Project decision 1 (user, 30 Sep 2026): NOR VTS monitoring of the offshore routeing measures counts as VTS coverage.",
+   "unresolved_issue": "Coverage rests on a project rule (decision 1): NOR VTS provides an information and monitoring service for the TSS, not a statutory VTS area; participation is not compulsory.",
+   "association_status": "VTS only",
+   "vts_name": "NOR VTS (Vardø VTS centre)",
+   "vts_authority": "Norwegian Coastal Administration (Kystverket)",
+   "vts_centre": "Vardø",
+   "vts_sector": "Information service and monitoring for routeing measures outside the statutory VTS areas",
+   "vts_coverage": "full",
+   "vts_boundary_basis": "Project decision 1 (user, 30 Sep 2026): shore monitoring of a TSS by a VTS centre outside a statutory VTS area counts as VTS coverage. Kystverket lists NOR VTS (Vardø) as the 'Information service for Barents SRS and routing schemes (TSS) in Norway' and states the centre 'monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast'. The TSS is not inside any statutory VTS area under the Maritime Traffic Regulations s.6.",
+   "vts_source_ids": [
+    "S-S1",
+    "S-S2",
+    "S-S3",
+    "R-S3",
+    "R-S4"
+   ],
+   "vts_leads": ""
   },
   "TSS-0081": {
    "evidence_summary": "IMO B-II/19 'Off the coast of Norway' (consolidated 1 June 2021, S-S6), stretch Egersund-Risør (in force 2011, S-S5). Not inside any statutory Norwegian VTS area and not inside any Part I reporting area. Vardø VTS (NOR VTS) monitors tanker and risk traffic along the whole coast outside VTS areas and the NCA supervises compliance with the routeing measures (s.172), but this is surveillance outside a declared VTS area, not a VTS service area covering the TSS. Pass 4: the Regulation on vessels' notification obligations (21 Dec 2015 no. 1790) confirms the only transit reporting duty is Barents SRS (chapter 7), southern limit 67 10 N.",
-   "_reason": "Pass 4 independent check.",
-   "unresolved_issue": "Resolved at Pass 4: the Regulation on vessels' notification obligations (2015 no. 1790) contains no transit reporting duty south of 67 10 N, so the earlier residual doubt about an unlisted national scheme is closed. Open project rule: NOR VTS (Vardø) monitors routeing measures outside the statutory VTS areas; if that counts as VTS coverage, all 19 Norwegian TSS move up one class."
+   "_reason": "Project decision 1 (user, 30 Sep 2026): NOR VTS monitoring of the offshore routeing measures counts as VTS coverage.",
+   "unresolved_issue": "Coverage rests on a project rule (decision 1): NOR VTS provides an information and monitoring service for the TSS, not a statutory VTS area; participation is not compulsory.",
+   "association_status": "VTS only",
+   "vts_name": "NOR VTS (Vardø VTS centre)",
+   "vts_authority": "Norwegian Coastal Administration (Kystverket)",
+   "vts_centre": "Vardø",
+   "vts_sector": "Information service and monitoring for routeing measures outside the statutory VTS areas",
+   "vts_coverage": "full",
+   "vts_boundary_basis": "Project decision 1 (user, 30 Sep 2026): shore monitoring of a TSS by a VTS centre outside a statutory VTS area counts as VTS coverage. Kystverket lists NOR VTS (Vardø) as the 'Information service for Barents SRS and routing schemes (TSS) in Norway' and states the centre 'monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast'. The TSS is not inside any statutory VTS area under the Maritime Traffic Regulations s.6.",
+   "vts_source_ids": [
+    "S-S1",
+    "S-S2",
+    "S-S3",
+    "R-S3",
+    "R-S4"
+   ],
+   "vts_leads": ""
   },
   "TSS-0082": {
    "evidence_summary": "IMO B-II/19 'Off the coast of Norway' (consolidated 1 June 2021, S-S6), stretch Egersund-Risør (in force 2011, S-S5). Not inside any statutory Norwegian VTS area and not inside any Part I reporting area. Vardø VTS (NOR VTS) monitors tanker and risk traffic along the whole coast outside VTS areas and the NCA supervises compliance with the routeing measures (s.172), but this is surveillance outside a declared VTS area, not a VTS service area covering the TSS. Pass 4: the Regulation on vessels' notification obligations (21 Dec 2015 no. 1790) confirms the only transit reporting duty is Barents SRS (chapter 7), southern limit 67 10 N.",
-   "_reason": "Pass 4 independent check.",
-   "unresolved_issue": "Resolved at Pass 4: the Regulation on vessels' notification obligations (2015 no. 1790) contains no transit reporting duty south of 67 10 N, so the earlier residual doubt about an unlisted national scheme is closed. Open project rule: NOR VTS (Vardø) monitors routeing measures outside the statutory VTS areas; if that counts as VTS coverage, all 19 Norwegian TSS move up one class."
+   "_reason": "Project decision 1 (user, 30 Sep 2026): NOR VTS monitoring of the offshore routeing measures counts as VTS coverage.",
+   "unresolved_issue": "Coverage rests on a project rule (decision 1): NOR VTS provides an information and monitoring service for the TSS, not a statutory VTS area; participation is not compulsory.",
+   "association_status": "VTS only",
+   "vts_name": "NOR VTS (Vardø VTS centre)",
+   "vts_authority": "Norwegian Coastal Administration (Kystverket)",
+   "vts_centre": "Vardø",
+   "vts_sector": "Information service and monitoring for routeing measures outside the statutory VTS areas",
+   "vts_coverage": "full",
+   "vts_boundary_basis": "Project decision 1 (user, 30 Sep 2026): shore monitoring of a TSS by a VTS centre outside a statutory VTS area counts as VTS coverage. Kystverket lists NOR VTS (Vardø) as the 'Information service for Barents SRS and routing schemes (TSS) in Norway' and states the centre 'monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast'. The TSS is not inside any statutory VTS area under the Maritime Traffic Regulations s.6.",
+   "vts_source_ids": [
+    "S-S1",
+    "S-S2",
+    "S-S3",
+    "R-S3",
+    "R-S4"
+   ],
+   "vts_leads": ""
   },
   "TSS-0083": {
    "evidence_summary": "IMO B-II/19 'Off the coast of Norway' (consolidated 1 June 2021, S-S6), stretch Egersund-Risør (in force 2011, S-S5). Not inside any statutory Norwegian VTS area and not inside any Part I reporting area. Vardø VTS (NOR VTS) monitors tanker and risk traffic along the whole coast outside VTS areas and the NCA supervises compliance with the routeing measures (s.172), but this is surveillance outside a declared VTS area, not a VTS service area covering the TSS. Pass 4: the Regulation on vessels' notification obligations (21 Dec 2015 no. 1790) confirms the only transit reporting duty is Barents SRS (chapter 7), southern limit 67 10 N.",
-   "_reason": "Pass 4 independent check.",
-   "unresolved_issue": "Resolved at Pass 4: the Regulation on vessels' notification obligations (2015 no. 1790) contains no transit reporting duty south of 67 10 N, so the earlier residual doubt about an unlisted national scheme is closed. Open project rule: NOR VTS (Vardø) monitors routeing measures outside the statutory VTS areas; if that counts as VTS coverage, all 19 Norwegian TSS move up one class."
+   "_reason": "Project decision 1 (user, 30 Sep 2026): NOR VTS monitoring of the offshore routeing measures counts as VTS coverage.",
+   "unresolved_issue": "Coverage rests on a project rule (decision 1): NOR VTS provides an information and monitoring service for the TSS, not a statutory VTS area; participation is not compulsory.",
+   "association_status": "VTS only",
+   "vts_name": "NOR VTS (Vardø VTS centre)",
+   "vts_authority": "Norwegian Coastal Administration (Kystverket)",
+   "vts_centre": "Vardø",
+   "vts_sector": "Information service and monitoring for routeing measures outside the statutory VTS areas",
+   "vts_coverage": "full",
+   "vts_boundary_basis": "Project decision 1 (user, 30 Sep 2026): shore monitoring of a TSS by a VTS centre outside a statutory VTS area counts as VTS coverage. Kystverket lists NOR VTS (Vardø) as the 'Information service for Barents SRS and routing schemes (TSS) in Norway' and states the centre 'monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast'. The TSS is not inside any statutory VTS area under the Maritime Traffic Regulations s.6.",
+   "vts_source_ids": [
+    "S-S1",
+    "S-S2",
+    "S-S3",
+    "R-S3",
+    "R-S4"
+   ],
+   "vts_leads": ""
   },
   "TSS-0084": {
    "evidence_summary": "IMO B-II/19 'Off the coast of Norway' (consolidated 1 June 2021, S-S6), stretch Egersund-Risør (in force 2011, S-S5). Not inside any statutory Norwegian VTS area and not inside any Part I reporting area. Vardø VTS (NOR VTS) monitors tanker and risk traffic along the whole coast outside VTS areas and the NCA supervises compliance with the routeing measures (s.172), but this is surveillance outside a declared VTS area, not a VTS service area covering the TSS. Pass 4: the Regulation on vessels' notification obligations (21 Dec 2015 no. 1790) confirms the only transit reporting duty is Barents SRS (chapter 7), southern limit 67 10 N.",
-   "_reason": "Pass 4 independent check.",
-   "unresolved_issue": "Resolved at Pass 4: the Regulation on vessels' notification obligations (2015 no. 1790) contains no transit reporting duty south of 67 10 N, so the earlier residual doubt about an unlisted national scheme is closed. Open project rule: NOR VTS (Vardø) monitors routeing measures outside the statutory VTS areas; if that counts as VTS coverage, all 19 Norwegian TSS move up one class."
+   "_reason": "Project decision 1 (user, 30 Sep 2026): NOR VTS monitoring of the offshore routeing measures counts as VTS coverage.",
+   "unresolved_issue": "Coverage rests on a project rule (decision 1): NOR VTS provides an information and monitoring service for the TSS, not a statutory VTS area; participation is not compulsory.",
+   "association_status": "VTS only",
+   "vts_name": "NOR VTS (Vardø VTS centre)",
+   "vts_authority": "Norwegian Coastal Administration (Kystverket)",
+   "vts_centre": "Vardø",
+   "vts_sector": "Information service and monitoring for routeing measures outside the statutory VTS areas",
+   "vts_coverage": "full",
+   "vts_boundary_basis": "Project decision 1 (user, 30 Sep 2026): shore monitoring of a TSS by a VTS centre outside a statutory VTS area counts as VTS coverage. Kystverket lists NOR VTS (Vardø) as the 'Information service for Barents SRS and routing schemes (TSS) in Norway' and states the centre 'monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast'. The TSS is not inside any statutory VTS area under the Maritime Traffic Regulations s.6.",
+   "vts_source_ids": [
+    "S-S1",
+    "S-S2",
+    "S-S3",
+    "R-S3",
+    "R-S4"
+   ],
+   "vts_leads": ""
   },
   "TSS-0085": {
    "reporting_boundary_basis": "MSC.190(79) para 2.1: the WETREP polygon runs 56°30'N 012°W - 54°40'41\"N 015°W - 50°56'45\"N 015°W - 48°27'N 006°25'W, with the inner closing point 21 on the Irish east coast (52°10'N 006°22'W). At Fastnet's longitude (c. 009°36'W) the southern boundary line lies near 49°23'N, about 2° south of the TSS, so the TSS (off Fastnet Rock, c. 51°18'-51°23'N) is wholly inside. Applies only to oil tankers >600 dwt carrying heavy crude, heavy fuel oil or bitumen/tar; WETREP does not name the TSS. Pass 4: MSC.190(79) annex para 6.2.1 names 'Off Fastnet Rock' among the TSS in the WETREP area. Applies to oil tankers over 600 dwt carrying heavy grade oil.",
@@ -169,20 +445,24 @@
    "_reason": "Pass 4 note."
   },
   "TSS-0153": {
-   "association_status": "Unresolved",
-   "_reason": "Pass 4.",
-   "mandatory_reporting": "No",
+   "association_status": "MRS only",
+   "_reason": "Project decision 3 (user, 30 Sep 2026): national reporting schemes count as MRS, including schemes mandatory only for national-flag ships.",
+   "mandatory_reporting": "Yes",
    "vrs_id": "",
-   "voluntary_reporting": "Yes: SUNDAREP (voluntary for foreign ships; mandatory for Indonesian-flag ships under national decree)",
-   "unresolved_issue": "Current (post-2020) official confirmation of Merak VTS operation and area limits not retrieved; texts of KM 129/2020 and KM 130/2020 not read (Hubla press release gives both titles as concerning Selat Lombok / Selat Lombok dan Selat Sunda). MRS applies only to Indonesian-flag ships. Pass 4: obtain a current (2023 or later) official source confirming the VTS operates over and covers this TSS; read the national decree text."
+   "voluntary_reporting": "No (foreign-ship participation recorded under the national scheme)",
+   "unresolved_issue": "Current (post-2020) official confirmation of Merak VTS operation and area limits not retrieved; texts of KM 129/2020 and KM 130/2020 not read (Hubla press release gives both titles as concerning Selat Lombok / Selat Lombok dan Selat Sunda). MRS applies only to Indonesian-flag ships. Pass 4: obtain a current (2023 or later) official source confirming the VTS operates over and covers this TSS; read the national decree text.",
+   "reporting_scheme_name": "SUNDAREP (national, Indonesia; mandatory for Indonesian-flag ships, strongly recommended for foreign ships)",
+   "reporting_authority": "Directorate General of Sea Transportation (Hubla), Indonesia"
   },
   "TSS-0154": {
-   "association_status": "Unresolved",
-   "_reason": "Pass 4.",
-   "mandatory_reporting": "No",
+   "association_status": "MRS only",
+   "_reason": "Project decision 3 (user, 30 Sep 2026): national reporting schemes count as MRS, including schemes mandatory only for national-flag ships.",
+   "mandatory_reporting": "Yes",
    "vrs_id": "",
-   "voluntary_reporting": "Yes: LOMBOKREP (voluntary for foreign ships; mandatory for Indonesian-flag ships under national decree)",
-   "unresolved_issue": "Current official confirmation of Benoa VTS operation and area limits not retrieved; KM texts not read. MRS applies only to Indonesian-flag ships. Pass 4: obtain a current (2023 or later) official source confirming the VTS operates over and covers this TSS; read the national decree text."
+   "voluntary_reporting": "No (foreign-ship participation recorded under the national scheme)",
+   "unresolved_issue": "Current official confirmation of Benoa VTS operation and area limits not retrieved; KM texts not read. MRS applies only to Indonesian-flag ships. Pass 4: obtain a current (2023 or later) official source confirming the VTS operates over and covers this TSS; read the national decree text.",
+   "reporting_scheme_name": "LOMBOKREP (national, Indonesia; mandatory for Indonesian-flag ships, strongly recommended for foreign ships)",
+   "reporting_authority": "Directorate General of Sea Transportation (Hubla), Indonesia"
   },
   "TSS-0148": {
    "vts_boundary_basis": "Scheme spans 101°59.7'E to 103°29.6'E (U-S6). Chartlet Appendix 1 (U-S6 p.119) shows it crossing Sectors 4, 5 and 6. Sector 7's western limit is the line Tg Piai (01°15.50'N 103°30.75'E) - Pulau Karimun Kecil (01°09.20'N 103°24.35'E) (U-S1 para 3.3.1, U-S5). A side-of-line calculation on the WGS 84 coordinates shows the eastern end points (58) 01°12.20'N 103°28.40'E, (70) 01°14.30'N 103°29.60'E and (76) 01°09.20'N 103°26.70'E lie slightly east of that line (well under 1 nm), so a very small terminal portion is in Singapore VTS Sector 7; the remainder is Klang (4-5) and Johor (6). Pass 4 correction: the eastern lane ends lie up to about 1.6 nm east of the Tg Piai to Pulau Karimun Kecil line (point 70 about 0.05 nm, 58 about 0.7 nm, 59 about 1.2 nm, 76 about 1.6 nm), so they are in Singapore VTS Sector 7.",
@@ -264,10 +544,12 @@
    "_reason": "Pass 4."
   },
   "TSS-0194": {
-   "association_status": "Unresolved",
-   "_reason": "Pass 4: no formally named mandatory scheme; CHILREP is voluntary; reporting frequencies conflict (NGA every 4 h or 0800/2000 with pilot; DIRECTEMAR 12:00Z/24:00Z); the traceable legal basis (D.S. (M) 1190 of 1976, Title III) makes foreign-ship reporting compulsory only on reciprocity; no Strait of Magellan instrument found. Fails the project's national-scheme test.",
-   "mandatory_reporting": "Unresolved",
-   "unresolved_issue": "Primary DIRECTEMAR instrument for Strait of Magellan reporting not opened; sources differ on frequency (every 4 h / 0800 and 2000 per NGA vs 12:00Z and 24:00Z per DIRECTEMAR). Coordinator to confirm this qualifies as a named national MRS (no VRS ID exists; do not invent one). VTS status unresolved. Strong lead: area-based reporting to the Maritime Authority at Punta Arenas; find the governing Chilean instrument."
+   "association_status": "MRS only",
+   "_reason": "Project decision 3 (user, 30 Sep 2026): national reporting schemes count as MRS, including schemes mandatory only for national-flag ships.",
+   "mandatory_reporting": "Yes",
+   "unresolved_issue": "Counted under decision 3. Reporting frequency differs between NGA Pub. 124 (every 4 h, or 0800/2000 with pilot) and DIRECTEMAR (12:00Z/24:00Z); the governing instrument was not found (foreign-ship duty traced only to D.S. (M) 1190 of 1976, on reciprocity). No VTS established.",
+   "reporting_scheme_name": "Strait of Magellan reporting to the Maritime Authority at Punta Arenas (national, Chile)",
+   "reporting_authority": "DIRECTEMAR, Chilean Maritime Authority (Punta Arenas)"
   },
   "TSS-0190": {
    "vts_boundary_basis": "NGA Pub. 125 gives the VTS Quintero area as Bahía Quintero and the area bounded by 32°25'57\"S 71°25'38\"W, 32°25'51\"S 71°40'32\"W, 32°31'43\"S 71°49'30\"W, 32°45'32\"S 71°49'39\"W, 32°56'55\"S 71°43'20\"W, 33°01'05\"S 71°38'21\"W. All six TSS points (32°42'.9-32°45'.9 S, 071°32'-071°36'.4 W; COLREG.2/Circ.32) fall inside (point-in-polygon check). The NGA 'VTS Valparaiso' diagram also shows its control zone reaching north past Bahía Quintero. Pass 4 correction: points (1) and (5) at 071 32.00W fall just outside a straight chord from point a to point f; they are inside if the area closes along the coast (point f is at Punta Angeles). The VTS Valparaiso control zone (to about 32 37S) also contains this TSS.",
@@ -406,10 +688,10 @@
   }
  },
  "pass4_notes": {
-  "B14": "An independent checker re-opened the Norwegian regulations (s.6 VTS list, chapter 5, notification regulation 2015 no. 1790), the Kystverket Barents SRS page, SN.1/Circ.318, MSC.190(79) and the Kystverket WFS polygons, and upheld every classification (research/stage2/pass4/chk_norway_result.json).",
-  "B15": "An independent checker re-opened the Norwegian regulations (s.6 VTS list, chapter 5, notification regulation 2015 no. 1790), the Kystverket Barents SRS page, SN.1/Circ.318, MSC.190(79) and the Kystverket WFS polygons, and upheld every classification (research/stage2/pass4/chk_norway_result.json).",
-  "B16": "An independent checker re-opened the Norwegian regulations (s.6 VTS list, chapter 5, notification regulation 2015 no. 1790), the Kystverket Barents SRS page, SN.1/Circ.318, MSC.190(79) and the Kystverket WFS polygons, and upheld every classification (research/stage2/pass4/chk_norway_result.json).",
-  "B17": "An independent checker re-opened the Norwegian regulations (s.6 VTS list, chapter 5, notification regulation 2015 no. 1790), the Kystverket Barents SRS page, SN.1/Circ.318, MSC.190(79) and the Kystverket WFS polygons, and upheld every classification (research/stage2/pass4/chk_norway_result.json).",
+  "B14": "An independent checker re-opened the Norwegian regulations (s.6 VTS list, chapter 5, notification regulation 2015 no. 1790), the Kystverket Barents SRS page, SN.1/Circ.318, MSC.190(79) and the Kystverket WFS polygons, and upheld every classification (research/stage2/pass4/chk_norway_result.json). Project decisions of 30 Sep 2026 applied (audits/stage2/Project_Decisions_2026-09-30.md).",
+  "B15": "An independent checker re-opened the Norwegian regulations (s.6 VTS list, chapter 5, notification regulation 2015 no. 1790), the Kystverket Barents SRS page, SN.1/Circ.318, MSC.190(79) and the Kystverket WFS polygons, and upheld every classification (research/stage2/pass4/chk_norway_result.json). Project decisions of 30 Sep 2026 applied (audits/stage2/Project_Decisions_2026-09-30.md).",
+  "B16": "An independent checker re-opened the Norwegian regulations (s.6 VTS list, chapter 5, notification regulation 2015 no. 1790), the Kystverket Barents SRS page, SN.1/Circ.318, MSC.190(79) and the Kystverket WFS polygons, and upheld every classification (research/stage2/pass4/chk_norway_result.json). Project decisions of 30 Sep 2026 applied (audits/stage2/Project_Decisions_2026-09-30.md).",
+  "B17": "An independent checker re-opened the Norwegian regulations (s.6 VTS list, chapter 5, notification regulation 2015 no. 1790), the Kystverket Barents SRS page, SN.1/Circ.318, MSC.190(79) and the Kystverket WFS polygons, and upheld every classification (research/stage2/pass4/chk_norway_result.json). Project decisions of 30 Sep 2026 applied (audits/stage2/Project_Decisions_2026-09-30.md).",
   "B18": "An independent checker re-opened MSC.190(79), MSC.162(78), Decree-Law 263/2009, COLREG.2 circulars and the DGRM and EMSA pages, re-did the boundary geometry, and upheld every positive classification (research/stage2/pass4/chk_T_result.json).",
   "B19": "An independent checker re-opened MSC.190(79), MSC.162(78), Decree-Law 263/2009, COLREG.2 circulars and the DGRM and EMSA pages, re-did the boundary geometry, and upheld every positive classification (research/stage2/pass4/chk_T_result.json).",
   "B10": "An independent checker re-opened the Port Information Guide 2026, Staatscourant 2026 8272, the IJmuiden VTS regulation 2025, MSC.190(79), COLREG.2/Circ.64 and 67 and the Scheldt VTS folder, and re-did the WETREP, 38 nm and 12 nm geometry. Six positives upheld; Maas West Outer kept with its basis corrected and confidence lowered (research/stage2/pass4/chk_P_result.json).",
@@ -417,7 +699,7 @@
   "B12": "An independent checker re-rendered the AnlBV Anhang chart, re-read the AnlBV, SeeSchStrO and 2014 GDWS notice, the ABP Humber page and COLREG.2/Circ.60, and upheld all five positives; German Bight western approach coverage note widened (research/stage2/pass4/chk_Q_result.json).",
   "B13": "An independent checker re-rendered the AnlBV Anhang chart, re-read the AnlBV, SeeSchStrO and 2014 GDWS notice, the ABP Humber page and COLREG.2/Circ.60, and upheld all five positives; German Bight western approach coverage note widened (research/stage2/pass4/chk_Q_result.json).",
   "B30": "An independent checker re-opened MSC.73(69), the MPA VTIS pages (updated 28 Sep 2026), the Singapore Port Information 2026 chartlets, the 2020 DG Sea Transportation release and the Hong Kong Marine Department sources. Seven positives upheld; TSS-0148 wording corrected; Sunda and Lombok downgraded (research/stage2/pass4/chk_U_result.json).",
-  "B31": "An independent checker re-opened MSC.73(69), the MPA VTIS pages (updated 28 Sep 2026), the Singapore Port Information 2026 chartlets, the 2020 DG Sea Transportation release and the Hong Kong Marine Department sources. Seven positives upheld; TSS-0148 wording corrected; Sunda and Lombok downgraded (research/stage2/pass4/chk_U_result.json).",
+  "B31": "An independent checker re-opened MSC.73(69), the MPA VTIS pages (updated 28 Sep 2026), the Singapore Port Information 2026 chartlets, the 2020 DG Sea Transportation release and the Hong Kong Marine Department sources. Seven positives upheld; TSS-0148 wording corrected; Sunda and Lombok downgraded (research/stage2/pass4/chk_U_result.json). Project decisions of 30 Sep 2026 applied (audits/stage2/Project_Decisions_2026-09-30.md).",
   "B36": "No positive or Neither confirmed classification to re-check. Coordinator confirmed every Unresolved record states what remains unknown.",
   "B37": "No positive or Neither confirmed classification to re-check. Coordinator confirmed every Unresolved record states what remains unknown.",
   "B34": "An independent checker re-opened eCFR 33 CFR 161 and 167, SOR/2025-275, CCG RAMN 2026 (CVTS), NAVCEN and the VTS Puget Sound, San Francisco and LA-LB user manuals, and COLREG.2/Circ.64, re-did the Race Rocks exchange-line and arc geometry, and upheld all eight positives; the San Francisco partial-coverage note was widened (research/stage2/pass4/chk_W_result.json).",
@@ -425,7 +707,7 @@
   "B32": "An independent checker re-opened eCFR 33 CFR 161 and 167, CCG RAMN 2026, SOR/2025-275, AMSA pages, Marine Order 63, the TasPorts Marine Order 64 instrument and Hong Kong Marine Department sources. No status downgraded; coverage set to partial for TSS-0162 to 0164; MASTREP retained as MRS under the national-scheme rule; Australian citation corrected (research/stage2/pass4/chk_V_result.json).",
   "B33": "An independent checker re-opened eCFR 33 CFR 161 and 167, CCG RAMN 2026, SOR/2025-275, AMSA pages, Marine Order 63, the TasPorts Marine Order 64 instrument and Hong Kong Marine Department sources. No status downgraded; coverage set to partial for TSS-0162 to 0164; MASTREP retained as MRS under the national-scheme rule; Australian citation corrected (research/stage2/pass4/chk_V_result.json).",
   "B38": "An independent checker re-opened NGA Pub. 124 and 125 (text and VTS diagrams), the COLREG.2 compilation, SOR/2025-275 Schedules 2 and 3 and DIRECTEMAR documents. Arica, Iquique and Chedabucto Bay upheld; Quintero and Valparaiso wording corrected; Punta Arenas downgraded to Unresolved (research/stage2/pass4/chk_Y_result.json).",
-  "B39": "An independent checker re-opened NGA Pub. 124 and 125 (text and VTS diagrams), the COLREG.2 compilation, SOR/2025-275 Schedules 2 and 3 and DIRECTEMAR documents. Arica, Iquique and Chedabucto Bay upheld; Quintero and Valparaiso wording corrected; Punta Arenas downgraded to Unresolved (research/stage2/pass4/chk_Y_result.json).",
+  "B39": "An independent checker re-opened NGA Pub. 124 and 125 (text and VTS diagrams), the COLREG.2 compilation, SOR/2025-275 Schedules 2 and 3 and DIRECTEMAR documents. Arica, Iquique and Chedabucto Bay upheld; Quintero and Valparaiso wording corrected; Punta Arenas downgraded to Unresolved (research/stage2/pass4/chk_Y_result.json). Project decisions of 30 Sep 2026 applied (audits/stage2/Project_Decisions_2026-09-30.md).",
   "B42": "No positive or Neither confirmed classification to re-check. Coordinator confirmed every Unresolved record states what remains unknown.",
   "B43": "No positive or Neither confirmed classification to re-check. Coordinator confirmed every Unresolved record states what remains unknown.",
   "B44": "An independent checker re-opened MSC.389(94), MSC.213(81), COLREG.2/Circ.57 and 66 and the La Moncloa release, found the Shandong MSA 2024 VTS notice, and re-did the 24 nm and CANREP geometry. All six positives upheld; TSS-0221 wording corrected (research/stage2/pass4/chk_Z3_result.json).",
@@ -452,5 +734,12 @@
   "Vessel Traffic Service Prince William Sound": "VTS-0009",
   "VTS Houston-Galveston": "VTS-0013",
   "VTS New York": "VTS-0014"
+ },
+ "decisions": {
+  "1": "Shore monitoring of a TSS by a VTS centre outside a statutory VTS area counts as VTS coverage (NOR VTS, Norway).",
+  "2": "Tanker-only IMO Part I schemes (WETREP, CANREP) count as MRS, with applicability recorded.",
+  "3": "National reporting schemes count as MRS, including flag-only and area schemes (SUNDAREP, LOMBOKREP, Strait of Magellan; MASTREP already counted).",
+  "4": "Currency: VTS evidence older than about three years with no later official source stays Unresolved.",
+  "5": "An official port traffic centre whose defined area names the TSS counts as a VTS (Veracruz)."
  }
 }
