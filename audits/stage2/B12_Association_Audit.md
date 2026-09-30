@@ -1,3 +1,5 @@
+> Superseded by [B12 recheck, 30 September 2026](B12_Recheck_20260930.md). The copied Pass 4 paragraph about German Bight/Humber is not evidence for B12. Historical text is retained below.
+
 > Repository review, 30 September 2026: historical research record. Current master fields, review flags and [repository audit](../repository_review_20260930/REVIEW.md) govern readiness. A previous PASS label is not a completeness certificate.
 
 # Stage 2 association audit: B12

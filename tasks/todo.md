@@ -1,21 +1,35 @@
-# Stage 2 for B20 to B29 (TSS-0096 to TSS-0145)
+# FC-A: final VTS count fact-check, Europe and Mediterranean (25 TSS)
 
-- [x] Build research inputs from the first-pass rows (five groups of two batches)
-- [x] Write `scripts/apply_stage2_update.py` and prove it changes nothing when given no updates
-- [x] Passes 1 to 3: research agents K1 to K5
-- [x] Pass 4: independent checks of every positive and every "Neither confirmed"
-- [x] Apply results (VTS-0200 to VTS-0209, VRS-0200, SRC-2000 to SRC-2090), write the ten Stage 2 audits
-- [x] Run `python3 scripts/validate_registers.py` and the unit tests (passed after every batch)
-- [x] Commit one batch at a time, push, open a PR (merge only with approval)
+Method: research/prompts/FINAL_TSS_LINKED_VTS_COUNT_FACT_CHECK_PROMPT.md, run as three regional
+macro-batches (FC-A, FC-B, FC-C) at the user's request instead of FC01 to FC14.
+
+- [x] Sync with main; merge the B12 recheck branch (review/b12-20260930) so TSS-0058 to 0060 are ingested, not redone
+- [x] Build five country-grouped research packages (F1 UK/NL, F2 Iceland/Spain, F3 Corsica/Tunisia, F4 Greece/Egypt, F5 Black Sea)
+- [x] Pass 1: primary authority research (five agents)
+- [x] Passes 2 to 4: independent source reopening, boundary check, identity/duplicate check
+- [x] Pass 5: count-impact audit and deduplication of new services against the 53
+- [x] Write data/current/Final_VTS_Count_Fact_Check.csv (69 rows, FC-A filled), Final_VTS_Count_New_Services.csv,
+      audits/stage3/final_count/FC-A_VTS_Count_Audit.md; update master rows by TSS ID; add services and sources
+- [x] Validator and tests pass; commit; push; PR (merge only with approval)
 
 ## Review
 
-Result for 50 TSS: 13 VTS + MRS, 4 VTS only, 1 MRS only, 0 Neither confirmed, 32 Unresolved.
-All ten batch audits: PASS WITH UNRESOLVED ITEMS.
+FC-A (25 TSS): 3 existing service (VTS-0044, from the B12 recheck), 2 new core (VTS-0210 Kerch Strait VTS,
+VTS-0211 Delta-Lotsman VTS), 3 records on 2 new supplemental services (VTS-0212 Iceland MTS, VTS-0213 CROSS Med /
+Corsica sémaphores), 3 no service (Off Skerries, Liverpool Bay, Thessaloniki), 14 unresolved.
+Running count: 53 + 2 core + 2 supplemental = 57 identities (not final; FC-B and FC-C pending).
+Project owner decisions: decision 6 (disputed-jurisdiction services counted, flagged); Iceland MTS supplemental.
+Checker corrections: Liverpool Bay to no service (1971 Act limit); Corsica to supplemental; Odesa to new service
+(Order 655 consolidated 2025). Another AI's FC-B audits landed on main during this work (audits only, no ID clash).
 
-Pass 4 changed: TSS-0100 and TSS-0101 (Neither confirmed to Unresolved), TSS-0106 (MRS only to
-VTS + MRS, VTS Croatia Sector A), TSS-0108 (VTS Croatia added), SAFREP recorded as voluntary
-(TSS-0143, TSS-0144), plus boundary wording on TSS-0096, 0120, 0124, 0125, 0135 and 0136.
+# Double-check of disputed and marginal VTS negatives (decision 7)
 
-TSS-0109 (Approaches to/from Koper) has no open item and is marked `audited`. The other 49 rows keep at
-least one review flag and are `reopened`, with specific open items in `data/current/Research_Gaps.csv`.
+- [x] Record decision 7: include by default on conflict
+- [x] Triage the whole register for marginal or disputed removals and no-VTS results
+- [x] Independent double-check per country group; apply decision 7
+- [x] Update register, fact-check table and audit; validator and tests; commit to the FC-A PR
+
+Result: 38 TSS double-checked (33 shortlisted, 7 Swedish knock-on, TSS-0176 for consistency; some overlap).
++11 core and +4 supplemental new services (VTS-0214 to VTS-0228); Nakhodka reuses VTS-0300 minted in FC-B.
+14 links flagged INCLUDED_BY_DEFAULT_ON_CONFLICT. Excluded after double-check: TSS-0053, 0101, 0107, 0192.
+Main's VTS_Entity_Register.csv (overwritten with PLACEHOLDER in ffa025d) is restored by this branch's merge.

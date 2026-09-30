@@ -39,3 +39,22 @@ They apply to every Stage 2 batch. Batches already written by this branch have b
 ## For other sessions
 
 Main's batches may contain cases these rules change, for example monitoring services outside a declared VTS area (such as Åland Sea Traffic, B03) and national reporting schemes. They have not been changed here.
+
+## Later decisions (final count fact-check)
+
+**Decision 6 (disputed jurisdiction):** a VTS operated by a party whose jurisdiction over the waters is disputed is recorded and counted as a core service, strictly as that party's claim, with the other party's position recorded alongside and the flag `DISPUTED_JURISDICTION_SERVICE`. Recording it does not endorse either position or imply current safe operation. First applied to TSS-0117 (Kerch Strait VTS, VTS-0210) in FC-A.
+
+**Classification note (FC-A):** the Icelandic Coast Guard Maritime Traffic Service (VTS-0212) is counted as a supplemental monitoring/information service, not a core VTS, because Iceland declares no VTS area and the governing Act gives it no traffic-organisation function.
+
+**Decision 7 (inclusion by default on conflict):** every VTS finding that is disputed or marginal and ended with a
+VTS link removed or recorded as no VTS is double-checked. Where the double-check still leaves the evidence in
+conflict, the service is **included** by default. Conflict means official sources disagree (one inside or monitored,
+another outside), or the TSS lies on or within source or datum precision of a service boundary, or the result turns
+on an interpretation choice that an official source supports either way. An unsuccessful search is not a conflict:
+it still leaves the record Unresolved. Included-by-default links carry the flag `INCLUDED_BY_DEFAULT_ON_CONFLICT`
+so they can be revisited if better evidence appears.
+
+**Classification note (decision 7 double-check):** monitoring of a TSS by a body that is not a VTS centre, where an
+official source names that monitoring responsibility, is counted as a **supplemental** service (not core VTS). This
+supersedes the earlier "stays a lead" note for the Irish Coast Guard at Tuskar and Fastnet (confirmed by the project
+owner, 30 September 2026). It does not change decision 1: such monitoring is still not VTS coverage.

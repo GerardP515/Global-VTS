@@ -1,0 +1,41 @@
+[
+  {
+    "source_id": "SRC-047",
+    "expected_record_sha256": "6cf7203a711e1d5f9ff3b8af2b57844de20fede84422fbfd5090c9866e494abf",
+    "changes": {
+      "last_recorded_access": "30 September 2026.",
+      "locator": "Week 41/2025, page 8, notice 261(P)/25. The PDF has 18 pages; the former approximate p.20 locator is not used.",
+      "review_verification": "Reopened during B12 recheck; full PDF retrieved from Defence and page 8 visually inspected. SHA-256 6bab41826b8402f00c570215764c5d06ce9761761e31ba918f505637639dd152.",
+      "use": "Nine coordinate vertices for VTS Off Texel, VHF 63, implementation date; comparison against individual TSS lanes."
+    }
+  },
+  {
+    "source_id": "SRC-062",
+    "expected_record_sha256": "3c7a7a89d182fb0dd93bc7d559146dc7311c04fb6e4cb2e65b0a42c3a95031c8",
+    "changes": {
+      "last_recorded_access": "30 September 2026.",
+      "review_verification": "Reopened during B12 recheck; pages 4, 6, 8, 10 and 11 read, including Appendix I map. SHA-256 b6b4bff60a3ee707db6b4eaafeece78a3aefe2607a6905f9ffe481e5fbfab365.",
+      "use": "Separates statutory/coastal VTS area, extended IJ-geul, VHF 61 arrival and supporting VHF 7 inbound information reports. Map is not a precise TSS boundary."
+    }
+  },
+  {
+    "source_id": "SRC-191",
+    "expected_record_sha256": "3ccc5d69c8f648573af54151c2982300a30d46f23b16d81ea9c0c71959bdf69f",
+    "changes": {
+      "last_recorded_access": "30 September 2026.",
+      "locator": "UKHO Weekly Edition 44/2025, printed page 2.56 / PDF page 70, notice 4791(P)/25; full weekly edition used for recheck.",
+      "review_verification": "Reopened full weekly edition 44wknm25.pdf at the same UKHO download endpoint. Coordinate table visually inspected; explicitly WGS84. SHA-256 1b02ef38fcbfb38a48c326aed4bca930c6fd0d4d42394cadcba0c11297ee5548."
+    }
+  },
+  {
+    "source_id": "SRC-195",
+    "expected_record_sha256": "7b437e395ff0938006c1a93a11f06485f48d2f878e8ba071869c17db6e0148a7",
+    "changes": {
+      "last_recorded_access": "30 September 2026.",
+      "source_date": "31 October 2025.",
+      "review_verification": "Reopened during B12 recheck; full authority webpage retrieved. SHA-256 f64abc43ef75b04326d24a447c35f235178194f51b0c8b1877b332f4dc887f45.",
+      "locator": "Sections Actieve verkeersbegeleiding and Ieder schip moet zich melden.",
+      "use": "H24 service, responsible authority and VHF 63 report for ships intending to enter the defined VTS area; no whole-route coverage inferred."
+    }
+  }
+]
