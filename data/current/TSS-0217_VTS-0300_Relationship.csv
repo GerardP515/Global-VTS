@@ -1,0 +1,2 @@
+tss_id,target_id,relationship_type,review_status,source_ids,coverage_note,audit_path
+TSS-0217,VTS-0300,recorded_vts_association,Review required,SRC-157; SRC-158,Partial. Sector 1B is the published approaches sector; TSS coordinates (IMO B-X/4) not plotted on the 1B polygon. Sector 2 is north of the entrance capes and does not by itself cover the approaches TSS.,audits/FC-B_VTS_Presence_Audit.md; audits/FC-B_Fact_Check.md
