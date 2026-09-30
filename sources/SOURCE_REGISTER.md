@@ -2692,3 +2692,27 @@ Off Cape S. Vicente"
 - Locator: servicesPage.navLinks.nav3; servicesPage.tabs.mostImportantProjects.keyProjects; servicesPage.tabs.shipTrafficInformation; navigationalWarningsPage.content.gulfOfSuez
 - Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "The available capabilities within the Vessel Traffic Information Management System (VTIMS) are utilized to accomplish its tasks across the Gulf of Suez, the southern Gulf of Aqaba, the northern Red Sea"
 - Use: Currency of the EAMS VTS service description: services menu item 'Vessel Traffic Services (VTS)', 2024/2025 investment plan items 'Radar monitoring and control (VTS)' and 'Regulation of navigation in the Suez Gulf', Gulf of Suez warnings to 4/2026. Note: the GOS VTIMS text sits under the key 'searchAndRescueSystem' and the VTIMS gulf-wide text under 'shipTrafficInformation' (the VTS tab)
+
+
+### SRC-2066 — Pub. 172 Sailing Directions (Enroute) Red Sea and the Persian Gulf
+
+- Authority: US National Geospatial-Intelligence Agency (NGA).
+- URL: https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub172bk.pdf&type=view
+- Evidence class: Tier 3
+- Edition or date: Twenty-fourth Edition, 2025; corrected to 30 August 2025, subsequent updates to 30 July 2026
+- Accessed: 2026-09-30
+- Locator: Sector 6, para 6.5 The Strait of Tiran (printed p. 92)
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "A Vessel Traffic Service Station (call sign: VTS Gulf of Aqaba) ... has been established to provide the following services: 1. Ensure safety of navigation within the Traffic Separation Scheme of the Gulf of Aqaba."
+- Use: TSS-0126: sailing directions describe a VTS station 'VTS Gulf of Aqaba' serving the Tiran TSS; operator, centre location and area polygon not stated
+
+
+### SRC-2072 — EAMS Projects page (search-result snippet only)
+
+- Authority: Egyptian Authority for Maritime Safety (EAMS).
+- URL: https://eams.gov.eg/Projects/ProjectsEN
+- Evidence class: Lead only
+- Edition or date: Unknown; page returned HTTP 404 on 30 September 2026
+- Accessed: 2026-09-30
+- Locator: n/a
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30.
+- Use: TSS-0126: snippet suggests an Egyptian VTMS/positioning system covering the Tiran Straits; not opened, not relied on
