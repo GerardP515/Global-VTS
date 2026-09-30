@@ -2,6 +2,10 @@
 
 Open items that must not be lost between batches. Not a substitute for the master workbook.
 
+## Block status
+
+B20–B29 pass 1 is on `main` (30 Sep 2026). README marked **Pass 1 complete — unresolved**. B30+ not edited. No workbook file exists in this repo.
+
 ## Instrument change dates
 
 ### VRS-0015 ADRIREP — In the Adriatic Sea
@@ -21,9 +25,15 @@ Affects TSS-0105 onward through the Adriatic batches (B21–B22 at least). One V
 
 UKHO ALRS rewrites (e.g. Wk 20/26) may lag the IMO annex. Prefer the IMO text when they differ.
 
+### STRAITREP
+
+B30 Stage 2 already records STRAITREP as **VRS-0016**. B29 only flagged the scheme at TSS-0145. Do not mint another ID.
+
 ## Other dated follow-ups
 
 - Overlay Banco del Hoyo (TSS-0097) against COPREP east 008°30'W and GIBREP west 005°58'W.
 - Confirm whether SASEMAR pages name Cabo de Gata / Cape Palos / Cape La Nao TSS.
 - Tunisian VTS users’ page for Cani Island and Cape Bon (TSS-0103, TSS-0104).
 - Corsica Channel (TSS-0102) vs CROSS Med / Italian coastal VTS — still not BONIFREP.
+- Physical-book check that TUBRAP is absent from Part I 2025.
+- Kerch / Crimea operator remains contested.

@@ -2,9 +2,11 @@
 
 Baseline: **224 named or explicitly enumerated TSS research entities**.
 
-The first **10 batches (50 TSS)** are the active research scope. B11 onward is paused until B01–B10 are complete and audited.
-
 The earlier `research/batches/` folder is retained for historical/reconciliation purposes.
+
+**B20–B29 (TSS-0096–TSS-0145):** first-pass association research is on `main` (29–30 Sep 2026). Audits: `audits/IMO2025_B20_Audit.md` … `IMO2025_B29_Audit.md`. Block note: `audits/IMO2025_B20-B29_Block_Close.md`. No new VTS/VRS IDs minted in this block. Master workbook file is not in the repo, so register rows were not written.
+
+**B30 onward** is untouched here (already Stage 2 complete by another pass, including VRS-0016 STRAITREP).
 
 | Batch | IDs | IMO parent refs | Scope status |
 |---|---|---|---|
@@ -27,16 +29,16 @@ The earlier `research/batches/` folder is retained for historical/reconciliation
 | [B17](B17.md) | TSS-0081–TSS-0085 | B-II/19, B-II/20 | **Stage 2 complete** |
 | [B18](B18.md) | TSS-0086–TSS-0090 | B-II/21, B-II/22, B-II/23, B-II/24, B-II/25 | **Stage 2 complete** |
 | [B19](B19.md) | TSS-0091–TSS-0095 | B-II/26, B-II/27, B-II/28, B-II/29 | **Stage 2 complete** |
-| [B20](B20.md) | TSS-0096–TSS-0100 | B-II/30, B-II/31, B-III/1, B-III/2, B-III/3 | Paused |
-| [B21](B21.md) | TSS-0101–TSS-0105 | B-III/4, B-III/5, B-III/6, B-III/7, B-III/8 | Paused |
-| [B22](B22.md) | TSS-0106–TSS-0110 | B-III/9, B-III/10, B-III/11 | Paused |
-| [B23](B23.md) | TSS-0111–TSS-0115 | B-III/12, B-III/13, B-III/14 | Paused |
-| [B24](B24.md) | TSS-0116–TSS-0120 | B-III/14, B-III/15, B-III/16, B-III/17, B-III/18 | Paused |
-| [B25](B25.md) | TSS-0121–TSS-0125 | B-III/19, B-III/20, B-III/21, B-III/22, B-IV/1 | Paused |
-| [B26](B26.md) | TSS-0126–TSS-0130 | B-IV/2, B-IV/3, B-IV/4, B-IV/5, B-IV/6 | Paused |
-| [B27](B27.md) | TSS-0131–TSS-0135 | B-IV/7, B-IV/8, B-IV/9, B-IV/10, B-IV/11 | Paused |
-| [B28](B28.md) | TSS-0136–TSS-0140 | B-IV/12, B-IV/13, B-IV/14, B-IV/15 | Paused |
-| [B29](B29.md) | TSS-0141–TSS-0145 | B-IV/15, B-IV/16, B-IV/17, B-IV/18, B-V/1 | Paused |
+| [B20](B20.md) | TSS-0096–TSS-0100 | B-II/30, B-II/31, B-III/1, B-III/2, B-III/3 | **Pass 1 complete — unresolved** |
+| [B21](B21.md) | TSS-0101–TSS-0105 | B-III/4, B-III/5, B-III/6, B-III/7, B-III/8 | **Pass 1 complete — unresolved** |
+| [B22](B22.md) | TSS-0106–TSS-0110 | B-III/9, B-III/10, B-III/11 | **Pass 1 complete — unresolved** |
+| [B23](B23.md) | TSS-0111–TSS-0115 | B-III/12, B-III/13, B-III/14 | **Pass 1 complete — unresolved** |
+| [B24](B24.md) | TSS-0116–TSS-0120 | B-III/14, B-III/15, B-III/16, B-III/17, B-III/18 | **Pass 1 complete — unresolved** |
+| [B25](B25.md) | TSS-0121–TSS-0125 | B-III/19, B-III/20, B-III/21, B-III/22, B-IV/1 | **Pass 1 complete — unresolved** |
+| [B26](B26.md) | TSS-0126–TSS-0130 | B-IV/2, B-IV/3, B-IV/4, B-IV/5, B-IV/6 | **Pass 1 complete — unresolved** |
+| [B27](B27.md) | TSS-0131–TSS-0135 | B-IV/7, B-IV/8, B-IV/9, B-IV/10, B-IV/11 | **Pass 1 complete — unresolved** |
+| [B28](B28.md) | TSS-0136–TSS-0140 | B-IV/12, B-IV/13, B-IV/14, B-IV/15 | **Pass 1 complete — unresolved** |
+| [B29](B29.md) | TSS-0141–TSS-0145 | B-IV/15, B-IV/16, B-IV/17, B-IV/18, B-V/1 | **Pass 1 complete — unresolved** |
 | [B30](B30.md) | TSS-0146–TSS-0150 | B-V/2, B-V/3, B-V/4, B-V/5, B-V/6 | **Stage 2 complete** |
 | [B31](B31.md) | TSS-0151–TSS-0155 | B-V/7, B-V/8, B-V/9, B-V/10, B-V/11 | **Stage 2 complete** |
 | [B32](B32.md) | TSS-0156–TSS-0160 | B-V/11, B-V/12, B-VI/1, B-VI/2 | **Stage 2 complete** |
