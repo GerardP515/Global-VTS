@@ -1716,3 +1716,14 @@ Third-party material may identify a lead. It must not establish current operatio
 - Use (B41): Sea buoy position, pilot boarding, Capitanía de Puerto listening watch on VHF 12.
 - Locator: Información General CCTM.
 - Passage: "La Capitanía de Puerto está a la escucha en canal VHF 12."
+
+### SRC-179 — data/authoritative/IMO_2025_Mandatory_Reporting_Systems.csv
+
+- Authority: Global VTS project (IMO Ships' Routeing 2025 Edition, Part I).
+- URL: repository file
+- Evidence class: Tier 1.
+- Edition or date: Ships' Routeing 2025 Edition baseline.
+- Accessed: 29 September 2026.
+- Use (B39): The 23 IMO-adopted mandatory ship reporting systems include none for Peru, Chile or Canada (nearest: VRS-0019 GALREP, Ecuador)
+- Locator: rows VRS-0001 to VRS-0023.
+- Passage: "I-I/19,In the Galapagos Particularly Sensitive Sea Area [GALREP],...,VRS-0019"
