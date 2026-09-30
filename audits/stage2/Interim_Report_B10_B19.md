@@ -91,7 +91,7 @@ Distinct VTS services linked in this block rise from 6 to 7. The "Neither confir
 
 This work was first done on a branch with reserved IDs (VTS-0101 onward, SRC-Bxx-nn) to avoid clashing with parallel sessions.
 It has since been merged into main's canonical registers: the six VTS are VTS-0022 to VTS-0027 in `data/current/VTS_Entity_Register.csv`,
-and the 56 sources are SRC-042 to SRC-097 in `sources/SOURCE_REGISTER.md`. The mappings are in `research/stage2/id_mapping_b10_b19.csv` (branch IDs) and `research/stage2/id_mapping_resync.csv` (later re-syncs with main).
+and the 56 sources are SRC-045 to SRC-100 in `sources/SOURCE_REGISTER.md`. The mappings are in `research/stage2/id_mapping_b10_b19.csv` (branch IDs) and `research/stage2/id_mapping_resync.csv` (later re-syncs with main).
 
 ## Files
 

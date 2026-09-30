@@ -217,7 +217,32 @@ Third-party material may identify a lead. It must not establish current operatio
 - Use: Current Göteborg VTS boundary. Southern boundary is latitude 57°31.9'N on 30 September 2026; this confirms TSS Fladen, around 57°13'N–57°15'N, lies outside the VTS area.
 - Note: A published boundary amendment takes effect 1 October 2026, moving the southern limit to about 57°30.6'N. This does not affect the Fladen conclusion.
 
-### SRC-042 — COLREG.2/Circ.66/Corr.1 Amended traffic separation schemes, corrigendum (corrected annex 3 'Off Friesland')
+### SRC-042 — NCSR 10/INF.7, Denmark and Sweden Route S experience
+
+- Submitters: Denmark and Sweden; hosted by Danish Maritime Authority.
+- URL: https://www.soefartsstyrelsen.dk/Media/638197316856841051/NCSR%2010-INF.7%20-%20Experience%20gained%20from%20the%20establishment%20of%20traffic%20separation%20schemes%20and%20other%20routeing...%20%28Denmark%20and%20Sweden%29.pdf
+- Evidence class: Primary intergovernmental submission / official administration source.
+- Accessed: 30 September 2026.
+- Use: Explicit statement that TSS Entrance to the Sound is situated within mandatory SOUNDREP, operated by Sound VTS. Also documents Route S and the new TSS Lilla Middelgrund.
+
+### SRC-043 — MCA MGN 610 (M+F) Amendment 1, SOLAS chapter V guidance
+
+- Authority: UK Maritime and Coastguard Agency.
+- URL: https://www.gov.uk/government/publications/mgn-610-mf-amendment-1-solas-chapter-v-guidance-on-the-merchant-shipping-safety-of-navigation-regulations-2020/mgn-610-mf-amendment-1-navigation-solas-chapter-v-guidance-on-the-merchant-shipping-safety-of-navigation-regulations-2020
+- Evidence class: Primary national guidance.
+- Published/updated: 2025 page version checked on 30 September 2026.
+- Use: Confirms WETREP remains a mandatory IMO ship reporting system, with a reporting area extending from southern Portugal to the Shetland Islands; separately lists UK voluntary reporting schemes including the Isles of Scilly.
+
+### SRC-044 — IMO Resolution MSC.190(79), WETREP
+
+- Authority: International Maritime Organization.
+- URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.190%2879%29.pdf
+- Evidence class: Primary adopted IMO instrument.
+- Adopted: 6 December 2004.
+- Accessed: 30 September 2026.
+- Use: Establishes the mandatory West European Tanker Reporting System (WETREP) in the Western European PSSA and defines participating ship categories and system geography.
+
+### SRC-045 — COLREG.2/Circ.66/Corr.1 Amended traffic separation schemes, corrigendum (corrected annex 3 'Off Friesland')
 
 - Authority: IMO Maritime Safety Committee.
 - URL: https://mindev.gov.ua/storage/app/sites/1/uploaded-files/colreg2-circ66-corr1-corrigendum-secretariat.pdf
@@ -228,7 +253,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Annex, East Friesland scheme paras (u)-(w) (government mirror).
 - Passage: "Existing position 32 is shifted east to new position (84) 54 03'.26 N 005 08'. 65 E"
 
-### SRC-043 — Scheepvaartreglement territoriale zee (BWBR0007914), Bijlage 1 Aanloopgebieden, art. 1, 2 and 5a
+### SRC-046 — Scheepvaartreglement territoriale zee (BWBR0007914), Bijlage 1 Aanloopgebieden, art. 1, 2 and 5a
 
 - Authority: Kingdom of the Netherlands (wetten.overheid.nl).
 - URL: https://wetten.overheid.nl/BWBR0007914/
@@ -239,7 +264,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Bijlage 1 (d) and (f); art. 5a.
 - Passage: "vandaar in een zeewaarts gerichte boog met een straal van 12 zeemijlen gerekend vanuit het referentiepunt"
 
-### SRC-044 — Berichten aan Zeevarenden / Notices to Mariners week 41-2025, BaZ 261(P)/25 'Noordzee. TSS Off Texel en TSS Off Vlieland' (VTS Off Texel) and ODAS buoy entries 'near TSS off Botney Ground'
+### SRC-047 — Berichten aan Zeevarenden / Notices to Mariners week 41-2025, BaZ 261(P)/25 'Noordzee. TSS Off Texel en TSS Off Vlieland' (VTS Off Texel) and ODAS buoy entries 'near TSS off Botney Ground'
 
 - Authority: Dienst der Hydrografie (Netherlands Hydrographic Service).
 - URL: https://www.defensie.nl/site/binaries/site-content/collections/baz-weekly-editions/2025/41/wkly_y2025_w41_baz257_265.pdf
@@ -250,7 +275,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Page 8, notice *261(P)/25; buoy list near p.20.
 - Passage: "To enhance the safety of maritime traffic in the traffic separation schemes off the coast of Texel and Vlieland ... a VESSEL TRAFFIC SERVICE SECTOR will be established."
 
-### SRC-045 — Vessel Traffic Monitoring (VTMon)
+### SRC-048 — Vessel Traffic Monitoring (VTMon)
 
 - Authority: Kustwacht Nederland (Netherlands Coastguard).
 - URL: https://kustwacht.nl/hulpverlening/vtm/
@@ -261,7 +286,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Page body.
 - Passage: "Vessel Traffic Monitoring (VTMon) is een nieuwe taak van de Kustwacht."
 
-### SRC-046 — IMO_2025_Mandatory_Reporting_Systems.csv (IMO Ships' Routeing 2025 Part I inventory, VRS-0001 to VRS-0023)
+### SRC-049 — IMO_2025_Mandatory_Reporting_Systems.csv (IMO Ships' Routeing 2025 Part I inventory, VRS-0001 to VRS-0023)
 
 - Authority: Global VTS project.
 - URL: data/authoritative/IMO_2025_Mandatory_Reporting_Systems.csv
@@ -272,7 +297,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Rows I-I/1 to I-I/23.
 - Passage: "n/a (project dataset)"
 
-### SRC-047 — Besluit routerings- en meldingssystemen voor schepen in volle zee voor de Nederlandse kust (BWBR0008956)
+### SRC-050 — Besluit routerings- en meldingssystemen voor schepen in volle zee voor de Nederlandse kust (BWBR0008956)
 
 - Authority: Kingdom of the Netherlands (wetten.overheid.nl).
 - URL: https://wetten.overheid.nl/BWBR0008956/
@@ -283,7 +308,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Artikel 2.
 - Passage: "buiten de Nederlandse territoriale zee, overeenkomstig richtlijnen en criteria van de Internationale Maritieme Organisatie, routeringssystemen en meldingssystemen worden vastgesteld"
 
-### SRC-048 — Regeling routerings- en meldingssystemen voor schepen in volle zee voor de Nederlandse kust (BWBR0033648)
+### SRC-051 — Regeling routerings- en meldingssystemen voor schepen in volle zee voor de Nederlandse kust (BWBR0033648)
 
 - Authority: Minister van Infrastructuur en Milieu / Waterstaat (wetten.overheid.nl; original Stcrt. 2013, 19233).
 - URL: https://wetten.overheid.nl/BWBR0033648/
@@ -294,7 +319,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Inhoudsopgave §1-§4; Stcrt. 2013, 19233 artikelen 2-8.
 - Passage: "§ 2 Routeringssysteem Noord Hinder – Duitse Bocht ... § 3 Gebieden die dienen te worden gemeden"
 
-### SRC-049 — COLREG.2/Circ.59 New and amended existing traffic separation schemes (annex 4: Mandatory route for tankers from North Hinder to the German Bight)
+### SRC-052 — COLREG.2/Circ.59 New and amended existing traffic separation schemes (annex 4: Mandatory route for tankers from North Hinder to the German Bight)
 
 - Authority: IMO Maritime Safety Committee.
 - URL: https://cimrc.shmtu.edu.cn/_upload/article/files/63/dc/35c66be74d12873254dc88a2ef00/465d5392-0ba5-4f33-8e61-a48e3499b1b3.pdf
@@ -305,7 +330,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Annex 4, page 2.
 - Passage: "Shipmasters should enter this deviation in the ships' log."
 
-### SRC-050 — COLREG.2/Circ.67 New and amended traffic separation schemes (annex 3: 'In the approaches to Hook of Holland and at North Hinder', consolidated and superseding B-II/10)
+### SRC-053 — COLREG.2/Circ.67 New and amended traffic separation schemes (annex 3: 'In the approaches to Hook of Holland and at North Hinder', consolidated and superseding B-II/10)
 
 - Authority: IMO Maritime Safety Committee.
 - URL: https://cimrc.shmtu.edu.cn/_upload/article/files/63/dc/35c66be74d12873254dc88a2ef00/65c44f78-cf76-44e1-aa8a-6727556bcb18.pdf
@@ -316,7 +341,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Annex 3, pages 1-6 (third-party mirror of the IMO circular; text checked against the IMO document header).
 - Passage: "This amended routeing system consolidates and supersedes existing TSS "In the approaches to Hook of Holland and at North Hinder" (part B, page II/10)"
 
-### SRC-051 — Port Information Guide, Port of Rotterdam, version 2026.1
+### SRC-054 — Port Information Guide, Port of Rotterdam, version 2026.1
 
 - Authority: Port of Rotterdam Authority.
 - URL: https://www.portofrotterdam.com/sites/default/files/2026-02/port-information-guide.pdf
@@ -327,7 +352,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Page 18 'Nautical services'; page 4 'In port reports'.
 - Passage: "Service Area Description: Extending 38 nautical miles seawards of the port entrance"
 
-### SRC-052 — Procedure VHF-communicatie VTS en HCC, versie 2.0 (incl. Bijlage 1 VHF-kanalen and Bijlage 2 Toepassingsgebied sector chart)
+### SRC-055 — Procedure VHF-communicatie VTS en HCC, versie 2.0 (incl. Bijlage 1 VHF-kanalen and Bijlage 2 Toepassingsgebied sector chart)
 
 - Authority: Port of Rotterdam Authority (Havenmeester van Rotterdam, DHMR).
 - URL: https://www.portofrotterdam.com/sites/default/files/2026-05/procedure-vhf-communicatie-vts-hcc-2026_0.pdf
@@ -338,7 +363,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Section 2 Toepassingsgebied; section 10; Bijlage 1 (p.8); Bijlage 2 chart (p.9). PDF is image-only; read visually.
 - Passage: "Vanuit zee, VHF-kanaal 1 (sector Maas Aanloop)."
 
-### SRC-053 — Beleidsregel Procedure VHF-communicatie VTS en HCC 2026 (Staatscourant 2026, 8272; reissued 8272-n1)
+### SRC-056 — Beleidsregel Procedure VHF-communicatie VTS en HCC 2026 (Staatscourant 2026, 8272; reissued 8272-n1)
 
 - Authority: Havenmeester van Rotterdam (Staatscourant).
 - URL: https://zoek.officielebekendmakingen.nl/stcrt-2026-8272.html
@@ -349,7 +374,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Artikel 1; Bijlage, section 2.
 - Passage: "Met ingang van 1 februari 2026 is in het aanloopgebied Rotterdam en het Rotterdamse havengebied de regeling ... van kracht."
 
-### SRC-054 — Marifoonblokindeling VTS-Scheldegebied, versie 4.0 (folder with sector chart and outer-limit coordinates)
+### SRC-057 — Marifoonblokindeling VTS-Scheldegebied, versie 4.0 (folder with sector chart and outer-limit coordinates)
 
 - Authority: Gemeenschappelijk Nautisch Beheer / Kustwacht (Belgium).
 - URL: https://kustwacht.be/sites/default/files/legacy_files/marifoonblokindeling_2.pdf
@@ -360,7 +385,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Page 2 chart.
 - Passage: "kaartje niet voor navigatiedoeleinden"
 
-### SRC-055 — MGN 364 (M+F) Navigation: Traffic Separation Schemes - Application of Rule 10 and Navigation in the Dover Strait
+### SRC-058 — MGN 364 (M+F) Navigation: Traffic Separation Schemes - Application of Rule 10 and Navigation in the Dover Strait
 
 - Authority: Maritime and Coastguard Agency (UK).
 - URL: https://assets.publishing.service.gov.uk/media/5e2efbc840f0b62c47c5466f/MGN_364_all_tagged.pdf
@@ -371,7 +396,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Section 3 (reporting); 4.7.
 - Passage: "call Dover Coastguard via VHF Ch.11 not later than crossing a line drawn from North Foreland Light (51o 23'N; 001o 27'E) to the border between France and Belgium"
 
-### SRC-056 — NL NtM 183/17, correction to HP1 (Netherlands hydrographic publication): section '15 - TSS Off North Hinder'
+### SRC-059 — NL NtM 183/17, correction to HP1 (Netherlands hydrographic publication): section '15 - TSS Off North Hinder'
 
 - Authority: Dienst der Hydrografie.
 - URL: https://www.defensie.nl/site/binaries/site-content/collections/baz-weekly-editions/2017/22/blck_hp1_y2017_baz183.pdf
@@ -382,7 +407,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Page 1.
 - Passage: "15 – TSS Off North Hinder No particular information available."
 
-### SRC-057 — COLREG.2/Circ.64 New and amended existing traffic separation schemes (annex 1: 'In the approaches to IJmuiden')
+### SRC-060 — COLREG.2/Circ.64 New and amended existing traffic separation schemes (annex 1: 'In the approaches to IJmuiden')
 
 - Authority: IMO Maritime Safety Committee.
 - URL: https://fma.fo/wp-content/uploads/2016/09/2013_02_Nautical_COLREG.2-Circ.64_New-and-amended-Existing-Traffic-Separation-Schemes.pdf
@@ -393,7 +418,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Annex 1, page 1 (mirror copy hosted by Faroe Islands Maritime Authority).
 - Passage: "IJmuiden West Inner traffic separation scheme (a) A separation zone to the north of the IJmuiden-geul is bounded by a line connecting the following geographical positions"
 
-### SRC-058 — Regeling aanwijzing bevoegde autoriteiten Scheepvaartreglement territoriale zee (BWBR0008644)
+### SRC-061 — Regeling aanwijzing bevoegde autoriteiten Scheepvaartreglement territoriale zee (BWBR0008644)
 
 - Authority: Minister van Verkeer en Waterstaat (wetten.overheid.nl).
 - URL: https://wetten.overheid.nl/BWBR0008644/
@@ -404,7 +429,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Artikel 1, onderdelen b, d, g.
 - Passage: "d. voor het aanloopgebied IJmuiden: de directeur van het Centraal Nautisch Beheer Noordzeekanaalgebied"
 
-### SRC-059 — Regulations for VTS Communication and the supporting VHF maritime radio-telephone channels (Regeling communicatie VTS en overige VHF-diensten en kanalen), version 2.0, NL/EN
+### SRC-062 — Regulations for VTS Communication and the supporting VHF maritime radio-telephone channels (Regeling communicatie VTS en overige VHF-diensten en kanalen), version 2.0, NL/EN
 
 - Authority: Centraal Nautisch Beheer Noordzeekanaalgebied (published by Port of Amsterdam).
 - URL: https://www.portofamsterdam.com/sites/default/files/2025-09/2025-479_VTS%20communicatieregeling%202.0%20def_NLEN_rev.pdf
@@ -415,7 +440,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Scope of application (p.4); Section B.1 (p.6); Section 8 (p.8); Appendix I (p.10).
 - Passage: "the approaches to IJmuiden, defined as the section of the Territorial Sea (including Anchorages 6, 7, and 8) within a 12-nautical-mile radius of the seaward ends of the IJmuiden breakwaters"
 
-### SRC-060 — Scheepvaartreglement territoriale zee (BWBR0007914)
+### SRC-063 — Scheepvaartreglement territoriale zee (BWBR0007914)
 
 - Authority: Kingdom of the Netherlands (wetten.overheid.nl).
 - URL: https://wetten.overheid.nl/BWBR0007914
@@ -426,7 +451,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Art. 2(d)-(e), art. 5, Bijlage 1.
 - Passage: "meldt zich voordat hij de Nederlandse territoriale zee binnenvaart op het bij ministeriële regeling aangewezen marifoonkanaal aan de bevoegde autoriteit."
 
-### SRC-061 — Resolution MSC.190(79) Mandatory ship reporting system in the Western European PSSA (WETREP)
+### SRC-064 — Resolution MSC.190(79) Mandatory ship reporting system in the Western European PSSA (WETREP)
 
 - Authority: IMO (archive copy, University of Hawaii Jon Van Dyke collection).
 - URL: https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/0e352943-f5a1-4212-99ff-364902266ba1/content
@@ -437,7 +462,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Annex 1 para 2.1, points 1 and 19-20.
 - Passage: "19 (B) 51° 22'25" N ... 003° 21'52".5 E (border between Band NL) 20 (UK) 52° 12' N UK east coast"
 
-### SRC-062 — Verkeerscentrales
+### SRC-065 — Verkeerscentrales
 
 - Authority: Kustwacht Nederland.
 - URL: https://kustwacht.nl/maritieme-organisaties/verkeerscentrales/
@@ -448,7 +473,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Page body.
 - Passage: "Het coördineren en begeleiden van scheepvaart wordt Vessel Traffic Service (VTS) genoemd."
 
-### SRC-063 — Regeling meldingen en communicatie scheepvaart (BWBR0031567)
+### SRC-066 — Regeling meldingen en communicatie scheepvaart (BWBR0031567)
 
 - Authority: Kingdom of the Netherlands (wetten.overheid.nl).
 - URL: https://wetten.overheid.nl/BWBR0031567
@@ -459,7 +484,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Art. 20; Bijlage behorend bij artikel 2.
 - Passage: "voor de territoriale zee, behoudens de aanloopgebieden Directeur Kustwacht Nederland"
 
-### SRC-064 — AnlBV Anhang (zu § 1 Abs. 1 Nr. 1.17): chart defining the Innere Deutsche Bucht, in Zwölfte Verordnung zur Änderung seeverkehrsrechtlicher Vorschriften
+### SRC-067 — AnlBV Anhang (zu § 1 Abs. 1 Nr. 1.17): chart defining the Innere Deutsche Bucht, in Zwölfte Verordnung zur Änderung seeverkehrsrechtlicher Vorschriften
 
 - Authority: Bundesgesetzblatt (official gazette), copy hosted by OffeneGesetze.de.
 - URL: https://media.offenegesetze.de/bgbl1/2005/bgbl1_2005_47.pdf#page=33
@@ -470,7 +495,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: p. 2297, chart legend and geometry (read by rendering the page; longitudes estimated from the chart graticule, about +/-2').
 - Passage: "Innere Deutsche Bucht im Sinne der Nummer 1.17 der Anlage ist der Bereich, der durch den UKW-Kanal 80 abgedeckt wird und in der Karte dargestellt ist."
 
-### SRC-065 — Anlaufbedingungsverordnung (AnlBV), Anlage (zu § 1 Abs. 1), current consolidated text
+### SRC-068 — Anlaufbedingungsverordnung (AnlBV), Anlage (zu § 1 Abs. 1), current consolidated text
 
 - Authority: Federal Republic of Germany (BMJ / gesetze-im-internet.de).
 - URL: https://www.gesetze-im-internet.de/anlbv_2004/anlage.html
@@ -481,7 +506,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Anlage Nr. 1.17, 3.1, 5.1, 6, 8.
 - Passage: "unabhängig davon, ob das Verkehrstrennungsgebiet „German Bight Western Approach“ benutzt wird, beim Passieren des Meridians 007° 10' E | 5.1 Der Schiffsverkehr wird im Rahmen der maritimen Verkehrssicherung überwacht."
 
-### SRC-066 — ELWIS - Verkehrszentralen
+### SRC-069 — ELWIS - Verkehrszentralen
 
 - Authority: Generaldirektion Wasserstraßen und Schifffahrt (ELWIS).
 - URL: https://www.elwis.de/DE/Seeschifffahrt/Verkehrs-und-Sicherheitsmanagement/Verkehrszentralen/Verkehrszentralen-node.html
@@ -492,7 +517,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Verkehrszentrale Wilhelmshaven; Verkehrszentrale Cuxhaven.
 - Passage: "Verkehrszentrale Wilhelmshaven (Externer Link) Seegebiet zwischen der Ems und Elbe sowie der Jade bis Wilhelmshaven VTS-Sector and call sign VHF-Channel Telephon German Bight Traffic 16/79/80"
 
-### SRC-067 — ELWIS - Maritime Verkehrssicherung
+### SRC-070 — ELWIS - Maritime Verkehrssicherung
 
 - Authority: Generaldirektion Wasserstraßen und Schifffahrt (ELWIS).
 - URL: https://www.elwis.de/DE/Seeschifffahrt/Verkehrs-und-Sicherheitsmanagement/Verkehrszentralen/Maritime-Verkehrssicherung/Maritime-Verkehrssicherung-node.html
@@ -503,7 +528,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Page body.
 - Passage: "Die WSV hat die Umsetzung der Verpflichtung nach Regel 12 "Verkehrssicherungsdienste", Kapitel V, SOLAS durch die Einrichtung von Verkehrszentralen umgesetzt."
 
-### SRC-068 — Verkehrszentralen (WSA Weser-Jade-Nordsee)
+### SRC-071 — Verkehrszentralen (WSA Weser-Jade-Nordsee)
 
 - Authority: Wasserstraßen- und Schifffahrtsamt Weser-Jade-Nordsee (WSV).
 - URL: https://www.wsa-weser-jade-nordsee.wsv.de/Webs/WSA/Weser-Jade-Nordsee/DE/Schifffahrt/Verkehrszentralen/verkehrsundrevierzentralen_node.html
@@ -514,7 +539,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Verkehrszentrale Wilhelmshaven.
 - Passage: "Von Wilhelmshaven aus erfolgt die Überwachung des Schiffsverkehrs der inneren deutschen Bucht von Borkum bis Helgoland und der Jade."
 
-### SRC-069 — SeeSchStrO § 58 Schifffahrtspolizeiliche Meldungen
+### SRC-072 — SeeSchStrO § 58 Schifffahrtspolizeiliche Meldungen
 
 - Authority: Generaldirektion Wasserstraßen und Schifffahrt (ELWIS).
 - URL: https://www.elwis.de/DE/Schifffahrtsrecht/Seeschifffahrtsrecht/SeeSchStrO/Achter-Abschnitt/58/58-node.html
@@ -525,7 +550,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: § 58(1).
 - Passage: "haben der nach § 60 Absatz 1 bekannt gemachten Verkehrszentrale folgende Angaben zu melden"
 
-### SRC-070 — Bekanntmachung zur Seeschifffahrtsstraßen-Ordnung vom 28. Januar 2014
+### SRC-073 — Bekanntmachung zur Seeschifffahrtsstraßen-Ordnung vom 28. Januar 2014
 
 - Authority: Generaldirektion Wasserstraßen und Schifffahrt, Außenstelle Nord.
 - URL: https://www.bundesanzeiger.de/pub/publication/gfKDNVi8i3yMiqFNmCE/content/gfKDNVi8i3yMiqFNmCE/BAnz%20AT%2031.01.2014%20B7.pdf
@@ -536,7 +561,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Nr. 29.1.2.1 and 29.1.4, pp. 34-35.
 - Passage: "Cuxhaven für den Bereich vom Tonne Elbe bis zum Tonnenpaar 53, 54/Reede über UKW-Kanal 71 Küstenfunkstelle Cuxhaven Elbe Traffic"
 
-### SRC-071 — Verkehrszentrale Cuxhaven
+### SRC-074 — Verkehrszentrale Cuxhaven
 
 - Authority: Wasserstraßen- und Schifffahrtsamt Elbe-Nordsee (WSV).
 - URL: https://www.wsa-elbe-nordsee.wsv.de/Webs/WSA/Elbe-Nordsee/DE/2_Schifffahrt/4_Verkehrszentralen/2_Cuxhaven/Cuxhaven_node.html
@@ -547,7 +572,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Page body.
 - Passage: "Sie ist zuständig für die Sicherheit und Leichtigkeit des Schiffsverkehrs auf der Seeschifffahrtsstraße Elbe im Bereich der Elbeansteuerung bis Brunsbüttel, die Seeraumüberwachung um die Offshore-Windparks in der ausschließlichen Wirtschaftszone"
 
-### SRC-072 — VTS Information (VTS Humber description)
+### SRC-075 — VTS Information (VTS Humber description)
 
 - Authority: Associated British Ports, Humber Estuary Services (Statutory Harbour Authority).
 - URL: https://humber.com/estuary_information/marine_information/vessel-traffic-services/vts-description
@@ -558,7 +583,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: VTS area; Reporting points; Types of Service.
 - Passage: "Mariners are required to report to VTS, HUMBER on VHF when passing the following reporting points: Outer Binks Light Buoy, Outer Sea Reach Light Buoy or Outer Rosse Reach Light Buoy."
 
-### SRC-073 — Kystverket WFS layer 'VTS tjenesteområde 2021 versjon 2' (layer_696)
+### SRC-076 — Kystverket WFS layer 'VTS tjenesteområde 2021 versjon 2' (layer_696)
 
 - Authority: Norwegian Coastal Administration (Kystverket).
 - URL: https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_696&srsName=EPSG:4326
@@ -569,7 +594,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Features 1 to 6 (attributes omraadenavn, forskriftsreferanse).
 - Passage: "Melkøya tjenesteområde ... Sjøtrafikkforskriften §6"
 
-### SRC-074 — Forskrift om bruk av sjøtrafikksentralenes tjenesteområde og bruk av bestemte farvann (sjøtrafikkforskriften), FOR-2021-02-10-523
+### SRC-077 — Forskrift om bruk av sjøtrafikksentralenes tjenesteområde og bruk av bestemte farvann (sjøtrafikkforskriften), FOR-2021-02-10-523
 
 - Authority: Lovdata / Ministry of Transport (Norway).
 - URL: https://lovdata.no/dokument/SF/forskrift/2021-02-10-523
@@ -580,7 +605,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: §6; Kapittel 5 §§169 to 172.
 - Passage: "Horten tjenesteområde, Brevik tjenesteområde, Kvitsøy tjenesteområde, Fedje tjenesteområde, Kinn tjenesteområde, Melkøya tjenesteområde"
 
-### SRC-075 — Vessel Traffic Service (VTS) centres (contact page)
+### SRC-078 — Vessel Traffic Service (VTS) centres (contact page)
 
 - Authority: Norwegian Coastal Administration (Kystverket).
 - URL: https://www.kystverket.no/en/contact/vts-service/
@@ -591,7 +616,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Final contact block.
 - Passage: "Information service for Barents SRS and routing schemes (TSS) in Norway - NOR VTS"
 
-### SRC-076 — About the Vessel Traffic Service (VTS)
+### SRC-079 — About the Vessel Traffic Service (VTS)
 
 - Authority: Norwegian Coastal Administration (Kystverket).
 - URL: https://www.kystverket.no/en/navigation-and-monitoring/vts---vessel-traffic-service/about-the-vessel-traffic-service-vts/
@@ -602,7 +627,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Section 'Vardø VTS centre'.
 - Passage: "The centre monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast."
 
-### SRC-077 — SN.1/Circ.318, New mandatory ship reporting system 'In the Barents Area (Barents SRS)', annex resolution MSC.348(91)
+### SRC-080 — SN.1/Circ.318, New mandatory ship reporting system 'In the Barents Area (Barents SRS)', annex resolution MSC.348(91)
 
 - Authority: IMO (Maritime Safety Committee).
 - URL: https://fma.fo/wp-content/uploads/2016/12/2013_navigational_03_sn_circ-318_new-mandatory-ship-reporting-system-in-the-barents-area.pdf
@@ -613,7 +638,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Annex paras 1.1, 2.1 and 3.1.1 (copy hosted by the Faroese Maritime Authority, fma.fo; text is the IMO circular itself).
 - Passage: "All Barents SRS reports must be sent to either Vardø VTS centre or Murmansk VTS centre."
 
-### SRC-078 — Barents Ship Reporting System
+### SRC-081 — Barents Ship Reporting System
 
 - Authority: Norwegian Coastal Administration (Kystverket).
 - URL: https://www.kystverket.no/en/klima-og-barekraft/barents-srs/
@@ -624,7 +649,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Main text.
 - Passage: "The traffic separation systems off the Norwegian coast from Vardø to Røst are within the operational area of Barents SRS."
 
-### SRC-079 — Kystverket WFS layer 'TSS områder' (layer_706), services.kystverket.no
+### SRC-082 — Kystverket WFS layer 'TSS områder' (layer_706), services.kystverket.no
 
 - Authority: Norwegian Coastal Administration (Kystverket).
 - URL: https://services.kystverket.no/wfs.ashx?service=WFS&version=1.1.0&request=GetFeature&typeName=layer_706&srsName=EPSG:4326
@@ -635,7 +660,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Features 50 to 79 (attribute tss_navn).
 - Passage: "Trafikkseparasjonssystem utenfor Træna"
 
-### SRC-080 — Resolution MSC.190(79), Mandatory ship reporting system in the Western European PSSA (WETREP)
+### SRC-083 — Resolution MSC.190(79), Mandatory ship reporting system in the Western European PSSA (WETREP)
 
 - Authority: IMO (Maritime Safety Committee).
 - URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.190(79).pdf
@@ -646,7 +671,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Annex para 2.1, points 1 to 4.
 - Passage: "2 (UK) 58° 30’ N 000° W 3 (UK) 62° N 000° W"
 
-### SRC-081 — Navigation rules (TSS in the Norwegian economic zone)
+### SRC-084 — Navigation rules (TSS in the Norwegian economic zone)
 
 - Authority: Norwegian Coastal Administration (Kystverket).
 - URL: https://www.kystverket.no/en/navigation-and-monitoring/vts---vessel-traffic-service/sailing-rules/
@@ -657,7 +682,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Section 'Navigation rules in the Norwegian economic zone (TSS)'.
 - Passage: "Vessels in international traffic that may represent a high environmental risk must follow route measures that take these vessels further off the coast."
 
-### SRC-082 — Maritime Traffic Regulations (unofficial English translation of Forskrift om sjøtrafikk i bestemte farvann og om rutetiltak, FOR-2021-02-10-523)
+### SRC-085 — Maritime Traffic Regulations (unofficial English translation of Forskrift om sjøtrafikk i bestemte farvann og om rutetiltak, FOR-2021-02-10-523)
 
 - Authority: Norwegian Coastal Administration (Kystverket), for the Ministry of Transport.
 - URL: https://www.kystverket.no/globalassets/maritime-traffic-regulations---20260601.pdf/download
@@ -668,7 +693,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Sections 6, 169-172.
 - Passage: "Vessels mentioned in section 170 that operate on the stretches Egersund-Risør, Halten – Utsira and Træna-Vardø use the traffic separation schemes described in the Norwegian Coastal Administration's electronic charts "Kystinfo""
 
-### SRC-083 — Kinn Vessel Traffic Service (VTS) service flyer
+### SRC-086 — Kinn Vessel Traffic Service (VTS) service flyer
 
 - Authority: Norwegian Coastal Administration (Kystverket).
 - URL: https://www.kystverket.no/contentassets/3a43d44b50e24a02ba69b50559a4f32c/kinn-vts-service-flyer.pdf
@@ -679,7 +704,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Page 1.
 - Passage: "Primarily for inner waters, but extends out to the baseline from Kråkenes in the north, along the baseline south to the southwest of Kinn island."
 
-### SRC-084 — The Irish Coast Guard (policy information page)
+### SRC-087 — The Irish Coast Guard (policy information page)
 
 - Authority: Department of Transport, Ireland (gov.ie).
 - URL: https://www.gov.ie/en/department-of-transport/policy-information/the-irish-coast-guard/
@@ -690,7 +715,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: List of IRCG functions.
 - Passage: "Monitors maritime traffic within Ireland's Traffic Separation Schemes (Tuskar/Fastnet)"
 
-### SRC-085 — Resolution A.284(VIII): Routeing systems (original descriptions of Off Smalls, Off Skerries, In the North Channel, Off Tuskar Rock)
+### SRC-088 — Resolution A.284(VIII): Routeing systems (original descriptions of Off Smalls, Off Skerries, In the North Channel, Off Tuskar Rock)
 
 - Authority: IMO Assembly.
 - URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.284(8).pdf
@@ -701,7 +726,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: pp. 30-32.
 - Passage: "A separation zone, two miles wide, is centred upon the following geographical positions: (1) 52°14'.0 N., (2) 52°08'.5 N., (3) 52°04'.7 N."
 
-### SRC-086 — General Directions for Navigation in the Port of Liverpool 2012
+### SRC-089 — General Directions for Navigation in the Port of Liverpool 2012
 
 - Authority: Mersey Docks and Harbour Company (Peel Ports).
 - URL: https://www.peelports.com/media/quvgfzuf/general-directions-for-navigation-in-the-port-of-liverpool-2012.pdf
@@ -712,7 +737,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Direction 1 definitions (w), (ff); Direction 16.
 - Passage: "“Mersey VTS” means the Vessel Traffic Service operated by MDHC - Call Sign “Mersey VTS”"
 
-### SRC-087 — COLREG.2/Circ.60, Annex 3: New traffic separation scheme In Liverpool Bay
+### SRC-090 — COLREG.2/Circ.60, Annex 3: New traffic separation scheme In Liverpool Bay
 
 - Authority: IMO (compilation of COLREG.2 circulars published by Transportstyrelsen, Sweden).
 - URL: https://www.transportstyrelsen.se/globalassets/global/sjofart/dokument/sjotrafik_dok/imo_colreg.2_cirkular.pdf?id=58526
@@ -723,7 +748,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: compilation p. 352.
 - Passage: "(a) A separation zone (east of the Douglas Oil Field Platform), 1.0 nautical mile wide"
 
-### SRC-088 — Icelandic Maritime Traffic Service
+### SRC-091 — Icelandic Maritime Traffic Service
 
 - Authority: Neyðarlínan ohf (112 Iceland).
 - URL: https://www.112.is/en/vaktstod-siglinga
@@ -734,7 +759,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Emergency and safety services section.
 - Passage: "The monitoring of ships in the reporting system (manual and automatic)."
 
-### SRC-089 — Resolution MSC.250(83): Adoption of a new mandatory ship reporting system off the south and southwest coast of Iceland (TRANSREP)
+### SRC-092 — Resolution MSC.250(83): Adoption of a new mandatory ship reporting system off the south and southwest coast of Iceland (TRANSREP)
 
 - Authority: IMO Maritime Safety Committee.
 - URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.250(83).pdf
@@ -745,7 +770,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Annex paras 1-3.4.
 - Passage: "The reporting system covers the proposed ATBA (the eastern area) off the south and southwest coast of Iceland located entirely within Icelandic territorial waters"
 
-### SRC-090 — Resolution MSC.316(88): Amendments to the existing mandatory ship reporting system 'Off the south and south-west coast of Iceland' (TRANSREP)
+### SRC-093 — Resolution MSC.316(88): Amendments to the existing mandatory ship reporting system 'Off the south and south-west coast of Iceland' (TRANSREP)
 
 - Authority: IMO Maritime Safety Committee.
 - URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.316(88).pdf
@@ -756,7 +781,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Annex, sections 1-2.
 - Passage: "The reference chart, which includes all the area of coverage for the system, is Icelandic chart No.31 (INT 1103) Dyrhólaey – Snæfellsnes (May 2008 edition)"
 
-### SRC-091 — Resolution MSC.63(67), Annex 3: Mandatory ship reporting system in the 'Off Finisterre' traffic separation scheme area (FINREP)
+### SRC-094 — Resolution MSC.63(67), Annex 3: Mandatory ship reporting system in the 'Off Finisterre' traffic separation scheme area (FINREP)
 
 - Authority: IMO Maritime Safety Committee.
 - URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.63(67).pdf
@@ -767,7 +792,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Annex 3 paras 1, 3.3, 3.4.
 - Passage: "Ships entering the area of coverage shall report to the Finisterre Traffic VTS when crossing the limits mentioned in paragraph 2.1 or when leaving the ports or anchorages in the area."
 
-### SRC-092 — Resolution MSC.162(78): Amendments to the existing mandatory ship reporting system Off Cape Finisterre
+### SRC-095 — Resolution MSC.162(78): Amendments to the existing mandatory ship reporting system Off Cape Finisterre
 
 - Authority: IMO Maritime Safety Committee.
 - URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.162(78).pdf
@@ -778,7 +803,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Annex, replacement paras 2.1-2.2.
 - Passage: "This area includes the traffic separation scheme Off Finisterre and the associated inshore traffic zones adopted by resolution A.767(18), as amended by resolution A.957(23)."
 
-### SRC-093 — Los DST, autopistas del mar
+### SRC-096 — Los DST, autopistas del mar
 
 - Authority: Ministerio de Transportes y Movilidad Sostenible (Revista Tramos; text by Salvamento Maritimo).
 - URL: https://www.transportes.gob.es/recursos_mfom/comodin/recursos/06_los_dst_autopistas_del_mar.pdf
@@ -789,7 +814,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: pp. 38-43.
 - Passage: "En España, Salvamento Marítimo es el encargado de controlar la seguridad del tráfico marítimo en los DST de Fisterra, Tarifa, cabo de Gata y Canarias oriental y occidental"
 
-### SRC-094 — Decreto-Lei n.º 263/2009, de 28 de Setembro (VTS costeiros e portuários)
+### SRC-097 — Decreto-Lei n.º 263/2009, de 28 de Setembro (VTS costeiros e portuários)
 
 - Authority: Portugal (Diário da República).
 - URL: https://www.marinha.pt/Conteudos_Externos/LexMar2/PGPAT%20100/PGPAT%201000%20-%20Cap%C3%ADtulos/Capitulo%20K%20EST/Dec.%20Lei%20263_2009,%20de%2028Set.pdf
@@ -800,7 +825,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Arts 6, 7, 9, 10(4).
 - Passage: "O VTS costeiro do continente presta um serviço de controlo de tráfego marítimo de âmbito nacional, geograficamente delimitado a partir da linha de costa continental"
 
-### SRC-095 — Contact details - Portugal
+### SRC-098 — Contact details - Portugal
 
 - Authority: European Maritime Safety Agency (EMSA) DONA directory.
 - URL: https://portal.emsa.europa.eu/web/dona/contact-details-portugal
@@ -811,7 +836,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Portugal entry: Centro de Controlo de Tráfego Maritimo do Continente - CCTMC.
 - Passage: "operational 24h/7"
 
-### SRC-096 — Resolution MSC.278(85): Adoption of the new mandatory ship reporting system 'Off the coast of Portugal - COPREP'
+### SRC-099 — Resolution MSC.278(85): Adoption of the new mandatory ship reporting system 'Off the coast of Portugal - COPREP'
 
 - Authority: IMO Maritime Safety Committee.
 - URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.278(85).pdf
@@ -822,7 +847,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Annex paras 1, 2.1, 3.2, 3.4, 4, 5.
 - Passage: "The shore-based authority for COPREP mandatory ship reporting system, to which these reports should be sent, is ROCA CONTROL (identified in paragraph 7)."
 
-### SRC-097 — Resolution MSC.301(87): Amendments to the existing mandatory ship reporting system in the Western European PSSA (WETREP)
+### SRC-100 — Resolution MSC.301(87): Amendments to the existing mandatory ship reporting system in the Western European PSSA (WETREP)
 
 - Authority: IMO Maritime Safety Committee.
 - URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.301(87).pdf
@@ -833,7 +858,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Annex, items 1-3.
 - Passage: "2 In paragraph 6.2.6, under Coastal Vessel Traffic Services (VTS), insert: Coast of Portugal VTS"
 
-### SRC-098 — Resolution MSC.73(69) Mandatory ship reporting systems, Annex 1: Description of the mandatory ship reporting system in the Straits of Malacca and Singapore (STRAITREP)
+### SRC-101 — Resolution MSC.73(69) Mandatory ship reporting systems, Annex 1: Description of the mandatory ship reporting system in the Straits of Malacca and Singapore (STRAITREP)
 
 - Authority: IMO Maritime Safety Committee.
 - URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.73(69).pdf
@@ -844,7 +869,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Annex 1 paras 1.1, 2.1, 3.3, 3.4; appendices 1-3.
 - Passage: "The operational area of STRAITREP covers the Straits of Malacca and Singapore between longitudes 100 40'E and 104 23'E ... The area includes the routeing system in the Straits of Malacca and Singapore."
 
-### SRC-099 — Port Marine Circular No. 65 of 1998: Mandatory Ship Reporting System in the Straits of Malacca and Singapore - STRAITREP (with SN/Circ.201 and Corr.1)
+### SRC-102 — Port Marine Circular No. 65 of 1998: Mandatory Ship Reporting System in the Straits of Malacca and Singapore - STRAITREP (with SN/Circ.201 and Corr.1)
 
 - Authority: Maritime and Port Authority of Singapore.
 - URL: https://www.mpa.gov.sg/api/media/78c165e3-67e4-4da3-9496-c196739374d2/-pc98-65.pdf
@@ -855,7 +880,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: paras 1-3; SN/Circ.201 Annex 1 para 3.4, para 7; Appendix 3.
 - Passage: "(i) Sector 1 to Sector 5 - Klang VTS; (ii) Sector 6 - Johor VTS; and (iii) Sector 7 to Sector 9 - Singapore VTS."
 
-### SRC-100 — VTIS Operational Areas web page (STRAITREP sectors and chartlets)
+### SRC-103 — VTIS Operational Areas web page (STRAITREP sectors and chartlets)
 
 - Authority: Maritime and Port Authority of Singapore.
 - URL: https://www.mpa.gov.sg/port-marine-ops/operations/vessel-traffic-information-system/operational-areas
@@ -866,7 +891,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Sector/VHF channel/VTS authority table.
 - Passage: "Sector 7 ... VHF Channel 73 ... SINGAPORE VTS (as rendered by fetch tool; table layout)"
 
-### SRC-101 — Singapore Port Information 2026 (Straits of Malacca and Singapore routeing system, Annexes 1-8; STRAITREP chartlets Appendix 1 and 2)
+### SRC-104 — Singapore Port Information 2026 (Straits of Malacca and Singapore routeing system, Annexes 1-8; STRAITREP chartlets Appendix 1 and 2)
 
 - Authority: Maritime and Port Authority of Singapore, Hydrographic Division.
 - URL: https://file.go.gov.sg/spi2026apr17.pdf
@@ -877,7 +902,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: pp. 6-14 (Annexes 1-8), p. 16 (STRAITREP), pp. 119-120 (chartlets).
 - Passage: "The following are based on IMO document COLREG.2/Cir.44 dated 26 May 1998 and COLREG.2/Cir.54 dated 28 May 2004."
 
-### SRC-102 — Vessel Traffic Information System (VTIS) web page
+### SRC-105 — Vessel Traffic Information System (VTIS) web page
 
 - Authority: Maritime and Port Authority of Singapore.
 - URL: https://www.mpa.gov.sg/port-marine-ops/operations/vessel-traffic-information-system
@@ -888,7 +913,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: VTIS and STRAITREP sections.
 - Passage: "the Straits of Malacca and Singapore between longitudes 100°40'E and 104°23'E"
 
-### SRC-103 — Vessels arriving in Singapore: guide to VHF communication in port and Singapore Strait
+### SRC-106 — Vessels arriving in Singapore: guide to VHF communication in port and Singapore Strait
 
 - Authority: Maritime and Port Authority of Singapore.
 - URL: https://www.mpa.gov.sg/port-marine-ops/arrivals-and-departures/vessels-arriving-in-singapore
@@ -899,7 +924,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: VHF communication guide table.
 - Passage: "Sector 8, STRAITREP operational area (area between Long. 103°44.5'E and 104°02.1'E)"
 
-### SRC-104 — Berlaku 1 Juli 2020, Kemenhub jelaskan sistem pelaporan kapal di TSS Selat Sunda dan Selat Lombok
+### SRC-107 — Berlaku 1 Juli 2020, Kemenhub jelaskan sistem pelaporan kapal di TSS Selat Sunda dan Selat Lombok
 
 - Authority: Direktorat Jenderal Perhubungan Laut (Hubla), Kementerian Perhubungan Republik Indonesia.
 - URL: https://hubla.dephub.go.id/home/post/read/7657/berlaku-1-juli-2020-kemenhub-jelaskan-sistem-pelaporan-kapal-di-tss-selat-sunda-dan-selat-lombok
@@ -910,7 +935,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: paras 2-3, 6-8.
 - Passage: "Sistem Pelaporan dan Informasi Navigasi di Selat Sunda dan Selat Lombok bersifat wajib, yaitu bagi semua kapal berbendera Indonesia yang melintas, menyeberangi/memotong bagan pemisah lalu lintas (TSS)"
 
-### SRC-105 — COLREG.2/Circ.74 New traffic separation schemes and associated measures: In the Sunda Strait; In the Lombok Strait
+### SRC-108 — COLREG.2/Circ.74 New traffic separation schemes and associated measures: In the Sunda Strait; In the Lombok Strait
 
 - Authority: IMO (document hosted by BIMCO).
 - URL: https://bimco.org/media/gusfhkrc/colreg2circ74-new-traffic-separation-schemes-secretariat.pdf
@@ -921,7 +946,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: para 1-2 and Annex.
 - Passage: "Accordingly, these new traffic separation schemes and associated routeing measures should be implemented on 1 July 2020."
 
-### SRC-106 — Hong Kong Fact Sheet (Marine Department publications)
+### SRC-109 — Hong Kong Fact Sheet (Marine Department publications)
 
 - Authority: Marine Department, HKSAR Government.
 - URL: https://www.mardep.gov.hk/en/materials-and-publications/publications/hk-fact-sheet/index.html
@@ -932,7 +957,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Vessel Traffic Services section.
 - Passage: "covers all navigable waters of Hong Kong used by sea-going vessels and ferries"
 
-### SRC-107 — Arrangement for Vessel Traffic Service (VTC pamphlet)
+### SRC-110 — Arrangement for Vessel Traffic Service (VTC pamphlet)
 
 - Authority: Marine Department, HKSAR Government.
 - URL: https://www.mardep.gov.hk/filemanager/en/share/publications/pdf/materials/vtc_pamphlet.pdf
@@ -943,7 +968,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Participation and VHF sectors panels.
 - Passage: "Pursuant to Regulation 4 of the Shipping and port control regulations, (Cap 313A), (a) a vessel of over 300 gross tonnage;"
 
-### SRC-108 — Hong Kong Vessel Traffic Service - VHF Sectors and Calling-in Points (Drawing No. 2025MAR032)
+### SRC-111 — Hong Kong Vessel Traffic Service - VHF Sectors and Calling-in Points (Drawing No. 2025MAR032)
 
 - Authority: Marine Department, HKSAR Government (Hydrographic Office).
 - URL: https://www.mardep.gov.hk/filemanager/en/share/pub-services/pdf/vts_vscp.pdf
@@ -954,7 +979,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Chart title and sector labels.
 - Passage: "Hong Kong Vessel Traffic Service – VHF Sectors and Calling-in Points"
 
-### SRC-109 — Guide to Hong Kong waters (hkwaterlk_guide)
+### SRC-112 — Guide to Hong Kong waters (hkwaterlk_guide)
 
 - Authority: Marine Department, HKSAR Government.
 - URL: https://www.mardep.gov.hk/filemanager/en/share/pub-services/pdf/hkwaterlk_guide.pdf
@@ -965,7 +990,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Chapter 2 Principal Fairways and Traffic Separation Schemes.
 - Passage: "There are two traffic separation schemes (TSS) within Hong Kong waters which are adopted by IMO: (a) Tathong Channel (b) East Lamma Channel"
 
-### SRC-110 — OP Notice to Shipping N-2-2026: Harbor Operations
+### SRC-113 — OP Notice to Shipping N-2-2026: Harbor Operations
 
 - Authority: Panama Canal Authority (ACP), Vice Presidency for Operations.
 - URL: https://pancanal.com/wp-content/uploads/2021/08/N02-2026-Harbor-Operations_BMV.pdf
@@ -976,7 +1001,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Harbor Operations, section 2 'Vessel Coordination and Procedures at the Pacific Entrance', para 2a to 2c.
 - Passage: "When a vessel reaches a point of eight (8) Nautical Miles from Pacific Sea Buoy (about 11 Nautical Miles from Flamenco Island), it must notify Flamenco Signal Station on Channel 12 (VHF)."
 
-### SRC-111 — COLREG.2/Circ.65 New traffic separation schemes (On the Pacific coast of Panama; At the approaches to Puerto Cristobal)
+### SRC-114 — COLREG.2/Circ.65 New traffic separation schemes (On the Pacific coast of Panama; At the approaches to Puerto Cristobal)
 
 - Authority: IMO Maritime Safety Committee.
 - URL: https://www.panamashipregistry.com/wp-content/uploads/2019/08/COLREG-2-Circ-65.pdf
@@ -987,7 +1012,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Para 2; Annex 1 pages 1 to 3.
 - Passage: "will be implemented at 0000 hours UTC on 1 December 2014"
 
-### SRC-112 — Ships' Routeing 2025 Edition, Part I mandatory ship reporting systems (data/authoritative/IMO_2025_Mandatory_Reporting_Systems.csv)
+### SRC-115 — Ships' Routeing 2025 Edition, Part I mandatory ship reporting systems (data/authoritative/IMO_2025_Mandatory_Reporting_Systems.csv)
 
 - Authority: IMO (project baseline).
 - URL: 
@@ -998,7 +1023,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Row I-I/19.
 - Passage: "In the Galapagos Particularly Sensitive Sea Area [GALREP]"
 
-### SRC-113 — Merchant Marine Circular MMC-304: Implementation of New Ships' Routeing System in Panama
+### SRC-116 — Merchant Marine Circular MMC-304: Implementation of New Ships' Routeing System in Panama
 
 - Authority: Panama Maritime Authority (AMP), Directorate General of Merchant Marine.
 - URL: https://www.panamashipregistry.com/wp-content/uploads/2020/08/MMC-304-Nov.-2014.pdf
@@ -1009,7 +1034,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Para 1a and 2.
 - Passage: "which covers Part 1 “Gulf of Panama”, Part 2 “Morro de Puercos”, Part 3 “Isla Jicarita” and Part 4 which describes inshore traffic zones"
 
-### SRC-114 — Circular DGPIMA-005-DECCP-2026: Reducción de velocidad por protección de cetáceos en aguas nacionales
+### SRC-117 — Circular DGPIMA-005-DECCP-2026: Reducción de velocidad por protección de cetáceos en aguas nacionales
 
 - Authority: Panama Maritime Authority (AMP), Dirección General de Puertos e Industrias Marítimas Auxiliares.
 - URL: https://www.amp.gob.pa/wp-content/uploads/2026/07/Circular-DGPIMA-005-DECCP-2026-esp-ingl.pdf
@@ -1020,7 +1045,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Page 1.
 - Passage: "esta recomendación es aplicable a ambas vías de circulación del Dispositivo de Separación del Tráfico ubicado en el Golfo de Panamá"
 
-### SRC-115 — Pub. 125 Sailing Directions (Enroute) West Coast of South America
+### SRC-118 — Pub. 125 Sailing Directions (Enroute) West Coast of South America
 
 - Authority: US National Geospatial-Intelligence Agency (NGA).
 - URL: https://msi.nga.mil/api/publications/download?type=view&key=16694491/SFH00000/Pub125bk.pdf
@@ -1031,7 +1056,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Sector 3: PDF p.57 (Talara, 'Talara Control'), p.58 (Paita), p.67 (Salaverry), p.73 (Chimbote), p.86 (Callao, TRAMAR), p.92 (Pisco/General San Martin), p.94 (San Nicolas); Sector 4 p.106 (VTS Arica).
 - Passage: "An IMO-adopted Traffic Separation Scheme (TRAMAR), best seen on the chart, has been established in the approaches to Callao. All vessels must report to TRAMAR on VHF channel 16"
 
-### SRC-116 — Ships' Routeing 2025 Edition, Part I mandatory ship reporting systems (data/authoritative/IMO_2025_Mandatory_Reporting_Systems.csv)
+### SRC-119 — Ships' Routeing 2025 Edition, Part I mandatory ship reporting systems (data/authoritative/IMO_2025_Mandatory_Reporting_Systems.csv)
 
 - Authority: IMO (project baseline).
 - URL: 
@@ -1042,7 +1067,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Row I-I/19.
 - Passage: "In the Galapagos Particularly Sensitive Sea Area [GALREP]"
 
-### SRC-117 — Vessel Traffic Management System Port of Callao (case study)
+### SRC-120 — Vessel Traffic Management System Port of Callao (case study)
 
 - Authority: Wärtsilä (supplier).
 - URL: https://www.wartsila.com/insights/case-study/port-of-callao
@@ -1053,7 +1078,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Case study text.
 - Passage: "The Marina de Guerra del Perú (Peruvian Navy) needed to find a solution to all these challenges."
 
-### SRC-118 — Rol de la Dirección General de Capitanías y Guardacostas ... y el trabajo realizado en Pisco
+### SRC-121 — Rol de la Dirección General de Capitanías y Guardacostas ... y el trabajo realizado en Pisco
 
 - Authority: DICAPI, Marina de Guerra del Perú (presentation hosted on gob.pe).
 - URL: https://cdn.www.gob.pe/uploads/document/file/3257676/Presentaci%C3%B3n%20de%20la%20Capitan%C3%ADa%20del%20Puerto%20de%20Pisco.pdf.pdf
@@ -1064,7 +1089,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Slides 4 to 19.
 - Passage: "Control y vigilancia del tráfico acuático."
 
-### SRC-119 — 33 CFR 161.55 Vessel Traffic Service Puget Sound and the Cooperative Vessel Traffic Service for the Juan de Fuca Region
+### SRC-122 — 33 CFR 161.55 Vessel Traffic Service Puget Sound and the Cooperative Vessel Traffic Service for the Juan de Fuca Region
 
 - Authority: US Government (eCFR, USCG rule).
 - URL: https://www.ecfr.gov/api/versioner/v1/full/2026-09-01/title-33.xml?part=161
@@ -1075,7 +1100,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Part 161 subpart C, s.161.55 and 161.55(a).
 - Passage: "Canadian and United States Vessel Traffic Centers (Prince Rupert, B.C., Canada; Vancouver, B.C., Canada; and Seattle, WA) manage traffic within the CVTS area irrespective of the International Boundary."
 
-### SRC-120 — 33 CFR Part 167 Offshore Traffic Separation Schemes: ss.167.400-406, 167.450-452, 167.500-503, 167.1310-1315, 167.1320-1323, 167.1330-1332
+### SRC-123 — 33 CFR Part 167 Offshore Traffic Separation Schemes: ss.167.400-406, 167.450-452, 167.500-503, 167.1310-1315, 167.1320-1323, 167.1330-1332
 
 - Authority: US Government (eCFR, USCG rule).
 - URL: https://www.ecfr.gov/api/versioner/v1/full/2026-09-01/title-33.xml?part=167
@@ -1086,7 +1111,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: ss.167.1312 (southern lanes), 167.1313 (northern lanes), 167.1314 (eastern lanes), 167.1321-1323, 167.1331-1332, 167.401-406, 167.451-452, 167.501-503.
 - Passage: "The traffic separation scheme in the Strait of Juan de Fuca consists of five parts: the western lanes, southern lanes, northern lanes, eastern lanes, and precautionary area “PA.”"
 
-### SRC-121 — Vessel Traffic Services Locations
+### SRC-124 — Vessel Traffic Services Locations
 
 - Authority: USCG Navigation Center (NAVCEN).
 - URL: https://www.navcen.uscg.gov/vessel-traffic-services-locations
@@ -1097,7 +1122,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Sections VTS San Francisco; VTS Los Angeles / Long Beach; VTS Puget Sound.
 - Passage: "VTS San Francisco also operates an Offshore Vessel Movement Reporting System (OVMRS). The OVMRS is completely voluntary and operates using a broadcast system with information provided by participants."
 
-### SRC-122 — User's Manual, US Coast Guard Vessel Traffic Service Puget Sound 2024
+### SRC-125 — User's Manual, US Coast Guard Vessel Traffic Service Puget Sound 2024
 
 - Authority: USCG Vessel Traffic Service Puget Sound.
 - URL: https://www.navcen.uscg.gov/sites/default/files/pdf/VTS%20User%20Guides/VTS_PS_UsersManual_(2024).pdf
@@ -1108,7 +1133,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Introduction pp. iv-v (TSS, Surveillance, CVTS paragraphs).
 - Passage: "The Traffic Separation Scheme (TSS) in the VTSPS Area has been adopted by the International Maritime Organization (IMO)."
 
-### SRC-123 — Radio Aids to Marine Navigation 2026, Part 3 (ss.3.5.3.1 Victoria VTS Zone; 3.5.4 CVTS Agreement)
+### SRC-126 — Radio Aids to Marine Navigation 2026, Part 3 (ss.3.5.3.1 Victoria VTS Zone; 3.5.4 CVTS Agreement)
 
 - Authority: Canadian Coast Guard (MCTS).
 - URL: https://www.canada.ca/content/dam/ccg-gcc/documents/publications/mcts-sctm/ramn-arnm-2026-eng.pdf
@@ -1119,7 +1144,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Part 3 pp. 3-15 (Tables 3-1, 3-2), 3-28 to 3-29 (s.3.5.4).
 - Passage: "Participation with Prince Rupert, Seattle and Victoria Traffic is mandatory within Canadian and United States territorial waters."
 
-### SRC-124 — data/authoritative/IMO_2025_Mandatory_Reporting_Systems.csv
+### SRC-127 — data/authoritative/IMO_2025_Mandatory_Reporting_Systems.csv
 
 - Authority: Global VTS project (derived from IMO Ships' Routeing 2025 Part I).
 - URL: 
@@ -1130,7 +1155,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: rows VRS-0001 to VRS-0023.
 - Passage: "I-I/21,Off the north-eastern and south-eastern coasts of the United States"
 
-### SRC-125 — Vessel Traffic Services Zones Regulations, SOR/2025-275, Schedule 1 item 1 (Victoria)
+### SRC-128 — Vessel Traffic Services Zones Regulations, SOR/2025-275, Schedule 1 item 1 (Victoria)
 
 - Authority: Government of Canada (Justice Laws).
 - URL: https://laws-lois.justice.gc.ca/eng/regulations/SOR-2025-275/FullText.html
@@ -1141,7 +1166,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: s.3(1), s.7, s.9(1), Schedule 1 item 1.
 - Passage: "thence following the international boundary through the Strait of Georgia, Boundary Pass, Haro Strait and Juan de Fuca Strait to 48°28′36″ N, 124°40′00″ W"
 
-### SRC-126 — data/authoritative/IMO_2025_Mandatory_Reporting_Systems.csv
+### SRC-129 — data/authoritative/IMO_2025_Mandatory_Reporting_Systems.csv
 
 - Authority: Global VTS project (derived from IMO Ships' Routeing 2025 Part I).
 - URL: 
@@ -1152,7 +1177,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: rows VRS-0001 to VRS-0023.
 - Passage: "I-I/21,Off the north-eastern and south-eastern coasts of the United States"
 
-### SRC-127 — VTS San Francisco User Manual
+### SRC-130 — VTS San Francisco User Manual
 
 - Authority: USCG Vessel Traffic Service San Francisco.
 - URL: https://www.navcen.uscg.gov/sites/default/files/pdf/VTS%20User%20Guides/VTS_SF_UserManual_APR2025.pdf
@@ -1163,7 +1188,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Part I s.1(a), s.2 (p.6); Part J s.1 (p.7); traffic routing system s.3(c) (p.12).
 - Passage: "San Francisco Offshore Traffic Separation Scheme (TSS) is adopted by the International Maritime Organization (IMO). This TSS includes the Northern, Western, and Southern traffic lanes"
 
-### SRC-128 — Vessel Traffic Service Los Angeles-Long Beach (VTS LA-LB) User Manual
+### SRC-131 — Vessel Traffic Service Los Angeles-Long Beach (VTS LA-LB) User Manual
 
 - Authority: Marine Exchange of Southern California and USCG (VTS LA-LB).
 - URL: https://www.navcen.uscg.gov/sites/default/files/pdf/VTS%20User%20Guides/VTS_LALB_UserManual_210331.pdf
@@ -1174,7 +1199,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Introduction p.ii; Appendix A.2-A.4 pp. A-4 to A-6.
 - Passage: "Portions of the Traffic Separation Scheme in the Northern and Southern approaches to Los Angeles and Long Beach are within the VTS area."
 
-### SRC-129 — LA/LB Harbor Safety Plan, Chapter I Geographical Boundaries
+### SRC-132 — LA/LB Harbor Safety Plan, Chapter I Geographical Boundaries
 
 - Authority: Los Angeles/Long Beach Harbor Safety Committee (published by Marine Exchange of Southern California).
 - URL: https://mxsocal.org/assets/pdf/hsp/10-lalb-hsp-chap-i-geographic-boundaries-2018-rev-2026-260318090043.pdf
@@ -1185,7 +1210,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: pp. I-1 to I-3, items A.2 and A.4.
 - Passage: "portions of the TSS in the western and southern approaches to the LA/LB Harbors lie within the VTS Area of Responsibility."
 
-### SRC-130 — Auditoría 2024-0006: Administración del Sistema Portuario Nacional Salina Cruz (Cuenta Pública 2024)
+### SRC-133 — Auditoría 2024-0006: Administración del Sistema Portuario Nacional Salina Cruz (Cuenta Pública 2024)
 
 - Authority: Auditoría Superior de la Federación (Mexico).
 - URL: https://www.asf.gob.mx/Trans/Informes/IR2024b/Documentos/Auditorias/2024_0006_a.pdf
@@ -1196,7 +1221,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Antecedentes section.
 - Passage: "El Centro de Control de Tráfico Marítimo del Puerto de Salina Cruz, Oaxaca, se ubica en las coordenadas de georreferenciación: latitud 16.161638 y longitud -95.203713."
 
-### SRC-131 — Modernización y ampliación del Puerto de Salina Cruz
+### SRC-134 — Modernización y ampliación del Puerto de Salina Cruz
 
 - Authority: Government of Mexico (gob.mx, port modernisation presentation).
 - URL: https://www.gob.mx/cms/uploads/attachment/file/883619/SALINA_CRUZ.pdf
@@ -1207,7 +1232,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: p.2.
 - Passage: "Construcción de centro regulador de tráfico y reconfiguración de accesos terrestres. Diciembre 2024"
 
-### SRC-132 — The Hong Kong Vessel Traffic Centre
+### SRC-135 — The Hong Kong Vessel Traffic Centre
 
 - Authority: Marine Department, HKSAR Government.
 - URL: https://www.mardep.gov.hk/en/public-services/port-services/vts/exvts/index.html
@@ -1218,7 +1243,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: page text.
 - Passage: ""The Marine Department started to provide the Vessel Traffic Services (VTS) for the port of Hong Kong in 1989.""
 
-### SRC-133 — VTS areas in Australia
+### SRC-136 — VTS areas in Australia
 
 - Authority: Australian Maritime Safety Authority (AMSA).
 - URL: https://www.amsa.gov.au/safety-navigation/navigating-coastal-waters/vts-areas-australia
@@ -1229,7 +1254,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: full list.
 - Passage: ""We authorise and audit vessel traffic service (VTS) providers in Australia. Entities authorised to provide vessel traffic services in Australia are:""
 
-### SRC-134 — Modernised Australian Ship Tracking and Reporting System
+### SRC-137 — Modernised Australian Ship Tracking and Reporting System
 
 - Authority: Australian Maritime Safety Authority (AMSA).
 - URL: https://www.amsa.gov.au/safety-navigation/navigation-systems/modernised-australian-ship-tracking-and-reporting-system
@@ -1240,7 +1265,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Participation.
 - Passage: ""Vessels that must report to MASTREP are: foreign vessels from the arrival at its first port in Australia until its departure from its final port in Australia all regulated Australian vessels while in the MASTREP area.""
 
-### SRC-135 — Marine order 63 - Vessel reporting systems (current: Marine Order 63 (Vessel reporting systems) 2019, F2019L01463)
+### SRC-138 — Marine order 63 - Vessel reporting systems (current: Marine Order 63 (Vessel reporting systems) 2019, F2019L01463)
 
 - Authority: Australian Maritime Safety Authority (AMSA).
 - URL: https://www.amsa.gov.au/about/regulations-and-standards/marine-order-63-vessel-reporting-systems
@@ -1251,7 +1276,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: About.
 - Passage: ""Modernised Australian ship tracking and reporting system (MASTREP) area. The Rescue Coordination Centre \u2013 Australia is responsible for this area as described in the International Maritime Organization's Global Integrated Shipping Information System""
 
-### SRC-136 — Vessel Traffic Services (VTS areas in Tasmania)
+### SRC-139 — Vessel Traffic Services (VTS areas in Tasmania)
 
 - Authority: TasPorts (Tasmanian Ports Corporation).
 - URL: https://www.tasports.com.au/vts
@@ -1262,7 +1287,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: VTS areas in Tasmania; channel table.
 - Passage: ""VTS areas in Tasmania Bell Bay VTS Area Devonport VTS Area Burnie VTS Area Port Latta VTS Area Strahan VTS Area Stanley VTS Area Hobart VTS Area Grassy VTS Area Coles Bay VTS Area Lady Baron VTS Area""
 
-### SRC-137 — Vessel Traffic Services
+### SRC-140 — Vessel Traffic Services
 
 - Authority: US Coast Guard Navigation Center (NAVCEN).
 - URL: https://www.navcen.uscg.gov/vessel-traffic-services
@@ -1273,7 +1298,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: introductory text.
 - Passage: ""The Coast Guard operates 12 Vessel Traffic Centers (VTC): Prince William Sound, Puget Sound, Valdez, Seattle, San Francisco, ...""
 
-### SRC-138 — Radio Aids to Marine Navigation 2026: Part 3: Vessel Traffic Services, section 3.5.4 Co-Operative Vessel Traffic Services (CVTS) Agreement
+### SRC-141 — Radio Aids to Marine Navigation 2026: Part 3: Vessel Traffic Services, section 3.5.4 Co-Operative Vessel Traffic Services (CVTS) Agreement
 
 - Authority: Canadian Coast Guard.
 - URL: https://www.canada.ca/en/canadian-coast-guard/corporate/publications/radio-aids-marine-navigation/vessel-traffic-services.html
@@ -1284,7 +1309,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: s. 3.5.4.
 - Passage: ""The CVTS Area of Operation is defined as 124°40W south along the Washington coast to 48°00N then west to 125°15W and north to 48°35'45"N." "Inbound vessels are to check in with Prince Rupert Traffic on VHF Channel 74 (156.725 MHz) at either 48°00N or 125°15W prior to entering the traffic separation scheme.""
 
-### SRC-139 — Pub. 125 Sailing Directions (Enroute) West Coast of South America, 17th Edition
+### SRC-142 — Pub. 125 Sailing Directions (Enroute) West Coast of South America, 17th Edition
 
 - Authority: US National Geospatial-Intelligence Agency (NGA).
 - URL: https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub125bk.pdf&type=download
@@ -1295,7 +1320,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Sector 3 p.91 (Ilo); Sector 4 p.95 (CHILREP), pp.96-97 (VTS Arica diagram and text), pp.99-102 (VTS Iquique diagram and text), p.113 (VTS Mejillones), p.117 (Antofagasta); Sector 5 pp.147-148 (VTS Quintero), p.149 (VTS Valparaiso diagram), p.152 (VTS Valparaiso text), p.159 (Boca Grande TSS), pp.162-163, 166 (Talcahuano, San Vicente).
 - Passage: "A Vessel Traffic Management System (VTM-STM) operates 24 hours in the port limits of Arica and outward to the boundary described in the diagram titled VTS Arica."
 
-### SRC-140 — data/authoritative/IMO_2025_Mandatory_Reporting_Systems.csv
+### SRC-143 — data/authoritative/IMO_2025_Mandatory_Reporting_Systems.csv
 
 - Authority: Global VTS project (IMO Ships' Routeing 2025 Edition, Part I).
 - URL: repository file
@@ -1306,7 +1331,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: rows VRS-0001 to VRS-0023.
 - Passage: "I-I/19,In the Galapagos Particularly Sensitive Sea Area [GALREP],...,VRS-0019"
 
-### SRC-141 — Sistema de Notificación de la Situación de las Naves (CHILREP), guidance document
+### SRC-144 — Sistema de Notificación de la Situación de las Naves (CHILREP), guidance document
 
 - Authority: DIRECTEMAR (Armada de Chile), Servicio de Búsqueda y Salvamento Marítimo - MRCC Chile.
 - URL: https://www.directemar.cl/directemar/site/docs/20200515/20200515201601/chilrep_v2_espa__ol.pdf
@@ -1317,7 +1342,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: pp.5-6.
 - Passage: "Cuando los buques extranjeros se desplacen por aguas interiores de la República deberán comunicar su posición a las 12:00Z y 24:00Z."
 
-### SRC-142 — data/authoritative/IMO_2025_Mandatory_Reporting_Systems.csv
+### SRC-145 — data/authoritative/IMO_2025_Mandatory_Reporting_Systems.csv
 
 - Authority: Global VTS project (IMO Ships' Routeing 2025 Edition, Part I).
 - URL: repository file
@@ -1328,7 +1353,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: rows VRS-0001 to VRS-0023.
 - Passage: "I-I/19,In the Galapagos Particularly Sensitive Sea Area [GALREP],...,VRS-0019"
 
-### SRC-143 — Pub. 124 Sailing Directions (Enroute) East Coast of South America, 16th Edition
+### SRC-146 — Pub. 124 Sailing Directions (Enroute) East Coast of South America, 16th Edition
 
 - Authority: US National Geospatial-Intelligence Agency (NGA).
 - URL: https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub124bk.pdf&type=download
@@ -1339,7 +1364,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Sector 8 pp.247-248 (Estrecho de Magallanes Regulations); p.258 (Punta Arenas contact information, Directions).
 - Passage: "During the passage, vessels must report their position and speed every 4 hours if not carrying a pilot, or at 0800 and 2000 if carrying a pilot. This position report (CHILREP) is sent to the Maritime Authority"
 
-### SRC-144 — Pub. 145 Sailing Directions (Enroute) Nova Scotia and the St. Lawrence, 19th Edition
+### SRC-147 — Pub. 145 Sailing Directions (Enroute) Nova Scotia and the St. Lawrence, 19th Edition
 
 - Authority: US National Geospatial-Intelligence Agency (NGA).
 - URL: https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub145bk.pdf&type=download
@@ -1350,7 +1375,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Sector 4, para 4.1 Regulations and Vessel Traffic Service (print p.103); Canso Contact Information table (para 4.20).
 - Passage: "The station identifier of the Canso VTS Center is “Canso Traffic” and can be contacted on VHF channel 14."
 
-### SRC-145 — Pub. 147 Sailing Directions (Enroute) Caribbean Sea Volume I
+### SRC-148 — Pub. 147 Sailing Directions (Enroute) Caribbean Sea Volume I
 
 - Authority: US National Geospatial-Intelligence Agency (NGA).
 - URL: https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub147bk.pdf&type=view
@@ -1361,7 +1386,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Sector 4 paras 4.1 (p.42), 4.3 (p.44), 4.5 (p.45), 4.18 (p.53), 4.25 (p.56, Old Bahama Channel and Bahia de Nuevitas), 4.37 (p.60); Sector 5 paras 5.1 (p.66) and 5.2 (p.67).
 - Passage: "Such control posts or vessels shall not call for any information, except in cases involving infringements by shipping within the Traffic Separation Scheme, or other types of infringements of national law."
 
-### SRC-146 — Pub. 140 Sailing Directions (Planning Guide) North Atlantic Ocean and Adjacent Seas, Cuba chapter
+### SRC-149 — Pub. 140 Sailing Directions (Planning Guide) North Atlantic Ocean and Adjacent Seas, Cuba chapter
 
 - Authority: US National Geospatial-Intelligence Agency (NGA).
 - URL: https://msi.nga.mil/api/publications/download?key=16694492/SFH00000/Pub140bk.pdf&type=view
@@ -1372,7 +1397,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Cuba chapter pp.183 to 185 (Regulations; Search and Rescue).
 - Passage: "All vessels approaching Cuban ports should contact the Port Signal Station on VHF channel 16, or by light signals, to announce their presence, nationality, and characteristics."
 
-### SRC-147 — OP Notice to Shipping N-3-2026 Communication on Transit Activities
+### SRC-150 — OP Notice to Shipping N-3-2026 Communication on Transit Activities
 
 - Authority: Panama Canal Authority (ACP), Vice Presidency for Operations.
 - URL: https://pancanal.com/wp-content/uploads/2021/08/N03-2026-Communication_BMV.pdf
@@ -1383,7 +1408,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Section 3, p.3.
 - Passage: "this information is incorporated into the production database of the Enhanced Vessel Traffic Management System (EVTMS) and other operational systems."
 
-### SRC-148 — Pub. 148 Sailing Directions (Enroute) Caribbean Sea Volume II
+### SRC-151 — Pub. 148 Sailing Directions (Enroute) Caribbean Sea Volume II
 
 - Authority: US National Geospatial-Intelligence Agency (NGA).
 - URL: https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub148bk.pdf&type=view
@@ -1394,7 +1419,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Sector 4 paras 4.38 (p.120), 4.40 (p.123), 4.44 (pp.127 to 129).
 - Passage: "The Panama Canal Vessel Traffic Management System (VTMS) covers the approaches to Colon and its terminals."
 
-### SRC-149 — Order No. 1226-r: Traffic separation schemes in the territorial sea of the Russian Federation
+### SRC-152 — Order No. 1226-r: Traffic separation schemes in the territorial sea of the Russian Federation
 
 - Authority: Government of the Russian Federation (text on third-party host meganorm.ru).
 - URL: https://meganorm.ru/Data2/1/4293849/4293849842.htm
@@ -1405,7 +1430,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Section 8 (scheme No. 12) and section 9 (scheme No. 13).
 - Passage: "Схема разделения движения № 13. Четвертый Курильский пролив (Курильские острова). Схема разделения движения включает две полосы движения, разделенные зоной"
 
-### SRC-150 — Pub. 155 Sailing Directions (Enroute) East Coast of Russia
+### SRC-153 — Pub. 155 Sailing Directions (Enroute) East Coast of Russia
 
 - Authority: US National Geospatial-Intelligence Agency (NGA).
 - URL: https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub155bk.pdf&type=view
@@ -1416,7 +1441,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Sector 4 paras 4.1 (p.56), 4.6 (pp.58 to 59), 4.15 (p.61), 4.29 (p.65).
 - Passage: "An IMO-approved Traffic Separation Scheme lies in the waters of Chetvertyy Kuril'sky Proliv and may best be seen on the appropriate chart."
 
-### SRC-151 — Pub. 120 Sailing Directions (Planning Guide) Pacific Ocean and Southeast Asia, Russia chapter
+### SRC-154 — Pub. 120 Sailing Directions (Planning Guide) Pacific Ocean and Southeast Asia, Russia chapter
 
 - Authority: US National Geospatial-Intelligence Agency (NGA).
 - URL: https://msi.nga.mil/api/publications/download?key=16694492/SFH00000/Pub120bk.pdf&type=view
@@ -1427,7 +1452,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Russia chapter pp.497 to 498 (Traffic Separation Schemes; Vessel Traffic Service).
 - Passage: "Vessel Traffic Management Systems are in operation in Nevelsk (46˝40'N., 141°51'E.) and Okhotsk (59°21'N., 143°11'E.)."
 
-### SRC-152 — Обязательные постановления в морском порту Корсаков (draft, file pr_mt_korsakov_op.doc)
+### SRC-155 — Обязательные постановления в морском порту Корсаков (draft, file pr_mt_korsakov_op.doc)
 
 - Authority: Ministry of Transport of the Russian Federation (draft document on mintrans.gov.ru).
 - URL: https://mintrans.gov.ru/file/398609
@@ -1438,7 +1463,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Section on VTS zone (Зона действия СУДС).
 - Passage: "Зона действия СУДС ограничена береговой линией и прямой линией, соединяющей по порядку точки с координатами:1) 46°37,50' северной широты и 142°26,00' восточной долготы"
 
-### SRC-153 — data/authoritative/IMO_2025_Mandatory_Reporting_Systems.csv
+### SRC-156 — data/authoritative/IMO_2025_Mandatory_Reporting_Systems.csv
 
 - Authority: Global VTS project (derived from IMO Ships' Routeing 2025 Part I).
 - URL: repo:data/authoritative/IMO_2025_Mandatory_Reporting_Systems.csv
@@ -1449,7 +1474,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Rows I-I/22, I-I/23.
 - Passage: "I-I/23,The Canary Islands [CANREP],847,Mandatory ship reporting systems,Part I,VRS-0023"
 
-### SRC-154 — Обязательные постановления в морском порту Находка (Order of Mintrans of Russia No. 169 of 23 June 2011, reg. No. 21263)
+### SRC-157 — Обязательные постановления в морском порту Находка (Order of Mintrans of Russia No. 169 of 23 June 2011, reg. No. 21263)
 
 - Authority: Ministry of Transport of the Russian Federation (published in Rossiyskaya Gazeta).
 - URL: https://rg.ru/documents/2011/07/05/naxodka-site-dok.html
@@ -1460,7 +1485,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Paras 52-55.
 - Passage: "На подходах к заливу Находка в секторе № 1 Б, который ограничен с юга границей территориального моря, с запада меридианом 132°28,00' восточной долготы, с востока меридианом 133°43,00' восточной долготы, связь с РСУДС осуществляется на канале 9 ОВЧ."
 
-### SRC-155 — Приказ Минтранса России от 23.06.2011 N 169 (ред. от 15.12.2017)
+### SRC-158 — Приказ Минтранса России от 23.06.2011 N 169 (ред. от 15.12.2017)
 
 - Authority: legalacts.ru (third-party consolidation of Mintrans Order No. 169).
 - URL: https://legalacts.ru/doc/prikaz-mintransa-rf-ot-23062011-n-169/
@@ -1471,7 +1496,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Header '(ред. от 15.12.2017)'; paras 52-54.
 - Passage: "Приказ Минтранса России от 23.06.2011 N 169 (ред. от 15.12.2017)"
 
-### SRC-156 — Resolution MSC.389(94): Amendments to the existing mandatory ship reporting system "Off Chengshan Jiao Promontory"
+### SRC-159 — Resolution MSC.389(94): Amendments to the existing mandatory ship reporting system "Off Chengshan Jiao Promontory"
 
 - Authority: IMO Maritime Safety Committee.
 - URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC%20389%2094.pdf
@@ -1482,7 +1507,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Annex 16, paras 1.1, 2.1, 3.3, 4.1-4.2, 7.1-7.2.
 - Passage: "The waters covered by the Ship Reporting System is the water area with the VTS Centre (geographical position is 37°23′.65N, 122°42′.12E) as the centre and 24 miles as the radius."
 
-### SRC-157 — COLREG.2/Circ.66 Amended traffic separation schemes, Annex 2: "In the waters off the Chengshan Jiao Promontory"
+### SRC-160 — COLREG.2/Circ.66 Amended traffic separation schemes, Annex 2: "In the waters off the Chengshan Jiao Promontory"
 
 - Authority: IMO (COLREG.2/Circ.66; copy hosted by Vietnam Maritime Administration).
 - URL: https://www.vimawa.gov.vn/f/Circ%2066.pdf
@@ -1493,7 +1518,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Annex 2, Parts I and II, paras (a)-(v); Note under title.
 - Passage: "Note: See mandatory ship reporting system "Off the Chengshan Jiao Promontory"."
 
-### SRC-158 — Notice on the revised Chengshan Jiao VTS rules and VTS User Guide (in force 2 December 2024)
+### SRC-161 — Notice on the revised Chengshan Jiao VTS rules and VTS User Guide (in force 2 December 2024)
 
 - Authority: Shandong Maritime Safety Administration (China MSA).
 - URL: https://www.sd.msa.gov.cn/art/2024/11/12/art_1443_1818894.html
@@ -1504,7 +1529,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Notice text on fishing within the VTS area.
 - Passage: "VTS区域内的警戒区及通航分道"
 
-### SRC-159 — Resolution MSC.213(81): Mandatory ship reporting system for the Canary Islands (CANREP)
+### SRC-162 — Resolution MSC.213(81): Mandatory ship reporting system for the Canary Islands (CANREP)
 
 - Authority: IMO Maritime Safety Committee.
 - URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.213(81).pdf
@@ -1515,7 +1540,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Annex 1, paras 1.1, 2.1, 3.4.1; Appendix 1.
 - Passage: "The proposed maritime area is bounded by a polygonal line connecting points along the outer limit of the territorial sea (12 nautical miles) that surrounds the archipelago"
 
-### SRC-160 — COLREG.2/Circ.57 New and amended existing traffic separation schemes, Annex 1: New traffic separation schemes for the Canary Islands
+### SRC-163 — COLREG.2/Circ.57 New and amended existing traffic separation schemes, Annex 1: New traffic separation schemes for the Canary Islands
 
 - Authority: IMO (COLREG.2/Circ.57; copy hosted by Shanghai Maritime University CIMRC).
 - URL: https://cimrc.shmtu.edu.cn/_upload/article/files/63/dc/35c66be74d12873254dc88a2ef00/8c6a3c5f-5a85-4450-980a-5534de9fcd0a.pdf
@@ -1526,7 +1551,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Annex 1, sections 2 and 3, Notes.
 - Passage: "Note: Ships that so wish may give voluntary notification of entry to and departure from the TSS via the Las Palmas Regional MRCC, using VHF channel 16."
 
-### SRC-161 — Visita el Centro de Coordinación de Salvamento Marítimo en Las Palmas de Gran Canaria
+### SRC-164 — Visita el Centro de Coordinación de Salvamento Marítimo en Las Palmas de Gran Canaria
 
 - Authority: Government of Spain (La Moncloa press office, Ministry of Transport).
 - URL: https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/transportes/Paginas/2020/201120-salvamento.aspx
@@ -1537,7 +1562,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Press release body.
 - Passage: "Desde el CCS Las Palmas se coordinan las actuaciones para proteger la seguridad marítima y la vida humana en la mar en la parte oriental del archipiélago canario."
 
-### SRC-162 — Salvamento Marítimo auxilió en 2023 a 43.994 personas en Canarias, 20.997 migrantes
+### SRC-165 — Salvamento Marítimo auxilió en 2023 a 43.994 personas en Canarias, 20.997 migrantes
 
 - Authority: RTVC / EFE (media).
 - URL: https://rtvc.es/salvamento-maritimo-auxilio-en-2023-a-43-994-personas-en-canarias-20-997-migrantes/
@@ -1548,7 +1573,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Article body.
 - Passage: "El Centro de Coordinación de Salvamento ubicado en Las Palmas controló 2.023 buques a su paso por el Dispositivo de Separación de Tráfico de Canarias oriental"
 
-### SRC-163 — Radio Aids to Marine Navigation 2026, Part 2 (facilities information): 2.1.1 Halifax, Nova Scotia
+### SRC-166 — Radio Aids to Marine Navigation 2026, Part 2 (facilities information): 2.1.1 Halifax, Nova Scotia
 
 - Authority: Canadian Coast Guard.
 - URL: https://www.canada.ca/en/canadian-coast-guard/corporate/publications/radio-aids-marine-navigation/facilities-information.html
@@ -1559,7 +1584,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: 2.1.1 Halifax.
 - Passage: "For Vessel Traffic Services, call Halifax Traffic ( Part 3.7.3.4 of this publication) or Fundy Traffic ( Part 3.7.3.7 of this publication)."
 
-### SRC-164 — US Coast Pilot 1, Chapter 9
+### SRC-167 — US Coast Pilot 1, Chapter 9
 
 - Authority: NOAA Office of Coast Survey.
 - URL: https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp1/CPB1_C09_WEB.pdf
@@ -1569,7 +1594,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Use (B40): Approach described with no VTS (Coast Pilot) / complete list of operating US VTS incl. Tampa (NAVCEN); added at Pass 4 by the independent checker
 - Locator: Chapter text on the approach.
 
-### SRC-165 — 33 CFR Part 169 Subpart B Establishment of two mandatory ship reporting systems for the protection of northern right whales
+### SRC-168 — 33 CFR Part 169 Subpart B Establishment of two mandatory ship reporting systems for the protection of northern right whales
 
 - Authority: US Coast Guard / eCFR.
 - URL: https://www.ecfr.gov/api/versioner/v1/full/2026-09-01/title-33.xml?part=169
@@ -1580,7 +1605,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: 169.100, 169.102, 169.105, 169.110, 169.115, 169.125, 169.130.
 - Passage: "then south to 41°00' N, 68°31' W; then west to 41°00' N, 69°17' W; then northeast to 42°05' N, 70°02' W"
 
-### SRC-166 — US Coast Pilot 2, Chapter 7
+### SRC-169 — US Coast Pilot 2, Chapter 7
 
 - Authority: NOAA Office of Coast Survey.
 - URL: https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp2/CPB2_C07_WEB.pdf
@@ -1590,7 +1615,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Use (B40): Approach described with no VTS (Coast Pilot) / complete list of operating US VTS incl. Tampa (NAVCEN); added at Pass 4 by the independent checker
 - Locator: Chapter text on the approach.
 
-### SRC-167 — 33 CFR 165.100 (RNA, USCG Northeast District) and 165.501 (Chesapeake Bay entrance and Hampton Roads RNA)
+### SRC-170 — 33 CFR 165.100 (RNA, USCG Northeast District) and 165.501 (Chesapeake Bay entrance and Hampton Roads RNA)
 
 - Authority: US Coast Guard / eCFR.
 - URL: https://www.ecfr.gov/api/versioner/v1/full/2026-09-01/title-33.xml?part=165&section=165.501
@@ -1601,7 +1626,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: 165.100(d); 165.501.
 - Passage: "A vessel over 100 gross tons, which is underway in the Regulated Navigation Area, that has its ability to maneuver become impaired for any reason, shall, as soon as possible, report the impairment to the Captain of the Port."
 
-### SRC-168 — Vessel Traffic Service New York User's Manual
+### SRC-171 — Vessel Traffic Service New York User's Manual
 
 - Authority: USCG Sector New York, VTS New York.
 - URL: https://www.navcen.uscg.gov/sites/default/files/pdf/VTS%20User%20Guides/VTS_NY_UserManuaFeb2023.pdf
@@ -1612,7 +1637,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Area chartlet legend (p.19); Guidelines for Ambrose Channel Tug and Barge Operations.
 - Passage: "These calls may be made upon entering the offshore "Precautionary Zone" or anytime thereafter."
 
-### SRC-169 — Local Notice to Mariners, District 1, 06/10/2025 (Ambrose Channel proposed ATON changes)
+### SRC-172 — Local Notice to Mariners, District 1, 06/10/2025 (Ambrose Channel proposed ATON changes)
 
 - Authority: USCG First District / NAVCEN.
 - URL: https://navcen.uscg.gov/sites/default/files/pdf/lnms/lnm01242025.pdf
@@ -1623,7 +1648,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Ambrose Channel / ATON Proposed Notice of Change, LLNR 34785, 34796, 34797.
 - Passage: "Location: 40.46876° N / 73.87223° W Aid Name: Ambrose Channel Lighted"
 
-### SRC-170 — US Coast Pilot 3, Chapter 6
+### SRC-173 — US Coast Pilot 3, Chapter 6
 
 - Authority: NOAA Office of Coast Survey.
 - URL: https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp3/CPB3_C06_WEB.pdf
@@ -1633,7 +1658,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Use (B41): Approach described with no VTS (Coast Pilot) / complete list of operating US VTS incl. Tampa (NAVCEN); added at Pass 4 by the independent checker
 - Locator: Chapter text on the approach.
 
-### SRC-171 — Maritime Exchange for the Delaware River and Bay vessel reporting (search snippet)
+### SRC-174 — Maritime Exchange for the Delaware River and Bay vessel reporting (search snippet)
 
 - Authority: Search result only (philadelphiaencyclopedia.org summary; not opened).
 - URL: https://philadelphiaencyclopedia.org/essays/philadelphia-maritime-exchange/
@@ -1643,7 +1668,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Use (B41): Lead: the Maritime Exchange (a trade association) historically ran ship reporting stations including Cape Henlopen; vessels are "requested" to pass position/ETA information. Not an official source; not a VTS.
 - Locator: Search snippet.
 
-### SRC-172 — US Coast Pilot 3, Chapter 9
+### SRC-175 — US Coast Pilot 3, Chapter 9
 
 - Authority: NOAA Office of Coast Survey.
 - URL: https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp3/CPB3_C09_WEB.pdf
@@ -1653,7 +1678,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Use (B41): Approach described with no VTS (Coast Pilot) / complete list of operating US VTS incl. Tampa (NAVCEN); added at Pass 4 by the independent checker
 - Locator: Chapter text on the approach.
 
-### SRC-173 — US Coast Pilot 4, Chapter 6
+### SRC-176 — US Coast Pilot 4, Chapter 6
 
 - Authority: NOAA Office of Coast Survey.
 - URL: https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp4/CPB4_C06_WEB.pdf
@@ -1663,7 +1688,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Use (B41): Approach described with no VTS (Coast Pilot) / complete list of operating US VTS incl. Tampa (NAVCEN); added at Pass 4 by the independent checker
 - Locator: Chapter text on the approach.
 
-### SRC-174 — US Coast Pilot 4, Chapter 5
+### SRC-177 — US Coast Pilot 4, Chapter 5
 
 - Authority: NOAA Office of Coast Survey.
 - URL: https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp4/CPB4_C05_WEB.pdf
@@ -1673,7 +1698,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Use (B41): Approach described with no VTS (Coast Pilot) / complete list of operating US VTS incl. Tampa (NAVCEN); added at Pass 4 by the independent checker
 - Locator: Chapter text on the approach.
 
-### SRC-175 — VTS Houston-Galveston User's Manual 2025
+### SRC-178 — VTS Houston-Galveston User's Manual 2025
 
 - Authority: USCG Sector Houston-Galveston, VTS Houston-Galveston.
 - URL: https://www.navcen.uscg.gov/sites/default/files/pdf/VTS%20User%20Guides/VTS_HG_UserManual_2025.pdf
@@ -1684,7 +1709,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: User groups page.
 - Passage: "VMRS – Vessel Movement Reporting System. The mandatory system operated by the VTS used to monitor and track vessel movements."
 
-### SRC-176 — Centro de Control de Tráfico Marítimo
+### SRC-179 — Centro de Control de Tráfico Marítimo
 
 - Authority: Administración del Sistema Portuario Nacional Veracruz (ASIPONA Veracruz).
 - URL: https://www.puertodeveracruz.com.mx/infraestructura/centro-de-control-de-trafico-maritimo/
@@ -1695,7 +1720,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Main page text.
 - Passage: "instaló el Centro de Control de Tráfico Marítimo de Veracruz quien se encarga de vigilar, controlar, prestar asistencia a la navegación"
 
-### SRC-177 — Centro de Control de Tráfico Marítimo: Área de Influencia
+### SRC-180 — Centro de Control de Tráfico Marítimo: Área de Influencia
 
 - Authority: ASIPONA Veracruz.
 - URL: https://www.puertodeveracruz.com.mx/infraestructura/centro-de-control-de-trafico-maritimo/area-de-influencia/
@@ -1706,7 +1731,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Área de Influencia text.
 - Passage: "El área de control de tráfico marítimo ejercido por el CCTMVER, incluye las zonas de separación de tráfico, carriles, áreas de precaución, área a evitar y área de fondeo."
 
-### SRC-178 — Centro de Control de Tráfico Marítimo: Información General CCTM
+### SRC-181 — Centro de Control de Tráfico Marítimo: Información General CCTM
 
 - Authority: ASIPONA Veracruz.
 - URL: https://www.puertodeveracruz.com.mx/infraestructura/centro-de-control-de-trafico-maritimo/informacion-general-cctm/
@@ -1717,7 +1742,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Información General CCTM.
 - Passage: "La Capitanía de Puerto está a la escucha en canal VHF 12."
 
-### SRC-179 — data/authoritative/IMO_2025_Mandatory_Reporting_Systems.csv
+### SRC-182 — data/authoritative/IMO_2025_Mandatory_Reporting_Systems.csv
 
 - Authority: Global VTS project (IMO Ships' Routeing 2025 Edition, Part I).
 - URL: repository file
