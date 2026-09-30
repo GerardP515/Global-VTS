@@ -26,7 +26,7 @@ Current status is derived from the master register, not historical PASS labels.
 | [B20](B20.md) | 5 | 0 | 5 | Reviewed records; 5 require follow-up |
 | [B21](B21.md) | 5 | 0 | 5 | Reviewed records; 5 require follow-up |
 | [B22](B22.md) | 5 | 0 | 4 | Reviewed records; 4 require follow-up |
-| [B23](B23.md) | 5 | 5 | 5 | First pass only |
+| [B23](B23.md) | 5 | 0 | 5 | Reviewed records; 5 require follow-up |
 | [B24](B24.md) | 5 | 5 | 5 | First pass only |
 | [B25](B25.md) | 5 | 5 | 5 | First pass only |
 | [B26](B26.md) | 5 | 5 | 5 | First pass only |

@@ -2452,3 +2452,51 @@ Off Cape S. Vicente"
 - Locator: Sažetak izvora; Subjekti; metadata CI_Date revision
 - Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "VTS Hrvatska je služba nadzora i upravljanja pomorskim prometom u unutarnjim morskim vodama, teritorijalnom moru i isključivim gospodarskim pojasom Republike Hrvatske"
 - Use: Identifies the WFS as the official VTS Croatia area dataset (owner Ministry of the Sea, Transport and Infrastructure; creator HHI); VTS area covers internal waters, territorial sea and EEZ, divided into sectors; revision date 2025 for currency
+
+
+### SRC-2036 — Resolution A.338(IX) Routeing systems: Saronicos Gulf (in the approaches to Piraeus Harbour) (as amended)
+
+- Authority: IMO Assembly.
+- URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.338(9).pdf
+- Evidence class: Tier 1
+- Edition or date: Adopted 12 November 1975 (inshore traffic zone later cancelled, 1991)
+- Accessed: 2026-09-30
+- Locator: Annex p. 8
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "A separation zone, one-and-a-half miles wide, is centred upon the following geographical positions"
+- Use: TSS identity and geometry for TSS-0111 (separation zone centred on 37°40'.0N 23°44'.0E to 37°50'.0N 23°38'.0E)
+
+
+### SRC-2037 — COLREG.2/Circ.60, annex 1: New traffic separation scheme in the approaches to the Port of Thessaloniki
+
+- Authority: IMO (same compilation as SRC-2025).
+- URL: https://www.transportstyrelsen.se/globalassets/global/sjofart/dokument/sjotrafik_dok/imo_colreg.2_cirkular.pdf?id=58526
+- Evidence class: Tier 1
+- Edition or date: 2008 (MSC 85)
+- Accessed: 2026-09-30
+- Locator: PDF p. 348, annex 1
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "The routeing measures consist of a traffic separation scheme southwest of the Ak. Mikro Emvolon."
+- Use: TSS identity and geometry for TSS-0112 (south-west of Ak. Mikro Emvolon)
+
+
+### SRC-2038 — COLREG.2/Circ.51, annex 1: Off the Mediterranean coast of Egypt (Western/Eastern approaches to Mina Dumyat; Western/Eastern approaches to Bur Said)
+
+- Authority: IMO (same compilation as SRC-2025).
+- URL: https://www.transportstyrelsen.se/globalassets/global/sjofart/dokument/sjotrafik_dok/imo_colreg.2_cirkular.pdf?id=58526
+- Evidence class: Tier 1
+- Edition or date: Circular undated in extract (COLREG.2/Circ.51)
+- Accessed: 2026-09-30
+- Locator: PDF pp. 200 to 202, annex 1
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Western Approaches to Bur Said (135° - 315°) (a) A separation zone half mile wide as the following geographical positions"
+- Use: TSS identity and coordinates for TSS-0113, TSS-0114, TSS-0115
+
+
+### SRC-2039 — Rules of Navigation, December 2020 Edition (official flipbook)
+
+- Authority: Suez Canal Authority (Egypt).
+- URL: https://www.suezcanal.gov.eg/FlipPDFFiles/RulesOfNavigation/index.html
+- Evidence class: Lead only
+- Edition or date: December 2020 edition
+- Accessed: 2026-09-30
+- Locator: Art. 8 (p. 7); Art. 14 (p. 31); Chapter X SC-VTMS Overview (p. 156)
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "(1) Automatic surveillance and tracking of vessel arriving at SC approaches (15 miles faraway) until anchorage in the waiting areas."
+- Use: Lead: SC-VTMS provides surveillance and tracking of vessels arriving at SC approaches (15 miles) until anchorage; vessels contact the Port Said harbour office 15 miles before the Fairway Buoy (31°21'.32N 32°20'.81E). Does not name the TSS; older than three years; treated as lead for TSS-0115
