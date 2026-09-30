@@ -1,0 +1,72 @@
+[
+  {
+    "file": "ijmuiden_2025.pdf",
+    "url": "https://www.portofamsterdam.com/sites/default/files/2025-09/2025-479_VTS%20communicatieregeling%202.0%20def_NLEN_rev.pdf",
+    "resolved_url": "https://www.portofamsterdam.com/sites/default/files/2025-09/2025-479_VTS%20communicatieregeling%202.0%20def_NLEN_rev.pdf",
+    "content_type": "application/pdf",
+    "size": 506736,
+    "sha256": "b6b4bff60a3ee707db6b4eaafeece78a3aefe2607a6905f9ffe481e5fbfab365"
+  },
+  {
+    "file": "baz_week41_2025.html",
+    "url": "https://www.defensie.nl/onderwerpen/b/berichten-aan-zeevarenden/weekedities/2025/41",
+    "resolved_url": "https://www.defensie.nl/onderwerpen/b/berichten-aan-zeevarenden/weekedities/2025/41",
+    "content_type": "text/html; charset=utf-8",
+    "size": 214318,
+    "sha256": "57d9296bd3a80e600633d68217af73fab1817ba9703ea4b3a06661ab2cb377bd"
+  },
+  {
+    "file": "ukho_week44_2025.pdf",
+    "url": "https://msi.admiralty.co.uk/NoticesToMariners/DownloadFile?batchId=fbeae6b4-4204-4a74-bf85-b699fa8be8b5&fileName=44wknm25.pdf&frequency=Weekly&mimeType=application%2Fpdf",
+    "resolved_url": "https://msi.admiralty.co.uk/NoticesToMariners/DownloadFile?batchId=fbeae6b4-4204-4a74-bf85-b699fa8be8b5&fileName=44wknm25.pdf&frequency=Weekly&mimeType=application%2Fpdf",
+    "content_type": "application/pdf",
+    "size": 3697874,
+    "sha256": "1b02ef38fcbfb38a48c326aed4bca930c6fd0d4d42394cadcba0c11297ee5548"
+  },
+  {
+    "file": "rws_off_texel.html",
+    "url": "https://www.rijkswaterstaat.nl/nieuws/archief/2025/10/nieuw-vts-gebied-off-texel-vanaf-3-november-operationeel",
+    "resolved_url": "https://www.rijkswaterstaat.nl/nieuws/archief/2025/10/nieuw-vts-gebied-off-texel-vanaf-3-november-operationeel",
+    "content_type": "text/html; charset=utf-8",
+    "size": 138094,
+    "sha256": "f64abc43ef75b04326d24a447c35f235178194f51b0c8b1877b332f4dc887f45"
+  },
+  {
+    "file": "rws_collections.json",
+    "url": "https://geo.rijkswaterstaat.nl/services/ogc/gdr/fis_vnds/ogc/features/v1/collections?f=json",
+    "resolved_url": "https://geo.rijkswaterstaat.nl/services/ogc/gdr/fis_vnds/ogc/features/v1/collections?f=json",
+    "content_type": "application/json",
+    "size": 300494,
+    "sha256": "cfa67fbda038a8361203e8f03fd7e9ee391f8faa7f196ddf317895eb45eb9c25"
+  },
+  {
+    "file": "stz.html",
+    "url": "https://wetten.overheid.nl/BWBR0007914/2026-09-30",
+    "error": "HTTP Error 404: "
+  },
+  {
+    "file": "communications.html",
+    "url": "https://wetten.overheid.nl/BWBR0031567/2026-09-30",
+    "error": "HTTP Error 404: "
+  },
+  {
+    "file": "baz_attachment_0.pdf",
+    "url": "https://www.defensie.nl/site/binaries/site-content/collections/baz-weekly-editions/2025/41/wkly_y2025_w41_baz257_265.pdf",
+    "resolved_url": "https://www.defensie.nl/site/binaries/site-content/collections/baz-weekly-editions/2025/41/wkly_y2025_w41_baz257_265.pdf",
+    "content_type": "application/pdf;charset=UTF-8",
+    "size": 469949,
+    "sha256": "6bab41826b8402f00c570215764c5d06ce9761761e31ba918f505637639dd152"
+  },
+  {
+    "url": "https://geo.rijkswaterstaat.nl/services/ogc/gdr/fis_vnds/ogc/features/v1/collections/vts_deelsector/items?f=application%2Fgeo%2Bjson&limit=1000",
+    "error": "Read timed out after 30 seconds; no feature geometry obtained; not used as boundary evidence."
+  },
+  {
+    "url": "https://geo.rijkswaterstaat.nl/services/ogc/gdr/fis_vnds/ogc/features/v1/collections/vts_deelsector_v/items?f=application%2Fgeo%2Bjson&limit=1000",
+    "error": "Read timed out after 30 seconds; no feature geometry obtained; not used as boundary evidence."
+  },
+  {
+    "url": "https://geo.rijkswaterstaat.nl/services/ogc/gdr/fis_vnds/ogc/features/v1/collections/vts_centrales/items?f=application%2Fgeo%2Bjson&limit=1000",
+    "error": "Read timed out after 30 seconds; no feature geometry obtained; not used as boundary evidence."
+  }
+]

@@ -15,7 +15,7 @@ Current status is derived from the master register, not historical PASS labels.
 | [B09](B09.md) | 5 | 0 | 3 | Reviewed records; 3 require follow-up |
 | [B10](B10.md) | 5 | 0 | 5 | Reviewed records; 5 require follow-up |
 | [B11](B11.md) | 5 | 0 | 5 | Reviewed records; 5 require follow-up |
-| [B12](B12.md) | 5 | 0 | 5 | Reviewed records; 5 require follow-up |
+| [B12](B12.md) | 5 | 0 | 4 | Rechecked: 3 positive VTS links, 2 unresolved; 4 follow-up records |
 | [B13](B13.md) | 5 | 0 | 5 | Reviewed records; 5 require follow-up |
 | [B14](B14.md) | 5 | 0 | 5 | Reviewed records; 5 require follow-up |
 | [B15](B15.md) | 5 | 0 | 5 | Reviewed records; 5 require follow-up |

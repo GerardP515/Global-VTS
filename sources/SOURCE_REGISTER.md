@@ -277,6 +277,10 @@ Third-party material may identify a lead. It must not establish current operatio
 - Locator: Page 8, notice *261(P)/25; buoy list near p.20.
 - Passage: "To enhance the safety of maritime traffic in the traffic separation schemes off the coast of Texel and Vlieland ... a VESSEL TRAFFIC SERVICE SECTOR will be established."
 
+
+**B12 recheck, 30 September 2026:** Reopened during B12 recheck; full PDF retrieved from Defence and page 8 visually inspected. SHA-256 6bab41826b8402f00c570215764c5d06ce9761761e31ba918f505637639dd152.
+Rechecked locator: Week 41/2025, page 8, notice 261(P)/25. The PDF has 18 pages; the former approximate p.20 locator is not used.
+
 ### SRC-048 — Vessel Traffic Monitoring (VTMon)
 
 - Authority: Kustwacht Nederland (Netherlands Coastguard).
@@ -441,6 +445,10 @@ Third-party material may identify a lead. It must not establish current operatio
 - Use (B11): VTS area of the North Sea Canal Area: approaches to IJmuiden = territorial sea within 12 nm of the breakwater heads incl. extended IJ-geul; arrival report at 12 nm to Sector IJmuiden VHF 61; IJmuiden Approaches VHF 7 is a supporting information-only channel; Appendix I chart
 - Locator: Scope of application (p.4); Section B.1 (p.6); Section 8 (p.8); Appendix I (p.10).
 - Passage: "the approaches to IJmuiden, defined as the section of the Territorial Sea (including Anchorages 6, 7, and 8) within a 12-nautical-mile radius of the seaward ends of the IJmuiden breakwaters"
+
+
+**B12 recheck, 30 September 2026:** Reopened during B12 recheck; pages 4, 6, 8, 10 and 11 read, including Appendix I map. SHA-256 b6b4bff60a3ee707db6b4eaafeece78a3aefe2607a6905f9ffe481e5fbfab365.
+Rechecked locator: Scope of application (p.4); Section B.1 (p.6); Section 8 (p.8); Appendix I (p.10).
 
 ### SRC-063 — Scheepvaartreglement territoriale zee (BWBR0007914)
 
@@ -1857,6 +1865,10 @@ Third-party material may identify a lead. It must not establish current operatio
 - Accessed: 30 September 2026.
 - Use: Exact polygon of VTS Off Texel, VHF 63 and stated purpose of providing VTS in the TSS off Texel and Vlieland.
 
+
+**B12 recheck, 30 September 2026:** Reopened full weekly edition 44wknm25.pdf at the same UKHO download endpoint. Coordinate table visually inspected; explicitly WGS84. SHA-256 1b02ef38fcbfb38a48c326aed4bca930c6fd0d4d42394cadcba0c11297ee5548.
+Rechecked locator: UKHO Weekly Edition 44/2025, printed page 2.56 / PDF page 70, notice 4791(P)/25; full weekly edition used for recheck.
+
 ### SRC-192 — Rijkswaterstaat Verkeerscentrale Den Helder
 
 - Authority: Rijkswaterstaat.
@@ -1945,6 +1957,10 @@ Third-party material may identify a lead. It must not establish current operatio
 - Verification: Opened during the repository review on 30 September 2026.
 - Use: Current service identity and commencement; not proof of whole-TSS coverage.
 
+
+
+**B12 recheck, 30 September 2026:** Reopened during B12 recheck; full authority webpage retrieved. SHA-256 f64abc43ef75b04326d24a447c35f235178194f51b0c8b1877b332f4dc887f45.
+Rechecked locator: Sections Actieve verkeersbegeleiding and Ieder schip moet zich melden.
 
 ### SRC-196 — Container-ship advice and Off Texel VTS
 
