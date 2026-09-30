@@ -14,7 +14,7 @@ B40
 
 | TSS | VTS | Mandatory reporting | Classification |
 |---|---|---|---|
-| TSS-0196 In the Bay of Fundy and approaches | VTS-0038 Fundy Traffic (Bay of Fundy VTS Zone) | No | VTS only |
+| TSS-0196 In the Bay of Fundy and approaches | VTS-0037 Fundy Traffic (Bay of Fundy VTS Zone) | No | VTS only |
 | TSS-0197 In the approaches to Portland, Maine | - | No | Neither confirmed |
 | TSS-0198 In the approach to Boston, Massachusetts | - | VRS-0021 Off the north-eastern and south-eastern coasts of the United States: WHALESNORTH (northeastern area) | MRS only |
 | TSS-0199 In the approaches to Narragansett Bay, Rhode Island, and Buzzards Bay, Massachusetts | - | No | Neither confirmed |

@@ -36,9 +36,9 @@ All six batch audits closed as PASS WITH UNRESOLVED ITEMS.
 |---|---|---:|---|
 | VTS-0013 | VTS Houston-Galveston | 1 | legacy ID; partial (offshore parts beyond 12 nm) |
 | VTS-0014 | VTS New York | 1 | legacy ID; partial (about 5 to 10 per cent of the precautionary area) |
-| VTS-0037 | Chengshan Jiao VTS Centre | 4 | new; East component partial |
-| VTS-0038 | Fundy Traffic (Bay of Fundy VTS Zone) | 1 | new |
-| VTS-0039 | Veracruz Maritime Traffic Control Centre (CCTMVER) | 1 | new; partial; not designated a VTS, but its official area names the TSS |
+| VTS-0036 | Chengshan Jiao VTS Centre | 4 | new; East component partial |
+| VTS-0037 | Fundy Traffic (Bay of Fundy VTS Zone) | 1 | new |
+| VTS-0038 | Veracruz Maritime Traffic Control Centre (CCTMVER) | 1 | new; partial; not designated a VTS, but its official area names the TSS |
 
 **Mandatory reporting schemes: 3**, all IMO Part I: VRS-0022 Off Chengshan Jiao (4 TSS), VRS-0023 CANREP (2 TSS, heavy-oil tankers only) and VRS-0021 WHALESNORTH (1 TSS, Boston, partial).
 

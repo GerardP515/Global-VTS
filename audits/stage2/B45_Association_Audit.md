@@ -13,8 +13,8 @@ B45
 
 | TSS | VTS | Mandatory reporting | Classification |
 |---|---|---|---|
-| TSS-0221 East | VTS-0037 Chengshan Jiao VTS Centre | VRS-0022 Off Chengshan Jiao Promontory | VTS + MRS |
-| TSS-0222 South | VTS-0037 Chengshan Jiao VTS Centre | VRS-0022 Off Chengshan Jiao Promontory | VTS + MRS |
+| TSS-0221 East | VTS-0036 Chengshan Jiao VTS Centre | VRS-0022 Off Chengshan Jiao Promontory | VTS + MRS |
+| TSS-0222 South | VTS-0036 Chengshan Jiao VTS Centre | VRS-0022 Off Chengshan Jiao Promontory | VTS + MRS |
 | TSS-0223 Between Grand Canary and Fuerteventura | - | VRS-0023 CANREP (Mandatory ship reporting system for the Canary Islands) | MRS only |
 | TSS-0224 Between Grand Canary and Tenerife | - | VRS-0023 CANREP (Mandatory ship reporting system for the Canary Islands) | MRS only |
 
@@ -27,7 +27,7 @@ Pass 4 (coordinator): An independent checker re-opened MSC.389(94), MSC.213(81),
 VRS-0022 and VRS-0023 reused; one CANREP entity linked to both Canary TSS; MRCC Las Palmas / Tenerife recorded as MRCCs, not VTS; mandatory CANREP (tankers only) separated from voluntary TSS notification. Chengshan Jiao VTS Centre not duplicated.
 
 Shared entities in this batch:
-- VTS-0037: TSS-0221, TSS-0222
+- VTS-0036: TSS-0221, TSS-0222
 - VRS-0022: TSS-0221, TSS-0222
 - VRS-0023: TSS-0223, TSS-0224
 

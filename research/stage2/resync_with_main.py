@@ -104,7 +104,8 @@ def main(batches):
             if os.path.exists(fp):
                 t = open(fp, encoding="utf-8").read()
                 open(fp, "w", encoding="utf-8").write(remap(t))
-    for p in ("audits/stage2/Interim_Report_B10_B19.md",):
+    import glob as _glob
+    for p in sorted(os.path.relpath(x, ROOT) for x in _glob.glob(os.path.join(ROOT, "audits", "stage2", "Interim_Report_*.md"))):
         fp = os.path.join(ROOT, p)
         if os.path.exists(fp):
             t = open(fp, encoding="utf-8").read()

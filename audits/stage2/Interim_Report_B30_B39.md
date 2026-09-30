@@ -45,11 +45,11 @@ These figures cover 50 of 224 TSS. They are not a worldwide total and must not b
 | VTS-0012 | VTS Los Angeles-Long Beach | 1 | legacy ID; partial |
 | VTS-0028 | Hong Kong VTS | 2 | new |
 | VTS-0029 | Victoria VTS Zone (Victoria Traffic) | 3 | new |
-| VTS-0031 | Prince Rupert VTS Zone (Prince Rupert Traffic) | 3 | new; two partial |
-| VTS-0032 to VTS-0035 | VTS Arica, Iquique, Quintero, Valparaíso | 1 each | new; Tier 3 evidence only |
-| VTS-0036 | Strait of Canso and Eastern Approaches VTS Zone (Canso Traffic) | 1 | new; partial |
+| VTS-0030 | Prince Rupert VTS Zone (Prince Rupert Traffic) | 3 | new; two partial |
+| VTS-0031 to VTS-0034 | VTS Arica, Iquique, Quintero, Valparaíso | 1 each | new; Tier 3 evidence only |
+| VTS-0035 | Strait of Canso and Eastern Approaches VTS Zone (Canso Traffic) | 1 | new; partial |
 
-VTS-0030 was allocated in error and corrected to VTS-0009; it is unused.
+A number allocated in error for Prince William Sound was corrected to legacy VTS-0009; later re-syncs with main closed the gap.
 
 **Mandatory reporting schemes: 2.** STRAITREP (VRS-0016, 7 TSS) and MASTREP (Australian national scheme under Marine Order 63, 4 TSS; no VRS ID).
 

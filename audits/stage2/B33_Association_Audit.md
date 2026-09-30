@@ -16,9 +16,9 @@ B33
 |---|---|---|---|
 | TSS-0161 In the Bass Strait | - | national MASTREP (Modernised Australian Ship Tracking and Reporting System), national mandatory scheme under the Navigation Act 2012 and Marine Order 63 (Vessel reporting systems) 2019; not an IMO Part I system | MRS only |
 | TSS-0162 In Prince William Sound | VTS-0009 Vessel Traffic Service Prince William Sound | No | VTS only |
-| TSS-0163 Western approach | VTS-0031 Prince Rupert VTS Zone (Prince Rupert Traffic) | No | VTS only |
-| TSS-0164 South-western approach | VTS-0031 Prince Rupert VTS Zone (Prince Rupert Traffic) | No | VTS only |
-| TSS-0165 Western lanes | VTS-0010; VTS-0031 Vessel Traffic Service Puget Sound; Prince Rupert VTS Zone (Prince Rupert Traffic) | No | VTS only |
+| TSS-0163 Western approach | VTS-0030 Prince Rupert VTS Zone (Prince Rupert Traffic) | No | VTS only |
+| TSS-0164 South-western approach | VTS-0030 Prince Rupert VTS Zone (Prince Rupert Traffic) | No | VTS only |
+| TSS-0165 Western lanes | VTS-0010; VTS-0030 Vessel Traffic Service Puget Sound; Prince Rupert VTS Zone (Prince Rupert Traffic) | No | VTS only |
 
 ### Evidence check
 Pass 2 (researcher): eCFR parts 161 and 167 (point in time 2026-09-01) downloaded and the relevant sections re-read; TSS coordinates compared with VTS area limits. SOR/2025-275 Schedule 1 re-read in full text. RAMN 2026 s.3.5.4 quotes obtained twice via WebFetch (direct download failed). NAVCEN VTC list confirmed. MASTREP evidence re-read for TSS-0161.
@@ -29,7 +29,7 @@ Pass 4 (coordinator): An independent checker re-opened eCFR 33 CFR 161 and 167, 
 VMRS and Canadian VTS Zone reporting kept under the VTS, not an MRS. The CVTS is shared by TSS-0163, 0164, 0165; component services listed once each. Victoria Traffic removed from the approaches (not its sector). TSS-0161 is a distinct IMO entry from TSS-0160 and shares MASTREP. Prince William Sound precautionary area partly outside the VTS, recorded in the notes.
 
 Shared entities in this batch:
-- VTS-0031: TSS-0163, TSS-0164, TSS-0165
+- VTS-0030: TSS-0163, TSS-0164, TSS-0165
 
 ### Changes made
 Changes at Pass 4 (coordinator review of the research output):

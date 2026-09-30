@@ -15,10 +15,10 @@ B38
 | TSS | VTS | Mandatory reporting | Classification |
 |---|---|---|---|
 | TSS-0186 Landfall and approaches to Puerto Ilo | - | Unresolved | Unresolved |
-| TSS-0187 In the approaches to Arica | VTS-0032 VTS Arica | No | VTS only |
-| TSS-0188 In the approaches to Iquique | VTS-0033 VTS Iquique | No | VTS only |
+| TSS-0187 In the approaches to Arica | VTS-0031 VTS Arica | No | VTS only |
+| TSS-0188 In the approaches to Iquique | VTS-0032 VTS Iquique | No | VTS only |
 | TSS-0189 In the approaches to Antofagasta | - | No | Unresolved |
-| TSS-0190 In the approaches to Quintero Bay | VTS-0034 VTS Quintero | No | VTS only |
+| TSS-0190 In the approaches to Quintero Bay | VTS-0033 VTS Quintero | No | VTS only |
 
 ### Evidence check
 Pass 2 (researcher): Reopened NGA Pub. 125 text and rendered the VTS Arica (p.96) and VTS Iquique (p.99) diagrams: TSS drawn inside the VTS boundary limits in both. Re-ran point-in-polygon for Quintero TSS against VTS Quintero coordinates (all 6 points inside). Rechecked TSS coordinates in COLREG.2/Circ.32 and Circ.48. Re-read CHILREP guidance pp.5-6 (voluntary; internal-waters duty). Antofagasta: confirmed VTS Mejillones limits (to 23°01'.5 S) exclude the TSS.

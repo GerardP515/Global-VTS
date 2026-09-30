@@ -18,7 +18,7 @@ B41
 | TSS-0202 In the approaches to Chesapeake Bay | - | No | Neither confirmed |
 | TSS-0203 In the approaches to the Cape Fear River | - | No | Neither confirmed |
 | TSS-0204 In the approaches to Galveston Bay | VTS-0013 VTS Houston-Galveston | No | VTS only |
-| TSS-0205 In the approaches to the port of Veracruz | VTS-0039 Centro de Control de Tráfico Marítimo de Veracruz (CCTMVER) | No | VTS only |
+| TSS-0205 In the approaches to the port of Veracruz | VTS-0038 Centro de Control de Tráfico Marítimo de Veracruz (CCTMVER) | No | VTS only |
 
 ### Evidence check
 Pass 2 (researcher): VTS Houston-Galveston re-verified from 33 CFR 161.35 (LB 1C inside the inshore precautionary area, point-in-polygon check), Table 1 monitoring box and 161.2 navigable waters; NAVCEN and 2025 User Manual confirm operation. Veracruz CCTM re-opened from the ASIPONA pages and checked against COLREG.2/Circ.41 coordinates. Delaware, Chesapeake and Cape Fear negatives re-checked against 161 Table 1, NAVCEN, 169.105/115 and 165.501.

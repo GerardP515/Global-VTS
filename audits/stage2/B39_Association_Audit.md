@@ -14,11 +14,11 @@ B39
 
 | TSS | VTS | Mandatory reporting | Classification |
 |---|---|---|---|
-| TSS-0191 In the approaches to Valparaiso | VTS-0035 VTS Valparaíso | No | VTS only |
+| TSS-0191 In the approaches to Valparaiso | VTS-0034 VTS Valparaíso | No | VTS only |
 | TSS-0192 In the approaches to Concepcion Bay | - | Unresolved | Unresolved |
 | TSS-0193 In the approaches to San Vicente Bay | - | No | Unresolved |
 | TSS-0194 In the approaches to Punta Arenas | - | Unresolved | Unresolved |
-| TSS-0195 In the approaches to Chedabucto Bay | VTS-0036 Strait of Canso and Eastern Approaches VTS Zone (Canso Traffic) | No | VTS only |
+| TSS-0195 In the approaches to Chedabucto Bay | VTS-0035 Strait of Canso and Eastern Approaches VTS Zone (Canso Traffic) | No | VTS only |
 
 ### Evidence check
 Pass 2 (researcher): Reopened SOR/2025-275 Schedule 3 item 5 and COLREG.2/Circ.59 Annex 7 and recomputed each TSS point against the zone limits (Part I east end and Part II south end outside; rest inside). Rechecked NGA Pub. 145 para 4.1 (TSS and Canso Traffic). Rendered VTS Valparaiso diagram (p.149): TSS inside Zona Control. Re-read NGA Pub. 124 Strait of Magellan reporting text and Punta Arenas port section. RAMN Table 3-24 not verifiable; no claim rests on it.
