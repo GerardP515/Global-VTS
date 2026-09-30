@@ -57,13 +57,36 @@ def source_section(s: dict) -> str:
     return '\n'.join(lines[:1]) + '\n' + '\n'.join(lines[1:]) + '\n'
 
 
-def rebuild(rows: list[dict], fields: list[str], batches: set[str], date: str) -> None:
-    """Regenerate every table derived from the master register."""
+def patch_view(batch: str, members: list[dict]) -> None:
+    """Update the classification cell of changed rows in a hand-maintained batch page."""
+    path = f'research/batches_imo2025/{batch}.md'
+    lines = text(path).split('\n')
+    for r in members:
+        for i, line in enumerate(lines):
+            if line.startswith(f"| {r['tss_id']} |"):
+                cells = line.split(' | ')
+                cells[3] = r['association_status']
+                lines[i] = ' | '.join(cells)
+    put(path, '\n'.join(lines))
+
+
+def rebuild(rows: list[dict], fields: list[str], batches: set[str], date: str,
+            changed: set[str] | None = None, views: bool = True) -> None:
+    """Regenerate every table derived from the master register.
+
+    changed: TSS rows whose gap entries are rebuilt (default: every row in batches).
+    views: rebuild whole batch pages; otherwise only the changed rows' table lines are patched.
+    """
+    if changed is None:
+        changed = {r['tss_id'] for r in rows if r['batch_id'] in batches}
     write_table(MASTER, fields, rows)
     write_table(SPLIT, fields, [r for r in rows if r['recorded_review_status'] == 'pass1-recorded'])
-    src = text(SOURCES)
-    indexed = source_rows(src)
-    write_table('sources/SOURCE_REGISTER.csv', list(indexed[0]), indexed)
+    # Keep existing index rows as they are (they may carry verification detail the Markdown lacks);
+    # append rows only for newly defined sources.
+    src_fields, src_rows = strict_table('sources/SOURCE_REGISTER.csv')
+    have = {r['source_id'] for r in src_rows}
+    src_rows += [r for r in source_rows(text(SOURCES)) if r['source_id'] not in have]
+    write_table('sources/SOURCE_REGISTER.csv', src_fields, src_rows)
     _, services = strict_table(VTS)
 
     relationships = []
@@ -84,7 +107,7 @@ def rebuild(rows: list[dict], fields: list[str], batches: set[str], date: str) -
     for r in rows:
         if not r['quality_flags']:
             continue
-        if r['batch_id'] not in batches and r['tss_id'] in old_by_id:
+        if r['tss_id'] not in changed and r['tss_id'] in old_by_id:
             gaps.append(old_by_id[r['tss_id']])
             continue
         gaps.append({'gap_id': f"GAP-{r['tss_id']}", 'tss_id': r['tss_id'], 'batch_id': r['batch_id'],
@@ -123,6 +146,12 @@ def rebuild(rows: list[dict], fields: list[str], batches: set[str], date: str) -
         first = all(r['review_status'] == 'pass1-recorded' for r in members)
         state = ('First pass only' if first else f'Reviewed records; {opened} require follow-up' if opened
                  else 'Association review recorded; publication checks pending')
+        if not views:
+            batch_rows.append(dict(old, records=str(len(members)), follow_up_records=str(opened),
+                                   first_pass_only=str(sum(r['review_status'] == 'pass1-recorded' for r in members)),
+                                   status=state if old['status'].startswith(('Reviewed records', 'First pass', 'Association review')) else old['status']))
+            patch_view(old['batch_id'], [r for r in members if r['tss_id'] in changed])
+            continue
         batch_rows.append({'batch_id': old['batch_id'], 'records': str(len(members)),
                            'first_pass_only': str(sum(r['review_status'] == 'pass1-recorded' for r in members)),
                            'follow_up_records': str(opened), 'status': state})
@@ -185,7 +214,8 @@ def main(path: str) -> None:
     batches = set()
     for tid, values in update['rows'].items():
         r = by_id[tid]
-        assert r['recorded_review_status'] == 'pass1-recorded', f'Only first-pass rows are promoted here: {tid}'
+        final_count = update.get('mode') == 'final_count'
+        assert final_count or r['recorded_review_status'] == 'pass1-recorded', f'Only first-pass rows are promoted here: {tid}'
         unknown = set(values) - EDITABLE
         assert not unknown, f'{tid}: fields not editable here: {sorted(unknown)}'
         r.update(values)
@@ -199,14 +229,20 @@ def main(path: str) -> None:
         r['quality_flags'] = '; '.join(flags)
         r['readiness_status'] = 'Review required' if flags else 'Association record reviewed; not publication-ready'
         r['review_status'] = 'reopened' if flags else 'audited'
-        r['audit_path'] = f"audits/stage2/{r['batch_id']}_Association_Audit.md"
+        if not final_count:
+            r['audit_path'] = f"audits/stage2/{r['batch_id']}_Association_Audit.md"
         r['last_integrity_check'] = date
         batches.add(r['batch_id'])
     for batch, content in update.get('audits', {}).items():
         put(f'audits/stage2/{batch}_Association_Audit.md', content)
-    for batch in batches:
-        assert (ROOT / f'audits/stage2/{batch}_Association_Audit.md').is_file(), f'Missing Stage 2 audit: {batch}'
-    rebuild(rows, fields, batches, date)
+    for path, content in update.get('files', {}).items():
+        put(path, content)
+    if update.get('mode') == 'final_count':
+        rebuild(rows, fields, batches, date, changed=set(update['rows']), views=False)
+    else:
+        for batch in batches:
+            assert (ROOT / f'audits/stage2/{batch}_Association_Audit.md').is_file(), f'Missing Stage 2 audit: {batch}'
+        rebuild(rows, fields, batches, date)
     print(f'Updated {len(update["rows"])} rows in {len(batches)} batches.')
 
 
