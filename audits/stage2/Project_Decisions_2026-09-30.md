@@ -53,3 +53,8 @@ another outside), or the TSS lies on or within source or datum precision of a se
 on an interpretation choice that an official source supports either way. An unsuccessful search is not a conflict:
 it still leaves the record Unresolved. Included-by-default links carry the flag `INCLUDED_BY_DEFAULT_ON_CONFLICT`
 so they can be revisited if better evidence appears.
+
+**Classification note (decision 7 double-check):** monitoring of a TSS by a body that is not a VTS centre, where an
+official source names that monitoring responsibility, is counted as a **supplemental** service (not core VTS). This
+supersedes the earlier "stays a lead" note for the Irish Coast Guard at Tuskar and Fastnet (confirmed by the project
+owner, 30 September 2026). It does not change decision 1: such monitoring is still not VTS coverage.
