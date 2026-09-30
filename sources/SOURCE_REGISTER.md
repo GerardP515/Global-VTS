@@ -5456,3 +5456,80 @@ Off Cape S. Vicente"
 - Locator: Page title
 - Verification: Opened during the decision 7 double-check on 2026-09-30. Passage: "Приказ Минтранса России от 23.06.2011 N 169 (ред. от 15.12.2017) "Об утверждении Обязательных постановлений в морском порту Находка""
 - Use: Order No. 169 is carried as current in the latest edition 15.12.2017, with no 'утратил силу' marking.
+
+### SRC-2289 — Reglas de Operación del Puerto de Salina Cruz
+
+- Authority: Administración del Sistema Portuario Nacional Salina Cruz (ASIPONA Salina Cruz).
+- URL: https://www.puertosalinacruz.com.mx/web/upl/sec/Documentos/Reglas_de_Operacion_ASIPONA%20Salina%20Cruz.pdf
+- Evidence class: Tier 2.
+- Edition or date: Document currently published by ASIPONA on 27 November 2025; embedded operating rules dated 2014.
+- Accessed: 30 September 2026.
+- Verification: Reopened during FC-C from the current ASIPONA rules page.
+- Locator: Appendix XII, pp. 102-115; especially paras 5, 16, 19 and 28.
+- Use: Confirms an H24 Port and Coastal Maritime Traffic Service from the Salina Cruz CCTM. The rules require direct CCTM-vessel communication when a ship enters the traffic separation scheme and make the service mandatory for SOLAS ships navigating in the CCTM service zone or TSS to call at Salina Cruz.
+
+### SRC-2290 — Audit 2024-0006: ASIPONA Salina Cruz CCTM equipment
+
+- Authority: Auditoría Superior de la Federación, Mexico.
+- URL: https://www.asf.gob.mx/Trans/Informes/IR2024b/Documentos/Auditorias/2024_0006_a.pdf
+- Evidence class: Tier 2.
+- Edition or date: 2025 audit of 2024 expenditure.
+- Accessed: 30 September 2026.
+- Verification: Reopened during FC-C.
+- Locator: Programme for acquisition of equipment for the Centro de Control de Tráfico Marítimo del Puerto de Salina Cruz.
+- Use: Current corroboration of the Salina Cruz CCTM equipment programme and completion.
+
+### SRC-2291 — AMP manages acquisition of Maritime Traffic Control System
+
+- Authority: Autoridad Marítima de Panamá.
+- URL: https://www.amp.gob.pa/noticias/notas-de-prensa/amp-gestiona-adquisicion-de-sistema-de-control-de-trafico-maritimo/
+- Evidence class: Tier 2.
+- Edition or date: 4 April 2025.
+- Accessed: 30 September 2026.
+- Verification: Reopened during FC-C.
+- Locator: National STM/VTS procurement.
+- Use: Shows AMP's national maritime traffic-control system was being procured. This is useful context for Morro de Puercos and Isla Jicarita but does not certify absence of every local service.
+
+### SRC-2292 — Memoria Institucional 2025-2026
+
+- Authority: Autoridad Marítima de Panamá.
+- URL: https://www.amp.gob.pa/wp-content/uploads/2026/04/MEMORIA-2025-2026-GR-RF-3-WEB.pdf
+- Evidence class: Tier 2.
+- Edition or date: 2026.
+- Accessed: 30 September 2026.
+- Verification: Checked during FC-C.
+- Locator: Maritime Traffic System project.
+- Use: Records the national maritime traffic system as an implementation/procurement project in 2025-2026.
+
+### SRC-2293 — DICAPI and FONDEPES: maritime safety and VTS rollout
+
+- Authority: Fondo Nacional de Desarrollo Pesquero / Government of Peru, describing DICAPI systems.
+- URL: https://www.gob.pe/institucion/fondepes/noticias/1143483-dicapi-y-fondepes-como-promueven-la-seguridad-de-los-pescadores-artesanales-en-el-mar
+- Evidence class: Tier 2.
+- Edition or date: 10 April 2025.
+- Accessed: 30 September 2026.
+- Verification: Reopened during FC-C.
+- Locator: National VTS rollout.
+- Use: States that VTS operates at Callao, described as the first port, and that installation at other Peruvian ports is planned.
+
+### SRC-2294 — Strengthening maritime safety: traffic-separation buoys at Chimbote and Paita
+
+- Authority: Marina de Guerra del Perú.
+- URL: https://www.gob.pe/institucion/marina/noticias/1386526-fortaleciendo-la-seguridad-maritima-en-nuestro-dominio-maritimo
+- Evidence class: Tier 2.
+- Edition or date: 3 May 2026.
+- Accessed: 30 September 2026.
+- Verification: Checked during FC-C.
+- Locator: Paita and Chimbote routeing aids.
+- Use: Records installation of traffic-separation buoys at Chimbote and Paita; no VTS commissioning is stated.
+
+### SRC-2295 — Guardafronteras where land ends and sea begins
+
+- Authority: Granma, Cuba.
+- URL: https://www.granma.cu/granmad/2012/06/06/pdf/todas.pdf
+- Evidence class: Lead only.
+- Edition or date: 6 June 2012.
+- Accessed: 30 September 2026.
+- Verification: Reopened during FC-C.
+- Locator: Cabo San Antonio border radar post.
+- Use: Historical state-media evidence of a radiotechnical border post monitoring international maritime traffic. It is not evidence of a VTS and cannot resolve the seven Cuban TSS.
