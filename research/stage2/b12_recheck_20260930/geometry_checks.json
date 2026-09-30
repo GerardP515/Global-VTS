@@ -1,0 +1,188 @@
+{
+  "warning": "Research test, not official geometry or passage instructions. The 200 m sensitivity distance is not a legal boundary buffer.",
+  "scope": "Sampled traffic-lane polygons; no inshore traffic zone or excluded manoeuvring area treated as TSS lane.",
+  "results": {
+    "TSS-0058": {
+      "NE": {
+        "source_vertices": [
+          1,
+          2,
+          3,
+          4,
+          12,
+          11,
+          10,
+          9,
+          8
+        ],
+        "tests": {
+          "WGS84": {
+            "robust_interior_overlap": true,
+            "robust_outside_area": true,
+            "max_vertex_distance_outside_m": 31688.2
+          }
+        }
+      },
+      "SW_main": {
+        "source_vertices": [
+          7,
+          6,
+          5,
+          15,
+          16
+        ],
+        "tests": {
+          "WGS84": {
+            "robust_interior_overlap": false,
+            "robust_outside_area": true,
+            "max_vertex_distance_outside_m": 32509.3
+          }
+        }
+      }
+    },
+    "TSS-0059": {
+      "NE": {
+        "source_vertices": [
+          11,
+          12,
+          6,
+          2,
+          3,
+          4,
+          5,
+          17,
+          16,
+          15,
+          14,
+          13
+        ],
+        "tests": {
+          "raw_European_coordinates_for_sensitivity_only": {
+            "robust_interior_overlap": true,
+            "robust_outside_area": true,
+            "max_vertex_distance_outside_m": 11387.11
+          },
+          "ED50_working_assumption": {
+            "robust_interior_overlap": true,
+            "robust_outside_area": true,
+            "max_vertex_distance_outside_m": 11354.91
+          },
+          "local_source_endpoint_tie": {
+            "robust_interior_overlap": true,
+            "robust_outside_area": true,
+            "max_vertex_distance_outside_m": 11359.72
+          }
+        }
+      },
+      "W": {
+        "source_vertices": [
+          1,
+          2,
+          23,
+          22
+        ],
+        "tests": {
+          "raw_European_coordinates_for_sensitivity_only": {
+            "robust_interior_overlap": true,
+            "robust_outside_area": true,
+            "max_vertex_distance_outside_m": 4299.02
+          },
+          "ED50_working_assumption": {
+            "robust_interior_overlap": true,
+            "robust_outside_area": true,
+            "max_vertex_distance_outside_m": 4266.57
+          },
+          "local_source_endpoint_tie": {
+            "robust_interior_overlap": true,
+            "robust_outside_area": true,
+            "max_vertex_distance_outside_m": 4271.7
+          }
+        }
+      },
+      "SW": {
+        "source_vertices": [
+          10,
+          9,
+          8,
+          7,
+          6,
+          30,
+          25,
+          26,
+          27,
+          28,
+          29
+        ],
+        "tests": {
+          "raw_European_coordinates_for_sensitivity_only": {
+            "robust_interior_overlap": true,
+            "robust_outside_area": true,
+            "max_vertex_distance_outside_m": 6111.38
+          },
+          "ED50_working_assumption": {
+            "robust_interior_overlap": true,
+            "robust_outside_area": true,
+            "max_vertex_distance_outside_m": 6202.74
+          },
+          "local_source_endpoint_tie": {
+            "robust_interior_overlap": true,
+            "robust_outside_area": true,
+            "max_vertex_distance_outside_m": 6202.93
+          }
+        }
+      }
+    },
+    "TSS-0060": {
+      "N": {
+        "source_vertices": [
+          30,
+          33,
+          24,
+          23
+        ],
+        "tests": {
+          "raw_European_coordinates_for_sensitivity_only": {
+            "robust_interior_overlap": true,
+            "robust_outside_area": false,
+            "max_vertex_distance_outside_m": 20.01
+          },
+          "ED50_working_assumption": {
+            "robust_interior_overlap": true,
+            "robust_outside_area": false,
+            "max_vertex_distance_outside_m": 0.0
+          },
+          "local_source_endpoint_tie": {
+            "robust_interior_overlap": true,
+            "robust_outside_area": false,
+            "max_vertex_distance_outside_m": 0.0
+          }
+        }
+      },
+      "S": {
+        "source_vertices": [
+          31,
+          32,
+          34,
+          25
+        ],
+        "tests": {
+          "raw_European_coordinates_for_sensitivity_only": {
+            "robust_interior_overlap": true,
+            "robust_outside_area": false,
+            "max_vertex_distance_outside_m": 51.26
+          },
+          "ED50_working_assumption": {
+            "robust_interior_overlap": true,
+            "robust_outside_area": false,
+            "max_vertex_distance_outside_m": 33.43
+          },
+          "local_source_endpoint_tie": {
+            "robust_interior_overlap": true,
+            "robust_outside_area": false,
+            "max_vertex_distance_outside_m": 29.78
+          }
+        }
+      }
+    }
+  }
+}

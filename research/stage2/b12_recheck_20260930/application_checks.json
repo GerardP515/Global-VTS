@@ -1,0 +1,34 @@
+{
+  "scope": [
+    "TSS-0056",
+    "TSS-0057",
+    "TSS-0058",
+    "TSS-0059",
+    "TSS-0060"
+  ],
+  "master_rows": 224,
+  "unchanged_other_tss_rows": 219,
+  "unchanged_b20_b29_rows": 50,
+  "protected_paths_checked": 34,
+  "positive_vts_associations": 3,
+  "unresolved_vts_associations": 2,
+  "follow_up_records": 4,
+  "new_service_ids": 0,
+  "new_source_ids": 0,
+  "batch_fully_closed": false,
+  "changed_paths": [
+    "data/current/TSS_VTS_MRS_Association_Register.csv",
+    "sources/SOURCE_REGISTER.csv",
+    "sources/SOURCE_REGISTER.md",
+    "data/current/VTS_Entity_Register.csv",
+    "data/current/TSS_Service_Relationships.csv",
+    "data/current/Research_Gaps.csv",
+    "data/current/Batch_Status.csv",
+    "research/batches_imo2025/README.md",
+    "research/batches_imo2025/B12.md",
+    "data/current/Guide_Service_Candidates.csv",
+    "audits/stage2/B12_Association_Audit.md",
+    "research/stage2/b12_recheck_20260930/B12_Association_Rows.csv"
+  ],
+  "master_sha256_after": "09f22d05c86b3e2b40dd6b91b1ac67e50932167f16ca336e3095b84469c369f7"
+}
