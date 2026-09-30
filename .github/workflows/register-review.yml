@@ -1,0 +1,54 @@
+name: Register review
+
+on:
+  push:
+    paths:
+      - '.github/workflows/register-review.yml'
+      - 'scripts/validate_registers.py'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Inspect CSV integrity and collect review files
+        shell: bash
+        run: |
+          mkdir -p /tmp/global-vts-review
+          python3 - <<'PY'
+          import collections, csv, io, json, pathlib, subprocess, zipfile
+          root = pathlib.Path('.')
+          paths = subprocess.check_output(['git', 'ls-files', '-z']).decode().split('\0')
+          report = {'commit': subprocess.check_output(['git', 'rev-parse', 'HEAD']).decode().strip(), 'csv': {}}
+          with zipfile.ZipFile('/tmp/global-vts-review/repository-text.zip', 'w', zipfile.ZIP_DEFLATED) as archive:
+              for name in paths:
+                  p = pathlib.Path(name)
+                  if not name or p.suffix.lower() not in {'.md', '.csv', '.json', '.py', '.yml', '.yaml', '.txt'}:
+                      continue
+                  archive.write(p, name)
+                  if p.suffix.lower() != '.csv':
+                      continue
+                  try:
+                      rows = list(csv.reader(io.StringIO(p.read_text(encoding='utf-8-sig')), strict=True))
+                      report['csv'][name] = {'rows': len(rows)-1, 'columns': len(rows[0]) if rows else 0, 'widths': dict(collections.Counter(len(r) for r in rows[1:])), 'header': rows[0] if rows else []}
+                  except Exception as exc:
+                      report['csv'][name] = {'error': str(exc)}
+          pathlib.Path('/tmp/global-vts-review/initial-audit.json').write_text(json.dumps(report, indent=2))
+          print(json.dumps(report, indent=2))
+          PY
+      - name: Run register validation when present
+        run: |
+          if [ -f scripts/validate_registers.py ]; then python3 scripts/validate_registers.py; fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: global-vts-register-review
+          path: /tmp/global-vts-review/
+          retention-days: 7
