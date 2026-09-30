@@ -2500,3 +2500,195 @@ Off Cape S. Vicente"
 - Locator: Art. 8 (p. 7); Art. 14 (p. 31); Chapter X SC-VTMS Overview (p. 156)
 - Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "(1) Automatic surveillance and tracking of vessel arriving at SC approaches (15 miles faraway) until anchorage in the waiting areas."
 - Use: Lead: SC-VTMS provides surveillance and tracking of vessels arriving at SC approaches (15 miles) until anchorage; vessels contact the Port Said harbour office 15 miles before the Fairway Buoy (31°21'.32N 32°20'.81E). Does not name the TSS; older than three years; treated as lead for TSS-0115
+
+
+### SRC-2044 — Türk Boğazları Deniz Trafik Düzeni Yönetmeliği (Turkish Straits Maritime Traffic Regulation)
+
+- Authority: Republic of Türkiye, Presidency (Presidential Decision No. 1426); consolidated text on mevzuat.gov.tr.
+- URL: https://www.mevzuat.gov.tr/mevzuatmetin/21.5.1426.pdf
+- Evidence class: Tier 1
+- Edition or date: Decision 14/08/2019, Resmî Gazete 15/08/2019 No. 30859; consolidated with amendment of 16/12/2020 (RG 31336, Decision 3305); accessed 2026-09-30
+- Accessed: 2026-09-30
+- Locator: Art. 3(1)(l),(n); Art. 5; Art. 7(1)-(5); Annex 1 (EK-1.1 to EK-1.5)
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Madde 5- (1) Bakanlık/İdare, trafik ayırım düzeninin uygulanması, denetlenmesi ve rapor sisteminin işlerliği için Türk Boğazları Gemi Trafik Hizmetleri Sistemi'ni kurar. | l) TÜBRAP: Seyir Planı-1 ve 2 ile Mevkii Raporu ve Çağırma Noktası Raporunu kapsayan Türk Boğazları Rapor Sistemini"
+- Use: Establishment and statutory purpose of TBGTH (two centres, Istanbul and Çanakkale); TÜBRAP national reporting system (SP-1, SP-2, position report, calling-point report, MARRAP) and applicability; Annex 1 defines the Turkish Straits TSS including Annex 1.1 Istanbul north approach, 1.2 Istanbul Strait, 1.3 Istanbul south approach and Sea of Marmara, 1.4 Çanakkale Strait, 1.5 Çanakkale south-west approach
+
+
+### SRC-2045 — Türk Boğazları Deniz Trafik Düzeni Yönetmeliği Uygulama Yönergesi (Implementation Directive)
+
+- Authority: Ministry of Transport and Infrastructure (Ulaştırma ve Altyapı Bakanlığı), Directorate General of Maritime Affairs.
+- URL: https://denizcilik.uab.gov.tr/uploads/pages/yonerge-talimat/tbdtduy.pdf
+- Evidence class: Tier 1
+- Edition or date: Approved by Ministerial Approval No. 1493540 of 04.12.2023 (in force 01.01.2024 per lexpera metadata, SRC-2054); accessed 2026-09-30
+- Accessed: 2026-09-30
+- Locator: Art. 2(1)(u); Art. 12(1)-(2) 'Türk Boğazlarında rapor sistemi'
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "u) TBGTH: Türk Boğazları Gemi Trafik Hizmetleri'ni, | Gemilerin SP-1 Raporlarında beyan edilen Boğaz varış saatlerinde 2 saati aşacak bir gecikme olması durumunda, beyan veren ilgili bu hususu TBGTH Merkezlerine bildirir."
+- Use: Currency: TBGTH Centres and the Turkish Straits reporting system (SP-1 via the Administration's system, delay reports to TBGTH Centres) remain operative under a 2023 instrument
+
+
+### SRC-2046 — Gemi Trafik ve Kılavuzluk Hizmetleri (Turkish-language service page)
+
+- Authority: Kıyı Emniyeti Genel Müdürlüğü (Directorate General of Coastal Safety).
+- URL: https://kiyiemniyeti.gov.tr/gemi_trafik_ve_kilavuzluk_hizmeti
+- Evidence class: Tier 2
+- Edition or date: Undated web page (text refers to Mersin VTS planned for 2018); accessed 2026-09-30
+- Accessed: 2026-09-30
+- Locator: Section 'Türk Boğazları Gemi Trafik Hizmetleri (TBGTH)'
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "2008 yılında ilave edilen bileşenler ile Marmara Denizi'ndeki "Trafik Ayırım Düzenini" içerecek şekilde genişletilmiş ve Türk Boğazları'nın tamamında gemi trafiğini izleme imkanı sağlanmıştır."
+- Use: KEGM operates TBGTH; 2008 extension to include the Sea of Marmara TSS; continuous 24/7 operation; two VTS centres and 16 surveillance stations; separate İzmit, İzmir and Mersin VTS
+
+
+### SRC-2047 — The Head of Vessel Traffic and Pilotage Services Department (English service page)
+
+- Authority: Kıyı Emniyeti Genel Müdürlüğü (Directorate General of Coastal Safety).
+- URL: https://kiyiemniyeti.gov.tr/vessel_traffic_and_pilotage_services
+- Evidence class: Tier 2
+- Edition or date: Undated web page; accessed 2026-09-30
+- Accessed: 2026-09-30
+- Locator: Sections 'History of TSVTS project' and 'TSVTS components'
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "2 Vessel Traffic Services Center(İstinye - Istanbul, Akbaş - Çanakkale) ... (1 Traffic Surveillance Station in Bozcaada and 2 Traffic Surveillance Stations in Marmara Sea were included in the system on 01 July 2008.)"
+- Use: TSVTS operator, centres (İstinye, Akbaş), start of operation 30 December 2003, Marmara extension 2008, Bozcaada and Marmara surveillance stations added 1 July 2008
+
+
+### SRC-2048 — data/authoritative/IMO_2025_Mandatory_Reporting_Systems.csv
+
+- Authority: Global VTS project (derived from IMO Ships' Routeing 2025 Edition, Part I).
+- URL: repo:data/authoritative/IMO_2025_Mandatory_Reporting_Systems.csv
+- Evidence class: Tier 1
+- Edition or date: Ships' Routeing 2025 Edition baseline
+- Accessed: 2026-09-30
+- Locator: All 23 Part I rows
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30.
+- Use: No IMO Part I mandatory ship reporting system (I-I/1 to I-I/23) covers the Turkish Straits, the Black Sea, the approaches to Port Said or the Gulf of Suez; TÜBRAP is therefore a national scheme
+
+
+### SRC-2049 — Rules of Navigation, December 2020 Edition (online flip-book)
+
+- Authority: Suez Canal Authority.
+- URL: https://www.suezcanal.gov.eg/FlipPDFFiles/RulesOfNavigation/index.html
+- Evidence class: Tier 1
+- Edition or date: December 2020 edition, in effect from 1 January 2021; accessed 2026-09-30
+- Accessed: 2026-09-30
+- Locator: Art. 8 (Port Said approaches); Art. 14 (contacting Port Offices); Part III Chapter X (SC-VTMS), p. 156
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "(1) Automatic surveillance and tracking of vessel arriving at SC approaches (15 miles faraway) until anchorage in the waiting areas."
+- Use: SC-VTMS description (tracking at canal approaches about 15 miles out); Port Said arrival contact 15 miles before Fairway Buoy; Port Said east approach channel; no mention of the IMO eastern approach TSS
+
+
+### SRC-2050 — EAMS website, services page 'Ship traffic information' / 'Search and rescue system' (English text from site language file i18n/en.json)
+
+- Authority: Egyptian Authority for Maritime Safety (EAMS).
+- URL: https://www.eams.gov.eg/i18n/en.json
+- Evidence class: Tier 2
+- Edition or date: Undated; site lists Notices No. 10/2025 and 12/2025 for the Gulf of Suez; accessed 2026-09-30
+- Accessed: 2026-09-30
+- Locator: servicesPage.tabs.searchAndRescueSystem.objectiveOfTheProject; aboutPage.tabs.marineUnits.MainTasksOfTheShipAida4.lists.list4
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "the Egyptian Maritime Safety Authority established and operated a system to serve vessel traffic in the Gulf of Suez (GOS VTIM) and the entrance to the Gulf of Aqaba. This system has been operational since 2002"
+- Use: GOS VTIMS established and operated by EAMS, operational since 2002, serving vessel traffic in the Gulf of Suez and entrance to the Gulf of Aqaba; VTS stations at El-Adabiya, Ras Ghareb, Safaga, Sharm El-Sheikh
+
+
+### SRC-2051 — VTS Services: Kerch Strait VTS coverage area
+
+- Authority: FSUE Rosmorport, Azovo-Chernomorsky Basin Branch (Russian Federation operator; area disputed).
+- URL: https://www.rosmorport.com/filials/nvr_serv_nav/
+- Evidence class: Tier 2
+- Edition or date: Undated web page; cites Russian Ministry of Transport Order No. 16 of 22.01.2014; accessed 2026-09-30
+- Accessed: 2026-09-30
+- Locator: Section 2 'VTS Coverage Areas', Kerch Strait VTS
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Kerch Strait VTS includes: the VTS center in the seaport of Kavkaz, the VTS subcenter in the city of Kerch, radar engineering posts"
+- Use: Claimed Kerch Strait VTS area (Kavkaz centre, Kerch sub-centre) with southern limit 44°59.75'N between 36°27.26'E and 36°41.60'E; recorded as the claim of one party in a disputed area, not as a finding
+
+
+### SRC-2052 — INFORMATION for shipowners, agents, port operators: navigation along the approach corridor to the ports of Ukraine (Chornomorsk, Odesa, Pivdennyi)
+
+- Authority: SE Ukrainian Sea Ports Authority (USPA).
+- URL: https://www.uspa.gov.ua/en/announcements-en/information-for-shipowners-agents-port-operators
+- Evidence class: Tier 2
+- Edition or date: Published 29.07.2022; accessed 2026-09-30
+- Accessed: 2026-09-30
+- Locator: Contact block
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: ""Delta-Lotsman" branch of SE "USPA": pilot-operator of VTCP Odesa"
+- Use: Delta-Lotsman branch pilot-operator of VTCP Odesa in the wartime approach-corridor arrangements (evidence dated 2022, older than three years)
+
+
+### SRC-2053 — Proposals for amendments to TSS No 2. Approaches to the Chornomorsk, Odesa and Pivdennyi Ports
+
+- Authority: State Institution Derzhhydrography / State Service of Maritime and Inland Waterway Transport of Ukraine.
+- URL: https://hydro.gov.ua/?p=3270
+- Evidence class: Tier 2
+- Edition or date: Undated (pre-adoption proposal); accessed 2026-09-30
+- Accessed: 2026-09-30
+- Locator: Summary; Part I proposal
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "За пропозицією Служби регулювання руху суден Філії «Дельта-лоцман» ДП «АМПУ» у частині І СРР пропонується розширити смуги руху"
+- Use: TSS history (COLREG.2/Circ.14 of 22.04.1981) and that the Delta-Lotsman Vessel Traffic Service proposed lane changes; does not define a VTS area
+
+
+### SRC-2054 — Türk Boğazları Deniz Trafik Düzeni Yönetmeliği Uygulama Yönergesi: metadata
+
+- Authority: Lexpera (commercial legal database).
+- URL: https://www.lexpera.com.tr/mevzuat/yonergeler/turk-bogazlari-deniz-trafik-duzeni-yonetmeligi-uygulama-yonergesi-1
+- Evidence class: Lead only
+- Edition or date: Accessed 2026-09-30
+- Accessed: 2026-09-30
+- Locator: Document header
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Kabul Tarihi: 04.12.2023 Yürürlüğe Giriş Tarihi: 01.01.2024"
+- Use: In-force date 01.01.2024 of the Implementation Directive (metadata only)
+
+
+### SRC-2055 — Guidelines for transiting the Turkish Straits
+
+- Authority: Third-party industry guidance hosted on media.ellinikahoaxes.gr.
+- URL: https://media.ellinikahoaxes.gr/uploads/2021/03/Guidelines-Turkist-Straits.pdf
+- Evidence class: Lead only
+- Edition or date: August 2007
+- Accessed: 2026-09-30
+- Locator: p. 5 approx.
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "The service currently covers the Straits of Istanbul in four sectors, and the Strait of Çanakkale in three sectors."
+- Use: Historical lead only: TSVTS then covered the Strait of Istanbul in four sectors and the Strait of Çanakkale in three sectors
+
+
+### SRC-2056 — Türk Boğazları Deniz Trafik Düzeni Yönetmeliği: Art. 4(2) TSS limits
+
+- Authority: Republic of Türkiye, Presidency (Presidential Decision No. 1426); consolidated text on mevzuat.gov.tr.
+- URL: https://www.mevzuat.gov.tr/mevzuatmetin/21.5.1426.pdf
+- Evidence class: Tier 1
+- Edition or date: RG 15/08/2019 No. 30859, consolidated with Decision 3305 (RG 16/12/2020); accessed 2026-09-30
+- Accessed: 2026-09-30
+- Locator: Art. 4(1)-(2); Art. 5; Annex 1.1 points (1)-(9); Annex 1.5 points (92), (115)-(125)
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Madde 4 ... (2) Türk Boğazlarında uygulanacak trafik ayırım düzeni sınırları aşağıda gösterilmiştir. Kuzeyde; a) 41° 16'.330 K, 028° 54'.974 D b) 41° 20'.944 K, 028° 54'.974 D"
+- Use: Statutory outer limits of the Turkish Straits TSS (north line 41°20.944'N; south line to 39°43.940'N), which enclose Annex 1.1 and Annex 1.5; Art. 5 ties TBGTH to implementation and supervision of this TSS
+
+
+### SRC-2057 — Türk Boğazları Deniz Trafik Düzeni Yönetmeliği Uygulama Yönergesi: commencement clause
+
+- Authority: Ministry of Transport and Infrastructure.
+- URL: https://denizcilik.uab.gov.tr/uploads/pages/yonerge-talimat/tbdtduy.pdf
+- Evidence class: Tier 1
+- Edition or date: Approved 04.12.2023 (Olur No. 1493540); in force 01.01.2024; accessed 2026-09-30
+- Accessed: 2026-09-30
+- Locator: Header; Art. 8(1); Art. 23; Art. 24
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "MADDE 24- (1) Bu Yönerge 1/1/2024 tarihinde yürürlüğe girer."
+- Use: In-force date of the Directive from its own text (replaces reliance on the Lexpera metadata, SRC-2054); Art. 8 confirms TBGTH Centres act for the Administration using sensors installed in the Turkish Straits
+
+
+### SRC-2058 — NP 24 Black Sea and Sea of Azov Pilot, 1st edition, para 8.22
+
+- Authority: United Kingdom Hydrographic Office (reproduced as PCA exhibit UA-222).
+- URL: https://files.pca-cpa.org/pcadocs/ua-ru/04.%20UA%20Rejoinder%20Memorial/01.%20Exhibits/UA-222.pdf
+- Evidence class: Lead only
+- Edition or date: 2003; accessed 2026-09-30
+- Accessed: 2026-09-30
+- Locator: Para 8.22
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Recommended routes Nos 85 and 86 lead N and S ... and the S end of the traffic separation scheme (44°50′N, 36°30′E)"
+- Use: Historical position of the south end of the Kerch southern approaches TSS (44°50'N 36°30'E), south of the Rosmorport polygon limit 44°59.75'N; the TSS may since have been amended
+
+
+### SRC-2059 — EAMS website language file: services navigation, 2024/2025 key projects and Gulf of Suez warnings list
+
+- Authority: Egyptian Authority for Maritime Safety (EAMS).
+- URL: https://www.eams.gov.eg/i18n/en.json
+- Evidence class: Tier 2
+- Edition or date: HTTP Last-Modified 23 Sep 2026; accessed 2026-09-30
+- Accessed: 2026-09-30
+- Locator: servicesPage.navLinks.nav3; servicesPage.tabs.mostImportantProjects.keyProjects; servicesPage.tabs.shipTrafficInformation; navigationalWarningsPage.content.gulfOfSuez
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "The available capabilities within the Vessel Traffic Information Management System (VTIMS) are utilized to accomplish its tasks across the Gulf of Suez, the southern Gulf of Aqaba, the northern Red Sea"
+- Use: Currency of the EAMS VTS service description: services menu item 'Vessel Traffic Services (VTS)', 2024/2025 investment plan items 'Radar monitoring and control (VTS)' and 'Regulation of navigation in the Suez Gulf', Gulf of Suez warnings to 4/2026. Note: the GOS VTIMS text sits under the key 'searchAndRescueSystem' and the VTIMS gulf-wide text under 'shipTrafficInformation' (the VTS tab)
