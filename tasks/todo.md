@@ -25,6 +25,11 @@ Checker corrections: Liverpool Bay to no service (1971 Act limit); Corsica to su
 # Double-check of disputed and marginal VTS negatives (decision 7)
 
 - [x] Record decision 7: include by default on conflict
-- [ ] Triage the whole register for marginal or disputed removals and no-VTS results
-- [ ] Independent double-check per country group; apply decision 7
-- [ ] Update register, fact-check table and audit; validator and tests; commit to the FC-A PR
+- [x] Triage the whole register for marginal or disputed removals and no-VTS results
+- [x] Independent double-check per country group; apply decision 7
+- [x] Update register, fact-check table and audit; validator and tests; commit to the FC-A PR
+
+Result: 38 TSS double-checked (33 shortlisted, 7 Swedish knock-on, TSS-0176 for consistency; some overlap).
++11 core and +4 supplemental new services (VTS-0214 to VTS-0228); Nakhodka reuses VTS-0300 minted in FC-B.
+14 links flagged INCLUDED_BY_DEFAULT_ON_CONFLICT. Excluded after double-check: TSS-0053, 0101, 0107, 0192.
+Main's VTS_Entity_Register.csv (overwritten with PLACEHOLDER in ffa025d) is restored by this branch's merge.

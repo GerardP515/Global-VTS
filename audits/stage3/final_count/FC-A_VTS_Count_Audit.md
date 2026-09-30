@@ -1,3 +1,5 @@
+> **Update, 30 September 2026:** several FC-A results were revised by the decision 7 double-check (include by default on conflict). The live results are in `data/current/Final_VTS_Count_Fact_Check.csv`; see [Decision7_Double_Check_Audit.md](Decision7_Double_Check_Audit.md).
+
 # FC-A final VTS count fact-check: Europe and Mediterranean
 
 **Date:** 30 September 2026  
