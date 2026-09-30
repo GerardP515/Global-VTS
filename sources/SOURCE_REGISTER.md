@@ -1845,3 +1845,20 @@ Third-party material may identify a lead. It must not establish current operatio
 - Edition: July 2025.
 - Accessed: 30 September 2026.
 - Use: Current VHF-sector limits in the Scheldt approaches. Used to test, but not assert, a West Hinder TSS-to-VTS relationship.
+
+### SRC-051 — Netherlands Notice 41/261(P)/25: VTS Off Texel
+
+- Authority: Netherlands Hydrographic Service; reproduced in UKHO Weekly Edition 44 of 2025.
+- URL: https://msi.admiralty.co.uk/NoticesToMariners/DownloadFile?batchId=fbeae6b4-4204-4a74-bf85-b699fa8be8b5&fileName=44snii25.pdf&frequency=Weekly&mimeType=application%2Fpdf
+- Evidence class: Primary official navigational notice through UKHO.
+- Effective date: 3 November 2025 at 14:00 CET.
+- Accessed: 30 September 2026.
+- Use: Exact polygon of VTS Off Texel, VHF 63 and stated purpose of providing VTS in the TSS off Texel and Vlieland.
+
+### SRC-052 — Rijkswaterstaat Verkeerscentrale Den Helder
+
+- Authority: Rijkswaterstaat.
+- URL: https://www.rijkswaterstaat.nl/over-ons/onze-organisatie/organisatiestructuur/verkeer-en-watermanagement/verkeerscentrale-den-helder
+- Evidence class: Primary current operating-authority source.
+- Accessed: 30 September 2026.
+- Use: Confirms current operation of two traffic-service areas from Den Helder: VTS Den Helder on VHF 62 and VTS Off Texel on VHF 63.
