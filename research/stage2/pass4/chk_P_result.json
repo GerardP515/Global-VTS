@@ -1,0 +1,85 @@
+[
+ {
+  "tss_id": "TSS-0048",
+  "verdict": "Upheld",
+  "reason": "Quote confirmed (PIG 2026 p.18). My distance test from the North Mole head using Circ.67 annex 3 positions (1) to (12) gives 8.6 to 24.8 nm (record says about 7.5 to 23 nm; minor error, no effect), well inside 38 nm. The Bijlage 2 chart shows the southern end of the Maas North lanes north of the MN2-MN3 line inside the VHF 1 shading, but is cropped a few miles north of that line, so the chart alone does not show the whole scheme (the northern end is at 52 22.7N); full coverage rests on the 38 nm description, with about 13 nm margin. The chart also shows an unexplained white wedge across part of the Maas North separation zone north of MN2; probably a base-map artefact but worth noting. Common caveats for the Maas records: (a) the PIG 'Service Area Description: Extending 38 nautical miles seawards of the port entrance' is verbatim on p.18 of the 2026 PIG, but it is a Tier 4 authority publication, not a statutory boundary, and gives no coordinates; (b) the Bijlage 2 chart in the legally published procedure is schematic and cropped, fills Sector Maas Approach (VHF 1) to the frame edges and shows no seaward limit; (c) Stcrt. 2026, 8272 art. 1 states the procedure applies 'in het aanloopgebied Rotterdam en het Rotterdamse havengebied', and the STZ Bijlage 1(f) Rotterdam approach area runs via buoys MN3, MN2, MNW2, MNW3-MW4 and MW5, i.e. it stops at the inner ends of all four Maas TSSs, while section 2 of the same procedure says its scope is 'het VTS-gebied zoals aangegeven op de kaart in bijlage 2'. This is a tension between the legal scope and the chart, already disclosed in the record. WETREP re-tested: all Maas positions lie 47 to 86' of longitude east of the point 19 to point 20 line, so outside. STZ art. 5(1) (ships of 300 GT or more or carrying dangerous goods must report on a designated VHF channel before entering the Dutch territorial sea) is a statutory report not cited in the record (which cites only art. 5a); it is given effect through the approach-area / VTS arrival reports and is not a separate ship reporting system, so it does not change 'Mandatory reporting: No', but it should be named in the reporting basis.",
+  "evidence_urls": [
+   "https://www.portofrotterdam.com/sites/default/files/2026-02/port-information-guide.pdf",
+   "https://www.portofrotterdam.com/sites/default/files/2026-05/procedure-vhf-communicatie-vts-hcc-2026_0.pdf",
+   "https://zoek.officielebekendmakingen.nl/stcrt-2026-8272.html",
+   "https://wetten.overheid.nl/BWBR0007914/",
+   "https://cimrc.shmtu.edu.cn/_upload/article/files/63/dc/35c66be74d12873254dc88a2ef00/65c44f78-cf76-44e1-aa8a-6727556bcb18.pdf",
+   "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.190(79).pdf"
+  ]
+ },
+ {
+  "tss_id": "TSS-0049",
+  "verdict": "Upheld",
+  "reason": "Bijlage 2 chart clearly shows the Maas North-west lanes and separation zone between MNW2 and MNW3-MW4 with the 'VHF01' label beside them inside the Sector Maas Approach shading. My distances: 16.8 to 21.2 nm (record 17 to 23 nm), inside 38 nm. Common caveats for the Maas records: (a) the PIG 'Service Area Description: Extending 38 nautical miles seawards of the port entrance' is verbatim on p.18 of the 2026 PIG, but it is a Tier 4 authority publication, not a statutory boundary, and gives no coordinates; (b) the Bijlage 2 chart in the legally published procedure is schematic and cropped, fills Sector Maas Approach (VHF 1) to the frame edges and shows no seaward limit; (c) Stcrt. 2026, 8272 art. 1 states the procedure applies 'in het aanloopgebied Rotterdam en het Rotterdamse havengebied', and the STZ Bijlage 1(f) Rotterdam approach area runs via buoys MN3, MN2, MNW2, MNW3-MW4 and MW5, i.e. it stops at the inner ends of all four Maas TSSs, while section 2 of the same procedure says its scope is 'het VTS-gebied zoals aangegeven op de kaart in bijlage 2'. This is a tension between the legal scope and the chart, already disclosed in the record. WETREP re-tested: all Maas positions lie 47 to 86' of longitude east of the point 19 to point 20 line, so outside. STZ art. 5(1) (ships of 300 GT or more or carrying dangerous goods must report on a designated VHF channel before entering the Dutch territorial sea) is a statutory report not cited in the record (which cites only art. 5a); it is given effect through the approach-area / VTS arrival reports and is not a separate ship reporting system, so it does not change 'Mandatory reporting: No', but it should be named in the reporting basis.",
+  "evidence_urls": [
+   "https://www.portofrotterdam.com/sites/default/files/2026-02/port-information-guide.pdf",
+   "https://www.portofrotterdam.com/sites/default/files/2026-05/procedure-vhf-communicatie-vts-hcc-2026_0.pdf",
+   "https://zoek.officielebekendmakingen.nl/stcrt-2026-8272.html",
+   "https://wetten.overheid.nl/BWBR0007914/",
+   "https://cimrc.shmtu.edu.cn/_upload/article/files/63/dc/35c66be74d12873254dc88a2ef00/65c44f78-cf76-44e1-aa8a-6727556bcb18.pdf",
+   "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.190(79).pdf"
+  ]
+ },
+ {
+  "tss_id": "TSS-0050",
+  "verdict": "Upheld",
+  "reason": "Bijlage 2 chart shows the whole Maas West Inner scheme (both separation zones, anchorage 3 East, westbound and eastbound lanes between the Maas Junction eastern edge and MNW3-MW4/MW5) inside the VHF 1 shading. My distances: 16.9 to 24.4 nm (record 18 to 25 nm), inside 38 nm. Common caveats for the Maas records: (a) the PIG 'Service Area Description: Extending 38 nautical miles seawards of the port entrance' is verbatim on p.18 of the 2026 PIG, but it is a Tier 4 authority publication, not a statutory boundary, and gives no coordinates; (b) the Bijlage 2 chart in the legally published procedure is schematic and cropped, fills Sector Maas Approach (VHF 1) to the frame edges and shows no seaward limit; (c) Stcrt. 2026, 8272 art. 1 states the procedure applies 'in het aanloopgebied Rotterdam en het Rotterdamse havengebied', and the STZ Bijlage 1(f) Rotterdam approach area runs via buoys MN3, MN2, MNW2, MNW3-MW4 and MW5, i.e. it stops at the inner ends of all four Maas TSSs, while section 2 of the same procedure says its scope is 'het VTS-gebied zoals aangegeven op de kaart in bijlage 2'. This is a tension between the legal scope and the chart, already disclosed in the record. WETREP re-tested: all Maas positions lie 47 to 86' of longitude east of the point 19 to point 20 line, so outside. STZ art. 5(1) (ships of 300 GT or more or carrying dangerous goods must report on a designated VHF channel before entering the Dutch territorial sea) is a statutory report not cited in the record (which cites only art. 5a); it is given effect through the approach-area / VTS arrival reports and is not a separate ship reporting system, so it does not change 'Mandatory reporting: No', but it should be named in the reporting basis.",
+  "evidence_urls": [
+   "https://www.portofrotterdam.com/sites/default/files/2026-02/port-information-guide.pdf",
+   "https://www.portofrotterdam.com/sites/default/files/2026-05/procedure-vhf-communicatie-vts-hcc-2026_0.pdf",
+   "https://zoek.officielebekendmakingen.nl/stcrt-2026-8272.html",
+   "https://wetten.overheid.nl/BWBR0007914/",
+   "https://cimrc.shmtu.edu.cn/_upload/article/files/63/dc/35c66be74d12873254dc88a2ef00/65c44f78-cf76-44e1-aa8a-6727556bcb18.pdf",
+   "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.190(79).pdf"
+  ]
+ },
+ {
+  "tss_id": "TSS-0051",
+  "verdict": "Other change",
+  "reason": "Keep 'VTS only' / full, but correct the boundary basis and lower confidence. The record says the Bijlage 2 chart shows 'the Eurochannel buoys E1 to E9 and the traffic lanes west of the Maas Junction'. It does not: the chart's leftmost slanting dashed line matches the western edge of the Maas Junction precautionary area (Circ.67 positions (43), (46), (47), (56), (59), (60), about 003 19.5E to 003 16.4E), the vertical arrows between it and the next dashed line (about 003 25E) are crossing traffic in the Junction, and E1 sits at the frame edge. Maas West Outer (003 07.5E to 003 19.5E) is therefore essentially off the chart. Coverage rests solely on the Tier 4 PIG '38 nautical miles seawards' description. My distance test confirms the westernmost positions (58) 34.5 nm, (65) 34.4 nm, (61) 34.1 nm and (44) 33.7 nm from the North Mole head, inside 38 nm with only about 3.5 nm margin; the Eurogeul is nearly straight, so along-track measurement gives much the same result. This satisfies association standard 3 only if the 38 nm description is accepted as a defined boundary. If the coordinator does not accept it, this record, not the other three Maas records, should go to Unresolved. Common caveats for the Maas records: (a) the PIG 'Service Area Description: Extending 38 nautical miles seawards of the port entrance' is verbatim on p.18 of the 2026 PIG, but it is a Tier 4 authority publication, not a statutory boundary, and gives no coordinates; (b) the Bijlage 2 chart in the legally published procedure is schematic and cropped, fills Sector Maas Approach (VHF 1) to the frame edges and shows no seaward limit; (c) Stcrt. 2026, 8272 art. 1 states the procedure applies 'in het aanloopgebied Rotterdam en het Rotterdamse havengebied', and the STZ Bijlage 1(f) Rotterdam approach area runs via buoys MN3, MN2, MNW2, MNW3-MW4 and MW5, i.e. it stops at the inner ends of all four Maas TSSs, while section 2 of the same procedure says its scope is 'het VTS-gebied zoals aangegeven op de kaart in bijlage 2'. This is a tension between the legal scope and the chart, already disclosed in the record. WETREP re-tested: all Maas positions lie 47 to 86' of longitude east of the point 19 to point 20 line, so outside. STZ art. 5(1) (ships of 300 GT or more or carrying dangerous goods must report on a designated VHF channel before entering the Dutch territorial sea) is a statutory report not cited in the record (which cites only art. 5a); it is given effect through the approach-area / VTS arrival reports and is not a separate ship reporting system, so it does not change 'Mandatory reporting: No', but it should be named in the reporting basis.",
+  "evidence_urls": [
+   "https://www.portofrotterdam.com/sites/default/files/2026-02/port-information-guide.pdf",
+   "https://www.portofrotterdam.com/sites/default/files/2026-05/procedure-vhf-communicatie-vts-hcc-2026_0.pdf",
+   "https://zoek.officielebekendmakingen.nl/stcrt-2026-8272.html",
+   "https://wetten.overheid.nl/BWBR0007914/",
+   "https://cimrc.shmtu.edu.cn/_upload/article/files/63/dc/35c66be74d12873254dc88a2ef00/65c44f78-cf76-44e1-aa8a-6727556bcb18.pdf"
+  ]
+ },
+ {
+  "tss_id": "TSS-0053",
+  "verdict": "Upheld",
+  "reason": "MSC.190(79) para 2.1 confirmed: point 19 (B) 51 22'25\"N 003 21'52\".5E (border between B and NL) and point 20 (UK) 52 12'N UK east coast; para 1.1 limits participation to oil tankers of more than 600 dwt carrying heavy crude, heavy fuel oil or bitumen and tar. My recomputation (Mercator straight line and great circle, point 20 longitude varied 001 36E to 001 39E): positions (79), (80), (83), (86) are about 55 to 56' of longitude (about 21 nm) inside, (84) about 25' inside, and the NE corner positions (81), (82), (85), (87) lie between 1.3' inside and 1.7' outside (within 0.5 nm of the line). This matches the record's 'near-full, NE extremity on the line'. The Scheldt VTS seaward-limit coordinates in the 2014 folder are confirmed verbatim (51 23.60N 002 19.20E, 51 25.95N 002 27.50E, 51 28.75N 002 56.00E, 51 34.60N 003 08.38E, 51 50.00N 003 08.38E); the southernmost NHS position (83) 51 26.97N 002 16.95E lies about 3.4' north of the westernmost limit point, so outside. The Rotterdam 38 nm is not reached (more than 50 nm). The VTS absence rests on a dated (2014) Scheldt source, but this does not affect 'MRS only', which only requires that a VTS relationship is not established.",
+  "evidence_urls": [
+   "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.190(79).pdf",
+   "https://cimrc.shmtu.edu.cn/_upload/article/files/63/dc/35c66be74d12873254dc88a2ef00/65c44f78-cf76-44e1-aa8a-6727556bcb18.pdf",
+   "https://kustwacht.be/sites/default/files/legacy_files/marifoonblokindeling_2.pdf",
+   "https://www.portofrotterdam.com/sites/default/files/2026-02/port-information-guide.pdf"
+  ]
+ },
+ {
+  "tss_id": "TSS-0054",
+  "verdict": "Upheld",
+  "reason": "The partial WETREP label is correct. My recomputation gives (88) 8.5 to 10.6', (89) 8.5 to 9.4', (100) 12 to 13', (101) 8 to 9', (90) 4 to 5', (94)/(95)/(99) 1.6 to 3.2' inside the line, and (92), (93), (96), (97), (98) 0.4 to 6.7' outside (point 20 at 001 36E to 001 39E; (93) and (98) move onto the line at 001 39E), so the line crosses the northern part of the scheme under every plausible point 20 longitude. This matches the record. The scheme is about 10 nm north of the 2014 Scheldt VTS limit (about 51 26 to 51 29N at these longitudes) and about 50 nm from the Rotterdam entrance, so no VTS is established. The tanker-specific threshold is correctly recorded.",
+  "evidence_urls": [
+   "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.190(79).pdf",
+   "https://cimrc.shmtu.edu.cn/_upload/article/files/63/dc/35c66be74d12873254dc88a2ef00/65c44f78-cf76-44e1-aa8a-6727556bcb18.pdf",
+   "https://kustwacht.be/sites/default/files/legacy_files/marifoonblokindeling_2.pdf"
+  ]
+ },
+ {
+  "tss_id": "TSS-0055",
+  "verdict": "Upheld",
+  "reason": "P-S12 quotes confirmed: the scope covers 'the approaches to IJmuiden, defined as the section of the Territorial Sea (including Anchorages 6, 7, and 8) within a 12-nautical-mile radius of the seaward ends of the IJmuiden breakwaters, including the extended IJ-geul deep water channel'; the arrival report is made 'from seaward, at 12 nautical miles from the IJmuiden breakwaters, on VHF Channel 61'; VHF 7 IJmuiden Approaches provides 'Information services only'. The STZ Bijlage 1(d) 12 nm arc from 52 27'.9N 004 32'.1E is confirmed. Geometry using Circ.64 positions: eastern positions (1), (2), (11), (12), (16), (20) are 7.5 to 7.7 nm from the reference point; (17) is 11.98 nm and (13) 12.13 nm, so the arc crosses the scheme at about 004 12.5 to 004 13.3E. Positions (3) to (9), (14), (15), (21) are 12.6 to 15.9 nm (outside). About 4.5 nm of the roughly 8 nm scheme length is inside, so 'partial' is correct. Note for the record: the Appendix I chart shows the extended IJ-geul corridor beyond the 12 mile zone as part of the area. That corridor runs between the scheme's northern and southern separation zones, so the VTS area adjoins the whole inner edge of the scheme, but the lanes west of about 004 13E remain outside. On reporting: STZ art. 5(1) imposes a statutory report before entering the Dutch territorial sea on a designated VHF channel (ships of 300 GT or more, or carrying dangerous goods). The P-S12 regulation cites STZ art. 5 as its legal basis, and in practice this is the VHF 61 arrival report at 12 nm to the same VTS authority, so it is a VTS reporting duty, not a separate MRS. 'Mandatory reporting: No' can stand, but the reporting basis should cite art. 5(1) as well as art. 5a.",
+  "evidence_urls": [
+   "https://www.portofamsterdam.com/sites/default/files/2025-09/2025-479_VTS%20communicatieregeling%202.0%20def_NLEN_rev.pdf",
+   "https://wetten.overheid.nl/BWBR0007914/",
+   "https://fma.fo/wp-content/uploads/2016/09/2013_02_Nautical_COLREG.2-Circ.64_New-and-amended-Existing-Traffic-Separation-Schemes.pdf",
+   "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.190(79).pdf"
+  ]
+ }
+]

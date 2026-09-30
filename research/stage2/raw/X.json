@@ -1,0 +1,547 @@
+{
+ "group": "X",
+ "records": [
+  {
+   "vts_name": "",
+   "vts_authority": "",
+   "vts_centre": "",
+   "vts_sector": "",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "X-S3",
+    "X-S1"
+   ],
+   "vrs_id": "",
+   "reporting_scheme_name": "",
+   "reporting_authority": "",
+   "reporting_source_ids": [
+    "X-S13",
+    "X-S1",
+    "X-S4",
+    "X-S5",
+    "X-S3"
+   ],
+   "voluntary_reporting": "No",
+   "vts_leads": "Flamenco Signal Station (Panama Canal Authority): arrival coordination on VHF Ch 12 from 8 nm off the Pacific Sea Buoy; not designated a VTS in N-2-2026",
+   "tss_id": "TSS-0176",
+   "batch": "B36",
+   "tss_name": "Gulf of Panama",
+   "imo_parent_ref": "B-VIII/1",
+   "coastal_state_s": "Panama",
+   "association_status": "Unresolved",
+   "vts_boundary_basis": "No official source describes a VTS whose area includes Part 1. The Panama Canal Authority's Flamenco Signal Station coordinates Pacific anchorage and harbour movements (N-2-2026) and is called a signal station, not a VTS; N-2-2026 does not name the TSS or define a service area.",
+   "mandatory_reporting": "No",
+   "reporting_boundary_basis": "No IMO Part I system applies (Part I inventory lists only GALREP, VRS-0019, in this region, confined to the Galapagos). COLREG.2/Circ.65, AMP MMC-304 and AMP Circular DGPIMA-005-DECCP-2026 attach no reporting requirement to the TSS. The ACP call to Flamenco Signal Station at 8 nm from the Pacific Sea Buoy (about 11 nm from Flamenco Island) is canal and anchorage arrival reporting, not a separate MRS. Geographically it falls near the northern (inner) end of the lanes (08°44.7'N to 08°46'N), but the buoy position was not verified from an official source.",
+   "evidence_summary": "IMO B-VIII/1 Part 1, adopted MSC 93 (COLREG.2/Circ.65), in force 1 Dec 2014. Current ACP (A-24-2026) and AMP (DGPIMA-005-DECCP-2026) notices refer to the TSS only for the seasonal 10 kn whale recommendation. ACP N-2-2026 requires a VHF Ch 12 call to Flamenco Signal Station 8 nm from the Pacific Sea Buoy. That is canal arrival coordination and does not show a VTS covering the TSS. No Part I MRS. No official source shows VTS coverage, and no official complete list of Panamanian VTS shows that there is none.",
+   "source_date": "COLREG.2/Circ.65 23 May 2014; N-2-2026 1 Jan 2026; A-24-2026 30 Jul 2026; DGPIMA-005-DECCP-2026 8 Jul 2026",
+   "unresolved_issue": "It is not known whether ACP or AMP operates a VTS-designated service whose area includes the Gulf of Panama lanes. ACP says Flamenco is a 'signal station'. Its radar coverage and service area, and the official Pacific Sea Buoy position, remain unconfirmed. There is no official list of Panamanian VTS.",
+   "prior_lead_outcome": "confirmed: Unresolved with Flamenco as a lead. The 8 nm arrival call is verified in N-2-2026 and correctly treated as canal arrival reporting, not an MRS"
+  },
+  {
+   "vts_name": "",
+   "vts_authority": "",
+   "vts_centre": "",
+   "vts_sector": "",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "X-S1",
+    "X-S3"
+   ],
+   "vrs_id": "",
+   "reporting_scheme_name": "",
+   "reporting_authority": "",
+   "reporting_source_ids": [
+    "X-S13",
+    "X-S1",
+    "X-S4"
+   ],
+   "voluntary_reporting": "No",
+   "vts_leads": null,
+   "tss_id": "TSS-0177",
+   "batch": "B36",
+   "tss_name": "Morro de Puercos",
+   "imo_parent_ref": "B-VIII/1",
+   "coastal_state_s": "Panama",
+   "association_status": "Unresolved",
+   "vts_boundary_basis": "Part 2 of B-VIII/1 lies about 07°00'N, 080°06' to 080°27'W, well west of Canal approaches. No official source describes a VTS covering it. ACP Flamenco Signal Station procedures (N-2-2026) concern the Pacific entrance and anchorages only.",
+   "mandatory_reporting": "No",
+   "reporting_boundary_basis": "No IMO Part I system applies (Part I inventory lists only GALREP, VRS-0019, in this region, confined to the Galapagos). COLREG.2/Circ.65, AMP MMC-304 and AMP Circular DGPIMA-005-DECCP-2026 attach no reporting requirement to the TSS. The ACP Flamenco arrival call applies at the Pacific entrance (8 nm from the Pacific Sea Buoy) and does not reach this part.",
+   "evidence_summary": "IMO B-VIII/1 Part 2 ('Morro de Puercos'), COLREG.2/Circ.65, in force 1 Dec 2014; AMP MMC-304 announced implementation without any reporting or VTS arrangement. No Part I MRS. No VTS source found. No official complete list of Panamanian VTS was located, so absence cannot be confirmed.",
+   "source_date": "COLREG.2/Circ.65 23 May 2014; MMC-304 Nov 2014",
+   "unresolved_issue": "It is not known whether AMP operates any coastal VTS or monitoring service covering this part. No official list of Panamanian VTS was located, so absence cannot be confirmed.",
+   "prior_lead_outcome": "confirmed: Unresolved. The grouped-heading Flamenco lead does not apply to this part, which lies far west of Canal waters"
+  },
+  {
+   "vts_name": "",
+   "vts_authority": "",
+   "vts_centre": "",
+   "vts_sector": "",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "X-S1",
+    "X-S3"
+   ],
+   "vrs_id": "",
+   "reporting_scheme_name": "",
+   "reporting_authority": "",
+   "reporting_source_ids": [
+    "X-S13",
+    "X-S1",
+    "X-S4"
+   ],
+   "voluntary_reporting": "No",
+   "vts_leads": null,
+   "tss_id": "TSS-0178",
+   "batch": "B36",
+   "tss_name": "Isla Jicarita",
+   "imo_parent_ref": "B-VIII/1",
+   "coastal_state_s": "Panama",
+   "association_status": "Unresolved",
+   "vts_boundary_basis": "Part 3 of B-VIII/1 lies about 06°53' to 07°00'N, 081°45' to 081°50'W, well west of Canal approaches. No official source describes a VTS covering it. ACP Flamenco Signal Station procedures (N-2-2026) concern the Pacific entrance and anchorages only.",
+   "mandatory_reporting": "No",
+   "reporting_boundary_basis": "No IMO Part I system applies (Part I inventory lists only GALREP, VRS-0019, in this region, confined to the Galapagos). COLREG.2/Circ.65, AMP MMC-304 and AMP Circular DGPIMA-005-DECCP-2026 attach no reporting requirement to the TSS. The ACP Flamenco arrival call applies at the Pacific entrance (8 nm from the Pacific Sea Buoy) and does not reach this part.",
+   "evidence_summary": "IMO B-VIII/1 Part 3 ('Isla Jicarita'), COLREG.2/Circ.65, in force 1 Dec 2014; AMP MMC-304 announced implementation without any reporting or VTS arrangement. No Part I MRS. No VTS source found. No official complete list of Panamanian VTS was located, so absence cannot be confirmed.",
+   "source_date": "COLREG.2/Circ.65 23 May 2014; MMC-304 Nov 2014",
+   "unresolved_issue": "It is not known whether AMP operates any coastal VTS or monitoring service covering this part. No official list of Panamanian VTS was located, so absence cannot be confirmed.",
+   "prior_lead_outcome": "confirmed: Unresolved. The grouped-heading Flamenco lead does not apply to this part, which lies far west of Canal waters"
+  },
+  {
+   "vts_name": "",
+   "vts_authority": "",
+   "vts_centre": "",
+   "vts_sector": "",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "X-S7",
+    "X-S8"
+   ],
+   "vrs_id": "",
+   "reporting_scheme_name": "",
+   "reporting_authority": "",
+   "reporting_source_ids": [
+    "X-S13",
+    "X-S7",
+    "X-S8"
+   ],
+   "voluntary_reporting": "No",
+   "vts_leads": "Talara Control (harbourmaster call sign, VHF 14/16, per NGA Pub. 125): port radio contact, not shown to be a VTS",
+   "tss_id": "TSS-0179",
+   "batch": "B36",
+   "tss_name": "Landfall and approaches to Talara Bay",
+   "imo_parent_ref": "B-VIII/2",
+   "coastal_state_s": "Peru",
+   "association_status": "Unresolved",
+   "vts_boundary_basis": "Pub. 125 (Sector 3, PDF p.57) says an IMO-adopted TSS is in the approaches to Talara and lists the harbourmaster call sign 'Talara Control' on VHF Ch 14 and 16. No VTS is described. No DICAPI source establishing a VTS for this port or its approaches was found.",
+   "mandatory_reporting": "No",
+   "reporting_boundary_basis": "No IMO Part I system applies (only GALREP, VRS-0019, in the region; confined to the Galapagos, about 88°W to 92°W). The adopting circular contains no reporting provision. NGA Pub. 125 gives only port ETA messages to agents and the Port Captain for this port. Those are port arrival formalities, not an MRS. No formally named Peruvian national MRS was found. SIMTRAC (DS 008-2011-DE) is a DICAPI position-monitoring system, seen only in search snippets, and is not treated as a reporting scheme.",
+   "evidence_summary": "IMO B-VIII/2 (COLREG.2/Circ.49). No Part I MRS. The current NGA Pub. 125 port description mentions the TSS but no VTS; it does describe Chilean VTS (Arica, Iquique, Mejillones). No Peruvian official source was found. Without an official complete list of Peruvian VTS, absence cannot be confirmed.",
+   "source_date": "COLREG.2/Circ.49 19 Jan 2001 (in force 1 Jun 2001); Pub. 125 17th ed 2025 corrected to 27 Aug 2026",
+   "unresolved_issue": "No DICAPI or HIDRONAV publication (VTS resolution, radio aids list) was obtained to confirm the absence of a VTS or national reporting scheme. The dicapi.mil.pe and HIDRONAV radio-aids material could not be searched.",
+   "prior_lead_outcome": "confirmed: Unresolved. The SIMTRAC lead is kept as a lead only. Added 'Talara Control' as a port radio lead"
+  },
+  {
+   "vts_name": "",
+   "vts_authority": "",
+   "vts_centre": "",
+   "vts_sector": "",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "X-S6",
+    "X-S8"
+   ],
+   "vrs_id": "",
+   "reporting_scheme_name": "",
+   "reporting_authority": "",
+   "reporting_source_ids": [
+    "X-S13",
+    "X-S6",
+    "X-S8"
+   ],
+   "voluntary_reporting": "No",
+   "vts_leads": null,
+   "tss_id": "TSS-0180",
+   "batch": "B36",
+   "tss_name": "Landfall and approaches to Paita Bay",
+   "imo_parent_ref": "B-VIII/3",
+   "coastal_state_s": "Peru",
+   "association_status": "Unresolved",
+   "vts_boundary_basis": "Pub. 125 (PDF p.58) says a TSS is established in the approaches to Bahía de Paita and that Rule 9 applies. No VTS or traffic reporting is described. No DICAPI source establishing a VTS for this port or its approaches was found.",
+   "mandatory_reporting": "No",
+   "reporting_boundary_basis": "No IMO Part I system applies (only GALREP, VRS-0019, in the region; confined to the Galapagos, about 88°W to 92°W). The adopting circular contains no reporting provision. NGA Pub. 125 gives only port ETA messages to agents and the Port Captain for this port. Those are port arrival formalities, not an MRS. No formally named Peruvian national MRS was found. SIMTRAC (DS 008-2011-DE) is a DICAPI position-monitoring system, seen only in search snippets, and is not treated as a reporting scheme.",
+   "evidence_summary": "IMO B-VIII/3 (COLREG.2/Circ.48). No Part I MRS. The current NGA Pub. 125 port description mentions the TSS but no VTS; it does describe Chilean VTS (Arica, Iquique, Mejillones). No Peruvian official source was found. Without an official complete list of Peruvian VTS, absence cannot be confirmed.",
+   "source_date": "COLREG.2/Circ.48 1 Jun 2000 (in force 1 Dec 2000); Pub. 125 corrected to 27 Aug 2026",
+   "unresolved_issue": "No DICAPI or HIDRONAV publication (VTS resolution, radio aids list) was obtained to confirm the absence of a VTS or national reporting scheme. The dicapi.mil.pe and HIDRONAV radio-aids material could not be searched.",
+   "prior_lead_outcome": "confirmed: Unresolved, no VTS source"
+  },
+  {
+   "vts_name": "",
+   "vts_authority": "",
+   "vts_centre": "",
+   "vts_sector": "",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "X-S7",
+    "X-S8"
+   ],
+   "vrs_id": "",
+   "reporting_scheme_name": "",
+   "reporting_authority": "",
+   "reporting_source_ids": [
+    "X-S13",
+    "X-S7",
+    "X-S8"
+   ],
+   "voluntary_reporting": "No",
+   "vts_leads": null,
+   "tss_id": "TSS-0181",
+   "batch": "B37",
+   "tss_name": "Landfall off Puerto Salaverry",
+   "imo_parent_ref": "B-VIII/4",
+   "coastal_state_s": "Peru",
+   "association_status": "Unresolved",
+   "vts_boundary_basis": "Pub. 125 (PDF p.67) says an IMO-adopted TSS lies in the approach to Salaverry. It covers pilotage and ETA messages only. No VTS is described. No DICAPI source establishing a VTS for this port or its approaches was found.",
+   "mandatory_reporting": "No",
+   "reporting_boundary_basis": "No IMO Part I system applies (only GALREP, VRS-0019, in the region; confined to the Galapagos, about 88°W to 92°W). The adopting circular contains no reporting provision. NGA Pub. 125 gives only port ETA messages to agents and the Port Captain for this port. Those are port arrival formalities, not an MRS. No formally named Peruvian national MRS was found. SIMTRAC (DS 008-2011-DE) is a DICAPI position-monitoring system, seen only in search snippets, and is not treated as a reporting scheme.",
+   "evidence_summary": "IMO B-VIII/4 (COLREG.2/Circ.49). No Part I MRS. The current NGA Pub. 125 port description mentions the TSS but no VTS; it does describe Chilean VTS (Arica, Iquique, Mejillones). No Peruvian official source was found. Without an official complete list of Peruvian VTS, absence cannot be confirmed.",
+   "source_date": "COLREG.2/Circ.49 19 Jan 2001; Pub. 125 corrected to 27 Aug 2026",
+   "unresolved_issue": "No DICAPI or HIDRONAV publication (VTS resolution, radio aids list) was obtained to confirm the absence of a VTS or national reporting scheme. The dicapi.mil.pe and HIDRONAV radio-aids material could not be searched.",
+   "prior_lead_outcome": "confirmed: Unresolved, no VTS source"
+  },
+  {
+   "vts_name": "",
+   "vts_authority": "",
+   "vts_centre": "",
+   "vts_sector": "",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "X-S7",
+    "X-S8"
+   ],
+   "vrs_id": "",
+   "reporting_scheme_name": "",
+   "reporting_authority": "",
+   "reporting_source_ids": [
+    "X-S13",
+    "X-S7",
+    "X-S8"
+   ],
+   "voluntary_reporting": "No",
+   "vts_leads": null,
+   "tss_id": "TSS-0182",
+   "batch": "B37",
+   "tss_name": "Landfall and approaches to Ferrol Bay (Puerto Chimbote)",
+   "imo_parent_ref": "B-VIII/5",
+   "coastal_state_s": "Peru",
+   "association_status": "Unresolved",
+   "vts_boundary_basis": "Pub. 125 (PDF p.73) describes the track through the eastbound lane of the TSS to the Chimbote pilot position. No VTS is described. No DICAPI source establishing a VTS for this port or its approaches was found.",
+   "mandatory_reporting": "No",
+   "reporting_boundary_basis": "No IMO Part I system applies (only GALREP, VRS-0019, in the region; confined to the Galapagos, about 88°W to 92°W). The adopting circular contains no reporting provision. NGA Pub. 125 gives only port ETA messages to agents and the Port Captain for this port. Those are port arrival formalities, not an MRS. No formally named Peruvian national MRS was found. SIMTRAC (DS 008-2011-DE) is a DICAPI position-monitoring system, seen only in search snippets, and is not treated as a reporting scheme.",
+   "evidence_summary": "IMO B-VIII/5 (COLREG.2/Circ.49). No Part I MRS. The current NGA Pub. 125 port description mentions the TSS but no VTS; it does describe Chilean VTS (Arica, Iquique, Mejillones). No Peruvian official source was found. Without an official complete list of Peruvian VTS, absence cannot be confirmed.",
+   "source_date": "COLREG.2/Circ.49 19 Jan 2001; Pub. 125 corrected to 27 Aug 2026",
+   "unresolved_issue": "No DICAPI or HIDRONAV publication (VTS resolution, radio aids list) was obtained to confirm the absence of a VTS or national reporting scheme. The dicapi.mil.pe and HIDRONAV radio-aids material could not be searched.",
+   "prior_lead_outcome": "confirmed: Unresolved, no VTS source"
+  },
+  {
+   "vts_name": "",
+   "vts_authority": "",
+   "vts_centre": "",
+   "vts_sector": "",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "X-S8",
+    "X-S6",
+    "X-S11"
+   ],
+   "vrs_id": "",
+   "reporting_scheme_name": "",
+   "reporting_authority": "Capitanía de Puerto del Callao (TRAMAR), DICAPI (per NGA Pub. 125)",
+   "reporting_source_ids": [
+    "X-S8",
+    "X-S13"
+   ],
+   "voluntary_reporting": "No",
+   "vts_leads": "TRAMAR (Callao maritime traffic control office, Capitanía de Puerto del Callao, VHF 16/13, per NGA Pub. 125); 'VTS Callao' (Peruvian Navy, Wärtsilä Navi-Harbour, supplier case study 2025 and Revista de Marina 2023 lead). Probably the same operational entity; do not create two records.",
+   "tss_id": "TSS-0183",
+   "batch": "B37",
+   "tss_name": "Approaches to Puerto Callao",
+   "imo_parent_ref": "B-VIII/6",
+   "coastal_state_s": "Peru",
+   "association_status": "Unresolved",
+   "vts_boundary_basis": "NGA Pub. 125 links the Callao TSS to TRAMAR, the Callao maritime traffic control office. All vessels report at 20, 10 and 4 miles from Isla San Lorenzo and at the Outer Fairway Buoy, which spans the TSS (Parts I to III lie about 2 to 4 nm off Isla San Lorenzo and the port). Pub. 125 does not call TRAMAR a VTS. A Peruvian Navy VTS at Callao (Wärtsilä Navi-Harbour, operating by 2024) is shown only in supplier material. No official source gives its name, area or coverage of the TSS.",
+   "mandatory_reporting": "Unresolved",
+   "reporting_boundary_basis": "No IMO Part I system applies (only GALREP, VRS-0019, Galapagos). NGA Pub. 125 (Tier 3, corrected to 27 Aug 2026) makes reports to TRAMAR mandatory for all vessels and ties them explicitly to the TSS. No Peruvian statutory or DICAPI source for the requirement was obtained. The requirement cannot be classed as a formally named national MRS. If TRAMAR is the Callao VTS, it is VTS reporting and not a separate MRS. Recorded as Unresolved, not Yes.",
+   "evidence_summary": "IMO B-VIII/6 (COLREG.2/Circ.48 Annex 4, in force 1 Dec 2000): three parts, a precautionary area and an ATBA off Callao. NGA Pub. 125 says: 'An IMO-adopted Traffic Separation Scheme (TRAMAR) ... All vessels must report to TRAMAR on VHF channel 16' at 20, 10 and 4 miles from Isla San Lorenzo. There is strong evidence that a traffic control or VTS function covers the TSS, but it is Tier 3 (foreign) evidence and does not name a VTS. The DICAPI 2025/2026 Callao anchorage resolutions do not mention TRAMAR or a VTS. The supplier case study and a 2023 naval journal article (404) point to a new 'VTS Callao'. They are lead-only sources. It cannot be classified as VTS until a DICAPI source defines the service and its area.",
+   "source_date": "COLREG.2/Circ.48 1 Jun 2000; Pub. 125 17th ed 2025 corrected to 27 Aug 2026; RD 348-2026 8 Jun 2026; Wärtsilä case study 17 Apr 2025",
+   "unresolved_issue": "Obtain a DICAPI resolution or HIDRONAV radio aids entry establishing 'VTS Callao' / TRAMAR. It should give the official name, service area, VHF channels and participation. Confirm whether it covers all three TSS parts and whether the TRAMAR reports are part of that VTS or a separate national scheme.",
+   "prior_lead_outcome": "corrected: still Unresolved, but a TSS-specific mandatory TRAMAR reporting requirement is now evidenced in Pub. 125. The VTS Callao lead is unchanged and has no official source"
+  },
+  {
+   "vts_name": "",
+   "vts_authority": "",
+   "vts_centre": "",
+   "vts_sector": "",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "X-S6",
+    "X-S8",
+    "X-S14"
+   ],
+   "vrs_id": "",
+   "reporting_scheme_name": "",
+   "reporting_authority": "",
+   "reporting_source_ids": [
+    "X-S13",
+    "X-S6",
+    "X-S8"
+   ],
+   "voluntary_reporting": "No",
+   "vts_leads": "Costera Pisco (coast radio, VHF 16, per Pub. 125): radio station, not a VTS",
+   "tss_id": "TSS-0184",
+   "batch": "B37",
+   "tss_name": "In the approaches to Puerto Pisco",
+   "imo_parent_ref": "B-VIII/7",
+   "coastal_state_s": "Peru",
+   "association_status": "Unresolved",
+   "vts_boundary_basis": "Pub. 125 (PDF p.92) gives the IMO-approved TSS in the approaches to Puerto Pisco, with a precautionary area and an ATBA round the lighted buoy. It covers pilotage, harbourmaster VHF 16 and ETA only. No VTS is described. A 2022 DICAPI presentation on Pisco (text layer) names no VTS. No DICAPI source establishing a VTS for this port or its approaches was found.",
+   "mandatory_reporting": "No",
+   "reporting_boundary_basis": "No IMO Part I system applies (only GALREP, VRS-0019, in the region; confined to the Galapagos, about 88°W to 92°W). The adopting circular contains no reporting provision. NGA Pub. 125 gives only port ETA messages to agents and the Port Captain for this port. Those are port arrival formalities, not an MRS. No formally named Peruvian national MRS was found. SIMTRAC (DS 008-2011-DE) is a DICAPI position-monitoring system, seen only in search snippets, and is not treated as a reporting scheme.",
+   "evidence_summary": "IMO B-VIII/7 (COLREG.2/Circ.48). No Part I MRS. The current NGA Pub. 125 port description mentions the TSS but no VTS; it does describe Chilean VTS (Arica, Iquique, Mejillones). No Peruvian official source was found. Without an official complete list of Peruvian VTS, absence cannot be confirmed.",
+   "source_date": "COLREG.2/Circ.48 1 Jun 2000 (adopted as 'Landfall and approaches to Puerto San Martin'); Pub. 125 corrected to 27 Aug 2026",
+   "unresolved_issue": "No DICAPI or HIDRONAV publication (VTS resolution, radio aids list) was obtained to confirm the absence of a VTS or national reporting scheme. The dicapi.mil.pe and HIDRONAV radio-aids material could not be searched.",
+   "prior_lead_outcome": "confirmed: Unresolved. Rename noted: adopted in COLREG.2/Circ.48 Annex 5 as 'Landfall and approaches to Puerto San Martin'"
+  },
+  {
+   "vts_name": "",
+   "vts_authority": "",
+   "vts_centre": "",
+   "vts_sector": "",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "X-S7",
+    "X-S8"
+   ],
+   "vrs_id": "",
+   "reporting_scheme_name": "",
+   "reporting_authority": "",
+   "reporting_source_ids": [
+    "X-S13",
+    "X-S7",
+    "X-S8"
+   ],
+   "voluntary_reporting": "No",
+   "vts_leads": null,
+   "tss_id": "TSS-0185",
+   "batch": "B37",
+   "tss_name": "Landfall and approaches to San Nicolas Bay",
+   "imo_parent_ref": "B-VIII/8",
+   "coastal_state_s": "Peru",
+   "association_status": "Unresolved",
+   "vts_boundary_basis": "Pub. 125 (PDF p.94) says an IMO-adopted TSS lies in the approaches to Puerto San Nicolás. It gives only ETAs and a VHF 13/16 port call 4 hours before arrival. No VTS is described. No DICAPI source establishing a VTS for this port or its approaches was found.",
+   "mandatory_reporting": "No",
+   "reporting_boundary_basis": "No IMO Part I system applies (only GALREP, VRS-0019, in the region; confined to the Galapagos, about 88°W to 92°W). The adopting circular contains no reporting provision. NGA Pub. 125 gives only port ETA messages to agents and the Port Captain for this port. Those are port arrival formalities, not an MRS. No formally named Peruvian national MRS was found. SIMTRAC (DS 008-2011-DE) is a DICAPI position-monitoring system, seen only in search snippets, and is not treated as a reporting scheme.",
+   "evidence_summary": "IMO B-VIII/8 (COLREG.2/Circ.49). No Part I MRS. The current NGA Pub. 125 port description mentions the TSS but no VTS; it does describe Chilean VTS (Arica, Iquique, Mejillones). No Peruvian official source was found. Without an official complete list of Peruvian VTS, absence cannot be confirmed.",
+   "source_date": "COLREG.2/Circ.49 19 Jan 2001; Pub. 125 corrected to 27 Aug 2026",
+   "unresolved_issue": "No DICAPI or HIDRONAV publication (VTS resolution, radio aids list) was obtained to confirm the absence of a VTS or national reporting scheme. The dicapi.mil.pe and HIDRONAV radio-aids material could not be searched.",
+   "prior_lead_outcome": "confirmed: Unresolved, no VTS source"
+  }
+ ],
+ "sources": [
+  {
+   "id": "X-S1",
+   "authority": "IMO Maritime Safety Committee",
+   "title": "COLREG.2/Circ.65 New traffic separation schemes (On the Pacific coast of Panama; At the approaches to Puerto Cristobal)",
+   "date_or_edition": "23 May 2014; implemented 0000 UTC 1 December 2014",
+   "url": "https://www.panamashipregistry.com/wp-content/uploads/2019/08/COLREG-2-Circ-65.pdf",
+   "source_class": "Tier 1",
+   "supports": "Identity and geometry of TSS-0176/0177/0178 (Parts 1 to 3 of B-VIII/1); instrument contains no reporting or VTS provision",
+   "locator": "Para 2; Annex 1 pages 1 to 3",
+   "passage": "will be implemented at 0000 hours UTC on 1 December 2014"
+  },
+  {
+   "id": "X-S2",
+   "authority": "Panama Canal Authority (ACP), Vice Presidency for Operations",
+   "title": "Advisory to Shipping No. A-24-2026: Speed Restriction in Traffic Separation Scheme on the Pacific Approach to the Panama Canal",
+   "date_or_edition": "30 July 2026",
+   "url": "https://pancanal.com/wp-content/uploads/2026/04/ADV-24-2026-Speed-Restriction-in-Traffic-Separation-Scheme-on-the-Pacific-Approach-to-the-Panama-Canal.pdf",
+   "source_class": "Tier 2",
+   "supports": "Current ACP reference to the Gulf of Panama TSS (seasonal 10 kn recommendation); no VTS or reporting provision",
+   "locator": "Page 1",
+   "passage": "This recommendation applies to both lanes of the Traffic Separation Scheme in the Gulf of Panama."
+  },
+  {
+   "id": "X-S3",
+   "authority": "Panama Canal Authority (ACP), Vice Presidency for Operations",
+   "title": "OP Notice to Shipping N-2-2026: Harbor Operations",
+   "date_or_edition": "1 January 2026 (cancels N-2-2025)",
+   "url": "https://pancanal.com/wp-content/uploads/2021/08/N02-2026-Harbor-Operations_BMV.pdf",
+   "source_class": "Tier 2",
+   "supports": "Flamenco Signal Station arrival call at 8 nm from the Pacific Sea Buoy (canal and anchorage arrival coordination); does not name the TSS and does not describe Flamenco as a VTS",
+   "locator": "Harbor Operations, section 2 'Vessel Coordination and Procedures at the Pacific Entrance', para 2a to 2c",
+   "passage": "When a vessel reaches a point of eight (8) Nautical Miles from Pacific Sea Buoy (about 11 Nautical Miles from Flamenco Island), it must notify Flamenco Signal Station on Channel 12 (VHF)."
+  },
+  {
+   "id": "X-S4",
+   "authority": "Panama Maritime Authority (AMP), Directorate General of Merchant Marine",
+   "title": "Merchant Marine Circular MMC-304: Implementation of New Ships' Routeing System in Panama",
+   "date_or_edition": "November 2014",
+   "url": "https://www.panamashipregistry.com/wp-content/uploads/2020/08/MMC-304-Nov.-2014.pdf",
+   "source_class": "Tier 2",
+   "supports": "Panamanian implementation of Parts 1 to 3; no VTS or reporting requirement announced with the TSS",
+   "locator": "Para 1a and 2",
+   "passage": "which covers Part 1 “Gulf of Panama”, Part 2 “Morro de Puercos”, Part 3 “Isla Jicarita” and Part 4 which describes inshore traffic zones"
+  },
+  {
+   "id": "X-S5",
+   "authority": "Panama Maritime Authority (AMP), Dirección General de Puertos e Industrias Marítimas Auxiliares",
+   "title": "Circular DGPIMA-005-DECCP-2026: Reducción de velocidad por protección de cetáceos en aguas nacionales",
+   "date_or_edition": "8 July 2026 (supersedes DGPIMA-014-DECCP-2025)",
+   "url": "https://www.amp.gob.pa/wp-content/uploads/2026/07/Circular-DGPIMA-005-DECCP-2026-esp-ingl.pdf",
+   "source_class": "Tier 2",
+   "supports": "Current AMP notice on the Gulf of Panama TSS; no VTS or reporting provision",
+   "locator": "Page 1",
+   "passage": "esta recomendación es aplicable a ambas vías de circulación del Dispositivo de Separación del Tráfico ubicado en el Golfo de Panamá"
+  },
+  {
+   "id": "X-S6",
+   "authority": "IMO Maritime Safety Committee",
+   "title": "COLREG.2/Circ.48 New and amended existing traffic separation schemes (Annex 3 Paita Bay; Annex 4 Puerto Callao; Annex 5 Puerto San Martin)",
+   "date_or_edition": "1 June 2000; implemented 0000 UTC 1 December 2000",
+   "url": "https://www.transportstyrelsen.se/globalassets/global/sjofart/dokument/sjotrafik_dok/imo_colreg.2_cirkular.pdf?id=58526",
+   "source_class": "Tier 1",
+   "supports": "Identity and geometry of TSS-0180, TSS-0183 and TSS-0184 (adopted as 'Landfall and approaches to Puerto San Martin'); no reporting or VTS provision",
+   "locator": "Compilation PDF pages 179 to 188; Circ.48 Annexes 3 to 5",
+   "passage": "\"Landfall and approaches to Puerto San Martin\" (new scheme)"
+  },
+  {
+   "id": "X-S7",
+   "authority": "IMO Maritime Safety Committee",
+   "title": "COLREG.2/Circ.49 New and amended traffic separation schemes (Talara Bay, Puerto Salaverry, Ferrol Bay (Puerto Chimbote), San Nicolas Bay)",
+   "date_or_edition": "19 January 2001; implemented 0000 UTC 1 June 2001",
+   "url": "https://www.transportstyrelsen.se/globalassets/global/sjofart/dokument/sjotrafik_dok/imo_colreg.2_cirkular.pdf?id=58526",
+   "source_class": "Tier 1",
+   "supports": "Identity of TSS-0179, TSS-0181, TSS-0182 and TSS-0185; no reporting or VTS provision",
+   "locator": "Compilation PDF, Circ.49 para 1 and Annexes 1 to 4",
+   "passage": "“Landfall and approaches to Talara Bay” (new scheme)"
+  },
+  {
+   "id": "X-S8",
+   "authority": "US National Geospatial-Intelligence Agency (NGA)",
+   "title": "Pub. 125 Sailing Directions (Enroute) West Coast of South America",
+   "date_or_edition": "17th edition 2025, corrected to 27 August 2026",
+   "url": "https://msi.nga.mil/api/publications/download?type=view&key=16694491/SFH00000/Pub125bk.pdf",
+   "source_class": "Tier 3",
+   "supports": "Callao TSS explicitly linked to mandatory reports to TRAMAR (not described as a VTS); Peruvian port entries for Talara, Paita, Salaverry, Chimbote, Pisco/General San Martin and San Nicolas describe the TSS without any VTS; the publication describes VTS Arica, Iquique and Mejillones (Chile) but no Peruvian VTS; Galapagos routeing and Ecuador MRS in Sector 1 only",
+   "locator": "Sector 3: PDF p.57 (Talara, 'Talara Control'), p.58 (Paita), p.67 (Salaverry), p.73 (Chimbote), p.86 (Callao, TRAMAR), p.92 (Pisco/General San Martin), p.94 (San Nicolas); Sector 4 p.106 (VTS Arica)",
+   "passage": "An IMO-adopted Traffic Separation Scheme (TRAMAR), best seen on the chart, has been established in the approaches to Callao. All vessels must report to TRAMAR on VHF channel 16"
+  },
+  {
+   "id": "X-S9",
+   "authority": "Dirección General de Capitanías y Guardacostas (DICAPI), Marina de Guerra del Perú",
+   "title": "Resolución Directoral N° 348-2026 MGP/DICAPI: Establecen áreas de tránsito y fondeaderos ... en la jurisdicción de la Capitanía de Puerto del Callao",
+   "date_or_edition": "8 June 2026 (El Peruano 11 June 2026)",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2524260-1",
+   "source_class": "Tier 1",
+   "supports": "Current DICAPI instrument for Callao transit areas and anchorages; contains no reference to a VTS, TRAMAR or reporting (negative context only, not evidence of absence)",
+   "locator": "Preamble and resolutive articles",
+   "passage": "Establecen áreas de tránsito y fondeaderos para las distintas clases de naves"
+  },
+  {
+   "id": "X-S10",
+   "authority": "Dirección General de Capitanías y Guardacostas (DICAPI)",
+   "title": "Resolución Directoral Nº 839-2025 MGP/DICAPI: reubicación de áreas de fondeaderos en la bahía de Puerto del Callao",
+   "date_or_edition": "13 November 2025 (El Peruano 15 November 2025)",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2458852-1",
+   "source_class": "Tier 1",
+   "supports": "Capitanías de Puerto propose 'sistemas de ordenamiento del tráfico marítimo' under DS 015-2014-DE art. 14(29); no VTS mention (context only)",
+   "locator": "Considerandos",
+   "passage": "proponer a la Dirección General el establecimiento de fondeaderos, sistemas de ordenamiento del tráfico marítimo, canales de acceso"
+  },
+  {
+   "id": "X-S11",
+   "authority": "Wärtsilä (supplier)",
+   "title": "Vessel Traffic Management System Port of Callao (case study)",
+   "date_or_edition": "17 April 2025",
+   "url": "https://www.wartsila.com/insights/case-study/port-of-callao",
+   "source_class": "Lead only",
+   "supports": "Peruvian Navy procured and implemented a VTS system at Callao; no service area, TSS coverage or official service description",
+   "locator": "Case study text",
+   "passage": "The Marina de Guerra del Perú (Peruvian Navy) needed to find a solution to all these challenges."
+  },
+  {
+   "id": "X-S12",
+   "authority": "Revista de Marina (Peruvian naval journal)",
+   "title": "Los servicios de tráfico marítimo del Callao: VTS-Callao (H. Chiarella Horna)",
+   "date_or_edition": "2023 (issue 2023-2)",
+   "url": "https://revistademarina.pe/wp-content/uploads/Revistas/2023/2023-2/2-Los-servicios-de-trafico-maritimo-del-Callao-VTS-Callao-Harry-Chiarella-Horna.pdf",
+   "source_class": "Lead only",
+   "supports": "Search snippet only: TRAMAR traffic control office of the Capitanía del Callao since 1989 and a project to implement a new VTS; URL returned HTTP 404 on 29 September 2026, content not opened",
+   "locator": "Not opened (404)",
+   "passage": ""
+  },
+  {
+   "id": "X-S13",
+   "authority": "IMO (project baseline)",
+   "title": "Ships' Routeing 2025 Edition, Part I mandatory ship reporting systems (data/authoritative/IMO_2025_Mandatory_Reporting_Systems.csv)",
+   "date_or_edition": "2025 edition",
+   "url": "",
+   "source_class": "Tier 1",
+   "supports": "Only Part I system in the South American Pacific region is GALREP (VRS-0019, I-I/19), confined to the Galapagos; no Part I system covers Panama or the Peruvian coast",
+   "locator": "Row I-I/19",
+   "passage": "In the Galapagos Particularly Sensitive Sea Area [GALREP]"
+  },
+  {
+   "id": "X-S14",
+   "authority": "DICAPI, Marina de Guerra del Perú (presentation hosted on gob.pe)",
+   "title": "Rol de la Dirección General de Capitanías y Guardacostas ... y el trabajo realizado en Pisco",
+   "date_or_edition": "May 2022",
+   "url": "https://cdn.www.gob.pe/uploads/document/file/3257676/Presentaci%C3%B3n%20de%20la%20Capitan%C3%ADa%20del%20Puerto%20de%20Pisco.pdf.pdf",
+   "source_class": "Tier 4",
+   "supports": "DICAPI lists 'Control y vigilancia del tráfico acuático' among functions; text layer names no VTS for Pisco (command and control slides are images, not read)",
+   "locator": "Slides 4 to 19",
+   "passage": "Control y vigilancia del tráfico acuático."
+  }
+ ],
+ "services": [
+  {
+   "name": "Flamenco Signal Station (lead; not designated a VTS)",
+   "authority": "Panama Canal Authority (ACP)",
+   "centre": "Flamenco Signal Station, Flamenco Island",
+   "sectors": "",
+   "area_description": "Pacific entrance and anchorages of the Panama Canal; arrival call at 8 nm from the Pacific Sea Buoy, VHF Ch 12",
+   "operational_evidence": "ACP OP Notice N-2-2026 (1 Jan 2026) current",
+   "source_ids": [
+    "X-S3"
+   ]
+  },
+  {
+   "name": "TRAMAR / VTS Callao (lead; official name and area unconfirmed)",
+   "authority": "Capitanía de Puerto del Callao, DICAPI, Marina de Guerra del Perú",
+   "centre": "Callao",
+   "sectors": "",
+   "area_description": "Approaches to Callao; reports at 20, 10 and 4 miles from Isla San Lorenzo and at the Outer Fairway Buoy (Pub. 125)",
+   "operational_evidence": "NGA Pub. 125 corrected to 27 Aug 2026 (reporting requirement); Wärtsilä case study 2025 (VTS operating by 2024, lead only)",
+   "source_ids": [
+    "X-S8",
+    "X-S11",
+    "X-S12"
+   ]
+  }
+ ],
+ "batch_audits": [
+  {
+   "batch": "B36",
+   "pass2_evidence_check": "Reopened X-S1 to X-S5, X-S7 and X-S8 locally from the downloaded copies, and X-S13. No positive VTS or MRS association is asserted. Verified that the Flamenco 8 nm call text (N-2-2026 s.2a) does not name the TSS or call Flamenco a VTS. Verified that COLREG.2/Circ.65, MMC-304 and DGPIMA-005-DECCP-2026 contain no reporting or VTS provision. Verified that the Pub. 125 Talara and Paita entries contain no VTS. All sources are current (ACP 2026, AMP 2026, Pub. 125 corrected Aug 2026) except the IMO adoption circulars, which are the in-force instruments.",
+   "pass3_classification_duplicate_check": "Parent B-VIII/1 is split into three individual TSS. The Flamenco lead applies to Part 1 only. Flamenco is a signal station and is kept as a lead, not a VTS. The canal arrival call is not counted as an MRS. GALREP (VRS-0019) is excluded on geography. Peruvian port radio call signs (Talara Control) are not treated as VTS. No VTS or VRS IDs are needed.",
+   "unresolved_items": "All five are Unresolved. VTS absence cannot be confirmed without an official Panamanian or Peruvian VTS list. For Panama: whether ACP or AMP operates any VTS covering the Gulf of Panama lanes, and the official Pacific Sea Buoy position.",
+   "audit_result": "PASS WITH UNRESOLVED ITEMS"
+  },
+  {
+   "batch": "B37",
+   "pass2_evidence_check": "Reopened X-S6, X-S7, X-S8 (Sector 3 pp.67, 73, 86, 92, 94), X-S9, X-S10 and X-S14. Callao: the TRAMAR mandatory reporting text is verified verbatim in Pub. 125 (current correction). It names the TSS, but it is Tier 3 and does not describe a VTS, so no positive VTS association is recorded and reporting is held as Unresolved. X-S11 is a supplier page and lead only. X-S12 returned 404 and was not used as evidence. The DICAPI Callao anchorage resolutions (2025, 2026) were checked and do not mention TRAMAR or a VTS.",
+   "pass3_classification_duplicate_check": "TRAMAR and 'VTS Callao' are probably one entity. They are recorded as a single lead service, not two. The TRAMAR reports may be VTS reporting, so they are not counted as a separate MRS. Pisco (TSS-0184) is the renamed 'Landfall and approaches to Puerto San Martin' (COLREG.2/Circ.48 Annex 5). The coordinator should merge it with any San Martin register entry. Costera Pisco is a coast radio station, not a VTS. No VTS or VRS IDs are needed.",
+   "unresolved_items": "All five are Unresolved. Callao needs an official DICAPI/HIDRONAV source for the VTS name, area and TSS coverage, and needs to settle whether the TRAMAR reporting is VTS reporting or a national MRS. Salaverry, Chimbote, Pisco and San Nicolás have no official Peruvian VTS list.",
+   "audit_result": "PASS WITH UNRESOLVED ITEMS"
+  }
+ ],
+ "method_notes": "Research date 29 September 2026. The IMO circulars, ACP/AMP notices, NGA Pub. 125 (17th ed 2025, corrected to 27 Aug 2026) and FAOLEX/El Peruano items were downloaded with curl and text-extracted with pypdf. Passages are quoted from the extracted text. Pub. 125 page locators are PDF page numbers. Access failures: the Revista de Marina 2023 'VTS Callao' article returned HTTP 404 and its Wayback copy was unreachable. The IHO SEPHC Panama national report was blocked by the proxy (legacy.iho.int). NGA Pub. 153 (Central America, would cover Panama) returned 403. dicapi.mil.pe loaded but has no searchable VTS content. The DS 015-2014-DE Reglamento full text was not obtained. mandatory_reporting 'No' means that no IMO Part I system covers the TSS and that neither the IMO adopting instrument nor the current national or navigational sources reviewed attach a reporting requirement. It does not mean an official complete list of national schemes was checked. voluntary_reporting 'No' means none was identified in those sources. TSS-0184 was adopted as 'Landfall and approaches to Puerto San Martin' (COLREG.2/Circ.48). A web search spent on a DICAPI Congress presentation (congreso.gob.pe) returned 404."
+}

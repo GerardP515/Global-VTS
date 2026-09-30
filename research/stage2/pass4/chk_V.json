@@ -1,0 +1,791 @@
+[
+ {
+  "record": {
+   "vts_name": "Hong Kong Vessel Traffic Service",
+   "vts_authority": "Marine Department, HKSAR Government",
+   "vts_centre": "Hong Kong Vessel Traffic Centre (VTC)",
+   "vts_sector": "Sectorised VHF network (Eastern Approaches / Lantau South / Western Approaches / Harbour sectors per Drawing 2025MAR032); exact sector for East Lamma not confirmed",
+   "vts_boundary_basis": "Marine Department states the VTS covers all navigable waters of Hong Kong used by sea-going vessels (V-S6) and that the IMO-adopted East Lamma Channel TSS is within Hong Kong waters (V-S7). Containment established by two official statements, not by plotting.",
+   "vts_coverage": "full",
+   "vts_source_ids": [
+    "V-S6",
+    "V-S7",
+    "V-S8",
+    "V-S10"
+   ],
+   "mandatory_reporting": "No",
+   "vrs_id": null,
+   "reporting_scheme_name": null,
+   "reporting_authority": null,
+   "reporting_boundary_basis": "No IMO Part I system covers Hong Kong (checked VRS-0001 to VRS-0023 in the project inventory). Mandatory VTS participation (vessels over 300 GT, Cap 313A reg 4; local vessels Cap 548F s57) is a VTS duty recorded under the service (V-S9), not a separate MRS.",
+   "reporting_source_ids": [
+    "V-S9"
+   ],
+   "voluntary_reporting": "No",
+   "unresolved_issue": "IMO adoption instrument not re-opened; if any part of the IMO scheme (e.g. its southern entrance) extends south of the HKSAR boundary, that part would be outside HK VTS. Official sources describe the TSS as within Hong Kong waters.",
+   "vts_leads": null,
+   "tss_id": "TSS-0156",
+   "batch": "B32",
+   "tss_name": "Western approaches to Victoria Port (East Lamma Channel)",
+   "imo_parent_ref": "B-V/11",
+   "coastal_state_s": "China (Hong Kong SAR)",
+   "association_status": "VTS only",
+   "evidence_summary": "Official Marine Department sources: VTS covers all navigable waters of Hong Kong used by sea-going vessels (fact sheet, revised 31 Dec 2025) and the East Lamma Channel TSS is one of two IMO-adopted TSS within Hong Kong waters. Operational since 1989; third-generation system since 2016.",
+   "source_date": "2025-12-31 (fact sheet); 2026-03-31 (guidebook); Sept 2025 (sector drawing)",
+   "prior_lead_outcome": "confirmed: VTS only with Hong Kong VTS, re-verified from current Marine Department pages (note: region notes mention Vung Tau, which does not match this IMO record; the record was researched as in the input)"
+  },
+  "sources": [
+   {
+    "id": "V-S6",
+    "authority": "Marine Department, HKSAR Government",
+    "title": "Hong Kong Fact Sheet - the Port",
+    "date_or_edition": "page revision date 2025-12-31; accessed 2026-09-29",
+    "url": "https://www.mardep.gov.hk/en/materials-and-publications/publications/hk-fact-sheet/index.html",
+    "source_class": "Tier 2",
+    "supports": "Hong Kong VTS covers all navigable waters of Hong Kong used by sea-going vessels; TSS implemented in East Lamma Channel",
+    "locator": "paragraphs on navigation safety and VTS",
+    "passage": "\"A comprehensive Vessel Traffic Service (VTS), with radar surveillance and tracking capabilities as well as a fully integrated data handling sub-system, covers all navigable waters of Hong Kong used by sea-going vessels and ferries.\""
+   },
+   {
+    "id": "V-S7",
+    "authority": "Marine Department, HKSAR Government",
+    "title": "Examination Guidebook on Hong Kong Waters Local Knowledge",
+    "date_or_edition": "PDF dated 2026-03-31; accessed 2026-09-29",
+    "url": "https://www.mardep.gov.hk/filemanager/en/share/pub-services/pdf/hkwaterlk_guide.pdf",
+    "source_class": "Tier 4",
+    "supports": "The IMO-adopted East Lamma Channel TSS lies within Hong Kong waters",
+    "locator": "Chapter 2, Principal Fairways and Traffic Separation Schemes",
+    "passage": "\"There are two traffic separation schemes (TSS) within Hong Kong waters which are adopted by IMO: (a) Tathong Channel (b) East Lamma Channel\""
+   },
+   {
+    "id": "V-S8",
+    "authority": "Marine Department, HKSAR Government (Hydrographic Office)",
+    "title": "Hong Kong Vessel Traffic Service - VHF Sectors and Calling-in Points (Drawing No. 2025MAR032)",
+    "date_or_edition": "September 2025; accessed 2026-09-29",
+    "url": "https://www.mardep.gov.hk/filemanager/en/share/pub-services/pdf/vts_vscp.pdf",
+    "source_class": "Tier 2",
+    "supports": "Current VTS sector structure (Eastern Approaches, Western Approaches, Lantau South, Harbour sectors) up to the HKSAR boundary",
+    "locator": "single-sheet drawing",
+    "passage": "Drawing title: \"Hong Kong Vessel Traffic Service \\u2013 VHF Sectors and Calling-in Points\"; legend \"Boundary of the Hong Kong Special Administrative Region\""
+   },
+   {
+    "id": "V-S10",
+    "authority": "Marine Department, HKSAR Government",
+    "title": "The Hong Kong Vessel Traffic Centre",
+    "date_or_edition": "undated web page; accessed 2026-09-29",
+    "url": "https://www.mardep.gov.hk/en/public-services/port-services/vts/exvts/index.html",
+    "source_class": "Tier 2",
+    "supports": "Operational Hong Kong VTS since 1989; third-generation system in operation since 2016",
+    "locator": "page text",
+    "passage": "\"The Marine Department started to provide the Vessel Traffic Services (VTS) for the port of Hong Kong in 1989.\""
+   },
+   {
+    "id": "V-S9",
+    "authority": "Marine Department, HKSAR Government",
+    "title": "Arrangement for Vessel Traffic Service (pamphlet)",
+    "date_or_edition": "PDF dated 2025-04-08; accessed 2026-09-29",
+    "url": "https://www.mardep.gov.hk/filemanager/en/share/publications/pdf/materials/vtc_pamphlet.pdf",
+    "source_class": "Tier 4",
+    "supports": "Mandatory VTS participation of vessels over 300 GT under Cap 313A reg 4 (a VTS duty, not a separate MRS)",
+    "locator": "'Other Vessels' panel",
+    "passage": "\"Pursuant to Regulation 4 of the Shipping and port control regulations, (Cap 313A), (a) a vessel of over 300 gross tonnage;\""
+   }
+  ]
+ },
+ {
+  "record": {
+   "vts_name": null,
+   "vts_authority": null,
+   "vts_centre": null,
+   "vts_sector": null,
+   "vts_boundary_basis": "AMSA's list of entities authorised to provide VTS in Australia (Marine Order 64) contains only port-named VTS areas plus REEFVTS; in Western Australia only Ashburton, Dampier, Fremantle and Port Hedland. None is at or near Cape Leeuwin (V-S14). VTS association therefore not established; the list strongly indicates absence.",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "V-S14"
+   ],
+   "mandatory_reporting": "Yes",
+   "vrs_id": null,
+   "reporting_scheme_name": "MASTREP (Modernised Australian Ship Tracking and Reporting System), national mandatory scheme under the Navigation Act 2012 and Marine Order 63 (Vessel reporting systems) 2019; not an IMO Part I system",
+   "reporting_authority": "AMSA (JRCC Australia)",
+   "reporting_boundary_basis": "MASTREP area is the Australian SRR for which RCC Australia is responsible (V-S16); the TSS lies in Australian coastal waters well inside the SRR. Mandatory only for foreign vessels between first arrival at and final departure from an Australian port, and for regulated Australian vessels in the MASTREP area (V-S15), so through-transiting foreign ships are outside it. Automatic AIS-based reporting.",
+   "reporting_source_ids": [
+    "V-S15",
+    "V-S16"
+   ],
+   "voluntary_reporting": "Yes: MASTREP voluntary participation encouraged for vessels outside the mandatory categories",
+   "unresolved_issue": "VTS area charts on the AMSA list were not opened individually; the list page dates from November 2023. MASTREP has no project VRS ID (not an IMO Part I system); coordinator to decide whether to allocate a national-scheme ID.",
+   "vts_leads": null,
+   "tss_id": "TSS-0158",
+   "batch": "B32",
+   "tss_name": "Off Cape Leeuwin",
+   "imo_parent_ref": "B-VI/1",
+   "coastal_state_s": "Australia",
+   "association_status": "MRS only",
+   "evidence_summary": "Individual TSS off Cape Leeuwin lies inside the MASTREP area (Australian SRR). No authorised VTS provider covers the south-west coast per AMSA's official list.",
+   "source_date": "2026-08-20 (MO 63 page); 2023-11-14 (AMSA VTS list); 2020-12-23 (MASTREP page)",
+   "prior_lead_outcome": "confirmed: MRS only (MASTREP); AMSA VTS list now reviewed directly and it contains no south-west WA provider; finding checked for this individual TSS"
+  },
+  "sources": [
+   {
+    "id": "V-S14",
+    "authority": "Australian Maritime Safety Authority (AMSA)",
+    "title": "VTS areas in Australia",
+    "date_or_edition": "last updated 14 November 2023; accessed 2026-09-29",
+    "url": "https://www.amsa.gov.au/safety-navigation/navigating-coastal-waters/vts-areas-australia",
+    "source_class": "Tier 2",
+    "supports": "Official list of entities authorised to provide VTS in Australia (Marine Order 64): all port-named VTS areas plus REEFVTS; none on the south-west coast of WA other than Fremantle; Bass Strait providers are Ports Victoria (Melbourne) and TasPorts port VTS areas",
+    "locator": "full list",
+    "passage": "\"We authorise and audit vessel traffic service (VTS) providers in Australia. Entities authorised to provide vessel traffic services in Australia are:\""
+   },
+   {
+    "id": "V-S15",
+    "authority": "Australian Maritime Safety Authority (AMSA)",
+    "title": "Modernised Australian Ship Tracking and Reporting System",
+    "date_or_edition": "last updated 23 December 2020; accessed 2026-09-29",
+    "url": "https://www.amsa.gov.au/safety-navigation/navigation-systems/modernised-australian-ship-tracking-and-reporting-system",
+    "source_class": "Tier 2",
+    "supports": "MASTREP is a national ship reporting system, mandatory for certain vessels, covering the Australian SRR",
+    "locator": "Participation",
+    "passage": "\"Vessels that must report to MASTREP are: foreign vessels from the arrival at its first port in Australia until its departure from its final port in Australia all regulated Australian vessels while in the MASTREP area.\""
+   },
+   {
+    "id": "V-S16",
+    "authority": "Australian Maritime Safety Authority (AMSA)",
+    "title": "Marine order 63 - Vessel reporting systems (current: Marine Order 63 (Vessel reporting systems) 2019, F2019L01463)",
+    "date_or_edition": "page last updated 20 August 2026; MO 63 commenced 1 January 2020; accessed 2026-09-29",
+    "url": "https://www.amsa.gov.au/about/regulations-and-standards/marine-order-63-vessel-reporting-systems",
+    "source_class": "Tier 2",
+    "supports": "MASTREP area is the Australian SRR (RCC Australia area in IMO GISIS); MO 63 2019 is current",
+    "locator": "About",
+    "passage": "\"Modernised Australian ship tracking and reporting system (MASTREP) area. The Rescue Coordination Centre \\u2013 Australia is responsible for this area as described in the International Maritime Organization's Global Integrated Shipping Information System\""
+   }
+  ]
+ },
+ {
+  "record": {
+   "vts_name": null,
+   "vts_authority": null,
+   "vts_centre": null,
+   "vts_sector": null,
+   "vts_boundary_basis": "AMSA's list of authorised VTS providers (V-S14) has no provider on the south coast of Western Australia (WA entries are Ashburton, Dampier, Fremantle, Port Hedland). VTS association not established; the list strongly indicates absence.",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "V-S14"
+   ],
+   "mandatory_reporting": "Yes",
+   "vrs_id": null,
+   "reporting_scheme_name": "MASTREP (Modernised Australian Ship Tracking and Reporting System), national mandatory scheme under the Navigation Act 2012 and Marine Order 63 (Vessel reporting systems) 2019; not an IMO Part I system",
+   "reporting_authority": "AMSA (JRCC Australia)",
+   "reporting_boundary_basis": "MASTREP area is the Australian SRR for which RCC Australia is responsible (V-S16); the TSS lies in Australian coastal waters well inside the SRR. Mandatory only for foreign vessels between first arrival at and final departure from an Australian port, and for regulated Australian vessels in the MASTREP area (V-S15), so through-transiting foreign ships are outside it. Automatic AIS-based reporting.",
+   "reporting_source_ids": [
+    "V-S15",
+    "V-S16"
+   ],
+   "voluntary_reporting": "Yes: MASTREP voluntary participation encouraged for vessels outside the mandatory categories",
+   "unresolved_issue": "Position of the Chatham Island component not re-plotted from the IMO text or Australian NtM; MASTREP has no project VRS ID.",
+   "vts_leads": null,
+   "tss_id": "TSS-0159",
+   "batch": "B32",
+   "tss_name": "Off Chatham Island",
+   "imo_parent_ref": "B-VI/1",
+   "coastal_state_s": "Australia",
+   "association_status": "MRS only",
+   "evidence_summary": "Individual TSS off Chatham Island (south coast of WA) lies inside the MASTREP area (Australian SRR). No authorised VTS provider covers it per AMSA's official list.",
+   "source_date": "2026-08-20 (MO 63 page); 2023-11-14 (AMSA VTS list); 2020-12-23 (MASTREP page)",
+   "prior_lead_outcome": "confirmed: MRS only (MASTREP); AMSA VTS list reviewed directly; finding checked for this individual TSS"
+  },
+  "sources": [
+   {
+    "id": "V-S14",
+    "authority": "Australian Maritime Safety Authority (AMSA)",
+    "title": "VTS areas in Australia",
+    "date_or_edition": "last updated 14 November 2023; accessed 2026-09-29",
+    "url": "https://www.amsa.gov.au/safety-navigation/navigating-coastal-waters/vts-areas-australia",
+    "source_class": "Tier 2",
+    "supports": "Official list of entities authorised to provide VTS in Australia (Marine Order 64): all port-named VTS areas plus REEFVTS; none on the south-west coast of WA other than Fremantle; Bass Strait providers are Ports Victoria (Melbourne) and TasPorts port VTS areas",
+    "locator": "full list",
+    "passage": "\"We authorise and audit vessel traffic service (VTS) providers in Australia. Entities authorised to provide vessel traffic services in Australia are:\""
+   },
+   {
+    "id": "V-S15",
+    "authority": "Australian Maritime Safety Authority (AMSA)",
+    "title": "Modernised Australian Ship Tracking and Reporting System",
+    "date_or_edition": "last updated 23 December 2020; accessed 2026-09-29",
+    "url": "https://www.amsa.gov.au/safety-navigation/navigation-systems/modernised-australian-ship-tracking-and-reporting-system",
+    "source_class": "Tier 2",
+    "supports": "MASTREP is a national ship reporting system, mandatory for certain vessels, covering the Australian SRR",
+    "locator": "Participation",
+    "passage": "\"Vessels that must report to MASTREP are: foreign vessels from the arrival at its first port in Australia until its departure from its final port in Australia all regulated Australian vessels while in the MASTREP area.\""
+   },
+   {
+    "id": "V-S16",
+    "authority": "Australian Maritime Safety Authority (AMSA)",
+    "title": "Marine order 63 - Vessel reporting systems (current: Marine Order 63 (Vessel reporting systems) 2019, F2019L01463)",
+    "date_or_edition": "page last updated 20 August 2026; MO 63 commenced 1 January 2020; accessed 2026-09-29",
+    "url": "https://www.amsa.gov.au/about/regulations-and-standards/marine-order-63-vessel-reporting-systems",
+    "source_class": "Tier 2",
+    "supports": "MASTREP area is the Australian SRR (RCC Australia area in IMO GISIS); MO 63 2019 is current",
+    "locator": "About",
+    "passage": "\"Modernised Australian ship tracking and reporting system (MASTREP) area. The Rescue Coordination Centre \\u2013 Australia is responsible for this area as described in the International Maritime Organization's Global Integrated Shipping Information System\""
+   }
+  ]
+ },
+ {
+  "record": {
+   "vts_name": null,
+   "vts_authority": null,
+   "vts_centre": null,
+   "vts_sector": null,
+   "vts_boundary_basis": "AMSA's list of authorised VTS providers (V-S14) includes, around Bass Strait, only port VTS areas: Melbourne (Ports Victoria) and TasPorts port areas (Burnie, Devonport, Bell Bay, Stanley, Port Latta, Grassy on King Island, Lady Barron on Flinders Island) (V-S17). No source shows any of them extending to the TSS south of Wilsons Promontory.",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "V-S14",
+    "V-S17"
+   ],
+   "mandatory_reporting": "Yes",
+   "vrs_id": null,
+   "reporting_scheme_name": "MASTREP (Modernised Australian Ship Tracking and Reporting System), national mandatory scheme under the Navigation Act 2012 and Marine Order 63 (Vessel reporting systems) 2019; not an IMO Part I system",
+   "reporting_authority": "AMSA (JRCC Australia)",
+   "reporting_boundary_basis": "MASTREP area is the Australian SRR for which RCC Australia is responsible (V-S16); the TSS lies in Australian coastal waters well inside the SRR. Mandatory only for foreign vessels between first arrival at and final departure from an Australian port, and for regulated Australian vessels in the MASTREP area (V-S15), so through-transiting foreign ships are outside it. Automatic AIS-based reporting.",
+   "reporting_source_ids": [
+    "V-S15",
+    "V-S16"
+   ],
+   "voluntary_reporting": "Yes: MASTREP voluntary participation encouraged for vessels outside the mandatory categories",
+   "unresolved_issue": "Melbourne and TasPorts VTS area charts not opened, so absence of VTS is not formally demonstrated (does not affect MRS only status). MASTREP has no project VRS ID.",
+   "vts_leads": "Melbourne VTS (Ports Victoria) and TasPorts port VTS areas are geographic leads only, not coverage",
+   "tss_id": "TSS-0160",
+   "batch": "B32",
+   "tss_name": "South of Wilson Promontory in the Bass Strait",
+   "imo_parent_ref": "B-VI/2",
+   "coastal_state_s": "Australia",
+   "association_status": "MRS only",
+   "evidence_summary": "TSS lies inside the MASTREP area (Australian SRR). Only port-named VTS areas are authorised around Bass Strait; none is shown to cover the TSS.",
+   "source_date": "2026-08-20 (MO 63 page); 2023-11-14 (AMSA VTS list); 2020-12-23 (MASTREP page)",
+   "prior_lead_outcome": "confirmed: MRS only (MASTREP)"
+  },
+  "sources": [
+   {
+    "id": "V-S14",
+    "authority": "Australian Maritime Safety Authority (AMSA)",
+    "title": "VTS areas in Australia",
+    "date_or_edition": "last updated 14 November 2023; accessed 2026-09-29",
+    "url": "https://www.amsa.gov.au/safety-navigation/navigating-coastal-waters/vts-areas-australia",
+    "source_class": "Tier 2",
+    "supports": "Official list of entities authorised to provide VTS in Australia (Marine Order 64): all port-named VTS areas plus REEFVTS; none on the south-west coast of WA other than Fremantle; Bass Strait providers are Ports Victoria (Melbourne) and TasPorts port VTS areas",
+    "locator": "full list",
+    "passage": "\"We authorise and audit vessel traffic service (VTS) providers in Australia. Entities authorised to provide vessel traffic services in Australia are:\""
+   },
+   {
+    "id": "V-S17",
+    "authority": "TasPorts (Tasmanian Ports Corporation)",
+    "title": "Vessel Traffic Services (VTS areas in Tasmania)",
+    "date_or_edition": "undated web page; accessed 2026-09-29",
+    "url": "https://www.tasports.com.au/vts",
+    "source_class": "Tier 2",
+    "supports": "TasPorts VTS areas are port-named areas (including Grassy, King Island and Lady Barron, Flinders Island); no Bass Strait through-route VTS",
+    "locator": "VTS areas in Tasmania; channel table",
+    "passage": "\"VTS areas in Tasmania Bell Bay VTS Area Devonport VTS Area Burnie VTS Area Port Latta VTS Area Strahan VTS Area Stanley VTS Area Hobart VTS Area Grassy VTS Area Coles Bay VTS Area Lady Baron VTS Area\""
+   },
+   {
+    "id": "V-S15",
+    "authority": "Australian Maritime Safety Authority (AMSA)",
+    "title": "Modernised Australian Ship Tracking and Reporting System",
+    "date_or_edition": "last updated 23 December 2020; accessed 2026-09-29",
+    "url": "https://www.amsa.gov.au/safety-navigation/navigation-systems/modernised-australian-ship-tracking-and-reporting-system",
+    "source_class": "Tier 2",
+    "supports": "MASTREP is a national ship reporting system, mandatory for certain vessels, covering the Australian SRR",
+    "locator": "Participation",
+    "passage": "\"Vessels that must report to MASTREP are: foreign vessels from the arrival at its first port in Australia until its departure from its final port in Australia all regulated Australian vessels while in the MASTREP area.\""
+   },
+   {
+    "id": "V-S16",
+    "authority": "Australian Maritime Safety Authority (AMSA)",
+    "title": "Marine order 63 - Vessel reporting systems (current: Marine Order 63 (Vessel reporting systems) 2019, F2019L01463)",
+    "date_or_edition": "page last updated 20 August 2026; MO 63 commenced 1 January 2020; accessed 2026-09-29",
+    "url": "https://www.amsa.gov.au/about/regulations-and-standards/marine-order-63-vessel-reporting-systems",
+    "source_class": "Tier 2",
+    "supports": "MASTREP area is the Australian SRR (RCC Australia area in IMO GISIS); MO 63 2019 is current",
+    "locator": "About",
+    "passage": "\"Modernised Australian ship tracking and reporting system (MASTREP) area. The Rescue Coordination Centre \\u2013 Australia is responsible for this area as described in the International Maritime Organization's Global Integrated Shipping Information System\""
+   }
+  ]
+ },
+ {
+  "record": {
+   "vts_name": null,
+   "vts_authority": null,
+   "vts_centre": null,
+   "vts_sector": null,
+   "vts_boundary_basis": "Same national evidence as TSS-0160: AMSA's list (V-S14) shows only port VTS areas around Bass Strait (Melbourne; TasPorts ports including Grassy and Lady Barron, V-S17); none shown to cover this TSS.",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "V-S14",
+    "V-S17"
+   ],
+   "mandatory_reporting": "Yes",
+   "vrs_id": null,
+   "reporting_scheme_name": "MASTREP (Modernised Australian Ship Tracking and Reporting System), national mandatory scheme under the Navigation Act 2012 and Marine Order 63 (Vessel reporting systems) 2019; not an IMO Part I system",
+   "reporting_authority": "AMSA (JRCC Australia)",
+   "reporting_boundary_basis": "MASTREP area is the Australian SRR for which RCC Australia is responsible (V-S16); the TSS lies in Australian coastal waters well inside the SRR. Mandatory only for foreign vessels between first arrival at and final departure from an Australian port, and for regulated Australian vessels in the MASTREP area (V-S15), so through-transiting foreign ships are outside it. Automatic AIS-based reporting.",
+   "reporting_source_ids": [
+    "V-S15",
+    "V-S16"
+   ],
+   "voluntary_reporting": "Yes: MASTREP voluntary participation encouraged for vessels outside the mandatory categories",
+   "unresolved_issue": "Exact position of the TSS not re-plotted from the IMO text or Australian NtM; port VTS area charts not opened. MASTREP has no project VRS ID.",
+   "vts_leads": "Melbourne VTS (Ports Victoria); TasPorts Lady Barron and Grassy VTS areas: geographic leads only",
+   "tss_id": "TSS-0161",
+   "batch": "B33",
+   "tss_name": "In the Bass Strait",
+   "imo_parent_ref": "B-VI/3",
+   "coastal_state_s": "Australia",
+   "association_status": "MRS only",
+   "evidence_summary": "TSS lies inside the MASTREP area (Australian SRR). No authorised VTS area is shown to cover it. Distinct IMO entry (B-VI/3) from TSS-0160 (B-VI/2); shared MASTREP scheme, not a duplicate record.",
+   "source_date": "2026-08-20 (MO 63 page); 2023-11-14 (AMSA VTS list); 2020-12-23 (MASTREP page)",
+   "prior_lead_outcome": "confirmed: MRS only (MASTREP); distinct from TSS-0160"
+  },
+  "sources": [
+   {
+    "id": "V-S14",
+    "authority": "Australian Maritime Safety Authority (AMSA)",
+    "title": "VTS areas in Australia",
+    "date_or_edition": "last updated 14 November 2023; accessed 2026-09-29",
+    "url": "https://www.amsa.gov.au/safety-navigation/navigating-coastal-waters/vts-areas-australia",
+    "source_class": "Tier 2",
+    "supports": "Official list of entities authorised to provide VTS in Australia (Marine Order 64): all port-named VTS areas plus REEFVTS; none on the south-west coast of WA other than Fremantle; Bass Strait providers are Ports Victoria (Melbourne) and TasPorts port VTS areas",
+    "locator": "full list",
+    "passage": "\"We authorise and audit vessel traffic service (VTS) providers in Australia. Entities authorised to provide vessel traffic services in Australia are:\""
+   },
+   {
+    "id": "V-S17",
+    "authority": "TasPorts (Tasmanian Ports Corporation)",
+    "title": "Vessel Traffic Services (VTS areas in Tasmania)",
+    "date_or_edition": "undated web page; accessed 2026-09-29",
+    "url": "https://www.tasports.com.au/vts",
+    "source_class": "Tier 2",
+    "supports": "TasPorts VTS areas are port-named areas (including Grassy, King Island and Lady Barron, Flinders Island); no Bass Strait through-route VTS",
+    "locator": "VTS areas in Tasmania; channel table",
+    "passage": "\"VTS areas in Tasmania Bell Bay VTS Area Devonport VTS Area Burnie VTS Area Port Latta VTS Area Strahan VTS Area Stanley VTS Area Hobart VTS Area Grassy VTS Area Coles Bay VTS Area Lady Baron VTS Area\""
+   },
+   {
+    "id": "V-S15",
+    "authority": "Australian Maritime Safety Authority (AMSA)",
+    "title": "Modernised Australian Ship Tracking and Reporting System",
+    "date_or_edition": "last updated 23 December 2020; accessed 2026-09-29",
+    "url": "https://www.amsa.gov.au/safety-navigation/navigation-systems/modernised-australian-ship-tracking-and-reporting-system",
+    "source_class": "Tier 2",
+    "supports": "MASTREP is a national ship reporting system, mandatory for certain vessels, covering the Australian SRR",
+    "locator": "Participation",
+    "passage": "\"Vessels that must report to MASTREP are: foreign vessels from the arrival at its first port in Australia until its departure from its final port in Australia all regulated Australian vessels while in the MASTREP area.\""
+   },
+   {
+    "id": "V-S16",
+    "authority": "Australian Maritime Safety Authority (AMSA)",
+    "title": "Marine order 63 - Vessel reporting systems (current: Marine Order 63 (Vessel reporting systems) 2019, F2019L01463)",
+    "date_or_edition": "page last updated 20 August 2026; MO 63 commenced 1 January 2020; accessed 2026-09-29",
+    "url": "https://www.amsa.gov.au/about/regulations-and-standards/marine-order-63-vessel-reporting-systems",
+    "source_class": "Tier 2",
+    "supports": "MASTREP area is the Australian SRR (RCC Australia area in IMO GISIS); MO 63 2019 is current",
+    "locator": "About",
+    "passage": "\"Modernised Australian ship tracking and reporting system (MASTREP) area. The Rescue Coordination Centre \\u2013 Australia is responsible for this area as described in the International Maritime Organization's Global Integrated Shipping Information System\""
+   }
+  ]
+ },
+ {
+  "record": {
+   "vts_name": "Vessel Traffic Service Prince William Sound",
+   "vts_authority": "US Coast Guard",
+   "vts_centre": "Valdez Traffic (Vessel Traffic Center Valdez / Prince William Sound)",
+   "vts_sector": "Valdez Arm VTS Special Area applies to the Valdez Arm TSS (§161.60(b))",
+   "vts_boundary_basis": "VTS area: US navigable waters north of the Cape Hinchinbrook Light to Schooner Rock Light line, between 146°30'W and 147°20'W (§161.60(a), V-S1). The PWS TSS lanes run from 60°20.6'N to 60°49.5'N, 146°48'W to 147°04'W and the Valdez Arm TSS to 60°58.9'N (§§167.1702-1703, V-S2); all points are north of the reporting points at Schooner Rock (60°18'42\"N) and Cape Hinchinbrook and within the longitude limits. The Valdez Arm VTS Special Area is defined by the Valdez Arm TSS. The Cape Hinchinbrook precautionary area (§167.1701(a)) extends to 59°51.80'N and 146°00.01'W, south of the VTS line and partly south of the VMRS limit of 60°00'N.",
+   "vts_coverage": "full",
+   "vts_source_ids": [
+    "V-S1",
+    "V-S2",
+    "V-S3"
+   ],
+   "mandatory_reporting": "No",
+   "vrs_id": null,
+   "reporting_scheme_name": null,
+   "reporting_authority": null,
+   "reporting_boundary_basis": "No IMO Part I system covers Prince William Sound. VMRS reporting to Valdez Traffic (Table 161.12(c)(9)) and reporting points under §161.60 are VTS duties, not a separate MRS.",
+   "reporting_source_ids": [
+    "V-S1"
+   ],
+   "voluntary_reporting": "No",
+   "unresolved_issue": "Coverage is full for the traffic lanes and separation zones; the southern part of the associated Cape Hinchinbrook precautionary area is outside the VTS area (and partly outside the VMRS area). Light position for Cape Hinchinbrook Light taken from the reporting-point coordinates, not the Light List.",
+   "vts_leads": null,
+   "tss_id": "TSS-0162",
+   "batch": "B33",
+   "tss_name": "In Prince William Sound",
+   "imo_parent_ref": "B-VII/1",
+   "coastal_state_s": "United States",
+   "association_status": "VTS only",
+   "evidence_summary": "33 CFR 161.60 (eCFR 1 Sept 2026) defines the VTS PWS area and names the Valdez Arm TSS as a VTS Special Area; the TSS lanes and separation zones (33 CFR 167.1702-1703) lie inside the VTS area. USCG NAVCEN lists Prince William Sound among operating VTCs.",
+   "source_date": "2026-09-01 (eCFR point in time); §161.60 last amended 3 Apr 2024",
+   "prior_lead_outcome": "confirmed: VTS only with VTS Prince William Sound; boundary re-checked against eCFR 2026-09-01"
+  },
+  "sources": [
+   {
+    "id": "V-S1",
+    "authority": "US Coast Guard / Office of the Federal Register (eCFR)",
+    "title": "33 CFR Part 161 Vessel Traffic Management: §161.12 Table 161.12(c), §161.55 VTS Puget Sound and the Cooperative Vessel Traffic Service for the Juan de Fuca Region, §161.60 VTS Prince William Sound",
+    "date_or_edition": "eCFR point-in-time 2026-09-01 (last amendment cited for §161.60: USCG-2023-0759, 89 FR 22948, 3 Apr 2024); accessed 2026-09-29",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-09-01/title-33.xml?part=161",
+    "source_class": "Tier 1",
+    "supports": "Statutory VTS areas and VMRS monitoring areas for VTS Prince William Sound, VTS Puget Sound, CVTS and Prince Rupert Traffic (US table)",
+    "locator": "§161.60(a); §161.55 intro and (a); §161.12(c) Table items (9) and (10)(iii)",
+    "passage": "§161.60(a): \"The VTS area consists of the navigable waters of the United States north of a line drawn from Cape Hinchinbrook Light to Schooner Rock Light, comprising that portion of Prince William Sound between 146°30′ W. and 147°20′ W.\" Table 161.12(c)(10)(iii) Prince Rupert Traffic: \"The waters west of 124°40.00′ W. within 12 nautical miles of the coast of Vancouver Island including the waters north of 48°00.00′ N., and east of 125°15.00′ W.\""
+   },
+   {
+    "id": "V-S2",
+    "authority": "US Coast Guard / Office of the Federal Register (eCFR)",
+    "title": "33 CFR Part 167 Offshore Traffic Separation Schemes: §§167.1300-167.1303 (approaches to the Strait of Juan de Fuca), §§167.1310-167.1311 (Strait of Juan de Fuca, western lanes), §§167.1700-167.1703 (Prince William Sound)",
+    "date_or_edition": "eCFR point-in-time 2026-09-01; Juan de Fuca text USCG-2002-12702, 75 FR 70826, 19 Nov 2010; PWS text USCG-2001-10254, 67 FR 53743, 19 Aug 2002; accessed 2026-09-29",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-09-01/title-33.xml?part=167",
+    "source_class": "Tier 1",
+    "supports": "Coordinates of the TSS components used to test containment in VTS areas",
+    "locator": "§167.1301, §167.1302, §167.1303, §167.1311, §167.1701, §167.1702, §167.1703",
+    "passage": "§167.1300: \"The traffic separation scheme for the approaches to the Strait of Juan de Fuca consists of three parts: the western approach, the southwestern approach, and precautionary area \\u201cJF.\\u201d\""
+   },
+   {
+    "id": "V-S3",
+    "authority": "US Coast Guard Navigation Center (NAVCEN)",
+    "title": "Vessel Traffic Services",
+    "date_or_edition": "undated web page; accessed 2026-09-29",
+    "url": "https://www.navcen.uscg.gov/vessel-traffic-services",
+    "source_class": "Tier 2",
+    "supports": "Current operation of USCG Vessel Traffic Centers including Prince William Sound and Puget Sound",
+    "locator": "introductory text",
+    "passage": "\"The Coast Guard operates 12 Vessel Traffic Centers (VTC): Prince William Sound, Puget Sound, Valdez, Seattle, San Francisco, ...\""
+   },
+   {
+    "id": "V-S1",
+    "authority": "US Coast Guard / Office of the Federal Register (eCFR)",
+    "title": "33 CFR Part 161 Vessel Traffic Management: §161.12 Table 161.12(c), §161.55 VTS Puget Sound and the Cooperative Vessel Traffic Service for the Juan de Fuca Region, §161.60 VTS Prince William Sound",
+    "date_or_edition": "eCFR point-in-time 2026-09-01 (last amendment cited for §161.60: USCG-2023-0759, 89 FR 22948, 3 Apr 2024); accessed 2026-09-29",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-09-01/title-33.xml?part=161",
+    "source_class": "Tier 1",
+    "supports": "Statutory VTS areas and VMRS monitoring areas for VTS Prince William Sound, VTS Puget Sound, CVTS and Prince Rupert Traffic (US table)",
+    "locator": "§161.60(a); §161.55 intro and (a); §161.12(c) Table items (9) and (10)(iii)",
+    "passage": "§161.60(a): \"The VTS area consists of the navigable waters of the United States north of a line drawn from Cape Hinchinbrook Light to Schooner Rock Light, comprising that portion of Prince William Sound between 146°30′ W. and 147°20′ W.\" Table 161.12(c)(10)(iii) Prince Rupert Traffic: \"The waters west of 124°40.00′ W. within 12 nautical miles of the coast of Vancouver Island including the waters north of 48°00.00′ N., and east of 125°15.00′ W.\""
+   }
+  ]
+ },
+ {
+  "record": {
+   "vts_name": "Cooperative Vessel Traffic Service (CVTS) for the Juan de Fuca Region",
+   "vts_authority": "Canadian Coast Guard (MCTS) and US Coast Guard, jointly under the 1979 CVTS agreement",
+   "vts_centre": "Prince Rupert Traffic (CCG MCTS Prince Rupert), VHF 74",
+   "vts_sector": "Prince Rupert Traffic sector of the CVTS (waters west of 124°40'W)",
+   "vts_boundary_basis": "RAMN 2026 s.3.5.4 (V-S5) defines the CVTS Area of Operation as 124°40'W south along the Washington coast to 48°00'N, west to 125°15'W and north to 48°35'45\"N, and requires inbound vessels to check in with Prince Rupert Traffic 'prior to entering the traffic separation scheme'. US Table 161.12(c)(10)(iii) (V-S1) likewise gives Prince Rupert Traffic the waters north of 48°00'N and east of 125°15'W, west of 124°40'W. The western approach (48°27.3'N-48°32.1'N, 125°04.67'W-125°09.00'W, §167.1301, V-S2) lies wholly inside this area. Statutory zones are narrower: US VTS Puget Sound area stops at the US territorial sea (§161.55) and the Canadian Prince Rupert VTS Zone at the Canadian territorial sea (V-S4); by my approximate plot most of this TSS is beyond 12 nm from both coasts.",
+   "vts_coverage": "full",
+   "vts_source_ids": [
+    "V-S5",
+    "V-S1",
+    "V-S2",
+    "V-S4"
+   ],
+   "mandatory_reporting": "No",
+   "vrs_id": null,
+   "reporting_scheme_name": null,
+   "reporting_authority": null,
+   "reporting_boundary_basis": "No IMO Part I system covers the Juan de Fuca region. Canadian VTS Zone reporting (SOR/2025-275) and US VMRS reporting (33 CFR 161) are VTS duties recorded under the services, not a separate MRS.",
+   "reporting_source_ids": [
+    "V-S1",
+    "V-S4"
+   ],
+   "voluntary_reporting": "Yes: CVTS participation outside Canadian and US territorial waters is not mandatory (V-S5), so reporting there is in effect voluntary",
+   "unresolved_issue": "33 CFR 161.55(a) defines the CVTS for the Juan de Fuca Region with a western limit near 124°48'W, narrower than the RAMN CVTS Area of Operation (125°15'W); coverage relies on RAMN s.3.5.4 and Table 161.12(c). RAMN quotes were extracted through WebFetch because direct download failed. Territorial-sea distances are my approximations.",
+   "vts_leads": null,
+   "tss_id": "TSS-0163",
+   "batch": "B33",
+   "tss_name": "Western approach",
+   "imo_parent_ref": "B-VII/2",
+   "coastal_state_s": "United States; Canada",
+   "association_status": "VTS only",
+   "evidence_summary": "Official CCG publication defines the CVTS area to 125°15'W and 48°00'N and ties the Prince Rupert Traffic check-in to entry into the TSS; the US regulation's table assigns the same box to Prince Rupert Traffic. The TSS lies inside that service area; mandatory participation applies only within territorial waters.",
+   "source_date": "RAMN 2026; eCFR 2026-09-01; SOR/2025-275 registered 2025-12-12",
+   "prior_lead_outcome": "corrected: VTS association confirmed but re-based on RAMN 2026 CVTS area and Table 161.12(c); prior claim that the Canadian VTS Zone/12 nm area contains the TSS not supported (statutory zones end at the territorial sea); Victoria Traffic not relevant to this component"
+  },
+  "sources": [
+   {
+    "id": "V-S5",
+    "authority": "Canadian Coast Guard",
+    "title": "Radio Aids to Marine Navigation 2026: Part 3: Vessel Traffic Services, section 3.5.4 Co-Operative Vessel Traffic Services (CVTS) Agreement",
+    "date_or_edition": "2026 edition (web version); accessed 2026-09-29 via WebFetch (PDF and direct HTML download failed)",
+    "url": "https://www.canada.ca/en/canadian-coast-guard/corporate/publications/radio-aids-marine-navigation/vessel-traffic-services.html",
+    "source_class": "Tier 3",
+    "supports": "CVTS area of operation extends to 125°15'W and 48°00'N and names the traffic separation scheme as the point before which inbound vessels check in with Prince Rupert Traffic; participation mandatory within territorial waters",
+    "locator": "s. 3.5.4",
+    "passage": "\"The CVTS Area of Operation is defined as 124°40W south along the Washington coast to 48°00N then west to 125°15W and north to 48°35'45\"N.\" \"Inbound vessels are to check in with Prince Rupert Traffic on VHF Channel 74 (156.725 MHz) at either 48°00N or 125°15W prior to entering the traffic separation scheme.\""
+   },
+   {
+    "id": "V-S1",
+    "authority": "US Coast Guard / Office of the Federal Register (eCFR)",
+    "title": "33 CFR Part 161 Vessel Traffic Management: §161.12 Table 161.12(c), §161.55 VTS Puget Sound and the Cooperative Vessel Traffic Service for the Juan de Fuca Region, §161.60 VTS Prince William Sound",
+    "date_or_edition": "eCFR point-in-time 2026-09-01 (last amendment cited for §161.60: USCG-2023-0759, 89 FR 22948, 3 Apr 2024); accessed 2026-09-29",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-09-01/title-33.xml?part=161",
+    "source_class": "Tier 1",
+    "supports": "Statutory VTS areas and VMRS monitoring areas for VTS Prince William Sound, VTS Puget Sound, CVTS and Prince Rupert Traffic (US table)",
+    "locator": "§161.60(a); §161.55 intro and (a); §161.12(c) Table items (9) and (10)(iii)",
+    "passage": "§161.60(a): \"The VTS area consists of the navigable waters of the United States north of a line drawn from Cape Hinchinbrook Light to Schooner Rock Light, comprising that portion of Prince William Sound between 146°30′ W. and 147°20′ W.\" Table 161.12(c)(10)(iii) Prince Rupert Traffic: \"The waters west of 124°40.00′ W. within 12 nautical miles of the coast of Vancouver Island including the waters north of 48°00.00′ N., and east of 125°15.00′ W.\""
+   },
+   {
+    "id": "V-S2",
+    "authority": "US Coast Guard / Office of the Federal Register (eCFR)",
+    "title": "33 CFR Part 167 Offshore Traffic Separation Schemes: §§167.1300-167.1303 (approaches to the Strait of Juan de Fuca), §§167.1310-167.1311 (Strait of Juan de Fuca, western lanes), §§167.1700-167.1703 (Prince William Sound)",
+    "date_or_edition": "eCFR point-in-time 2026-09-01; Juan de Fuca text USCG-2002-12702, 75 FR 70826, 19 Nov 2010; PWS text USCG-2001-10254, 67 FR 53743, 19 Aug 2002; accessed 2026-09-29",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-09-01/title-33.xml?part=167",
+    "source_class": "Tier 1",
+    "supports": "Coordinates of the TSS components used to test containment in VTS areas",
+    "locator": "§167.1301, §167.1302, §167.1303, §167.1311, §167.1701, §167.1702, §167.1703",
+    "passage": "§167.1300: \"The traffic separation scheme for the approaches to the Strait of Juan de Fuca consists of three parts: the western approach, the southwestern approach, and precautionary area \\u201cJF.\\u201d\""
+   },
+   {
+    "id": "V-S4",
+    "authority": "Government of Canada (Transport Canada), Justice Laws Website",
+    "title": "Vessel Traffic Services Zones Regulations, SOR/2025-275, Schedule 1 (Western VTS Zones)",
+    "date_or_edition": "Registered 2025-12-12 (P.C. 2025-927); in force on the day in the third month after Canada Gazette Part II publication (publication date not verified); page modified 2026-09-28; accessed 2026-09-29",
+    "url": "https://laws-lois.justice.gc.ca/eng/regulations/SOR-2025-275/FullText.html",
+    "source_class": "Tier 1",
+    "supports": "Statutory limits of the Victoria VTS Zone and Prince Rupert VTS Zone around Juan de Fuca Strait and its western approaches",
+    "locator": "Schedule 1, items 1 (Victoria) and 2 (Prince Rupert)",
+    "passage": "Item 2 Prince Rupert: \"...thence southerly to intersect the international border at 48°28′36″ N, 124°40′00″ W; and thence following the territorial sea boundary northward to the U.S. Alaska/Canada boundary in Dixon Entrance at Cape Muzon\""
+   },
+   {
+    "id": "V-S1",
+    "authority": "US Coast Guard / Office of the Federal Register (eCFR)",
+    "title": "33 CFR Part 161 Vessel Traffic Management: §161.12 Table 161.12(c), §161.55 VTS Puget Sound and the Cooperative Vessel Traffic Service for the Juan de Fuca Region, §161.60 VTS Prince William Sound",
+    "date_or_edition": "eCFR point-in-time 2026-09-01 (last amendment cited for §161.60: USCG-2023-0759, 89 FR 22948, 3 Apr 2024); accessed 2026-09-29",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-09-01/title-33.xml?part=161",
+    "source_class": "Tier 1",
+    "supports": "Statutory VTS areas and VMRS monitoring areas for VTS Prince William Sound, VTS Puget Sound, CVTS and Prince Rupert Traffic (US table)",
+    "locator": "§161.60(a); §161.55 intro and (a); §161.12(c) Table items (9) and (10)(iii)",
+    "passage": "§161.60(a): \"The VTS area consists of the navigable waters of the United States north of a line drawn from Cape Hinchinbrook Light to Schooner Rock Light, comprising that portion of Prince William Sound between 146°30′ W. and 147°20′ W.\" Table 161.12(c)(10)(iii) Prince Rupert Traffic: \"The waters west of 124°40.00′ W. within 12 nautical miles of the coast of Vancouver Island including the waters north of 48°00.00′ N., and east of 125°15.00′ W.\""
+   },
+   {
+    "id": "V-S4",
+    "authority": "Government of Canada (Transport Canada), Justice Laws Website",
+    "title": "Vessel Traffic Services Zones Regulations, SOR/2025-275, Schedule 1 (Western VTS Zones)",
+    "date_or_edition": "Registered 2025-12-12 (P.C. 2025-927); in force on the day in the third month after Canada Gazette Part II publication (publication date not verified); page modified 2026-09-28; accessed 2026-09-29",
+    "url": "https://laws-lois.justice.gc.ca/eng/regulations/SOR-2025-275/FullText.html",
+    "source_class": "Tier 1",
+    "supports": "Statutory limits of the Victoria VTS Zone and Prince Rupert VTS Zone around Juan de Fuca Strait and its western approaches",
+    "locator": "Schedule 1, items 1 (Victoria) and 2 (Prince Rupert)",
+    "passage": "Item 2 Prince Rupert: \"...thence southerly to intersect the international border at 48°28′36″ N, 124°40′00″ W; and thence following the territorial sea boundary northward to the U.S. Alaska/Canada boundary in Dixon Entrance at Cape Muzon\""
+   }
+  ]
+ },
+ {
+  "record": {
+   "vts_name": "Cooperative Vessel Traffic Service (CVTS) for the Juan de Fuca Region",
+   "vts_authority": "Canadian Coast Guard (MCTS) and US Coast Guard, jointly under the 1979 CVTS agreement",
+   "vts_centre": "Prince Rupert Traffic (CCG MCTS Prince Rupert), VHF 74",
+   "vts_sector": "Prince Rupert Traffic sector of the CVTS (waters west of 124°40'W)",
+   "vts_boundary_basis": "South-western approach (48°22.55'N-48°27.63'N, 125°00.81'W-125°09.00'W, §167.1302, V-S2) lies wholly inside the CVTS Area of Operation (to 125°15'W and 48°00'N) in RAMN 2026 s.3.5.4 (V-S5) and inside the Table 161.12(c)(10)(iii) Prince Rupert Traffic area (V-S1). It lies south of the international boundary; by my approximate plot only its north-eastern end is within about 12 nm of Tatoosh Island, so most of it is outside the US VTS Puget Sound statutory area (§161.55).",
+   "vts_coverage": "full",
+   "vts_source_ids": [
+    "V-S5",
+    "V-S1",
+    "V-S2"
+   ],
+   "mandatory_reporting": "No",
+   "vrs_id": null,
+   "reporting_scheme_name": null,
+   "reporting_authority": null,
+   "reporting_boundary_basis": "No IMO Part I system covers the Juan de Fuca region. Canadian VTS Zone reporting (SOR/2025-275) and US VMRS reporting (33 CFR 161) are VTS duties recorded under the services, not a separate MRS.",
+   "reporting_source_ids": [
+    "V-S1",
+    "V-S4"
+   ],
+   "voluntary_reporting": "Yes: CVTS participation outside Canadian and US territorial waters is not mandatory (V-S5), so reporting there is in effect voluntary",
+   "unresolved_issue": "Same as TSS-0163 (narrower CVTS definition in §161.55(a); RAMN extracted via WebFetch; approximate territorial-sea plot).",
+   "vts_leads": null,
+   "tss_id": "TSS-0164",
+   "batch": "B33",
+   "tss_name": "South-western approach",
+   "imo_parent_ref": "B-VII/2",
+   "coastal_state_s": "United States; Canada",
+   "association_status": "VTS only",
+   "evidence_summary": "As for TSS-0163: CVTS service area (RAMN 2026) and US Table 161.12(c) Prince Rupert Traffic area contain the south-western approach; mandatory participation only within territorial waters.",
+   "source_date": "RAMN 2026; eCFR 2026-09-01",
+   "prior_lead_outcome": "corrected: VTS association confirmed on RAMN CVTS area and Table 161.12(c); Victoria Traffic removed; statutory Canadian zone does not cover this component (it is south of the boundary)"
+  },
+  "sources": [
+   {
+    "id": "V-S5",
+    "authority": "Canadian Coast Guard",
+    "title": "Radio Aids to Marine Navigation 2026: Part 3: Vessel Traffic Services, section 3.5.4 Co-Operative Vessel Traffic Services (CVTS) Agreement",
+    "date_or_edition": "2026 edition (web version); accessed 2026-09-29 via WebFetch (PDF and direct HTML download failed)",
+    "url": "https://www.canada.ca/en/canadian-coast-guard/corporate/publications/radio-aids-marine-navigation/vessel-traffic-services.html",
+    "source_class": "Tier 3",
+    "supports": "CVTS area of operation extends to 125°15'W and 48°00'N and names the traffic separation scheme as the point before which inbound vessels check in with Prince Rupert Traffic; participation mandatory within territorial waters",
+    "locator": "s. 3.5.4",
+    "passage": "\"The CVTS Area of Operation is defined as 124°40W south along the Washington coast to 48°00N then west to 125°15W and north to 48°35'45\"N.\" \"Inbound vessels are to check in with Prince Rupert Traffic on VHF Channel 74 (156.725 MHz) at either 48°00N or 125°15W prior to entering the traffic separation scheme.\""
+   },
+   {
+    "id": "V-S1",
+    "authority": "US Coast Guard / Office of the Federal Register (eCFR)",
+    "title": "33 CFR Part 161 Vessel Traffic Management: §161.12 Table 161.12(c), §161.55 VTS Puget Sound and the Cooperative Vessel Traffic Service for the Juan de Fuca Region, §161.60 VTS Prince William Sound",
+    "date_or_edition": "eCFR point-in-time 2026-09-01 (last amendment cited for §161.60: USCG-2023-0759, 89 FR 22948, 3 Apr 2024); accessed 2026-09-29",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-09-01/title-33.xml?part=161",
+    "source_class": "Tier 1",
+    "supports": "Statutory VTS areas and VMRS monitoring areas for VTS Prince William Sound, VTS Puget Sound, CVTS and Prince Rupert Traffic (US table)",
+    "locator": "§161.60(a); §161.55 intro and (a); §161.12(c) Table items (9) and (10)(iii)",
+    "passage": "§161.60(a): \"The VTS area consists of the navigable waters of the United States north of a line drawn from Cape Hinchinbrook Light to Schooner Rock Light, comprising that portion of Prince William Sound between 146°30′ W. and 147°20′ W.\" Table 161.12(c)(10)(iii) Prince Rupert Traffic: \"The waters west of 124°40.00′ W. within 12 nautical miles of the coast of Vancouver Island including the waters north of 48°00.00′ N., and east of 125°15.00′ W.\""
+   },
+   {
+    "id": "V-S2",
+    "authority": "US Coast Guard / Office of the Federal Register (eCFR)",
+    "title": "33 CFR Part 167 Offshore Traffic Separation Schemes: §§167.1300-167.1303 (approaches to the Strait of Juan de Fuca), §§167.1310-167.1311 (Strait of Juan de Fuca, western lanes), §§167.1700-167.1703 (Prince William Sound)",
+    "date_or_edition": "eCFR point-in-time 2026-09-01; Juan de Fuca text USCG-2002-12702, 75 FR 70826, 19 Nov 2010; PWS text USCG-2001-10254, 67 FR 53743, 19 Aug 2002; accessed 2026-09-29",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-09-01/title-33.xml?part=167",
+    "source_class": "Tier 1",
+    "supports": "Coordinates of the TSS components used to test containment in VTS areas",
+    "locator": "§167.1301, §167.1302, §167.1303, §167.1311, §167.1701, §167.1702, §167.1703",
+    "passage": "§167.1300: \"The traffic separation scheme for the approaches to the Strait of Juan de Fuca consists of three parts: the western approach, the southwestern approach, and precautionary area \\u201cJF.\\u201d\""
+   },
+   {
+    "id": "V-S1",
+    "authority": "US Coast Guard / Office of the Federal Register (eCFR)",
+    "title": "33 CFR Part 161 Vessel Traffic Management: §161.12 Table 161.12(c), §161.55 VTS Puget Sound and the Cooperative Vessel Traffic Service for the Juan de Fuca Region, §161.60 VTS Prince William Sound",
+    "date_or_edition": "eCFR point-in-time 2026-09-01 (last amendment cited for §161.60: USCG-2023-0759, 89 FR 22948, 3 Apr 2024); accessed 2026-09-29",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-09-01/title-33.xml?part=161",
+    "source_class": "Tier 1",
+    "supports": "Statutory VTS areas and VMRS monitoring areas for VTS Prince William Sound, VTS Puget Sound, CVTS and Prince Rupert Traffic (US table)",
+    "locator": "§161.60(a); §161.55 intro and (a); §161.12(c) Table items (9) and (10)(iii)",
+    "passage": "§161.60(a): \"The VTS area consists of the navigable waters of the United States north of a line drawn from Cape Hinchinbrook Light to Schooner Rock Light, comprising that portion of Prince William Sound between 146°30′ W. and 147°20′ W.\" Table 161.12(c)(10)(iii) Prince Rupert Traffic: \"The waters west of 124°40.00′ W. within 12 nautical miles of the coast of Vancouver Island including the waters north of 48°00.00′ N., and east of 125°15.00′ W.\""
+   },
+   {
+    "id": "V-S4",
+    "authority": "Government of Canada (Transport Canada), Justice Laws Website",
+    "title": "Vessel Traffic Services Zones Regulations, SOR/2025-275, Schedule 1 (Western VTS Zones)",
+    "date_or_edition": "Registered 2025-12-12 (P.C. 2025-927); in force on the day in the third month after Canada Gazette Part II publication (publication date not verified); page modified 2026-09-28; accessed 2026-09-29",
+    "url": "https://laws-lois.justice.gc.ca/eng/regulations/SOR-2025-275/FullText.html",
+    "source_class": "Tier 1",
+    "supports": "Statutory limits of the Victoria VTS Zone and Prince Rupert VTS Zone around Juan de Fuca Strait and its western approaches",
+    "locator": "Schedule 1, items 1 (Victoria) and 2 (Prince Rupert)",
+    "passage": "Item 2 Prince Rupert: \"...thence southerly to intersect the international border at 48°28′36″ N, 124°40′00″ W; and thence following the territorial sea boundary northward to the U.S. Alaska/Canada boundary in Dixon Entrance at Cape Muzon\""
+   }
+  ]
+ },
+ {
+  "record": {
+   "vts_name": "Cooperative Vessel Traffic Service (CVTS) for the Juan de Fuca Region",
+   "vts_authority": "US Coast Guard (VTS Puget Sound) and Canadian Coast Guard (MCTS), jointly under the CVTS agreement",
+   "vts_centre": "Seattle Traffic (USCG VTS Puget Sound) east of 124°40'W; Prince Rupert Traffic (CCG MCTS) west of 124°40'W",
+   "vts_sector": "Seattle Traffic VHF 5A sector (east of 124°40'W); Prince Rupert Traffic VHF 74 sector (west of 124°40'W)",
+   "vts_boundary_basis": "Western lanes run from 125°00'W to 123°31.98'W along 48°13'N-48°32'N (§167.1311, V-S2). East of 124°40'W: US waters are in the VTS Puget Sound area and the Seattle Traffic Ch 5A area (§161.55, Table 161.12(c)(10)(ii), V-S1); Canadian waters are in the statutory Victoria VTS Zone, whose boundary follows the international boundary through Juan de Fuca Strait to 48°28'36\"N 124°40'W (V-S4), and are managed by Seattle Traffic under the CVTS (RAMN s.3.5.4, V-S5). West of 124°40'W: Canadian waters are in the Prince Rupert VTS Zone (V-S4) and US waters within the US territorial sea are in the VTS Puget Sound area; the whole segment is inside the CVTS Area of Operation and the Prince Rupert Traffic Table 161.12(c) area. The §161.55(a) CVTS area (west limit about 124°48'W) also covers most of the lanes.",
+   "vts_coverage": "full",
+   "vts_source_ids": [
+    "V-S1",
+    "V-S2",
+    "V-S4",
+    "V-S5",
+    "V-S3"
+   ],
+   "mandatory_reporting": "No",
+   "vrs_id": null,
+   "reporting_scheme_name": null,
+   "reporting_authority": null,
+   "reporting_boundary_basis": "No IMO Part I system covers the Juan de Fuca region. Canadian VTS Zone reporting (SOR/2025-275) and US VMRS reporting (33 CFR 161) are VTS duties recorded under the services, not a separate MRS.",
+   "reporting_source_ids": [
+    "V-S1",
+    "V-S4"
+   ],
+   "voluntary_reporting": "Yes: CVTS participation outside Canadian and US territorial waters is not mandatory (V-S5), so reporting there is in effect voluntary",
+   "unresolved_issue": "Coordinator to decide whether the CVTS is recorded as one VTS entity or as links to its component services (VTS Puget Sound, Prince Rupert and Victoria VTS Zones). SOR/2025-275 in-force date not verified.",
+   "vts_leads": null,
+   "tss_id": "TSS-0165",
+   "batch": "B33",
+   "tss_name": "Western lanes",
+   "imo_parent_ref": "B-VII/2",
+   "coastal_state_s": "United States; Canada",
+   "association_status": "VTS only",
+   "evidence_summary": "Statutory US (33 CFR 161.55) and Canadian (SOR/2025-275) VTS areas and the joint CVTS together cover the whole of the western lanes; centres Seattle Traffic and Prince Rupert Traffic split at 124°40'W.",
+   "source_date": "eCFR 2026-09-01; SOR/2025-275 registered 2025-12-12; RAMN 2026",
+   "prior_lead_outcome": "corrected: VTS association confirmed; operating centres are Seattle Traffic and Prince Rupert Traffic (Victoria VTS Zone covers Canadian waters east of 124°40'W but is managed by Seattle Traffic under the CVTS); finding checked for this individual component"
+  },
+  "sources": [
+   {
+    "id": "V-S1",
+    "authority": "US Coast Guard / Office of the Federal Register (eCFR)",
+    "title": "33 CFR Part 161 Vessel Traffic Management: §161.12 Table 161.12(c), §161.55 VTS Puget Sound and the Cooperative Vessel Traffic Service for the Juan de Fuca Region, §161.60 VTS Prince William Sound",
+    "date_or_edition": "eCFR point-in-time 2026-09-01 (last amendment cited for §161.60: USCG-2023-0759, 89 FR 22948, 3 Apr 2024); accessed 2026-09-29",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-09-01/title-33.xml?part=161",
+    "source_class": "Tier 1",
+    "supports": "Statutory VTS areas and VMRS monitoring areas for VTS Prince William Sound, VTS Puget Sound, CVTS and Prince Rupert Traffic (US table)",
+    "locator": "§161.60(a); §161.55 intro and (a); §161.12(c) Table items (9) and (10)(iii)",
+    "passage": "§161.60(a): \"The VTS area consists of the navigable waters of the United States north of a line drawn from Cape Hinchinbrook Light to Schooner Rock Light, comprising that portion of Prince William Sound between 146°30′ W. and 147°20′ W.\" Table 161.12(c)(10)(iii) Prince Rupert Traffic: \"The waters west of 124°40.00′ W. within 12 nautical miles of the coast of Vancouver Island including the waters north of 48°00.00′ N., and east of 125°15.00′ W.\""
+   },
+   {
+    "id": "V-S2",
+    "authority": "US Coast Guard / Office of the Federal Register (eCFR)",
+    "title": "33 CFR Part 167 Offshore Traffic Separation Schemes: §§167.1300-167.1303 (approaches to the Strait of Juan de Fuca), §§167.1310-167.1311 (Strait of Juan de Fuca, western lanes), §§167.1700-167.1703 (Prince William Sound)",
+    "date_or_edition": "eCFR point-in-time 2026-09-01; Juan de Fuca text USCG-2002-12702, 75 FR 70826, 19 Nov 2010; PWS text USCG-2001-10254, 67 FR 53743, 19 Aug 2002; accessed 2026-09-29",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-09-01/title-33.xml?part=167",
+    "source_class": "Tier 1",
+    "supports": "Coordinates of the TSS components used to test containment in VTS areas",
+    "locator": "§167.1301, §167.1302, §167.1303, §167.1311, §167.1701, §167.1702, §167.1703",
+    "passage": "§167.1300: \"The traffic separation scheme for the approaches to the Strait of Juan de Fuca consists of three parts: the western approach, the southwestern approach, and precautionary area \\u201cJF.\\u201d\""
+   },
+   {
+    "id": "V-S4",
+    "authority": "Government of Canada (Transport Canada), Justice Laws Website",
+    "title": "Vessel Traffic Services Zones Regulations, SOR/2025-275, Schedule 1 (Western VTS Zones)",
+    "date_or_edition": "Registered 2025-12-12 (P.C. 2025-927); in force on the day in the third month after Canada Gazette Part II publication (publication date not verified); page modified 2026-09-28; accessed 2026-09-29",
+    "url": "https://laws-lois.justice.gc.ca/eng/regulations/SOR-2025-275/FullText.html",
+    "source_class": "Tier 1",
+    "supports": "Statutory limits of the Victoria VTS Zone and Prince Rupert VTS Zone around Juan de Fuca Strait and its western approaches",
+    "locator": "Schedule 1, items 1 (Victoria) and 2 (Prince Rupert)",
+    "passage": "Item 2 Prince Rupert: \"...thence southerly to intersect the international border at 48°28′36″ N, 124°40′00″ W; and thence following the territorial sea boundary northward to the U.S. Alaska/Canada boundary in Dixon Entrance at Cape Muzon\""
+   },
+   {
+    "id": "V-S5",
+    "authority": "Canadian Coast Guard",
+    "title": "Radio Aids to Marine Navigation 2026: Part 3: Vessel Traffic Services, section 3.5.4 Co-Operative Vessel Traffic Services (CVTS) Agreement",
+    "date_or_edition": "2026 edition (web version); accessed 2026-09-29 via WebFetch (PDF and direct HTML download failed)",
+    "url": "https://www.canada.ca/en/canadian-coast-guard/corporate/publications/radio-aids-marine-navigation/vessel-traffic-services.html",
+    "source_class": "Tier 3",
+    "supports": "CVTS area of operation extends to 125°15'W and 48°00'N and names the traffic separation scheme as the point before which inbound vessels check in with Prince Rupert Traffic; participation mandatory within territorial waters",
+    "locator": "s. 3.5.4",
+    "passage": "\"The CVTS Area of Operation is defined as 124°40W south along the Washington coast to 48°00N then west to 125°15W and north to 48°35'45\"N.\" \"Inbound vessels are to check in with Prince Rupert Traffic on VHF Channel 74 (156.725 MHz) at either 48°00N or 125°15W prior to entering the traffic separation scheme.\""
+   },
+   {
+    "id": "V-S3",
+    "authority": "US Coast Guard Navigation Center (NAVCEN)",
+    "title": "Vessel Traffic Services",
+    "date_or_edition": "undated web page; accessed 2026-09-29",
+    "url": "https://www.navcen.uscg.gov/vessel-traffic-services",
+    "source_class": "Tier 2",
+    "supports": "Current operation of USCG Vessel Traffic Centers including Prince William Sound and Puget Sound",
+    "locator": "introductory text",
+    "passage": "\"The Coast Guard operates 12 Vessel Traffic Centers (VTC): Prince William Sound, Puget Sound, Valdez, Seattle, San Francisco, ...\""
+   },
+   {
+    "id": "V-S1",
+    "authority": "US Coast Guard / Office of the Federal Register (eCFR)",
+    "title": "33 CFR Part 161 Vessel Traffic Management: §161.12 Table 161.12(c), §161.55 VTS Puget Sound and the Cooperative Vessel Traffic Service for the Juan de Fuca Region, §161.60 VTS Prince William Sound",
+    "date_or_edition": "eCFR point-in-time 2026-09-01 (last amendment cited for §161.60: USCG-2023-0759, 89 FR 22948, 3 Apr 2024); accessed 2026-09-29",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-09-01/title-33.xml?part=161",
+    "source_class": "Tier 1",
+    "supports": "Statutory VTS areas and VMRS monitoring areas for VTS Prince William Sound, VTS Puget Sound, CVTS and Prince Rupert Traffic (US table)",
+    "locator": "§161.60(a); §161.55 intro and (a); §161.12(c) Table items (9) and (10)(iii)",
+    "passage": "§161.60(a): \"The VTS area consists of the navigable waters of the United States north of a line drawn from Cape Hinchinbrook Light to Schooner Rock Light, comprising that portion of Prince William Sound between 146°30′ W. and 147°20′ W.\" Table 161.12(c)(10)(iii) Prince Rupert Traffic: \"The waters west of 124°40.00′ W. within 12 nautical miles of the coast of Vancouver Island including the waters north of 48°00.00′ N., and east of 125°15.00′ W.\""
+   },
+   {
+    "id": "V-S4",
+    "authority": "Government of Canada (Transport Canada), Justice Laws Website",
+    "title": "Vessel Traffic Services Zones Regulations, SOR/2025-275, Schedule 1 (Western VTS Zones)",
+    "date_or_edition": "Registered 2025-12-12 (P.C. 2025-927); in force on the day in the third month after Canada Gazette Part II publication (publication date not verified); page modified 2026-09-28; accessed 2026-09-29",
+    "url": "https://laws-lois.justice.gc.ca/eng/regulations/SOR-2025-275/FullText.html",
+    "source_class": "Tier 1",
+    "supports": "Statutory limits of the Victoria VTS Zone and Prince Rupert VTS Zone around Juan de Fuca Strait and its western approaches",
+    "locator": "Schedule 1, items 1 (Victoria) and 2 (Prince Rupert)",
+    "passage": "Item 2 Prince Rupert: \"...thence southerly to intersect the international border at 48°28′36″ N, 124°40′00″ W; and thence following the territorial sea boundary northward to the U.S. Alaska/Canada boundary in Dixon Entrance at Cape Muzon\""
+   }
+  ]
+ }
+]

@@ -1,0 +1,97 @@
+[
+ {
+  "tss_id": "TSS-0166",
+  "verdict": "Upheld",
+  "reason": "Re-checked 33 CFR 167.1312 (lanes 48°09.42'N-48°12.94'N, 123°23.82'W-123°32.89'W). Whole scheme lies south of the Race Rocks line (due east at about 48°17.9'N) and east of 124°40'W, so it is in the Seattle Traffic Ch 5A service area under 161.12 Table 1 item (10)(ii) and RAMN 2026 ('all Canadian and United States waters ... south and east of a line from Church Point to Race Rocks light'), and inside the CVTS area (161.55(a)). VTS PS manual confirms the IMO TSS is in the VTSPS area with radar over all TSS waters. The international boundary was not plotted by me either, but the lanes lie about 1 nm or more south of the western-lanes separation zone that tracks the boundary; any Canadian sliver would still be in the Victoria VTS Zone (SOR/2025-275 Sch.1 item 1), so classification is unaffected. No mandatory reporting scheme found beyond VTS participation: 33 CFR 161 VMRS reports and SOR/2025-275 ss.10-15 sailing plans are VTS participation duties; RAMN states participation with Prince Rupert, Seattle and Victoria Traffic is mandatory within Canadian and US territorial waters (a VTS participation duty, not an MRS); no IMO Part I system on this coast.",
+  "evidence_urls": [
+   "https://www.ecfr.gov/api/versioner/v1/full/2026-09-01/title-33.xml?part=161",
+   "https://www.ecfr.gov/api/versioner/v1/full/2026-09-01/title-33.xml?part=167",
+   "https://www.canada.ca/en/canadian-coast-guard/corporate/publications/radio-aids-marine-navigation/vessel-traffic-services.html",
+   "https://www.navcen.uscg.gov/sites/default/files/pdf/VTS%20User%20Guides/VTS_PS_UsersManual_(2024).pdf",
+   "https://laws-lois.justice.gc.ca/eng/regulations/SOR-2025-275/FullText.html"
+  ]
+ },
+ {
+  "tss_id": "TSS-0167",
+  "verdict": "Upheld",
+  "reason": "33 CFR 167.1313 lanes span 48°15.13'N-48°21.83'N at 123°23.2'W-123°30.4'W. The Church Point-Race Rocks-48°17.88'N 123°14.1'W exchange line runs at about 48°17.9'N, so it cuts the lanes: southern part Seattle Traffic Ch 5A, northern part Victoria Traffic Ch 11 (161.12 Table 1 item (10)(ii),(iv); RAMN 2026 CVTS paragraphs). Wholly inside CVTS (161.55(a)); Canadian waters inside Victoria VTS Zone whose southern limit follows the international boundary through Juan de Fuca Strait (SOR/2025-275 Sch.1 item 1, quote confirmed). Sector split in the record is correct. No mandatory reporting scheme found beyond VTS participation: 33 CFR 161 VMRS reports and SOR/2025-275 ss.10-15 sailing plans are VTS participation duties; RAMN states participation with Prince Rupert, Seattle and Victoria Traffic is mandatory within Canadian and US territorial waters (a VTS participation duty, not an MRS); no IMO Part I system on this coast.",
+  "evidence_urls": [
+   "https://www.ecfr.gov/api/versioner/v1/full/2026-09-01/title-33.xml?part=161",
+   "https://www.ecfr.gov/api/versioner/v1/full/2026-09-01/title-33.xml?part=167",
+   "https://www.canada.ca/en/canadian-coast-guard/corporate/publications/radio-aids-marine-navigation/vessel-traffic-services.html",
+   "https://laws-lois.justice.gc.ca/eng/regulations/SOR-2025-275/FullText.html",
+   "https://www.navcen.uscg.gov/sites/default/files/pdf/VTS%20User%20Guides/VTS_PS_UsersManual_(2024).pdf"
+  ]
+ },
+ {
+  "tss_id": "TSS-0168",
+  "verdict": "Upheld",
+  "reason": "33 CFR 167.1314 lanes lie at 48°12.34'N-48°15.13'N, 123°13.41'W-123°25.98'W, wholly south of the exchange line (about 48°17.9'N from Race Rocks east to 48°17.88'N 123°14.1'W), so Seattle Traffic Ch 5A serves them, not Victoria Traffic; inside CVTS and VTS PS area. Minor caveat: the record's statement that the lanes are entirely in US waters rests on one boundary point; near precautionary area PA (lane end 48°15.13'N 123°25.62'W, shared with the northern lanes) the boundary was not plotted. This does not affect classification because Seattle Traffic serves the waters irrespective of the boundary and Canadian waters there are in the Victoria VTS Zone. No mandatory reporting scheme found beyond VTS participation: 33 CFR 161 VMRS reports and SOR/2025-275 ss.10-15 sailing plans are VTS participation duties; RAMN states participation with Prince Rupert, Seattle and Victoria Traffic is mandatory within Canadian and US territorial waters (a VTS participation duty, not an MRS); no IMO Part I system on this coast.",
+  "evidence_urls": [
+   "https://www.ecfr.gov/api/versioner/v1/full/2026-09-01/title-33.xml?part=161",
+   "https://www.ecfr.gov/api/versioner/v1/full/2026-09-01/title-33.xml?part=167",
+   "https://www.canada.ca/en/canadian-coast-guard/corporate/publications/radio-aids-marine-navigation/vessel-traffic-services.html",
+   "https://www.navcen.uscg.gov/sites/default/files/pdf/VTS%20User%20Guides/VTS_PS_UsersManual_(2024).pdf",
+   "https://laws-lois.justice.gc.ca/eng/regulations/SOR-2025-275/FullText.html"
+  ]
+ },
+ {
+  "tss_id": "TSS-0169",
+  "verdict": "Upheld",
+  "reason": "33 CFR 167.1320-1323 scheme is in US waters within the 161.55 VTS PS area; Table 1 item (10)(i)-(ii) assigns Ch 14 south of Nodule Point-Bush Point and Ch 5A elsewhere. Geometry check: Rosario Strait northern terminal points (48°48.98'N 122°55.20'W; 48°49.49'N 122°54.24'W) lie on the Patos Island Light-Alden Bank line to within about 0.05'-0.09' of latitude (roughly 100-170 m, within the precision of the Patos Light position used), so no material part is in the Victoria Traffic area. Eastern San Juan Archipelago VTS Special Area (161.55(b)) confirmed. VTS PS manual quote confirmed. No mandatory reporting scheme found beyond VTS participation: 33 CFR 161 VMRS reports and SOR/2025-275 ss.10-15 sailing plans are VTS participation duties; RAMN states participation with Prince Rupert, Seattle and Victoria Traffic is mandatory within Canadian and US territorial waters (a VTS participation duty, not an MRS); no IMO Part I system on this coast.",
+  "evidence_urls": [
+   "https://www.ecfr.gov/api/versioner/v1/full/2026-09-01/title-33.xml?part=161",
+   "https://www.ecfr.gov/api/versioner/v1/full/2026-09-01/title-33.xml?part=167",
+   "https://www.navcen.uscg.gov/sites/default/files/pdf/VTS%20User%20Guides/VTS_PS_UsersManual_(2024).pdf",
+   "https://www.navcen.uscg.gov/vessel-traffic-services-locations"
+  ]
+ },
+ {
+  "tss_id": "TSS-0170",
+  "verdict": "Upheld",
+  "reason": "33 CFR 167.1331 elements (precautionary area V at 48°20.9'-48°23.7'N 123°21-123°25.6'W, lanes and area DI to 48°26.6'N 123°09.2'W and northward) all lie north/west of the Race Rocks-48°17.88'N 123°14.1'W-Hein Bank (48°21.09'N 123°02.7'W)-Cattle Point exchange line (at 123°10'W the line is at about 48°19'N), so Victoria Traffic Ch 11 serves both sides of the boundary (161.12 Table 1 item (10)(iv); RAMN 2026 'including all of Haro Strait, Boundary Passage and the southern portion of the Strait of Georgia'). Canadian side in Victoria VTS Zone (SOR/2025-275, boundary through Haro Strait and Boundary Pass confirmed); US side in VTS PS legal area. The note that 161.55(a) still names 'Vancouver' is correct (text re-read). No mandatory reporting scheme found beyond VTS participation: 33 CFR 161 VMRS reports and SOR/2025-275 ss.10-15 sailing plans are VTS participation duties; RAMN states participation with Prince Rupert, Seattle and Victoria Traffic is mandatory within Canadian and US territorial waters (a VTS participation duty, not an MRS); no IMO Part I system on this coast.",
+  "evidence_urls": [
+   "https://www.ecfr.gov/api/versioner/v1/full/2026-09-01/title-33.xml?part=161",
+   "https://www.ecfr.gov/api/versioner/v1/full/2026-09-01/title-33.xml?part=167",
+   "https://www.canada.ca/en/canadian-coast-guard/corporate/publications/radio-aids-marine-navigation/vessel-traffic-services.html",
+   "https://laws-lois.justice.gc.ca/eng/regulations/SOR-2025-275/FullText.html",
+   "https://www.transportstyrelsen.se/globalassets/global/sjofart/dokument/sjotrafik_dok/imo_colreg.2_cirkular.pdf?id=58526"
+  ]
+ },
+ {
+  "tss_id": "TSS-0171",
+  "verdict": "Upheld",
+  "reason": "33 CFR 167.1332 coordinates confirmed (GS to PR to lane ends 49°04.52'N 123°20.04'W and 49°02.51'N 123°23.76'W). SOR/2025-275 Victoria zone line runs 49°05'16\"N 123°18'31.5\"W to 49°00'N 123°05'20\"W then along the international boundary; checked that the PR point 49°02.20'N 123°16.28'W lies on the zone (south-west) side of that line (line is at about 49°04.4'N at that longitude) and the lane ends are west of it, so the Canadian part north of 49°N is inside the Victoria VTS Zone. US part in VTS PS legal area and CVTS; Victoria Traffic serves north-west of Patos Island-Alden Bank (GS vertex 48°47.93'N 122°57.12'W is on that line within about 0.05'). No mandatory reporting scheme found beyond VTS participation: 33 CFR 161 VMRS reports and SOR/2025-275 ss.10-15 sailing plans are VTS participation duties; RAMN states participation with Prince Rupert, Seattle and Victoria Traffic is mandatory within Canadian and US territorial waters (a VTS participation duty, not an MRS); no IMO Part I system on this coast.",
+  "evidence_urls": [
+   "https://www.ecfr.gov/api/versioner/v1/full/2026-09-01/title-33.xml?part=161",
+   "https://www.ecfr.gov/api/versioner/v1/full/2026-09-01/title-33.xml?part=167",
+   "https://laws-lois.justice.gc.ca/eng/regulations/SOR-2025-275/FullText.html",
+   "https://www.canada.ca/en/canadian-coast-guard/corporate/publications/radio-aids-marine-navigation/vessel-traffic-services.html",
+   "https://www.transportstyrelsen.se/globalassets/global/sjofart/dokument/sjotrafik_dok/imo_colreg.2_cirkular.pdf?id=58526"
+  ]
+ },
+ {
+  "tss_id": "TSS-0172",
+  "verdict": "Other change",
+  "reason": "Classification VTS only and coverage partial are upheld, but the extent of the partial coverage is understated. (1) Arc geometry re-done on COLREG.2/Circ.64 Annex 7 (WGS84 geodesic): northern approach outer points (36) 38°10.14'N 123°20.29'W = 38.83 nm, (37) 38.85 nm, (38) 38.90 nm, (39) 38°06.92'N 123°21.82'W = 38.93 nm from Mount Tamalpais, i.e. about 0.8-0.9 nm beyond 38 nm; southern approach max 37.66 nm; western approach max 32.5 nm (incl. Corr.1 point 19). This part of the record is confirmed. (2) However, the Offshore Sector is defined as 'the navigable waters ... within a 38 nautical mile radius' (VTS SF User Manual Part I s.1(a); 161.12 Table 1 item (11)(ii)), and the manual defines navigable waters as the 12 nm territorial sea and states that 'a small part of the area within the 38NM arc lies outside of navigable waters'. My approximate check (distance to Point Reyes and Bodega Head, not a baseline plot) puts roughly the outer 5-7 nm of the northern approach lanes (beyond about 38°03'-38°04'N) and possibly the last 2-3 nm of the southern approach beyond 12 nm from land, so outside the legally defined VTS area even though within the 38 nm arc. VTS SF still uses a 'VTS Boundary Line' waypoint and MSIB 13-04 reporting on these routes, so the operational association stands. Amend vts_boundary_basis and unresolved_issue to record the territorial-sea limitation (not only the 0.8 nm beyond the arc). Also note that 161.12 Table 1 item (11)(ii) literally reads 'west of 122°42.00' W. and south of 37°40.00' N.', which if read conjunctively would exclude the northern approach from the Ch 12 description; the manual's sector definition resolves this. No MRS; OVMRS confirmed 'completely voluntary' on NAVCEN.",
+  "evidence_urls": [
+   "https://www.ecfr.gov/api/versioner/v1/full/2026-09-01/title-33.xml?part=161",
+   "https://www.ecfr.gov/api/versioner/v1/full/2026-09-01/title-33.xml?part=167",
+   "https://www.navcen.uscg.gov/sites/default/files/pdf/VTS%20User%20Guides/VTS_SF_UserManual_APR2025.pdf",
+   "https://www.transportstyrelsen.se/globalassets/global/sjofart/dokument/sjotrafik_dok/imo_colreg.2_cirkular.pdf?id=58526",
+   "https://www.navcen.uscg.gov/vessel-traffic-services-locations"
+  ]
+ },
+ {
+  "tss_id": "TSS-0174",
+  "verdict": "Upheld",
+  "reason": "Geometry re-done on COLREG.2/Circ.64 Annex 8 (WGS84 geodesic) from Point Fermin Light 33°42.30'N 118°17.60'W: southern approach outer points (20) 25.24 nm, (15) 25.33 nm, (16) 25.45 nm, (18) 25.67 nm, i.e. 0.2-0.7 nm beyond 25 nm; western approach outer points 15.1-16.2 nm (record's '<=16.6 nm' reflects the older CFR point 33°42.3'N 118°37.5'W; immaterial). 25 nm VMRS area (161.12 Table 1 item (4)) and NAVCEN 'jointly operated by the Coast Guard and Marine Exchange ... 25 miles out to sea from Point Fermin' confirmed. User manual quote confirmed ('Portions of the Traffic Separation Scheme in the Northern and Southern approaches ... are within the VTS area'; the manual calls the western approach 'Northern'). Unchecked residual: VMRS area is 'navigable waters' only; I did not verify whether any pocket of the San Pedro Channel along the southern approach lies beyond 12 nm from both Santa Catalina Island and the mainland (rough estimate is marginal, about 12-13 nm at 33°27'N). No MRS.",
+  "evidence_urls": [
+   "https://www.ecfr.gov/api/versioner/v1/full/2026-09-01/title-33.xml?part=161",
+   "https://www.ecfr.gov/api/versioner/v1/full/2026-09-01/title-33.xml?part=167",
+   "https://www.transportstyrelsen.se/globalassets/global/sjofart/dokument/sjotrafik_dok/imo_colreg.2_cirkular.pdf?id=58526",
+   "https://www.navcen.uscg.gov/vessel-traffic-services-locations",
+   "https://www.navcen.uscg.gov/sites/default/files/pdf/VTS%20User%20Guides/VTS_LALB_UserManual_210331.pdf"
+  ]
+ }
+]

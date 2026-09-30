@@ -1,0 +1,484 @@
+[
+ {
+  "record": {
+   "tss_id": "TSS-0086",
+   "batch": "B18",
+   "tss_name": "Off Smalls",
+   "imo_parent_ref": "B-II/21",
+   "coastal_state_s": "United Kingdom",
+   "association_status": "MRS only",
+   "vts_name": null,
+   "vts_authority": null,
+   "vts_centre": null,
+   "vts_sector": null,
+   "vts_boundary_basis": "No official source found placing the TSS in a VTS area. Milford Haven port VTS lies inshore of the TSS; that is proximity only.",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [],
+   "mandatory_reporting": "Yes",
+   "vrs_id": "VRS-0005",
+   "reporting_scheme_name": "WETREP (West European Tanker Reporting System)",
+   "reporting_authority": "Participating coastal States; UK reports to HM Coastguard (MCA) stations listed in WETREP Appendix 1",
+   "reporting_boundary_basis": "MSC.190(79) para 6.2.1 names 'Off Smalls' among TSS in the WETREP area; the TSS (about 51 39-51 51 N) lies south of the St George's Channel closing line 21-22 (Carnsore Point 52 10.3 N 006 21.8 W to 52 01.5 N 005 04.2 W), so it is inside the area. Applies only to oil tankers >600 dwt carrying heavy crude, heavy fuel oil or bitumen/tar.",
+   "reporting_source_ids": [
+    "T-S1",
+    "T-S16"
+   ],
+   "voluntary_reporting": "Unresolved",
+   "evidence_summary": "WETREP (VRS-0005) names Off Smalls and the TSS lies inside its area (full). Tanker-only scheme. No VTS coverage established.",
+   "source_date": "MSC.190(79) 2004 (in force 1 July 2005), amended MSC.301(87) 2010",
+   "unresolved_issue": "VTS: none established. No authoritative complete list of UK VTS (e.g. ALRS Vol 6) was opened; MGN 401 (R02) gives VTS guidance but no list. WETREP Appendix 1 UK station list is 2004 and outdated by Coastguard reorganisation.",
+   "vts_leads": "Milford Haven port VTS (geographic lead only, not coverage)",
+   "prior_lead_outcome": "n/a: no prior lead"
+  },
+  "sources": [
+   {
+    "id": "T-S1",
+    "authority": "IMO Maritime Safety Committee",
+    "title": "Resolution MSC.190(79): Adoption of mandatory ship reporting system in the Western European Particularly Sensitive Sea Area (WETREP)",
+    "date_or_edition": "Adopted 6 December 2004; in force 0000 UTC 1 July 2005",
+    "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.190(79).pdf",
+    "source_class": "Tier 1",
+    "supports": "WETREP (VRS-0005) participants (oil tankers >600 dwt carrying heavy crude, heavy fuel oil, bitumen/tar); area co-ordinates incl. closing lines 21-22 (Carnsore Point to Strumble Head) and 23-24 (Portpatrick to Donaghadee) excluding the Irish Sea; para 6.2.1 list of TSS in the area; Appendix 3 chartlet shows the dashed Irish Sea closing lines; Finisterre VTS listed as a coastal VTS",
+    "locator": "Annex 1 paras 1.1, 2.1, 6.2.1, 6.2.6; Appendix 3 chartlet (Annex 32 page 14)",
+    "passage": "6.2.1 The following IMO adopted Traffic Separation Schemes: ... Off Smalls / Off Tuskar Rock / Off Skerries / In the North Channel / Off Finisterre / Off Cape Roca"
+   },
+   {
+    "id": "T-S16",
+    "authority": "IMO Assembly",
+    "title": "Resolution A.284(VIII): Routeing systems (original descriptions of Off Smalls, Off Skerries, In the North Channel, Off Tuskar Rock)",
+    "date_or_edition": "Adopted 20 November 1973 (superseded descriptions; used for approximate location only)",
+    "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.284(8).pdf",
+    "source_class": "Tier 1",
+    "supports": "Approximate positions: Off Smalls separation zone 51 39.1-51 50.7 N; Off Skerries 53 22.8-53 32.1 N 004 31.6-004 52.0 W; In the North Channel 55 15.3-55 24.0 N; Off Tuskar Rock 52 04.7-52 14.0 N 006 00.8-006 11.5 W (Tuskar centreline unchanged in the 1996 amendment, COLREG.2/Circ.41)",
+    "locator": "pp. 30-32",
+    "passage": "A separation zone, two miles wide, is centred upon the following geographical positions: (1) 52°14'.0 N., (2) 52°08'.5 N., (3) 52°04'.7 N."
+   }
+  ]
+ },
+ {
+  "record": {
+   "tss_id": "TSS-0087",
+   "batch": "B18",
+   "tss_name": "Off Tuskar Rock",
+   "imo_parent_ref": "B-II/22",
+   "coastal_state_s": "Ireland",
+   "association_status": "MRS only",
+   "vts_name": null,
+   "vts_authority": null,
+   "vts_centre": null,
+   "vts_sector": null,
+   "vts_boundary_basis": "No official source found placing the TSS in a VTS area.",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [],
+   "mandatory_reporting": "Yes",
+   "vrs_id": "VRS-0005",
+   "reporting_scheme_name": "WETREP (West European Tanker Reporting System)",
+   "reporting_authority": "Ireland: Irish Coast Guard (MRCC Dublin) per WETREP Appendix 1",
+   "reporting_boundary_basis": "PARTIAL. MSC.190(79) 6.2.1 names 'Off Tuskar Rock', but the WETREP area is closed across St George's Channel by the line 52 10.3 N 006 21.8 W (Carnsore Point) to 52 01.5 N 005 04.2 W (dashed on Appendix 3 chartlet). The TSS centreline runs 52 04.7 N 006 11.5 W to 52 14.0 N 006 00.8 W; the line crosses it near 52 08.2 N, so the southern part is inside WETREP and the northern part lies in the excluded Irish Sea.",
+   "reporting_source_ids": [
+    "T-S1",
+    "T-S16"
+   ],
+   "voluntary_reporting": "Unresolved",
+   "evidence_summary": "WETREP names the TSS but its St George's Channel closing line bisects it: southern half inside, northern half outside. Tanker-only scheme. No VTS established.",
+   "source_date": "MSC.190(79) 2004; TSS amended 1996 (COLREG.2/Circ.41), centreline unchanged",
+   "unresolved_issue": "Partial WETREP coverage by coordinate comparison against the 1973/1996 centreline; confirm on current chart. No Irish coastal VTS source found; Irish Coast Guard VTS status not researched to exhaustion.",
+   "vts_leads": null,
+   "prior_lead_outcome": "n/a: no prior lead"
+  },
+  "sources": [
+   {
+    "id": "T-S1",
+    "authority": "IMO Maritime Safety Committee",
+    "title": "Resolution MSC.190(79): Adoption of mandatory ship reporting system in the Western European Particularly Sensitive Sea Area (WETREP)",
+    "date_or_edition": "Adopted 6 December 2004; in force 0000 UTC 1 July 2005",
+    "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.190(79).pdf",
+    "source_class": "Tier 1",
+    "supports": "WETREP (VRS-0005) participants (oil tankers >600 dwt carrying heavy crude, heavy fuel oil, bitumen/tar); area co-ordinates incl. closing lines 21-22 (Carnsore Point to Strumble Head) and 23-24 (Portpatrick to Donaghadee) excluding the Irish Sea; para 6.2.1 list of TSS in the area; Appendix 3 chartlet shows the dashed Irish Sea closing lines; Finisterre VTS listed as a coastal VTS",
+    "locator": "Annex 1 paras 1.1, 2.1, 6.2.1, 6.2.6; Appendix 3 chartlet (Annex 32 page 14)",
+    "passage": "6.2.1 The following IMO adopted Traffic Separation Schemes: ... Off Smalls / Off Tuskar Rock / Off Skerries / In the North Channel / Off Finisterre / Off Cape Roca"
+   },
+   {
+    "id": "T-S16",
+    "authority": "IMO Assembly",
+    "title": "Resolution A.284(VIII): Routeing systems (original descriptions of Off Smalls, Off Skerries, In the North Channel, Off Tuskar Rock)",
+    "date_or_edition": "Adopted 20 November 1973 (superseded descriptions; used for approximate location only)",
+    "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.284(8).pdf",
+    "source_class": "Tier 1",
+    "supports": "Approximate positions: Off Smalls separation zone 51 39.1-51 50.7 N; Off Skerries 53 22.8-53 32.1 N 004 31.6-004 52.0 W; In the North Channel 55 15.3-55 24.0 N; Off Tuskar Rock 52 04.7-52 14.0 N 006 00.8-006 11.5 W (Tuskar centreline unchanged in the 1996 amendment, COLREG.2/Circ.41)",
+    "locator": "pp. 30-32",
+    "passage": "A separation zone, two miles wide, is centred upon the following geographical positions: (1) 52°14'.0 N., (2) 52°08'.5 N., (3) 52°04'.7 N."
+   }
+  ]
+ },
+ {
+  "record": {
+   "tss_id": "TSS-0090",
+   "batch": "B18",
+   "tss_name": "In the North Channel",
+   "imo_parent_ref": "B-II/25",
+   "coastal_state_s": "United Kingdom",
+   "association_status": "MRS only",
+   "vts_name": null,
+   "vts_authority": null,
+   "vts_centre": null,
+   "vts_sector": null,
+   "vts_boundary_basis": "No official source found placing the TSS in a VTS area.",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [],
+   "mandatory_reporting": "Yes",
+   "vrs_id": "VRS-0005",
+   "reporting_scheme_name": "WETREP (West European Tanker Reporting System)",
+   "reporting_authority": "Participating coastal States; UK reports to HM Coastguard (MCA) stations listed in WETREP Appendix 1",
+   "reporting_boundary_basis": "MSC.190(79) 6.2.1 names 'In the North Channel'; the TSS (about 55 15-55 24 N) lies north of the Irish Sea closing line 23-24 (54 51.4 N 005 08.5 W to 54 40.4 N 005 34.3 W) and so inside the area. Tanker-only.",
+   "reporting_source_ids": [
+    "T-S1",
+    "T-S16"
+   ],
+   "voluntary_reporting": "Unresolved",
+   "evidence_summary": "WETREP names the TSS and it lies inside the WETREP area (full). No VTS coverage established.",
+   "source_date": "MSC.190(79) 2004; TSS positions from A.284(VIII) 1973 (approximate, later amended)",
+   "unresolved_issue": "VTS: none established. No authoritative complete list of UK VTS (e.g. ALRS Vol 6) was opened; MGN 401 (R02) gives VTS guidance but no list.",
+   "vts_leads": "Belfast Harbour VTS and Clyde VTS are port services (geographic leads only)",
+   "prior_lead_outcome": "n/a: no prior lead"
+  },
+  "sources": [
+   {
+    "id": "T-S1",
+    "authority": "IMO Maritime Safety Committee",
+    "title": "Resolution MSC.190(79): Adoption of mandatory ship reporting system in the Western European Particularly Sensitive Sea Area (WETREP)",
+    "date_or_edition": "Adopted 6 December 2004; in force 0000 UTC 1 July 2005",
+    "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.190(79).pdf",
+    "source_class": "Tier 1",
+    "supports": "WETREP (VRS-0005) participants (oil tankers >600 dwt carrying heavy crude, heavy fuel oil, bitumen/tar); area co-ordinates incl. closing lines 21-22 (Carnsore Point to Strumble Head) and 23-24 (Portpatrick to Donaghadee) excluding the Irish Sea; para 6.2.1 list of TSS in the area; Appendix 3 chartlet shows the dashed Irish Sea closing lines; Finisterre VTS listed as a coastal VTS",
+    "locator": "Annex 1 paras 1.1, 2.1, 6.2.1, 6.2.6; Appendix 3 chartlet (Annex 32 page 14)",
+    "passage": "6.2.1 The following IMO adopted Traffic Separation Schemes: ... Off Smalls / Off Tuskar Rock / Off Skerries / In the North Channel / Off Finisterre / Off Cape Roca"
+   },
+   {
+    "id": "T-S16",
+    "authority": "IMO Assembly",
+    "title": "Resolution A.284(VIII): Routeing systems (original descriptions of Off Smalls, Off Skerries, In the North Channel, Off Tuskar Rock)",
+    "date_or_edition": "Adopted 20 November 1973 (superseded descriptions; used for approximate location only)",
+    "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.284(8).pdf",
+    "source_class": "Tier 1",
+    "supports": "Approximate positions: Off Smalls separation zone 51 39.1-51 50.7 N; Off Skerries 53 22.8-53 32.1 N 004 31.6-004 52.0 W; In the North Channel 55 15.3-55 24.0 N; Off Tuskar Rock 52 04.7-52 14.0 N 006 00.8-006 11.5 W (Tuskar centreline unchanged in the 1996 amendment, COLREG.2/Circ.41)",
+    "locator": "pp. 30-32",
+    "passage": "A separation zone, two miles wide, is centred upon the following geographical positions: (1) 52°14'.0 N., (2) 52°08'.5 N., (3) 52°04'.7 N."
+   }
+  ]
+ },
+ {
+  "record": {
+   "tss_id": "TSS-0091",
+   "batch": "B19",
+   "tss_name": "Little Minches",
+   "imo_parent_ref": "B-II/26",
+   "coastal_state_s": "United Kingdom",
+   "association_status": "MRS only",
+   "vts_name": null,
+   "vts_authority": null,
+   "vts_centre": null,
+   "vts_sector": null,
+   "vts_boundary_basis": "No official source found placing the TSS in a VTS area.",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [],
+   "mandatory_reporting": "Yes",
+   "vrs_id": "VRS-0005",
+   "reporting_scheme_name": "WETREP (West European Tanker Reporting System)",
+   "reporting_authority": "Participating coastal States; UK reports to HM Coastguard (MCA) stations listed in WETREP Appendix 1",
+   "reporting_boundary_basis": "Boundary inclusion (not named: TSS adopted 2006, after MSC.190(79)). WETREP area runs from the UK coast out to the line 56 30 N 012 W to 62 N 003 W; the TSS (about 57 24-57 29 N, 006 49-006 58 W) lies well inside. Tanker-only.",
+   "reporting_source_ids": [
+    "T-S1",
+    "T-S14"
+   ],
+   "voluntary_reporting": "Unresolved",
+   "evidence_summary": "Inside WETREP area by co-ordinate comparison (full), though not named in the 2004 list. No VTS coverage established. Parent title 'Off Neist Point in The Minches'.",
+   "source_date": "MSC.190(79) 2004; COLREG.2/Circ.58 (2006)",
+   "unresolved_issue": "VTS: none established. No authoritative complete list of UK VTS (e.g. ALRS Vol 6) was opened; MGN 401 (R02) gives VTS guidance but no list. A voluntary Minches reporting arrangement with Stornoway Coastguard appears only in non-official sources; not verified.",
+   "vts_leads": "Stornoway Coastguard voluntary reporting (lead only, non-official source)",
+   "prior_lead_outcome": "n/a: no prior lead"
+  },
+  "sources": [
+   {
+    "id": "T-S1",
+    "authority": "IMO Maritime Safety Committee",
+    "title": "Resolution MSC.190(79): Adoption of mandatory ship reporting system in the Western European Particularly Sensitive Sea Area (WETREP)",
+    "date_or_edition": "Adopted 6 December 2004; in force 0000 UTC 1 July 2005",
+    "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.190(79).pdf",
+    "source_class": "Tier 1",
+    "supports": "WETREP (VRS-0005) participants (oil tankers >600 dwt carrying heavy crude, heavy fuel oil, bitumen/tar); area co-ordinates incl. closing lines 21-22 (Carnsore Point to Strumble Head) and 23-24 (Portpatrick to Donaghadee) excluding the Irish Sea; para 6.2.1 list of TSS in the area; Appendix 3 chartlet shows the dashed Irish Sea closing lines; Finisterre VTS listed as a coastal VTS",
+    "locator": "Annex 1 paras 1.1, 2.1, 6.2.1, 6.2.6; Appendix 3 chartlet (Annex 32 page 14)",
+    "passage": "6.2.1 The following IMO adopted Traffic Separation Schemes: ... Off Smalls / Off Tuskar Rock / Off Skerries / In the North Channel / Off Finisterre / Off Cape Roca"
+   },
+   {
+    "id": "T-S14",
+    "authority": "IMO (compilation of COLREG.2 circulars published by Transportstyrelsen, Sweden)",
+    "title": "COLREG.2/Circ.58, Annex 3: New traffic separation scheme off Neist Point in the Minches (Little Minches TSS)",
+    "date_or_edition": "MSC 82 (December 2006)",
+    "url": "https://www.transportstyrelsen.se/globalassets/global/sjofart/dokument/sjotrafik_dok/imo_colreg.2_cirkular.pdf?id=58526",
+    "source_class": "Tier 1",
+    "supports": "Position of the Little Minches TSS (about 57 23.7-57 29.0 N, 006 48.9-006 57.8 W), used to test inclusion in the WETREP area",
+    "locator": "compilation pp. 307-308",
+    "passage": "Little Minches traffic separation scheme"
+   }
+  ]
+ },
+ {
+  "record": {
+   "tss_id": "TSS-0094",
+   "batch": "B19",
+   "tss_name": "Off Finisterre",
+   "imo_parent_ref": "B-II/28",
+   "coastal_state_s": "Spain",
+   "association_status": "VTS + MRS",
+   "vts_name": "Finisterre VTS (call sign 'Finisterre Traffic')",
+   "vts_authority": "Sociedad de Salvamento y Seguridad Marítima (SASEMAR, Salvamento Marítimo), Ministerio de Transportes y Movilidad Sostenible",
+   "vts_centre": "Centro de Coordinación de Salvamento (CCS) Finisterre, Monte Enxa",
+   "vts_sector": null,
+   "vts_boundary_basis": "FINREP (MSC.63(67) as amended by MSC.162(78)) makes Finisterre VTS the shore authority for an area that 'includes the traffic separation scheme Off Finisterre' as amended by A.957(23); 2025 Ministry publication confirms Salvamento Marítimo performs the VTS function controlling the Fisterra DST.",
+   "vts_coverage": "full",
+   "vts_source_ids": [
+    "T-S3",
+    "T-S4",
+    "T-S5",
+    "T-S1"
+   ],
+   "mandatory_reporting": "Yes",
+   "vrs_id": "VRS-0011",
+   "reporting_scheme_name": "FINREP",
+   "reporting_authority": "Finisterre VTS (CCS Finisterre, Salvamento Marítimo)",
+   "reporting_boundary_basis": "MSC.162(78) (in force 1 Dec 2004) moved the western limit to 010 15 W and states the area includes the TSS Off Finisterre as amended by A.957(23). Also WETREP (VRS-0005): named in MSC.190(79) 6.2.1 and inside its area (outer line about 012 W at 43 N); tanker-only.",
+   "reporting_source_ids": [
+    "T-S3",
+    "T-S4",
+    "T-S1"
+   ],
+   "voluntary_reporting": "No",
+   "evidence_summary": "FINREP names the TSS and reports go to Finisterre VTS; 2004 amendment covers the full amended scheme. WETREP also applies to heavy-grade oil tankers.",
+   "source_date": "MSC.63(67) 1996; MSC.162(78) 2004; Tramos February 2025",
+   "unresolved_issue": "Salvamento Marítimo website unavailable (HTTP 503 / TLS chain error), so current VHF channels not confirmed from the operator.",
+   "vts_leads": null,
+   "prior_lead_outcome": "corrected: VTS + MRS confirmed; the claimed gap at the outer lane is resolved by MSC.162(78) (limit 010 15 W, expressly includes the TSS as amended by A.957(23)); WETREP added"
+  },
+  "sources": [
+   {
+    "id": "T-S3",
+    "authority": "IMO Maritime Safety Committee",
+    "title": "Resolution MSC.63(67), Annex 3: Mandatory ship reporting system in the 'Off Finisterre' traffic separation scheme area (FINREP)",
+    "date_or_edition": "Adopted 3 December 1996; in force 0000 UTC 3 June 1997",
+    "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.63(67).pdf",
+    "source_class": "Tier 1",
+    "supports": "FINREP (VRS-0011) participants; reports to Finisterre Traffic VTS; shore authority Finisterre VTS within CZCS Finisterre",
+    "locator": "Annex 3 paras 1, 3.3, 3.4",
+    "passage": "Ships entering the area of coverage shall report to the Finisterre Traffic VTS when crossing the limits mentioned in paragraph 2.1 or when leaving the ports or anchorages in the area."
+   },
+   {
+    "id": "T-S4",
+    "authority": "IMO Maritime Safety Committee",
+    "title": "Resolution MSC.162(78): Amendments to the existing mandatory ship reporting system Off Cape Finisterre",
+    "date_or_edition": "Adopted 17 May 2004; in force 0000 UTC 1 December 2004",
+    "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.162(78).pdf",
+    "source_class": "Tier 1",
+    "supports": "FINREP area moved west to meridian 010 15 W and expressly includes the TSS Off Finisterre as amended by A.957(23)",
+    "locator": "Annex, replacement paras 2.1-2.2",
+    "passage": "This area includes the traffic separation scheme Off Finisterre and the associated inshore traffic zones adopted by resolution A.767(18), as amended by resolution A.957(23)."
+   },
+   {
+    "id": "T-S5",
+    "authority": "Ministerio de Transportes y Movilidad Sostenible (Revista Tramos; text by Salvamento Maritimo)",
+    "title": "Los DST, autopistas del mar",
+    "date_or_edition": "Tramos, February 2025",
+    "url": "https://www.transportes.gob.es/recursos_mfom/comodin/recursos/06_los_dst_autopistas_del_mar.pdf",
+    "source_class": "Tier 4",
+    "supports": "Current (2025) statement that Salvamento Maritimo controls traffic safety in the Fisterra DST as the VTS function, via the CCS Fisterra, and that mandatory reporting exists at Fisterra",
+    "locator": "pp. 38-43",
+    "passage": "En España, Salvamento Marítimo es el encargado de controlar la seguridad del tráfico marítimo en los DST de Fisterra, Tarifa, cabo de Gata y Canarias oriental y occidental"
+   },
+   {
+    "id": "T-S1",
+    "authority": "IMO Maritime Safety Committee",
+    "title": "Resolution MSC.190(79): Adoption of mandatory ship reporting system in the Western European Particularly Sensitive Sea Area (WETREP)",
+    "date_or_edition": "Adopted 6 December 2004; in force 0000 UTC 1 July 2005",
+    "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.190(79).pdf",
+    "source_class": "Tier 1",
+    "supports": "WETREP (VRS-0005) participants (oil tankers >600 dwt carrying heavy crude, heavy fuel oil, bitumen/tar); area co-ordinates incl. closing lines 21-22 (Carnsore Point to Strumble Head) and 23-24 (Portpatrick to Donaghadee) excluding the Irish Sea; para 6.2.1 list of TSS in the area; Appendix 3 chartlet shows the dashed Irish Sea closing lines; Finisterre VTS listed as a coastal VTS",
+    "locator": "Annex 1 paras 1.1, 2.1, 6.2.1, 6.2.6; Appendix 3 chartlet (Annex 32 page 14)",
+    "passage": "6.2.1 The following IMO adopted Traffic Separation Schemes: ... Off Smalls / Off Tuskar Rock / Off Skerries / In the North Channel / Off Finisterre / Off Cape Roca"
+   },
+   {
+    "id": "T-S3",
+    "authority": "IMO Maritime Safety Committee",
+    "title": "Resolution MSC.63(67), Annex 3: Mandatory ship reporting system in the 'Off Finisterre' traffic separation scheme area (FINREP)",
+    "date_or_edition": "Adopted 3 December 1996; in force 0000 UTC 3 June 1997",
+    "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.63(67).pdf",
+    "source_class": "Tier 1",
+    "supports": "FINREP (VRS-0011) participants; reports to Finisterre Traffic VTS; shore authority Finisterre VTS within CZCS Finisterre",
+    "locator": "Annex 3 paras 1, 3.3, 3.4",
+    "passage": "Ships entering the area of coverage shall report to the Finisterre Traffic VTS when crossing the limits mentioned in paragraph 2.1 or when leaving the ports or anchorages in the area."
+   },
+   {
+    "id": "T-S4",
+    "authority": "IMO Maritime Safety Committee",
+    "title": "Resolution MSC.162(78): Amendments to the existing mandatory ship reporting system Off Cape Finisterre",
+    "date_or_edition": "Adopted 17 May 2004; in force 0000 UTC 1 December 2004",
+    "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.162(78).pdf",
+    "source_class": "Tier 1",
+    "supports": "FINREP area moved west to meridian 010 15 W and expressly includes the TSS Off Finisterre as amended by A.957(23)",
+    "locator": "Annex, replacement paras 2.1-2.2",
+    "passage": "This area includes the traffic separation scheme Off Finisterre and the associated inshore traffic zones adopted by resolution A.767(18), as amended by resolution A.957(23)."
+   },
+   {
+    "id": "T-S1",
+    "authority": "IMO Maritime Safety Committee",
+    "title": "Resolution MSC.190(79): Adoption of mandatory ship reporting system in the Western European Particularly Sensitive Sea Area (WETREP)",
+    "date_or_edition": "Adopted 6 December 2004; in force 0000 UTC 1 July 2005",
+    "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.190(79).pdf",
+    "source_class": "Tier 1",
+    "supports": "WETREP (VRS-0005) participants (oil tankers >600 dwt carrying heavy crude, heavy fuel oil, bitumen/tar); area co-ordinates incl. closing lines 21-22 (Carnsore Point to Strumble Head) and 23-24 (Portpatrick to Donaghadee) excluding the Irish Sea; para 6.2.1 list of TSS in the area; Appendix 3 chartlet shows the dashed Irish Sea closing lines; Finisterre VTS listed as a coastal VTS",
+    "locator": "Annex 1 paras 1.1, 2.1, 6.2.1, 6.2.6; Appendix 3 chartlet (Annex 32 page 14)",
+    "passage": "6.2.1 The following IMO adopted Traffic Separation Schemes: ... Off Smalls / Off Tuskar Rock / Off Skerries / In the North Channel / Off Finisterre / Off Cape Roca"
+   }
+  ]
+ },
+ {
+  "record": {
+   "tss_id": "TSS-0095",
+   "batch": "B19",
+   "tss_name": "Off Cape Roca",
+   "imo_parent_ref": "B-II/29",
+   "coastal_state_s": "Portugal",
+   "association_status": "VTS + MRS",
+   "vts_name": "VTS costeiro do continente (Coast of Portugal VTS; call sign 'Roca Control')",
+   "vts_authority": "Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM); statute names IPTM, I.P. (predecessor)",
+   "vts_centre": "Centro de Controlo de Tráfego Marítimo do Continente (CCTMC), Paço de Arcos",
+   "vts_sector": null,
+   "vts_boundary_basis": "DL 263/2009 art. 6 VTS area runs from the coast to 010 14 W (north of 38 41 N) and then to 36 30 N 009 35 W; art. 10(4) gives the CCTMC supervision of TSS rules. Coordinate comparison: the westernmost TSS positions (26) 010 13.78 W, (25) 38 40.96 N 010 13.77 W and (24) 38 33.92 N 010 11.69 W all fall inside (margins about 0.2').",
+   "vts_coverage": "full",
+   "vts_source_ids": [
+    "T-S7",
+    "T-S9",
+    "T-S8",
+    "T-S6",
+    "T-S2"
+   ],
+   "mandatory_reporting": "Yes",
+   "vrs_id": "VRS-0012",
+   "reporting_scheme_name": "COPREP",
+   "reporting_authority": "Roca Control (CCTMC)",
+   "reporting_boundary_basis": "COPREP area (MSC.278(85)) has the same west and south-west limits; the TSS falls inside on coordinate comparison (TSS not named in COPREP). Also WETREP (VRS-0005): 'Off Cape Roca' named in MSC.190(79) 6.2.1 and inside the area; Portuguese WETREP contact is Roca Control (MSC.301(87)); tanker-only.",
+   "reporting_source_ids": [
+    "T-S6",
+    "T-S9",
+    "T-S1",
+    "T-S2"
+   ],
+   "voluntary_reporting": "No",
+   "evidence_summary": "Statutory coastal VTS area and COPREP area both include the TSS on coordinate comparison; WETREP names it. Reports to Roca Control; CCTMC listed as operational 24h/7 under DGRM.",
+   "source_date": "DL 263/2009; MSC.278(85) 2008 (in force 1 June 2009); COLREG.2/Circ.61 (TSS implemented 1 Dec 2010); EMSA directory accessed 2026",
+   "unresolved_issue": "Coverage rests on coordinate comparison with narrow margins (about 0.2' of longitude); consolidated current text of DL 263/2009 not opened; DGRM own web page not opened.",
+   "vts_leads": null,
+   "prior_lead_outcome": "confirmed: VTS + MRS; operator updated to DGRM via EMSA directory; WETREP added"
+  },
+  "sources": [
+   {
+    "id": "T-S7",
+    "authority": "Portugal (Diário da República)",
+    "title": "Decreto-Lei n.º 263/2009, de 28 de Setembro (VTS costeiros e portuários)",
+    "date_or_edition": "Diário da República, 1.ª série, N.º 188, 28 September 2009 (copy hosted by Marinha)",
+    "url": "https://www.marinha.pt/Conteudos_Externos/LexMar2/PGPAT%20100/PGPAT%201000%20-%20Cap%C3%ADtulos/Capitulo%20K%20EST/Dec.%20Lei%20263_2009,%20de%2028Set.pdf",
+    "source_class": "Tier 1",
+    "supports": "Statutory area of the VTS costeiro do continente (same west/south-west limits as COPREP); CCTMC directs the VTS; CCTMC supervises observance of TSS rules; participation thresholds",
+    "locator": "Arts 6, 7, 9, 10(4)",
+    "passage": "O VTS costeiro do continente presta um serviço de controlo de tráfego marítimo de âmbito nacional, geograficamente delimitado a partir da linha de costa continental"
+   },
+   {
+    "id": "T-S9",
+    "authority": "IMO (compilation of COLREG.2 circulars published by Transportstyrelsen, Sweden)",
+    "title": "COLREG.2/Circ.61, Annex 6: Amended traffic separation scheme 'Off Cape Roca'",
+    "date_or_edition": "MSC 87 (May 2010); implemented 0000 UTC 1 December 2010",
+    "url": "https://www.transportstyrelsen.se/globalassets/global/sjofart/dokument/sjotrafik_dok/imo_colreg.2_cirkular.pdf?id=58526",
+    "source_class": "Tier 1",
+    "supports": "Current (2010) co-ordinates of the Off Cape Roca TSS; westernmost positions (24) 38 33.92 N 010 11.69 W, (25) 38 40.96 N 010 13.77 W, (26) 38 51.91 N 010 13.78 W, all inside the COPREP and DL 263/2009 limits on coordinate comparison",
+    "locator": "compilation pp. 361-374 (COLREG.2/Circ.61 Annex 6)",
+    "passage": "(24) 38º 33′.92 N 010º 11′.69 W (26) 38º 51′.91 N 010º 13′.78 W (25) 38º 40′.96 N 010º 13′.77 W"
+   },
+   {
+    "id": "T-S8",
+    "authority": "European Maritime Safety Agency (EMSA) DONA directory",
+    "title": "Contact details - Portugal",
+    "date_or_edition": "Undated web page, accessed 29 September 2026",
+    "url": "https://portal.emsa.europa.eu/web/dona/contact-details-portugal",
+    "source_class": "Tier 4",
+    "supports": "CCTMC (Paço de Arcos) currently listed under DGRM, operational 24h/7, e-mail oper.vts@dgrm.mm.gov.pt; supports current operation under DGRM (IPTM successor)",
+    "locator": "Portugal entry: Centro de Controlo de Tráfego Maritimo do Continente - CCTMC",
+    "passage": "operational 24h/7"
+   },
+   {
+    "id": "T-S6",
+    "authority": "IMO Maritime Safety Committee",
+    "title": "Resolution MSC.278(85): Adoption of the new mandatory ship reporting system 'Off the coast of Portugal - COPREP'",
+    "date_or_edition": "Adopted 1 December 2008; in force 0000 UTC 1 June 2009",
+    "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.278(85).pdf",
+    "source_class": "Tier 1",
+    "supports": "COPREP (VRS-0012) participants, area limits (010 14 W north of 38 41 N; line 38 41 N 010 14 W to 36 30 N 009 35 W), reports to Roca Control; Roca Control described as the VTS centre",
+    "locator": "Annex paras 1, 2.1, 3.2, 3.4, 4, 5",
+    "passage": "The shore-based authority for COPREP mandatory ship reporting system, to which these reports should be sent, is ROCA CONTROL (identified in paragraph 7)."
+   },
+   {
+    "id": "T-S2",
+    "authority": "IMO Maritime Safety Committee",
+    "title": "Resolution MSC.301(87): Amendments to the existing mandatory ship reporting system in the Western European PSSA (WETREP)",
+    "date_or_edition": "Adopted 17 May 2010; in force 1 December 2010",
+    "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.301(87).pdf",
+    "source_class": "Tier 1",
+    "supports": "WETREP amended to add COPREP and 'Coast of Portugal VTS'; Portuguese WETREP contact is ROCA CONTROL; area co-ordinates not amended",
+    "locator": "Annex, items 1-3",
+    "passage": "2 In paragraph 6.2.6, under Coastal Vessel Traffic Services (VTS), insert: Coast of Portugal VTS"
+   },
+   {
+    "id": "T-S6",
+    "authority": "IMO Maritime Safety Committee",
+    "title": "Resolution MSC.278(85): Adoption of the new mandatory ship reporting system 'Off the coast of Portugal - COPREP'",
+    "date_or_edition": "Adopted 1 December 2008; in force 0000 UTC 1 June 2009",
+    "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.278(85).pdf",
+    "source_class": "Tier 1",
+    "supports": "COPREP (VRS-0012) participants, area limits (010 14 W north of 38 41 N; line 38 41 N 010 14 W to 36 30 N 009 35 W), reports to Roca Control; Roca Control described as the VTS centre",
+    "locator": "Annex paras 1, 2.1, 3.2, 3.4, 4, 5",
+    "passage": "The shore-based authority for COPREP mandatory ship reporting system, to which these reports should be sent, is ROCA CONTROL (identified in paragraph 7)."
+   },
+   {
+    "id": "T-S9",
+    "authority": "IMO (compilation of COLREG.2 circulars published by Transportstyrelsen, Sweden)",
+    "title": "COLREG.2/Circ.61, Annex 6: Amended traffic separation scheme 'Off Cape Roca'",
+    "date_or_edition": "MSC 87 (May 2010); implemented 0000 UTC 1 December 2010",
+    "url": "https://www.transportstyrelsen.se/globalassets/global/sjofart/dokument/sjotrafik_dok/imo_colreg.2_cirkular.pdf?id=58526",
+    "source_class": "Tier 1",
+    "supports": "Current (2010) co-ordinates of the Off Cape Roca TSS; westernmost positions (24) 38 33.92 N 010 11.69 W, (25) 38 40.96 N 010 13.77 W, (26) 38 51.91 N 010 13.78 W, all inside the COPREP and DL 263/2009 limits on coordinate comparison",
+    "locator": "compilation pp. 361-374 (COLREG.2/Circ.61 Annex 6)",
+    "passage": "(24) 38º 33′.92 N 010º 11′.69 W (26) 38º 51′.91 N 010º 13′.78 W (25) 38º 40′.96 N 010º 13′.77 W"
+   },
+   {
+    "id": "T-S1",
+    "authority": "IMO Maritime Safety Committee",
+    "title": "Resolution MSC.190(79): Adoption of mandatory ship reporting system in the Western European Particularly Sensitive Sea Area (WETREP)",
+    "date_or_edition": "Adopted 6 December 2004; in force 0000 UTC 1 July 2005",
+    "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.190(79).pdf",
+    "source_class": "Tier 1",
+    "supports": "WETREP (VRS-0005) participants (oil tankers >600 dwt carrying heavy crude, heavy fuel oil, bitumen/tar); area co-ordinates incl. closing lines 21-22 (Carnsore Point to Strumble Head) and 23-24 (Portpatrick to Donaghadee) excluding the Irish Sea; para 6.2.1 list of TSS in the area; Appendix 3 chartlet shows the dashed Irish Sea closing lines; Finisterre VTS listed as a coastal VTS",
+    "locator": "Annex 1 paras 1.1, 2.1, 6.2.1, 6.2.6; Appendix 3 chartlet (Annex 32 page 14)",
+    "passage": "6.2.1 The following IMO adopted Traffic Separation Schemes: ... Off Smalls / Off Tuskar Rock / Off Skerries / In the North Channel / Off Finisterre / Off Cape Roca"
+   },
+   {
+    "id": "T-S2",
+    "authority": "IMO Maritime Safety Committee",
+    "title": "Resolution MSC.301(87): Amendments to the existing mandatory ship reporting system in the Western European PSSA (WETREP)",
+    "date_or_edition": "Adopted 17 May 2010; in force 1 December 2010",
+    "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.301(87).pdf",
+    "source_class": "Tier 1",
+    "supports": "WETREP amended to add COPREP and 'Coast of Portugal VTS'; Portuguese WETREP contact is ROCA CONTROL; area co-ordinates not amended",
+    "locator": "Annex, items 1-3",
+    "passage": "2 In paragraph 6.2.6, under Coastal Vessel Traffic Services (VTS), insert: Coast of Portugal VTS"
+   }
+  ]
+ }
+]

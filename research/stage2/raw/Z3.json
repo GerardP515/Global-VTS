@@ -1,0 +1,513 @@
+{
+ "group": "Z3",
+ "records": [
+  {
+   "tss_id": "TSS-0216",
+   "batch": "B44",
+   "tss_name": "Off the Aniwa Cape",
+   "imo_parent_ref": "B-X/3",
+   "coastal_state_s": "Russian Federation",
+   "association_status": "Unresolved",
+   "vts_name": null,
+   "vts_authority": null,
+   "vts_centre": null,
+   "vts_sector": null,
+   "vts_boundary_basis": "No VTS coverage established. The only VTS lead, Korsakov port VTS, has a zone (draft port rules on mintrans.gov.ru, Z3-S8) limited to Aniva Bay north of 46°25.00'N and west of 143°04.00'E; the national scheme off Cape Aniva (Z3-S5) lies at about 45°54'N-46°05.2'N, 143°20'E-143°40'E, i.e. south and east of that zone, so it is not covered by it. No other Russian VTS covering the scheme was found.",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "Z3-S8",
+    "Z3-S5"
+   ],
+   "mandatory_reporting": "No",
+   "vrs_id": null,
+   "reporting_scheme_name": null,
+   "reporting_authority": null,
+   "reporting_boundary_basis": "Not within any IMO Part I mandatory ship reporting system (Z3-S11); no formally named Russian national mandatory reporting scheme for this area identified (search not exhaustive).",
+   "reporting_source_ids": [
+    "Z3-S11"
+   ],
+   "voluntary_reporting": "Unresolved",
+   "evidence_summary": "No Part I MRS. Korsakov port VTS zone as described in a (draft, circa 2013) Mintrans text ends at 46°25'N / 143°04'E and does not reach the scheme. No official complete list of Russian VTS areas was found, so absence of VTS cannot be confirmed.",
+   "source_date": "Directive 1226-r of 2 Sep 2006 (unofficial copy); Korsakov draft rules, file dated 2013; accessed 29 Sep 2026",
+   "unresolved_issue": "Current approved Korsakov port rules not obtained (only a Mintrans draft); no official complete list of Russian VTS/VTS zones for Sakhalin; identity of IMO B-X/3 geometry with Directive 1226-r Scheme No. 6 not checked against Ships' Routeing 2025; UKHO/Russian Notices to Mariners not checked.",
+   "vts_leads": "Korsakov port VTS (СУДС морского порта Корсаков): zone limited to Aniva Bay, does not reach the scheme on the draft text",
+   "prior_lead_outcome": "confirmed: Unresolved; Korsakov VTS lead now shown not to reach the scheme on the draft zone description"
+  },
+  {
+   "tss_id": "TSS-0217",
+   "batch": "B44",
+   "tss_name": "In the approaches to the Gulf of Nakhodka",
+   "imo_parent_ref": "B-X/4",
+   "coastal_state_s": "Russian Federation",
+   "association_status": "Unresolved",
+   "vts_name": null,
+   "vts_authority": null,
+   "vts_centre": null,
+   "vts_sector": null,
+   "vts_boundary_basis": "Nakhodka port rules (Mintrans Order No. 169 of 2011, as amended to 15.12.2017) define Regional VTS of Peter the Great Gulf sector No. 2 inside Nakhodka Gulf (south to the line Cape Povorotny - Cape Likhachev) and sector No. 1B on the approaches (south to the territorial sea boundary, 132°28.00'E to 133°43.00'E; VHF 9) (Z3-S6, Z3-S7). The scheme's coordinates were not found in any source opened (not in Directive 1226-r), so inclusion cannot be demonstrated.",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "Z3-S6",
+    "Z3-S7"
+   ],
+   "mandatory_reporting": "No",
+   "vrs_id": null,
+   "reporting_scheme_name": null,
+   "reporting_authority": null,
+   "reporting_boundary_basis": "Not within any IMO Part I system (Z3-S11); no formally named national mandatory scheme identified. Communication duties with РСУДС are part of the VTS.",
+   "reporting_source_ids": [
+    "Z3-S11"
+   ],
+   "voluntary_reporting": "Unresolved",
+   "evidence_summary": "A Regional VTS sector (1B) is defined for the approaches to Nakhodka Gulf by meridians and the territorial sea boundary, but the TSS coordinates could not be obtained and the port rules are confirmed only to their 2017 amendment.",
+   "source_date": "Order No. 169 of 23 Jun 2011, consolidated to 15 Dec 2017; accessed 29 Sep 2026",
+   "unresolved_issue": "TSS coordinates (IMO circular, Ships' Routeing 2025 B-X/4 or Russian NtM) not obtained; whether Order No. 169 is still in force in 2026 or replaced not confirmed (official Consultant/Garant texts not accessible); territorial sea limit not plotted.",
+   "vts_leads": "Regional VTS of Peter the Great Gulf (РСУДС залива Петра Великого), sector No. 1B / No. 2; Nakhodka-Traffic",
+   "prior_lead_outcome": "confirmed: Unresolved for the same reason (no TSS coordinates; port rules currency unconfirmed)"
+  },
+  {
+   "tss_id": "TSS-0218",
+   "batch": "B44",
+   "tss_name": "Off the Ostrovnoi Point",
+   "imo_parent_ref": "B-X/5",
+   "coastal_state_s": "Russian Federation",
+   "association_status": "Unresolved",
+   "vts_name": null,
+   "vts_authority": null,
+   "vts_centre": null,
+   "vts_sector": null,
+   "vts_boundary_basis": "Lead only, probably partial. If the IMO scheme matches Directive 1226-r Scheme No. 3 (Z3-S5; parts I-III between 133°17.5'E and 133°46.8'E), most of it lies between the sector 1B meridians 132°28.00'E and 133°43.00'E defined in the 2011 Nakhodka port rules (Z3-S6), but the eastern end of part II (to 133°46.8'E) lies east of 133°43'E. Not accepted as established because (a) the rules are confirmed only as amended to 15.12.2017, (b) the southern limit of sector 1B is the territorial sea boundary, which was not plotted against part III (to 42°27.8'N), and (c) the scheme's identity with IMO B-X/5 was not checked against Ships' Routeing 2025.",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "Z3-S6",
+    "Z3-S7",
+    "Z3-S5"
+   ],
+   "mandatory_reporting": "No",
+   "vrs_id": null,
+   "reporting_scheme_name": null,
+   "reporting_authority": null,
+   "reporting_boundary_basis": "Not within any IMO Part I system (Z3-S11); no formally named national mandatory scheme identified. Communication duties with РСУДС are part of the VTS.",
+   "reporting_source_ids": [
+    "Z3-S11"
+   ],
+   "voluntary_reporting": "Unresolved",
+   "evidence_summary": "Regional VTS of Peter the Great Gulf sector 1B (2011 rules, as amended to 2017) appears to cover most of the national scheme between Capes Povorotny and Ostrovnoy, apart from its eastern end. Currency of the rules, the territorial sea limit and the match to IMO B-X/5 remain unverified.",
+   "source_date": "Directive 1226-r of 2 Sep 2006 (unofficial copy); Order No. 169 of 23 Jun 2011 consolidated to 15 Dec 2017; accessed 29 Sep 2026",
+   "unresolved_issue": "Confirm Nakhodka port rules in force in 2026 and current sector 1B limits; plot the territorial sea limit against scheme part III; confirm that IMO B-X/5 geometry equals Directive 1226-r Scheme No. 3 (and whether the directive has been amended). If confirmed, the likely result is VTS only (partial).",
+   "vts_leads": "Regional VTS of Peter the Great Gulf (РСУДС залива Петра Великого), sector No. 1B (VHF 9)",
+   "prior_lead_outcome": "corrected: prior 'VTS only (partial)' downgraded to Unresolved; rests on rules confirmed only to 2017, an unofficial copy of the 2006 directive, and an unplotted territorial sea limit"
+  },
+  {
+   "tss_id": "TSS-0219",
+   "batch": "B44",
+   "tss_name": "Chengshan Jiao inner",
+   "imo_parent_ref": "B-X/6",
+   "coastal_state_s": "China",
+   "association_status": "VTS + MRS",
+   "vts_name": "Chengshan Jiao VTS Centre",
+   "vts_authority": "Weihai Maritime Safety Administration (China MSA)",
+   "vts_centre": "Chengshan Jiao VTS Centre, 37°23'.65N 122°42'.12E",
+   "vts_sector": null,
+   "vts_boundary_basis": "MSC.389(94) (Z3-S1), the IMO instrument for VRS-0022, names Chengshan Jiao VTS Centre (Weihai MSA) as the shore authority for the 24 nm reporting area, states the Centre has radar and a continuous 24-hour watch and provides traffic information to participating ships, requires a listening watch on the VTS working channel, and requires ships NUC or at anchor 'in the TSSs' to report to VTS. COLREG.2/Circ.66 (Z3-S2) cross-refers the TSS to the SRS. VTS extent is therefore taken from the IMO instrument's 24 nm area; no separate national VTS area description (Chinese VTS rules for Chengshan Jiao) was located. The inner TSS vertices lie 3.1 to 15.1 nm from the Centre.",
+   "vts_coverage": "full",
+   "vts_source_ids": [
+    "Z3-S1",
+    "Z3-S2"
+   ],
+   "mandatory_reporting": "Yes",
+   "vrs_id": "VRS-0022",
+   "reporting_scheme_name": "Off Chengshan Jiao Promontory",
+   "reporting_authority": "Weihai Maritime Safety Administration; reports to Chengshan Jiao VTS Centre (VHF 08, secondary 09 or 65)",
+   "reporting_boundary_basis": "SRS area is the 24 nm circle centred on the VTS Centre (MSC.389(94) para 2.1). All vertices of the inner TSS (points 1-9, 13-15, 26-27) lie between 3.1 and 15.1 nm from the circle centre, so the whole scheme lies inside the 24 nm area. Participation: passenger ships; oil tankers 150 GT and above and ships carrying hazardous cargo; LOA over 200 m or draught over 12 m; towing/pushing vessels; ships NUC, at anchor in the TSSs, RAM or with defective navigational equipment.",
+   "reporting_source_ids": [
+    "Z3-S1",
+    "Z3-S2",
+    "Z3-S11"
+   ],
+   "voluntary_reporting": "No",
+   "evidence_summary": "IMO Part I system VRS-0022 (MSC.389(94), in force 1 June 2015) covers a 24 nm circle around Chengshan Jiao VTS Centre; the TSS coordinates in COLREG.2/Circ.66 were measured against that circle. All vertices of the inner TSS (points 1-9, 13-15, 26-27) lie between 3.1 and 15.1 nm from the circle centre, so the whole scheme lies inside the 24 nm area. The same IMO instrument establishes the VTS Centre as operating the system with radar and 24-hour watch.",
+   "source_date": "MSC.389(94) adopted 21 Nov 2014, in force 1 Jun 2015; COLREG.2/Circ.66 21 Nov 2014, implemented 1 Jun 2015; accessed 29 Sep 2026",
+   "unresolved_issue": "National Chinese VTS area description for Chengshan Jiao VTS not located (VTS extent taken from the IMO SRS instrument). Coordinates taken from COLREG.2/Circ.66 (2014); not re-compared with the Ships' Routeing 2025 text, and no post-2015 amendment found.",
+   "vts_leads": null,
+   "prior_lead_outcome": "confirmed: VTS + MRS; now checked for this individual component by plotting its COLREG.2/Circ.66 coordinates against the 24 nm circle"
+  },
+  {
+   "tss_id": "TSS-0220",
+   "batch": "B44",
+   "tss_name": "North",
+   "imo_parent_ref": "B-X/6",
+   "coastal_state_s": "China",
+   "association_status": "VTS + MRS",
+   "vts_name": "Chengshan Jiao VTS Centre",
+   "vts_authority": "Weihai Maritime Safety Administration (China MSA)",
+   "vts_centre": "Chengshan Jiao VTS Centre, 37°23'.65N 122°42'.12E",
+   "vts_sector": null,
+   "vts_boundary_basis": "MSC.389(94) (Z3-S1), the IMO instrument for VRS-0022, names Chengshan Jiao VTS Centre (Weihai MSA) as the shore authority for the 24 nm reporting area, states the Centre has radar and a continuous 24-hour watch and provides traffic information to participating ships, requires a listening watch on the VTS working channel, and requires ships NUC or at anchor 'in the TSSs' to report to VTS. COLREG.2/Circ.66 (Z3-S2) cross-refers the TSS to the SRS. VTS extent is therefore taken from the IMO instrument's 24 nm area; no separate national VTS area description (Chinese VTS rules for Chengshan Jiao) was located. The North TSS vertices lie 15.4 to 21.7 nm from the Centre.",
+   "vts_coverage": "full",
+   "vts_source_ids": [
+    "Z3-S1",
+    "Z3-S2"
+   ],
+   "mandatory_reporting": "Yes",
+   "vrs_id": "VRS-0022",
+   "reporting_scheme_name": "Off Chengshan Jiao Promontory",
+   "reporting_authority": "Weihai Maritime Safety Administration; reports to Chengshan Jiao VTS Centre (VHF 08, secondary 09 or 65)",
+   "reporting_boundary_basis": "SRS area is the 24 nm circle centred on the VTS Centre (MSC.389(94) para 2.1). All North TSS points (11, 12, 14-17) lie 15.4 to 21.7 nm from the circle centre (outermost: point 16, 21.7 nm), so the whole scheme lies inside the 24 nm area. Participation: passenger ships; oil tankers 150 GT and above and ships carrying hazardous cargo; LOA over 200 m or draught over 12 m; towing/pushing vessels; ships NUC, at anchor in the TSSs, RAM or with defective navigational equipment.",
+   "reporting_source_ids": [
+    "Z3-S1",
+    "Z3-S2",
+    "Z3-S11"
+   ],
+   "voluntary_reporting": "No",
+   "evidence_summary": "IMO Part I system VRS-0022 (MSC.389(94), in force 1 June 2015) covers a 24 nm circle around Chengshan Jiao VTS Centre; the TSS coordinates in COLREG.2/Circ.66 were measured against that circle. All North TSS points (11, 12, 14-17) lie 15.4 to 21.7 nm from the circle centre (outermost: point 16, 21.7 nm), so the whole scheme lies inside the 24 nm area. The same IMO instrument establishes the VTS Centre as operating the system with radar and 24-hour watch.",
+   "source_date": "MSC.389(94) adopted 21 Nov 2014, in force 1 Jun 2015; COLREG.2/Circ.66 21 Nov 2014, implemented 1 Jun 2015; accessed 29 Sep 2026",
+   "unresolved_issue": "National Chinese VTS area description for Chengshan Jiao VTS not located (VTS extent taken from the IMO SRS instrument). Coordinates taken from COLREG.2/Circ.66 (2014); not re-compared with the Ships' Routeing 2025 text, and no post-2015 amendment found. IMO component name is 'North' (display name 'Chengshan Jiao outer - North').",
+   "vts_leads": null,
+   "prior_lead_outcome": "confirmed: VTS + MRS; now checked for this individual component by plotting its COLREG.2/Circ.66 coordinates against the 24 nm circle"
+  },
+  {
+   "tss_id": "TSS-0221",
+   "batch": "B45",
+   "tss_name": "East",
+   "imo_parent_ref": "B-X/6",
+   "coastal_state_s": "China",
+   "association_status": "VTS + MRS",
+   "vts_name": "Chengshan Jiao VTS Centre",
+   "vts_authority": "Weihai Maritime Safety Administration (China MSA)",
+   "vts_centre": "Chengshan Jiao VTS Centre, 37°23'.65N 122°42'.12E",
+   "vts_sector": null,
+   "vts_boundary_basis": "MSC.389(94) (Z3-S1), the IMO instrument for VRS-0022, names Chengshan Jiao VTS Centre (Weihai MSA) as the shore authority for the 24 nm reporting area, states the Centre has radar and a continuous 24-hour watch and provides traffic information to participating ships, requires a listening watch on the VTS working channel, and requires ships NUC or at anchor 'in the TSSs' to report to VTS. COLREG.2/Circ.66 (Z3-S2) cross-refers the TSS to the SRS. VTS extent is therefore taken from the IMO instrument's 24 nm area; no separate national VTS area description (Chinese VTS rules for Chengshan Jiao) was located. Coverage is partial: the eastern end of the East TSS lies beyond 24 nm.",
+   "vts_coverage": "partial",
+   "vts_source_ids": [
+    "Z3-S1",
+    "Z3-S2"
+   ],
+   "mandatory_reporting": "Yes",
+   "vrs_id": "VRS-0022",
+   "reporting_scheme_name": "Off Chengshan Jiao Promontory",
+   "reporting_authority": "Weihai Maritime Safety Administration; reports to Chengshan Jiao VTS Centre (VHF 08, secondary 09 or 65)",
+   "reporting_boundary_basis": "SRS area is the 24 nm circle centred on the VTS Centre (MSC.389(94) para 2.1). Coverage is partial. Ellipsoidal (WGS 84) distances from the circle centre: point 18 = 21.6 nm, 21 = 21.1 nm, 19 (east end of separation zone centreline) = 23.4 nm, 22 = 24.1 nm, 23 (east end of the outer limit of the north-westbound lane) = 25.7 nm. The eastern end of the north-westbound lane and of the northern half of the separation zone therefore lie just outside the 24 nm area; the south-eastbound lane is inside. Participation: passenger ships; oil tankers 150 GT and above and ships carrying hazardous cargo; LOA over 200 m or draught over 12 m; towing/pushing vessels; ships NUC, at anchor in the TSSs, RAM or with defective navigational equipment.",
+   "reporting_source_ids": [
+    "Z3-S1",
+    "Z3-S2",
+    "Z3-S11"
+   ],
+   "voluntary_reporting": "No",
+   "evidence_summary": "IMO Part I system VRS-0022 (MSC.389(94), in force 1 June 2015) covers a 24 nm circle around Chengshan Jiao VTS Centre; the TSS coordinates in COLREG.2/Circ.66 were measured against that circle. Coverage is partial. Ellipsoidal (WGS 84) distances from the circle centre: point 18 = 21.6 nm, 21 = 21.1 nm, 19 (east end of separation zone centreline) = 23.4 nm, 22 = 24.1 nm, 23 (east end of the outer limit of the north-westbound lane) = 25.7 nm. The eastern end of the north-westbound lane and of the northern half of the separation zone therefore lie just outside the 24 nm area; the south-eastbound lane is inside. The same IMO instrument establishes the VTS Centre as operating the system with radar and 24-hour watch.",
+   "source_date": "MSC.389(94) adopted 21 Nov 2014, in force 1 Jun 2015; COLREG.2/Circ.66 21 Nov 2014, implemented 1 Jun 2015; accessed 29 Sep 2026",
+   "unresolved_issue": "National Chinese VTS area description for Chengshan Jiao VTS not located (VTS extent taken from the IMO SRS instrument). Coordinates taken from COLREG.2/Circ.66 (2014); not re-compared with the Ships' Routeing 2025 text, and no post-2015 amendment found. Eastern end of the East TSS (north-westbound lane, points 22-23) lies up to 25.7 nm from the VTS Centre, outside the SRS circle; VTS operation beyond 24 nm not documented. IMO component name is 'East'.",
+   "vts_leads": null,
+   "prior_lead_outcome": "corrected: status confirmed as VTS + MRS but coverage is partial; eastern end of this TSS lies outside the 24 nm circle"
+  },
+  {
+   "tss_id": "TSS-0222",
+   "batch": "B45",
+   "tss_name": "South",
+   "imo_parent_ref": "B-X/6",
+   "coastal_state_s": "China",
+   "association_status": "VTS + MRS",
+   "vts_name": "Chengshan Jiao VTS Centre",
+   "vts_authority": "Weihai Maritime Safety Administration (China MSA)",
+   "vts_centre": "Chengshan Jiao VTS Centre, 37°23'.65N 122°42'.12E",
+   "vts_sector": null,
+   "vts_boundary_basis": "MSC.389(94) (Z3-S1), the IMO instrument for VRS-0022, names Chengshan Jiao VTS Centre (Weihai MSA) as the shore authority for the 24 nm reporting area, states the Centre has radar and a continuous 24-hour watch and provides traffic information to participating ships, requires a listening watch on the VTS working channel, and requires ships NUC or at anchor 'in the TSSs' to report to VTS. COLREG.2/Circ.66 (Z3-S2) cross-refers the TSS to the SRS. VTS extent is therefore taken from the IMO instrument's 24 nm area; no separate national VTS area description (Chinese VTS rules for Chengshan Jiao) was located. The South TSS vertices lie 13.7 to 21.3 nm from the Centre.",
+   "vts_coverage": "full",
+   "vts_source_ids": [
+    "Z3-S1",
+    "Z3-S2"
+   ],
+   "mandatory_reporting": "Yes",
+   "vrs_id": "VRS-0022",
+   "reporting_scheme_name": "Off Chengshan Jiao Promontory",
+   "reporting_authority": "Weihai Maritime Safety Administration; reports to Chengshan Jiao VTS Centre (VHF 08, secondary 09 or 65)",
+   "reporting_boundary_basis": "SRS area is the 24 nm circle centred on the VTS Centre (MSC.389(94) para 2.1). All South TSS points (20, 24-28) lie 13.7 to 21.3 nm from the circle centre (outermost: point 28, 21.3 nm), so the whole scheme lies inside the 24 nm area. Participation: passenger ships; oil tankers 150 GT and above and ships carrying hazardous cargo; LOA over 200 m or draught over 12 m; towing/pushing vessels; ships NUC, at anchor in the TSSs, RAM or with defective navigational equipment.",
+   "reporting_source_ids": [
+    "Z3-S1",
+    "Z3-S2",
+    "Z3-S11"
+   ],
+   "voluntary_reporting": "No",
+   "evidence_summary": "IMO Part I system VRS-0022 (MSC.389(94), in force 1 June 2015) covers a 24 nm circle around Chengshan Jiao VTS Centre; the TSS coordinates in COLREG.2/Circ.66 were measured against that circle. All South TSS points (20, 24-28) lie 13.7 to 21.3 nm from the circle centre (outermost: point 28, 21.3 nm), so the whole scheme lies inside the 24 nm area. The same IMO instrument establishes the VTS Centre as operating the system with radar and 24-hour watch.",
+   "source_date": "MSC.389(94) adopted 21 Nov 2014, in force 1 Jun 2015; COLREG.2/Circ.66 21 Nov 2014, implemented 1 Jun 2015; accessed 29 Sep 2026",
+   "unresolved_issue": "National Chinese VTS area description for Chengshan Jiao VTS not located (VTS extent taken from the IMO SRS instrument). Coordinates taken from COLREG.2/Circ.66 (2014); not re-compared with the Ships' Routeing 2025 text, and no post-2015 amendment found. IMO component name is 'South'.",
+   "vts_leads": null,
+   "prior_lead_outcome": "confirmed: VTS + MRS; now checked for this individual component by plotting its COLREG.2/Circ.66 coordinates against the 24 nm circle"
+  },
+  {
+   "tss_id": "TSS-0223",
+   "batch": "B45",
+   "tss_name": "Between Grand Canary and Fuerteventura",
+   "imo_parent_ref": "B-XI/1",
+   "coastal_state_s": "Spain",
+   "association_status": "MRS only",
+   "vts_name": null,
+   "vts_authority": null,
+   "vts_centre": null,
+   "vts_sector": null,
+   "vts_boundary_basis": "No VTS established. The IMO instruments name MRCC Las Palmas (Salvamento Marítimo) only as a Maritime Rescue Co-ordination Centre receiving CANREP reports and voluntary TSS notifications (Z3-S3, Z3-S4). An official press release (Z3-S9) says CCS Las Palmas carries out traffic monitoring, and a media report (Z3-S10) says the CCS 'controlled' ships transiting the TSS, but no official source was found that designates a VTS or defines a VTS area covering the TSS. The Las Palmas / Santa Cruz de Tenerife port VTS cover port waters only (not checked in detail; lead only).",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "Z3-S3",
+    "Z3-S4",
+    "Z3-S9",
+    "Z3-S10"
+   ],
+   "mandatory_reporting": "Yes",
+   "vrs_id": "VRS-0023",
+   "reporting_scheme_name": "CANREP (Mandatory ship reporting system for the Canary Islands)",
+   "reporting_authority": "Salvamento Marítimo: MRCC Las Palmas (entry east of 015°30'W) / MRCC Tenerife (entry west of 015°30'W)",
+   "reporting_boundary_basis": "CANREP area is a polygon (points A-N) along the outer limit of the territorial sea around the archipelago (MSC.213(81) para 2.1). Plotting the COLREG.2/Circ.57 coordinates shows all Eastern TSS points inside the polygon; its northern termination (points 3 and 11-12 at about 28°20'N, on the line CANREP D-E) lies on the CANREP boundary line within 0.05', and the polygon vertex used for the TSS's inshore traffic zone coincides with a CANREP vertex, so the TSS lies within the reporting area. Applies only to tankers of 600 dwt and above carrying heavy crude, heavy fuel oil, bitumen or tar.",
+   "reporting_source_ids": [
+    "Z3-S3",
+    "Z3-S4",
+    "Z3-S11"
+   ],
+   "voluntary_reporting": "Yes: voluntary notification of entry to and departure from the TSS via MRCC Las Palmas, VHF channel 16 (COLREG.2/Circ.57 note)",
+   "evidence_summary": "Inside VRS-0023 CANREP (MSC.213(81), in force 1 Dec 2006) by coordinate check; mandatory only for heavy-grade oil tankers of 600 dwt and above. MRCC Las Palmas is an MRCC, not a designated VTS; traffic monitoring of the TSS by Salvamento Marítimo is reported but no VTS designation or VTS area was found.",
+   "source_date": "MSC.213(81) adopted 12 May 2006, in force 1 Dec 2006; COLREG.2/Circ.57 26 May 2006, implemented 1 Dec 2006; press release 20 Nov 2020; media 2 Feb 2024; accessed 29 Sep 2026",
+   "unresolved_issue": "Salvamento Marítimo website unavailable (TLS/503), so its own description of CCS functions and any Spanish designation of a coastal VTS for the Canary TSS could not be checked; ALRS Vol 6 not consulted. CANREP chartlet not inspected (coordinate check used instead).",
+   "vts_leads": "MRCC Las Palmas / CCS (Salvamento Marítimo) traffic monitoring of the TSS (not a designated VTS on the evidence found)",
+   "prior_lead_outcome": "confirmed: MRS only (CANREP); inclusion now checked by plotting TSS coordinates against the CANREP polygon"
+  },
+  {
+   "tss_id": "TSS-0224",
+   "batch": "B45",
+   "tss_name": "Between Grand Canary and Tenerife",
+   "imo_parent_ref": "B-XI/2",
+   "coastal_state_s": "Spain",
+   "association_status": "MRS only",
+   "vts_name": null,
+   "vts_authority": null,
+   "vts_centre": null,
+   "vts_sector": null,
+   "vts_boundary_basis": "No VTS established. The IMO instruments name MRCC Tenerife (Salvamento Marítimo) only as a Maritime Rescue Co-ordination Centre receiving CANREP reports and voluntary TSS notifications (Z3-S3, Z3-S4). An official press release (Z3-S9) says CCS Las Palmas carries out traffic monitoring, and a media report (Z3-S10) says the CCS 'controlled' ships transiting the TSS, but no official source was found that designates a VTS or defines a VTS area covering the TSS. The Las Palmas / Santa Cruz de Tenerife port VTS cover port waters only (not checked in detail; lead only).",
+   "vts_coverage": "n/a",
+   "vts_source_ids": [
+    "Z3-S3",
+    "Z3-S4",
+    "Z3-S9",
+    "Z3-S10"
+   ],
+   "mandatory_reporting": "Yes",
+   "vrs_id": "VRS-0023",
+   "reporting_scheme_name": "CANREP (Mandatory ship reporting system for the Canary Islands)",
+   "reporting_authority": "Salvamento Marítimo: MRCC Las Palmas (entry east of 015°30'W) / MRCC Tenerife (entry west of 015°30'W)",
+   "reporting_boundary_basis": "CANREP area is a polygon (points A-N) along the outer limit of the territorial sea around the archipelago (MSC.213(81) para 2.1). Plotting the COLREG.2/Circ.57 coordinates shows all Western TSS points inside the polygon; its northern termination (points 3 and 19 at about 28°34'-28°38'N, on the line CANREP C-D) lies on the CANREP boundary line within 0.05', and the polygon vertex used for the TSS's inshore traffic zone coincides with a CANREP vertex, so the TSS lies within the reporting area. Applies only to tankers of 600 dwt and above carrying heavy crude, heavy fuel oil, bitumen or tar.",
+   "reporting_source_ids": [
+    "Z3-S3",
+    "Z3-S4",
+    "Z3-S11"
+   ],
+   "voluntary_reporting": "Yes: voluntary notification of entry to and departure from the TSS via MRCC Tenerife, VHF channel 16 (COLREG.2/Circ.57 note)",
+   "evidence_summary": "Inside VRS-0023 CANREP (MSC.213(81), in force 1 Dec 2006) by coordinate check; mandatory only for heavy-grade oil tankers of 600 dwt and above. MRCC Tenerife is an MRCC, not a designated VTS; traffic monitoring of the TSS by Salvamento Marítimo is reported but no VTS designation or VTS area was found.",
+   "source_date": "MSC.213(81) adopted 12 May 2006, in force 1 Dec 2006; COLREG.2/Circ.57 26 May 2006, implemented 1 Dec 2006; press release 20 Nov 2020; media 2 Feb 2024; accessed 29 Sep 2026",
+   "unresolved_issue": "Salvamento Marítimo website unavailable (TLS/503), so its own description of CCS functions and any Spanish designation of a coastal VTS for the Canary TSS could not be checked; ALRS Vol 6 not consulted. CANREP chartlet not inspected (coordinate check used instead).",
+   "vts_leads": "MRCC Tenerife / CCS (Salvamento Marítimo) traffic monitoring of the TSS (not a designated VTS on the evidence found)",
+   "prior_lead_outcome": "confirmed: MRS only (CANREP); inclusion now checked by plotting TSS coordinates against the CANREP polygon"
+  }
+ ],
+ "sources": [
+  {
+   "id": "Z3-S1",
+   "authority": "IMO Maritime Safety Committee",
+   "title": "Resolution MSC.389(94): Amendments to the existing mandatory ship reporting system \"Off Chengshan Jiao Promontory\"",
+   "date_or_edition": "Adopted 21 November 2014; in force 0000 UTC 1 June 2015",
+   "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC%20389%2094.pdf",
+   "source_class": "Tier 1",
+   "supports": "VRS-0022 area (24 nm radius around Chengshan Jiao VTS Centre, 37°23'.65N 122°42'.12E), participating ships, competent authority (Weihai MSA), VTS Centre as shore authority with radar and continuous watch, compulsory reports to VTS by ships NUC or at anchor in the TSSs",
+   "locator": "Annex 16, paras 1.1, 2.1, 3.3, 4.1-4.2, 7.1-7.2",
+   "passage": "The waters covered by the Ship Reporting System is the water area with the VTS Centre (geographical position is 37°23′.65N, 122°42′.12E) as the centre and 24 miles as the radius."
+  },
+  {
+   "id": "Z3-S2",
+   "authority": "IMO (COLREG.2/Circ.66; copy hosted by Vietnam Maritime Administration)",
+   "title": "COLREG.2/Circ.66 Amended traffic separation schemes, Annex 2: \"In the waters off the Chengshan Jiao Promontory\"",
+   "date_or_edition": "21 November 2014; implemented 0000 UTC 1 June 2015",
+   "url": "https://www.vimawa.gov.vn/f/Circ%2066.pdf",
+   "source_class": "Tier 1",
+   "supports": "Coordinates of inner TSS (points 1-10, 13-15, 26-27) and outer North (11-12, 14-17), East (18-23) and South (20, 24-28) TSSs; cross-reference to the mandatory SRS",
+   "locator": "Annex 2, Parts I and II, paras (a)-(v); Note under title",
+   "passage": "Note: See mandatory ship reporting system \"Off the Chengshan Jiao Promontory\"."
+  },
+  {
+   "id": "Z3-S3",
+   "authority": "IMO Maritime Safety Committee",
+   "title": "Resolution MSC.213(81): Mandatory ship reporting system for the Canary Islands (CANREP)",
+   "date_or_edition": "Adopted 12 May 2006; in force 0000 UTC 1 December 2006",
+   "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.213(81).pdf",
+   "source_class": "Tier 1",
+   "supports": "VRS-0023 reporting area polygon (points A-N), participating ships (tankers 600 dwt and above carrying heavy grades), MRCC Las Palmas / MRCC Tenerife as report recipients split at 015°30'W",
+   "locator": "Annex 1, paras 1.1, 2.1, 3.4.1; Appendix 1",
+   "passage": "The proposed maritime area is bounded by a polygonal line connecting points along the outer limit of the territorial sea (12 nautical miles) that surrounds the archipelago"
+  },
+  {
+   "id": "Z3-S4",
+   "authority": "IMO (COLREG.2/Circ.57; copy hosted by Shanghai Maritime University CIMRC)",
+   "title": "COLREG.2/Circ.57 New and amended existing traffic separation schemes, Annex 1: New traffic separation schemes for the Canary Islands",
+   "date_or_edition": "26 May 2006; implemented 0000 UTC 1 December 2006",
+   "url": "https://cimrc.shmtu.edu.cn/_upload/article/files/63/dc/35c66be74d12873254dc88a2ef00/8c6a3c5f-5a85-4450-980a-5534de9fcd0a.pdf",
+   "source_class": "Tier 1",
+   "supports": "Coordinates of the Eastern TSS (between Grand Canary and Fuerteventura) and Western TSS (between Grand Canary and Tenerife); voluntary notification via Las Palmas MRCC / Tenerife MRCC on VHF 16",
+   "locator": "Annex 1, sections 2 and 3, Notes",
+   "passage": "Note: Ships that so wish may give voluntary notification of entry to and departure from the TSS via the Las Palmas Regional MRCC, using VHF channel 16."
+  },
+  {
+   "id": "Z3-S5",
+   "authority": "Government of the Russian Federation (unofficial copy on meganorm.ru)",
+   "title": "Распоряжение Правительства РФ от 2 сентября 2006 г. № 1226-р \"Схемы разделения движения в территориальном море Российской Федерации\"",
+   "date_or_edition": "2 September 2006 (original text; later amendment or replacement not checked)",
+   "url": "https://meganorm.ru/Data2/1/4293849/4293849842.htm",
+   "source_class": "Lead only",
+   "supports": "National descriptions of Scheme No. 6 (Cape Aniva, La Perouse Strait: centreline 45°54.00'N 143°20.00'E to 45°58.80'N 143°40.00'E) and Scheme No. 3 (between Capes Povorotny and Ostrovnoy, parts I-III, 133°17.5'E to 133°46.8'E); no VTS or reporting content. Third-party copy of a Tier 1 instrument; identity with IMO B-X/3 and B-X/5 not verified against Ships' Routeing 2025",
+   "locator": "Section on Sea of Okhotsk / La Perouse Strait item 2 (Scheme No. 6); Section IV Sea of Japan (Scheme No. 3)",
+   "passage": "Схема разделения движения № 3. Между мысами Поворотный и Островной (от залива Петра Великого до мыса Белкина)."
+  },
+  {
+   "id": "Z3-S6",
+   "authority": "Ministry of Transport of the Russian Federation (published in Rossiyskaya Gazeta)",
+   "title": "Обязательные постановления в морском порту Находка (Order of Mintrans of Russia No. 169 of 23 June 2011, reg. No. 21263)",
+   "date_or_edition": "23 June 2011 original text; RG publication July 2011",
+   "url": "https://rg.ru/documents/2011/07/05/naxodka-site-dok.html",
+   "source_class": "Tier 1",
+   "supports": "Regional VTS of Peter the Great Gulf (РСУДС) sector No. 2 (inside Nakhodka Gulf, VTS acts as port VTS 'Nakhodka-Traffic') and sector No. 1B on the approaches to Nakhodka Gulf (south to the territorial sea boundary, 132°28.00'E to 133°43.00'E, VHF 9)",
+   "locator": "Paras 52-55",
+   "passage": "На подходах к заливу Находка в секторе № 1 Б, который ограничен с юга границей территориального моря, с запада меридианом 132°28,00' восточной долготы, с востока меридианом 133°43,00' восточной долготы, связь с РСУДС осуществляется на канале 9 ОВЧ."
+  },
+  {
+   "id": "Z3-S7",
+   "authority": "legalacts.ru (third-party consolidation of Mintrans Order No. 169)",
+   "title": "Приказ Минтранса России от 23.06.2011 N 169 (ред. от 15.12.2017)",
+   "date_or_edition": "Consolidated to amendment of 15 December 2017",
+   "url": "https://legalacts.ru/doc/prikaz-mintransa-rf-ot-23062011-n-169/",
+   "source_class": "Lead only",
+   "supports": "Paras 52-54 on РСУДС sectors unchanged as at the 15.12.2017 amendment; does not establish that the order is in force in 2026",
+   "locator": "Header '(ред. от 15.12.2017)'; paras 52-54",
+   "passage": "Приказ Минтранса России от 23.06.2011 N 169 (ред. от 15.12.2017)"
+  },
+  {
+   "id": "Z3-S8",
+   "authority": "Ministry of Transport of the Russian Federation (draft document on mintrans.gov.ru)",
+   "title": "Обязательные постановления в морском порту Корсаков (draft, file pr_mt_korsakov_op.doc)",
+   "date_or_edition": "Undated draft; file metadata March 2013; approval status and currency not established",
+   "url": "https://mintrans.gov.ru/file/398609",
+   "source_class": "Lead only",
+   "supports": "Korsakov port VTS (СУДС) zone limited by the coast and points 46°37.50'N 142°26.00'E, 46°25.00'N 142°30.00'E, 46°25.00'N 143°04.00'E, 46°35.70'N 143°04.00'E (Aniva Bay only); scheme off Cape Aniva lies south and east of this zone",
+   "locator": "Section on VTS zone (Зона действия СУДС)",
+   "passage": "Зона действия СУДС ограничена береговой линией и прямой линией, соединяющей по порядку точки с координатами:1) 46°37,50' северной широты и 142°26,00' восточной долготы"
+  },
+  {
+   "id": "Z3-S9",
+   "authority": "Government of Spain (La Moncloa press office, Ministry of Transport)",
+   "title": "Visita el Centro de Coordinación de Salvamento Marítimo en Las Palmas de Gran Canaria",
+   "date_or_edition": "20 November 2020",
+   "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/transportes/Paginas/2020/201120-salvamento.aspx",
+   "source_class": "Tier 4",
+   "supports": "CCS Las Palmas (Salvamento Marítimo) coordinates maritime safety and SAR and monitors traffic in the eastern Canary Islands; no VTS designation or TSS-specific VTS area stated",
+   "locator": "Press release body",
+   "passage": "Desde el CCS Las Palmas se coordinan las actuaciones para proteger la seguridad marítima y la vida humana en la mar en la parte oriental del archipiélago canario."
+  },
+  {
+   "id": "Z3-S10",
+   "authority": "RTVC / EFE (media)",
+   "title": "Salvamento Marítimo auxilió en 2023 a 43.994 personas en Canarias, 20.997 migrantes",
+   "date_or_edition": "2 February 2024",
+   "url": "https://rtvc.es/salvamento-maritimo-auxilio-en-2023-a-43-994-personas-en-canarias-20-997-migrantes/",
+   "source_class": "Lead only",
+   "supports": "Media report of Salvamento Marítimo statistics: CCS Las Palmas and CCS Tenerife 'controlled' ships transiting the eastern and western Canary TSS (lead for a traffic-monitoring function; not a VTS designation)",
+   "locator": "Article body",
+   "passage": "El Centro de Coordinación de Salvamento ubicado en Las Palmas controló 2.023 buques a su paso por el Dispositivo de Separación de Tráfico de Canarias oriental"
+  },
+  {
+   "id": "Z3-S11",
+   "authority": "Global VTS project (derived from IMO Ships' Routeing 2025 Part I)",
+   "title": "data/authoritative/IMO_2025_Mandatory_Reporting_Systems.csv",
+   "date_or_edition": "Ships' Routeing 2025 Edition baseline",
+   "url": "repo:data/authoritative/IMO_2025_Mandatory_Reporting_Systems.csv",
+   "source_class": "Tier 1",
+   "supports": "VRS-0022 = I-I/22 Off Chengshan Jiao Promontory; VRS-0023 = I-I/23 The Canary Islands [CANREP]; no Part I system for the Russian Pacific (Sakhalin, Primorye) areas",
+   "locator": "Rows I-I/22, I-I/23",
+   "passage": "I-I/23,The Canary Islands [CANREP],847,Mandatory ship reporting systems,Part I,VRS-0023"
+  },
+  {
+   "id": "Z3-P4-S1",
+   "authority": "Shandong Maritime Safety Administration (China MSA)",
+   "title": "Notice on the revised Chengshan Jiao VTS rules and VTS User Guide (in force 2 December 2024)",
+   "date_or_edition": "12 November 2024",
+   "url": "https://www.sd.msa.gov.cn/art/2024/11/12/art_1443_1818894.html",
+   "source_class": "Tier 2",
+   "supports": "Chengshan Jiao VTS area includes the routeing lanes and precautionary areas (added at Pass 4 by the independent checker)",
+   "locator": "Notice text on fishing within the VTS area",
+   "passage": "VTS区域内的警戒区及通航分道",
+   "added_at": "Pass 4"
+  }
+ ],
+ "services": [
+  {
+   "name": "Chengshan Jiao VTS Centre",
+   "authority": "Weihai Maritime Safety Administration (China MSA)",
+   "centre": "Chengshan Jiao VTS Centre, 37°23'.65N 122°42'.12E; VHF 08 (secondary 09 or 65)",
+   "sectors": null,
+   "area_description": "Operates the IMO mandatory SRS 'Off Chengshan Jiao Promontory' (VRS-0022) over a 24 nm circle around the Centre; no separate national VTS area description located",
+   "operational_evidence": "MSC.389(94) paras 4.1, 7.1-7.2: radar, VHF, information service, continuous 24-hour watch (in force since 1 June 2015)",
+   "source_ids": [
+    "Z3-S1",
+    "Z3-S2"
+   ]
+  },
+  {
+   "name": "Regional VTS of Peter the Great Gulf (РСУДС залива Петра Великого) [LEAD ONLY]",
+   "authority": "Captain of the seaport Nakhodka / Russian port administration (Mintrans port rules)",
+   "centre": "Nakhodka (call sign 'Находка-Трафик' for sector No. 2)",
+   "sectors": "Sector No. 2 (Nakhodka Gulf north of line Cape Povorotny - Cape Likhachev); sector No. 1B (approaches, 132°28.00'E to 133°43.00'E, south to territorial sea boundary, VHF 9)",
+   "area_description": "As described in Nakhodka port rules (Order No. 169 of 2011, as amended to 15.12.2017)",
+   "operational_evidence": "Port rules only; currency in 2026 not confirmed",
+   "source_ids": [
+    "Z3-S6",
+    "Z3-S7"
+   ]
+  },
+  {
+   "name": "Korsakov port VTS (СУДС морского порта Корсаков) [LEAD ONLY]",
+   "authority": "Captain of the seaport Korsakov",
+   "centre": "Korsakov",
+   "sectors": null,
+   "area_description": "Aniva Bay: coast and points 46°37.50'N 142°26.00'E, 46°25.00'N 142°30.00'E, 46°25.00'N 143°04.00'E, 46°35.70'N 143°04.00'E (draft text)",
+   "operational_evidence": "Draft port rules only (file dated 2013)",
+   "source_ids": [
+    "Z3-S8"
+   ]
+  },
+  {
+   "name": "MRCC Las Palmas and MRCC Tenerife (CCS Salvamento Marítimo) [MRCC, NOT VTS]",
+   "authority": "Sociedad de Salvamento y Seguridad Marítima (Salvamento Marítimo), Spain",
+   "centre": "MRCC Las Palmas 28°09'N 015°25'W; MRCC Tenerife 28°28'N 016°14'W",
+   "sectors": "Split at 015°30'W for CANREP reports",
+   "area_description": "CANREP report recipients and voluntary TSS notification centres; described as MRCCs, not VTS",
+   "operational_evidence": "MSC.213(81) Appendix 1; COLREG.2/Circ.57 notes; press release 2020 (traffic monitoring)",
+   "source_ids": [
+    "Z3-S3",
+    "Z3-S4",
+    "Z3-S9",
+    "Z3-S10"
+   ]
+  }
+ ],
+ "batch_audits": [
+  {
+   "batch": "B44",
+   "pass2_evidence_check": "Reopened MSC.389(94) and COLREG.2/Circ.66 local copies and re-verified the SRS circle, authority and TSS coordinates; distances recomputed ellipsoidally for boundary-critical points. Reopened Nakhodka rules (RG original and legalacts consolidation), Directive 1226-r and Korsakov draft; quoted passages re-checked verbatim. Prior 'VTS only' for TSS-0218 removed as not established to Tier 1/2 current standard.",
+   "pass3_classification_duplicate_check": "VRS-0022 reused, not re-allocated; Chengshan Jiao VTS Centre recorded once and linked to TSS-0219/0220 (and TSS-0221/0222 in B45). VTS versus SRS: the VTS extent is derived from the IMO SRS instrument that names the VTS Centre as operator; flagged. Parent B-X/6 versus components: each component checked separately against the 24 nm circle. Russian VTS communication duties treated as part of VTS, not MRS. Regional VTS of Peter the Great Gulf and Korsakov VTS recorded as leads only.",
+   "unresolved_items": "TSS-0216: current Korsakov rules and any other Russian VTS; TSS-0217: TSS coordinates and current Nakhodka rules; TSS-0218: current Nakhodka rules, territorial sea limit, match of IMO B-X/5 to national Scheme No. 3; TSS-0219/0220: national VTS area description not found.",
+   "audit_result": "PASS WITH UNRESOLVED ITEMS"
+  },
+  {
+   "batch": "B45",
+   "pass2_evidence_check": "Reopened MSC.389(94)/COLREG.2/Circ.66 for East and South (East found partial: points 22-23 at 24.1 and 25.7 nm). Reopened MSC.213(81) and COLREG.2/Circ.57 and plotted both Canary TSS against the CANREP polygon (point-in-polygon test; northern terminations lie on the CANREP boundary within 0.05'). Voluntary notification notes re-quoted. Canary VTS: no official VTS designation found; press release and media treated as Tier 4 / lead only.",
+   "pass3_classification_duplicate_check": "VRS-0022 and VRS-0023 reused; one CANREP entity linked to both Canary TSS; MRCC Las Palmas / Tenerife recorded as MRCCs, not VTS; mandatory CANREP (tankers only) separated from voluntary TSS notification. Chengshan Jiao VTS Centre not duplicated.",
+   "unresolved_items": "TSS-0221: eastern end beyond 24 nm, VTS operation there undocumented; TSS-0221/0222: national VTS area description not found; TSS-0223/0224: Salvamento Marítimo site and ALRS Vol 6 not checked for any coastal VTS designation.",
+   "audit_result": "PASS WITH UNRESOLVED ITEMS"
+  }
+ ],
+ "method_notes": "Research 29 Sep 2026. IMO resolutions and COLREG.2 circulars downloaded and text-extracted with pypdf; TSS coordinates plotted: Chengshan Jiao points measured against the 24 nm SRS circle (Vincenty on WGS 84 for boundary-critical points; equirectangular for others, error well under 0.1 nm at these ranges); Canary TSS points tested against the CANREP polygon (ray casting on geographic coordinates). Russian port rules read from Rossiyskaya Gazeta (2011 original) and a legalacts.ru consolidation (to 15.12.2017); Consultant/Garant blocked. Korsakov rules only available as Mintrans draft .doc files (text extracted from UTF-16 binary). Salvamento Marítimo website failed (TLS chain error / HTTP 503); TLS verification was not disabled. Chinese national VTS rules for Chengshan Jiao not found in searches of MOT/MSA and secondary hosts. TSS names follow the input records (IMO component names 'North', 'East', 'South'). No repository files edited."
+}

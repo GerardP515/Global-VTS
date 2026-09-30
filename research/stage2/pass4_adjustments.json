@@ -1,0 +1,833 @@
+{
+ "records": {
+  "TSS-0066": {
+   "evidence_summary": "IMO B-II/19 'Off the coast of Norway' component, part of the former 2007 'Vardø to Røst' system (consolidated 1 June 2021, R-S10). Inside BARENTS SRS (VRS-0009): Kystverket states the Vardø to Røst TSS are within its operational area and the Kystverket TSS polygons fall inside the MSC.348(91) boundary. Ships of 5,000 GT and above, all tankers, hazardous cargo ships etc. report to Vardø VTS centre. No statutory VTS area covers the TSS; NOR VTS monitors routeing-measure traffic as an information service outside VTS areas. Pass 4: the Regulation on vessels' notification obligations (21 Dec 2015 no. 1790) confirms the only transit reporting duty is Barents SRS (chapter 7), southern limit 67 10 N.",
+   "_reason": "Project decision 1 (user, 30 Sep 2026): NOR VTS monitoring of the offshore routeing measures counts as VTS coverage.",
+   "unresolved_issue": "Coverage rests on a project rule (decision 1): NOR VTS provides an information and monitoring service for the TSS, not a statutory VTS area; participation is not compulsory.",
+   "association_status": "VTS + MRS",
+   "vts_name": "NOR VTS (Vardø VTS centre)",
+   "vts_authority": "Norwegian Coastal Administration (Kystverket)",
+   "vts_centre": "Vardø",
+   "vts_sector": "Information service and monitoring for routeing measures outside the statutory VTS areas",
+   "vts_coverage": "full",
+   "vts_boundary_basis": "Project decision 1 (user, 30 Sep 2026): shore monitoring of a TSS by a VTS centre outside a statutory VTS area counts as VTS coverage. Kystverket lists NOR VTS (Vardø) as the 'Information service for Barents SRS and routing schemes (TSS) in Norway' and states the centre 'monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast'. The TSS is not inside any statutory VTS area under the Maritime Traffic Regulations s.6.",
+   "vts_source_ids": [
+    "R-S7",
+    "R-S8",
+    "R-S3",
+    "R-S4"
+   ],
+   "vts_leads": ""
+  },
+  "TSS-0067": {
+   "evidence_summary": "IMO B-II/19 'Off the coast of Norway' component, part of the former 2007 'Vardø to Røst' system (consolidated 1 June 2021, R-S10). Inside BARENTS SRS (VRS-0009): Kystverket states the Vardø to Røst TSS are within its operational area and the Kystverket TSS polygons fall inside the MSC.348(91) boundary. Ships of 5,000 GT and above, all tankers, hazardous cargo ships etc. report to Vardø VTS centre. No statutory VTS area covers the TSS; NOR VTS monitors routeing-measure traffic as an information service outside VTS areas. Pass 4: the Regulation on vessels' notification obligations (21 Dec 2015 no. 1790) confirms the only transit reporting duty is Barents SRS (chapter 7), southern limit 67 10 N.",
+   "_reason": "Project decision 1 (user, 30 Sep 2026): NOR VTS monitoring of the offshore routeing measures counts as VTS coverage.",
+   "unresolved_issue": "Coverage rests on a project rule (decision 1): NOR VTS provides an information and monitoring service for the TSS, not a statutory VTS area; participation is not compulsory.",
+   "association_status": "VTS + MRS",
+   "vts_name": "NOR VTS (Vardø VTS centre)",
+   "vts_authority": "Norwegian Coastal Administration (Kystverket)",
+   "vts_centre": "Vardø",
+   "vts_sector": "Information service and monitoring for routeing measures outside the statutory VTS areas",
+   "vts_coverage": "full",
+   "vts_boundary_basis": "Project decision 1 (user, 30 Sep 2026): shore monitoring of a TSS by a VTS centre outside a statutory VTS area counts as VTS coverage. Kystverket lists NOR VTS (Vardø) as the 'Information service for Barents SRS and routing schemes (TSS) in Norway' and states the centre 'monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast'. The TSS is not inside any statutory VTS area under the Maritime Traffic Regulations s.6.",
+   "vts_source_ids": [
+    "R-S7",
+    "R-S8",
+    "R-S3",
+    "R-S4"
+   ],
+   "vts_leads": ""
+  },
+  "TSS-0068": {
+   "evidence_summary": "IMO B-II/19 'Off the coast of Norway' component, part of the former 2007 'Vardø to Røst' system (consolidated 1 June 2021, R-S10). Inside BARENTS SRS (VRS-0009): Kystverket states the Vardø to Røst TSS are within its operational area and the Kystverket TSS polygons fall inside the MSC.348(91) boundary. Ships of 5,000 GT and above, all tankers, hazardous cargo ships etc. report to Vardø VTS centre. No statutory VTS area covers the TSS; NOR VTS monitors routeing-measure traffic as an information service outside VTS areas. Pass 4: the Regulation on vessels' notification obligations (21 Dec 2015 no. 1790) confirms the only transit reporting duty is Barents SRS (chapter 7), southern limit 67 10 N.",
+   "_reason": "Project decision 1 (user, 30 Sep 2026): NOR VTS monitoring of the offshore routeing measures counts as VTS coverage.",
+   "unresolved_issue": "Coverage rests on a project rule (decision 1): NOR VTS provides an information and monitoring service for the TSS, not a statutory VTS area; participation is not compulsory.",
+   "association_status": "VTS + MRS",
+   "vts_name": "NOR VTS (Vardø VTS centre)",
+   "vts_authority": "Norwegian Coastal Administration (Kystverket)",
+   "vts_centre": "Vardø",
+   "vts_sector": "Information service and monitoring for routeing measures outside the statutory VTS areas",
+   "vts_coverage": "full",
+   "vts_boundary_basis": "Project decision 1 (user, 30 Sep 2026): shore monitoring of a TSS by a VTS centre outside a statutory VTS area counts as VTS coverage. Kystverket lists NOR VTS (Vardø) as the 'Information service for Barents SRS and routing schemes (TSS) in Norway' and states the centre 'monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast'. The TSS is not inside any statutory VTS area under the Maritime Traffic Regulations s.6.",
+   "vts_source_ids": [
+    "R-S7",
+    "R-S8",
+    "R-S3",
+    "R-S4"
+   ],
+   "vts_leads": ""
+  },
+  "TSS-0069": {
+   "evidence_summary": "IMO B-II/19 'Off the coast of Norway' component, part of the former 2007 'Vardø to Røst' system (consolidated 1 June 2021, R-S10). Inside BARENTS SRS (VRS-0009): Kystverket states the Vardø to Røst TSS are within its operational area and the Kystverket TSS polygons fall inside the MSC.348(91) boundary. Ships of 5,000 GT and above, all tankers, hazardous cargo ships etc. report to Vardø VTS centre. No statutory VTS area covers the TSS; NOR VTS monitors routeing-measure traffic as an information service outside VTS areas. Pass 4: the Regulation on vessels' notification obligations (21 Dec 2015 no. 1790) confirms the only transit reporting duty is Barents SRS (chapter 7), southern limit 67 10 N.",
+   "_reason": "Project decision 1 (user, 30 Sep 2026): NOR VTS monitoring of the offshore routeing measures counts as VTS coverage.",
+   "unresolved_issue": "Coverage rests on a project rule (decision 1): NOR VTS provides an information and monitoring service for the TSS, not a statutory VTS area; participation is not compulsory.",
+   "association_status": "VTS + MRS",
+   "vts_name": "NOR VTS (Vardø VTS centre)",
+   "vts_authority": "Norwegian Coastal Administration (Kystverket)",
+   "vts_centre": "Vardø",
+   "vts_sector": "Information service and monitoring for routeing measures outside the statutory VTS areas",
+   "vts_coverage": "full",
+   "vts_boundary_basis": "Project decision 1 (user, 30 Sep 2026): shore monitoring of a TSS by a VTS centre outside a statutory VTS area counts as VTS coverage. Kystverket lists NOR VTS (Vardø) as the 'Information service for Barents SRS and routing schemes (TSS) in Norway' and states the centre 'monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast'. The TSS is not inside any statutory VTS area under the Maritime Traffic Regulations s.6.",
+   "vts_source_ids": [
+    "R-S7",
+    "R-S8",
+    "R-S3",
+    "R-S4"
+   ],
+   "vts_leads": ""
+  },
+  "TSS-0070": {
+   "evidence_summary": "IMO B-II/19 'Off the coast of Norway' component, part of the former 2007 'Vardø to Røst' system (consolidated 1 June 2021, R-S10). Inside BARENTS SRS (VRS-0009): Kystverket states the Vardø to Røst TSS are within its operational area and the Kystverket TSS polygons fall inside the MSC.348(91) boundary. Ships of 5,000 GT and above, all tankers, hazardous cargo ships etc. report to Vardø VTS centre. No statutory VTS area covers the TSS; NOR VTS monitors routeing-measure traffic as an information service outside VTS areas. Pass 4: the Regulation on vessels' notification obligations (21 Dec 2015 no. 1790) confirms the only transit reporting duty is Barents SRS (chapter 7), southern limit 67 10 N.",
+   "_reason": "Project decision 1 (user, 30 Sep 2026): NOR VTS monitoring of the offshore routeing measures counts as VTS coverage.",
+   "unresolved_issue": "Coverage rests on a project rule (decision 1): NOR VTS provides an information and monitoring service for the TSS, not a statutory VTS area; participation is not compulsory.",
+   "association_status": "VTS + MRS",
+   "vts_name": "NOR VTS (Vardø VTS centre)",
+   "vts_authority": "Norwegian Coastal Administration (Kystverket)",
+   "vts_centre": "Vardø",
+   "vts_sector": "Information service and monitoring for routeing measures outside the statutory VTS areas",
+   "vts_coverage": "full",
+   "vts_boundary_basis": "Project decision 1 (user, 30 Sep 2026): shore monitoring of a TSS by a VTS centre outside a statutory VTS area counts as VTS coverage. Kystverket lists NOR VTS (Vardø) as the 'Information service for Barents SRS and routing schemes (TSS) in Norway' and states the centre 'monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast'. The TSS is not inside any statutory VTS area under the Maritime Traffic Regulations s.6.",
+   "vts_source_ids": [
+    "R-S7",
+    "R-S8",
+    "R-S3",
+    "R-S4"
+   ],
+   "vts_leads": ""
+  },
+  "TSS-0071": {
+   "evidence_summary": "IMO B-II/19 'Off the coast of Norway' component, part of the former 2007 'Vardø to Røst' system (consolidated 1 June 2021, R-S10). Inside BARENTS SRS (VRS-0009): Kystverket states the Vardø to Røst TSS are within its operational area and the Kystverket TSS polygons fall inside the MSC.348(91) boundary. Ships of 5,000 GT and above, all tankers, hazardous cargo ships etc. report to Vardø VTS centre. No statutory VTS area covers the TSS; NOR VTS monitors routeing-measure traffic as an information service outside VTS areas. Pass 4: the Regulation on vessels' notification obligations (21 Dec 2015 no. 1790) confirms the only transit reporting duty is Barents SRS (chapter 7), southern limit 67 10 N.",
+   "_reason": "Project decision 1 (user, 30 Sep 2026): NOR VTS monitoring of the offshore routeing measures counts as VTS coverage.",
+   "unresolved_issue": "Coverage rests on a project rule (decision 1): NOR VTS provides an information and monitoring service for the TSS, not a statutory VTS area; participation is not compulsory.",
+   "association_status": "VTS + MRS",
+   "vts_name": "NOR VTS (Vardø VTS centre)",
+   "vts_authority": "Norwegian Coastal Administration (Kystverket)",
+   "vts_centre": "Vardø",
+   "vts_sector": "Information service and monitoring for routeing measures outside the statutory VTS areas",
+   "vts_coverage": "full",
+   "vts_boundary_basis": "Project decision 1 (user, 30 Sep 2026): shore monitoring of a TSS by a VTS centre outside a statutory VTS area counts as VTS coverage. Kystverket lists NOR VTS (Vardø) as the 'Information service for Barents SRS and routing schemes (TSS) in Norway' and states the centre 'monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast'. The TSS is not inside any statutory VTS area under the Maritime Traffic Regulations s.6.",
+   "vts_source_ids": [
+    "R-S7",
+    "R-S8",
+    "R-S3",
+    "R-S4"
+   ],
+   "vts_leads": ""
+  },
+  "TSS-0072": {
+   "evidence_summary": "IMO B-II/19 'Off the coast of Norway' component, part of the former 2007 'Vardø to Røst' system (consolidated 1 June 2021, R-S10). Inside BARENTS SRS (VRS-0009): Kystverket states the Vardø to Røst TSS are within its operational area and the Kystverket TSS polygons fall inside the MSC.348(91) boundary. Ships of 5,000 GT and above, all tankers, hazardous cargo ships etc. report to Vardø VTS centre. No statutory VTS area covers the TSS; NOR VTS monitors routeing-measure traffic as an information service outside VTS areas. Both Røst clusters (northern 68°01'N to 68°16'N; southern 67°29'N to 67°40'N) are inside the Barents SRS boundary. Pass 4: the Regulation on vessels' notification obligations (21 Dec 2015 no. 1790) confirms the only transit reporting duty is Barents SRS (chapter 7), southern limit 67 10 N.",
+   "_reason": "Project decision 1 (user, 30 Sep 2026): NOR VTS monitoring of the offshore routeing measures counts as VTS coverage.",
+   "unresolved_issue": "Coverage rests on a project rule (decision 1): NOR VTS provides an information and monitoring service for the TSS, not a statutory VTS area; participation is not compulsory.",
+   "association_status": "VTS + MRS",
+   "vts_name": "NOR VTS (Vardø VTS centre)",
+   "vts_authority": "Norwegian Coastal Administration (Kystverket)",
+   "vts_centre": "Vardø",
+   "vts_sector": "Information service and monitoring for routeing measures outside the statutory VTS areas",
+   "vts_coverage": "full",
+   "vts_boundary_basis": "Project decision 1 (user, 30 Sep 2026): shore monitoring of a TSS by a VTS centre outside a statutory VTS area counts as VTS coverage. Kystverket lists NOR VTS (Vardø) as the 'Information service for Barents SRS and routing schemes (TSS) in Norway' and states the centre 'monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast'. The TSS is not inside any statutory VTS area under the Maritime Traffic Regulations s.6.",
+   "vts_source_ids": [
+    "R-S7",
+    "R-S8",
+    "R-S3",
+    "R-S4"
+   ],
+   "vts_leads": ""
+  },
+  "TSS-0073": {
+   "evidence_summary": "IMO B-II/19 'Off the coast of Norway' component, part of the former 2007 'Vardø to Røst' system (consolidated 1 June 2021, R-S10). Inside BARENTS SRS (VRS-0009): Kystverket states the Vardø to Røst TSS are within its operational area and the Kystverket TSS polygons fall inside the MSC.348(91) boundary. Ships of 5,000 GT and above, all tankers, hazardous cargo ships etc. report to Vardø VTS centre. No statutory VTS area covers the TSS; NOR VTS monitors routeing-measure traffic as an information service outside VTS areas. Both Røst clusters (northern 68°01'N to 68°16'N; southern 67°29'N to 67°40'N) are inside the Barents SRS boundary. Pass 4: the Regulation on vessels' notification obligations (21 Dec 2015 no. 1790) confirms the only transit reporting duty is Barents SRS (chapter 7), southern limit 67 10 N.",
+   "_reason": "Project decision 1 (user, 30 Sep 2026): NOR VTS monitoring of the offshore routeing measures counts as VTS coverage.",
+   "unresolved_issue": "Coverage rests on a project rule (decision 1): NOR VTS provides an information and monitoring service for the TSS, not a statutory VTS area; participation is not compulsory.",
+   "association_status": "VTS + MRS",
+   "vts_name": "NOR VTS (Vardø VTS centre)",
+   "vts_authority": "Norwegian Coastal Administration (Kystverket)",
+   "vts_centre": "Vardø",
+   "vts_sector": "Information service and monitoring for routeing measures outside the statutory VTS areas",
+   "vts_coverage": "full",
+   "vts_boundary_basis": "Project decision 1 (user, 30 Sep 2026): shore monitoring of a TSS by a VTS centre outside a statutory VTS area counts as VTS coverage. Kystverket lists NOR VTS (Vardø) as the 'Information service for Barents SRS and routing schemes (TSS) in Norway' and states the centre 'monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast'. The TSS is not inside any statutory VTS area under the Maritime Traffic Regulations s.6.",
+   "vts_source_ids": [
+    "R-S7",
+    "R-S8",
+    "R-S3",
+    "R-S4"
+   ],
+   "vts_leads": ""
+  },
+  "TSS-0074": {
+   "evidence_summary": "New TSS in the 'Off the coast of Norway' system from 1 June 2021 (R-S10), separately named in Kystverket data ('Trafikkseparasjonssystem utenfor Træna'). Kystverket's Barents SRS statement covers only 'Vardø to Røst'; geometry confirms the TSS is south of the Barents SRS limit. Not in any statutory VTS area (complete §6 list). NOR VTS information service for routeing schemes south of 65N exists (contact line) but is not a VTS area and involves no mandatory report. Pass 4: the Regulation on vessels' notification obligations (21 Dec 2015 no. 1790) confirms the only transit reporting duty is Barents SRS (chapter 7), southern limit 67 10 N.",
+   "_reason": "Project decision 1 (user, 30 Sep 2026): NOR VTS monitoring of the offshore routeing measures counts as VTS coverage.",
+   "unresolved_issue": "Coverage rests on a project rule (decision 1): NOR VTS provides an information and monitoring service for the TSS, not a statutory VTS area; participation is not compulsory.",
+   "association_status": "VTS only",
+   "vts_name": "NOR VTS (Vardø VTS centre)",
+   "vts_authority": "Norwegian Coastal Administration (Kystverket)",
+   "vts_centre": "Vardø",
+   "vts_sector": "Information service and monitoring for routeing measures outside the statutory VTS areas",
+   "vts_coverage": "full",
+   "vts_boundary_basis": "Project decision 1 (user, 30 Sep 2026): shore monitoring of a TSS by a VTS centre outside a statutory VTS area counts as VTS coverage. Kystverket lists NOR VTS (Vardø) as the 'Information service for Barents SRS and routing schemes (TSS) in Norway' and states the centre 'monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast'. The TSS is not inside any statutory VTS area under the Maritime Traffic Regulations s.6.",
+   "vts_source_ids": [
+    "R-S7",
+    "R-S8",
+    "R-S3",
+    "R-S4"
+   ],
+   "vts_leads": ""
+  },
+  "TSS-0075": {
+   "evidence_summary": "New TSS in the 'Off the coast of Norway' system from 1 June 2021 (R-S10), separately named in Kystverket data ('Trafikkseparasjonssystem utenfor Halten'). Kystverket's Barents SRS statement covers only 'Vardø to Røst'; geometry confirms the TSS is south of the Barents SRS limit. Not in any statutory VTS area (complete §6 list). NOR VTS information service for routeing schemes south of 65N exists (contact line) but is not a VTS area and involves no mandatory report. Pass 4: the Regulation on vessels' notification obligations (21 Dec 2015 no. 1790) confirms the only transit reporting duty is Barents SRS (chapter 7), southern limit 67 10 N.",
+   "_reason": "Project decision 1 (user, 30 Sep 2026): NOR VTS monitoring of the offshore routeing measures counts as VTS coverage.",
+   "unresolved_issue": "Coverage rests on a project rule (decision 1): NOR VTS provides an information and monitoring service for the TSS, not a statutory VTS area; participation is not compulsory.",
+   "association_status": "VTS only",
+   "vts_name": "NOR VTS (Vardø VTS centre)",
+   "vts_authority": "Norwegian Coastal Administration (Kystverket)",
+   "vts_centre": "Vardø",
+   "vts_sector": "Information service and monitoring for routeing measures outside the statutory VTS areas",
+   "vts_coverage": "full",
+   "vts_boundary_basis": "Project decision 1 (user, 30 Sep 2026): shore monitoring of a TSS by a VTS centre outside a statutory VTS area counts as VTS coverage. Kystverket lists NOR VTS (Vardø) as the 'Information service for Barents SRS and routing schemes (TSS) in Norway' and states the centre 'monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast'. The TSS is not inside any statutory VTS area under the Maritime Traffic Regulations s.6.",
+   "vts_source_ids": [
+    "R-S7",
+    "R-S8",
+    "R-S3",
+    "R-S4"
+   ],
+   "vts_leads": ""
+  },
+  "TSS-0076": {
+   "evidence_summary": "IMO B-II/19 'Off the coast of Norway' (consolidated 1 June 2021, S-S6), stretch Halten-Utsira (in force 2011, S-S5). Not inside any statutory Norwegian VTS area and not inside any Part I reporting area. Vardø VTS (NOR VTS) monitors tanker and risk traffic along the whole coast outside VTS areas and the NCA supervises compliance with the routeing measures (s.172), but this is surveillance outside a declared VTS area, not a VTS service area covering the TSS. Pass 4: the Regulation on vessels' notification obligations (21 Dec 2015 no. 1790) confirms the only transit reporting duty is Barents SRS (chapter 7), southern limit 67 10 N.",
+   "_reason": "Project decision 1 (user, 30 Sep 2026): NOR VTS monitoring of the offshore routeing measures counts as VTS coverage.",
+   "unresolved_issue": "Coverage rests on a project rule (decision 1): NOR VTS provides an information and monitoring service for the TSS, not a statutory VTS area; participation is not compulsory.",
+   "association_status": "VTS only",
+   "vts_name": "NOR VTS (Vardø VTS centre)",
+   "vts_authority": "Norwegian Coastal Administration (Kystverket)",
+   "vts_centre": "Vardø",
+   "vts_sector": "Information service and monitoring for routeing measures outside the statutory VTS areas",
+   "vts_coverage": "full",
+   "vts_boundary_basis": "Project decision 1 (user, 30 Sep 2026): shore monitoring of a TSS by a VTS centre outside a statutory VTS area counts as VTS coverage. Kystverket lists NOR VTS (Vardø) as the 'Information service for Barents SRS and routing schemes (TSS) in Norway' and states the centre 'monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast'. The TSS is not inside any statutory VTS area under the Maritime Traffic Regulations s.6.",
+   "vts_source_ids": [
+    "S-S1",
+    "S-S2",
+    "S-S3",
+    "R-S3",
+    "R-S4"
+   ],
+   "vts_leads": ""
+  },
+  "TSS-0077": {
+   "evidence_summary": "IMO B-II/19 'Off the coast of Norway' (consolidated 1 June 2021, S-S6), stretch Halten-Utsira (in force 2011, S-S5). Not inside any statutory Norwegian VTS area and not inside any Part I reporting area. Vardø VTS (NOR VTS) monitors tanker and risk traffic along the whole coast outside VTS areas and the NCA supervises compliance with the routeing measures (s.172), but this is surveillance outside a declared VTS area, not a VTS service area covering the TSS. Pass 4: the Regulation on vessels' notification obligations (21 Dec 2015 no. 1790) confirms the only transit reporting duty is Barents SRS (chapter 7), southern limit 67 10 N.",
+   "_reason": "Project decision 1 (user, 30 Sep 2026): NOR VTS monitoring of the offshore routeing measures counts as VTS coverage.",
+   "unresolved_issue": "Coverage rests on a project rule (decision 1): NOR VTS provides an information and monitoring service for the TSS, not a statutory VTS area; participation is not compulsory.",
+   "association_status": "VTS only",
+   "vts_name": "NOR VTS (Vardø VTS centre)",
+   "vts_authority": "Norwegian Coastal Administration (Kystverket)",
+   "vts_centre": "Vardø",
+   "vts_sector": "Information service and monitoring for routeing measures outside the statutory VTS areas",
+   "vts_coverage": "full",
+   "vts_boundary_basis": "Project decision 1 (user, 30 Sep 2026): shore monitoring of a TSS by a VTS centre outside a statutory VTS area counts as VTS coverage. Kystverket lists NOR VTS (Vardø) as the 'Information service for Barents SRS and routing schemes (TSS) in Norway' and states the centre 'monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast'. The TSS is not inside any statutory VTS area under the Maritime Traffic Regulations s.6.",
+   "vts_source_ids": [
+    "S-S1",
+    "S-S2",
+    "S-S3",
+    "S-S4",
+    "R-S3",
+    "R-S4"
+   ],
+   "vts_leads": ""
+  },
+  "TSS-0078": {
+   "evidence_summary": "IMO B-II/19 'Off the coast of Norway' (consolidated 1 June 2021, S-S6), stretch Halten-Utsira (in force 2011, S-S5). Not inside any statutory Norwegian VTS area and not inside any Part I reporting area. Vardø VTS (NOR VTS) monitors tanker and risk traffic along the whole coast outside VTS areas and the NCA supervises compliance with the routeing measures (s.172), but this is surveillance outside a declared VTS area, not a VTS service area covering the TSS. Pass 4: the Regulation on vessels' notification obligations (21 Dec 2015 no. 1790) confirms the only transit reporting duty is Barents SRS (chapter 7), southern limit 67 10 N.",
+   "_reason": "Project decision 1 (user, 30 Sep 2026): NOR VTS monitoring of the offshore routeing measures counts as VTS coverage.",
+   "unresolved_issue": "Coverage rests on a project rule (decision 1): NOR VTS provides an information and monitoring service for the TSS, not a statutory VTS area; participation is not compulsory.",
+   "association_status": "VTS only",
+   "vts_name": "NOR VTS (Vardø VTS centre)",
+   "vts_authority": "Norwegian Coastal Administration (Kystverket)",
+   "vts_centre": "Vardø",
+   "vts_sector": "Information service and monitoring for routeing measures outside the statutory VTS areas",
+   "vts_coverage": "full",
+   "vts_boundary_basis": "Project decision 1 (user, 30 Sep 2026): shore monitoring of a TSS by a VTS centre outside a statutory VTS area counts as VTS coverage. Kystverket lists NOR VTS (Vardø) as the 'Information service for Barents SRS and routing schemes (TSS) in Norway' and states the centre 'monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast'. The TSS is not inside any statutory VTS area under the Maritime Traffic Regulations s.6.",
+   "vts_source_ids": [
+    "S-S1",
+    "S-S2",
+    "S-S3",
+    "R-S3",
+    "R-S4"
+   ],
+   "vts_leads": ""
+  },
+  "TSS-0079": {
+   "evidence_summary": "IMO B-II/19 'Off the coast of Norway' (consolidated 1 June 2021, S-S6), stretch Halten-Utsira (in force 2011, S-S5). Not inside any statutory Norwegian VTS area and not inside any Part I reporting area. Vardø VTS (NOR VTS) monitors tanker and risk traffic along the whole coast outside VTS areas and the NCA supervises compliance with the routeing measures (s.172), but this is surveillance outside a declared VTS area, not a VTS service area covering the TSS. Pass 4: the Regulation on vessels' notification obligations (21 Dec 2015 no. 1790) confirms the only transit reporting duty is Barents SRS (chapter 7), southern limit 67 10 N.",
+   "_reason": "Project decision 1 (user, 30 Sep 2026): NOR VTS monitoring of the offshore routeing measures counts as VTS coverage.",
+   "unresolved_issue": "Coverage rests on a project rule (decision 1): NOR VTS provides an information and monitoring service for the TSS, not a statutory VTS area; participation is not compulsory.",
+   "association_status": "VTS only",
+   "vts_name": "NOR VTS (Vardø VTS centre)",
+   "vts_authority": "Norwegian Coastal Administration (Kystverket)",
+   "vts_centre": "Vardø",
+   "vts_sector": "Information service and monitoring for routeing measures outside the statutory VTS areas",
+   "vts_coverage": "full",
+   "vts_boundary_basis": "Project decision 1 (user, 30 Sep 2026): shore monitoring of a TSS by a VTS centre outside a statutory VTS area counts as VTS coverage. Kystverket lists NOR VTS (Vardø) as the 'Information service for Barents SRS and routing schemes (TSS) in Norway' and states the centre 'monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast'. The TSS is not inside any statutory VTS area under the Maritime Traffic Regulations s.6.",
+   "vts_source_ids": [
+    "S-S1",
+    "S-S2",
+    "S-S3",
+    "R-S3",
+    "R-S4"
+   ],
+   "vts_leads": ""
+  },
+  "TSS-0080": {
+   "evidence_summary": "IMO B-II/19 'Off the coast of Norway' (consolidated 1 June 2021, S-S6), stretch Egersund-Risør (in force 2011, S-S5). Not inside any statutory Norwegian VTS area and not inside any Part I reporting area. Vardø VTS (NOR VTS) monitors tanker and risk traffic along the whole coast outside VTS areas and the NCA supervises compliance with the routeing measures (s.172), but this is surveillance outside a declared VTS area, not a VTS service area covering the TSS. Pass 4: the Regulation on vessels' notification obligations (21 Dec 2015 no. 1790) confirms the only transit reporting duty is Barents SRS (chapter 7), southern limit 67 10 N.",
+   "_reason": "Project decision 1 (user, 30 Sep 2026): NOR VTS monitoring of the offshore routeing measures counts as VTS coverage.",
+   "unresolved_issue": "Coverage rests on a project rule (decision 1): NOR VTS provides an information and monitoring service for the TSS, not a statutory VTS area; participation is not compulsory.",
+   "association_status": "VTS only",
+   "vts_name": "NOR VTS (Vardø VTS centre)",
+   "vts_authority": "Norwegian Coastal Administration (Kystverket)",
+   "vts_centre": "Vardø",
+   "vts_sector": "Information service and monitoring for routeing measures outside the statutory VTS areas",
+   "vts_coverage": "full",
+   "vts_boundary_basis": "Project decision 1 (user, 30 Sep 2026): shore monitoring of a TSS by a VTS centre outside a statutory VTS area counts as VTS coverage. Kystverket lists NOR VTS (Vardø) as the 'Information service for Barents SRS and routing schemes (TSS) in Norway' and states the centre 'monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast'. The TSS is not inside any statutory VTS area under the Maritime Traffic Regulations s.6.",
+   "vts_source_ids": [
+    "S-S1",
+    "S-S2",
+    "S-S3",
+    "R-S3",
+    "R-S4"
+   ],
+   "vts_leads": ""
+  },
+  "TSS-0081": {
+   "evidence_summary": "IMO B-II/19 'Off the coast of Norway' (consolidated 1 June 2021, S-S6), stretch Egersund-Risør (in force 2011, S-S5). Not inside any statutory Norwegian VTS area and not inside any Part I reporting area. Vardø VTS (NOR VTS) monitors tanker and risk traffic along the whole coast outside VTS areas and the NCA supervises compliance with the routeing measures (s.172), but this is surveillance outside a declared VTS area, not a VTS service area covering the TSS. Pass 4: the Regulation on vessels' notification obligations (21 Dec 2015 no. 1790) confirms the only transit reporting duty is Barents SRS (chapter 7), southern limit 67 10 N.",
+   "_reason": "Project decision 1 (user, 30 Sep 2026): NOR VTS monitoring of the offshore routeing measures counts as VTS coverage.",
+   "unresolved_issue": "Coverage rests on a project rule (decision 1): NOR VTS provides an information and monitoring service for the TSS, not a statutory VTS area; participation is not compulsory.",
+   "association_status": "VTS only",
+   "vts_name": "NOR VTS (Vardø VTS centre)",
+   "vts_authority": "Norwegian Coastal Administration (Kystverket)",
+   "vts_centre": "Vardø",
+   "vts_sector": "Information service and monitoring for routeing measures outside the statutory VTS areas",
+   "vts_coverage": "full",
+   "vts_boundary_basis": "Project decision 1 (user, 30 Sep 2026): shore monitoring of a TSS by a VTS centre outside a statutory VTS area counts as VTS coverage. Kystverket lists NOR VTS (Vardø) as the 'Information service for Barents SRS and routing schemes (TSS) in Norway' and states the centre 'monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast'. The TSS is not inside any statutory VTS area under the Maritime Traffic Regulations s.6.",
+   "vts_source_ids": [
+    "S-S1",
+    "S-S2",
+    "S-S3",
+    "R-S3",
+    "R-S4"
+   ],
+   "vts_leads": ""
+  },
+  "TSS-0082": {
+   "evidence_summary": "IMO B-II/19 'Off the coast of Norway' (consolidated 1 June 2021, S-S6), stretch Egersund-Risør (in force 2011, S-S5). Not inside any statutory Norwegian VTS area and not inside any Part I reporting area. Vardø VTS (NOR VTS) monitors tanker and risk traffic along the whole coast outside VTS areas and the NCA supervises compliance with the routeing measures (s.172), but this is surveillance outside a declared VTS area, not a VTS service area covering the TSS. Pass 4: the Regulation on vessels' notification obligations (21 Dec 2015 no. 1790) confirms the only transit reporting duty is Barents SRS (chapter 7), southern limit 67 10 N.",
+   "_reason": "Project decision 1 (user, 30 Sep 2026): NOR VTS monitoring of the offshore routeing measures counts as VTS coverage.",
+   "unresolved_issue": "Coverage rests on a project rule (decision 1): NOR VTS provides an information and monitoring service for the TSS, not a statutory VTS area; participation is not compulsory.",
+   "association_status": "VTS only",
+   "vts_name": "NOR VTS (Vardø VTS centre)",
+   "vts_authority": "Norwegian Coastal Administration (Kystverket)",
+   "vts_centre": "Vardø",
+   "vts_sector": "Information service and monitoring for routeing measures outside the statutory VTS areas",
+   "vts_coverage": "full",
+   "vts_boundary_basis": "Project decision 1 (user, 30 Sep 2026): shore monitoring of a TSS by a VTS centre outside a statutory VTS area counts as VTS coverage. Kystverket lists NOR VTS (Vardø) as the 'Information service for Barents SRS and routing schemes (TSS) in Norway' and states the centre 'monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast'. The TSS is not inside any statutory VTS area under the Maritime Traffic Regulations s.6.",
+   "vts_source_ids": [
+    "S-S1",
+    "S-S2",
+    "S-S3",
+    "R-S3",
+    "R-S4"
+   ],
+   "vts_leads": ""
+  },
+  "TSS-0083": {
+   "evidence_summary": "IMO B-II/19 'Off the coast of Norway' (consolidated 1 June 2021, S-S6), stretch Egersund-Risør (in force 2011, S-S5). Not inside any statutory Norwegian VTS area and not inside any Part I reporting area. Vardø VTS (NOR VTS) monitors tanker and risk traffic along the whole coast outside VTS areas and the NCA supervises compliance with the routeing measures (s.172), but this is surveillance outside a declared VTS area, not a VTS service area covering the TSS. Pass 4: the Regulation on vessels' notification obligations (21 Dec 2015 no. 1790) confirms the only transit reporting duty is Barents SRS (chapter 7), southern limit 67 10 N.",
+   "_reason": "Project decision 1 (user, 30 Sep 2026): NOR VTS monitoring of the offshore routeing measures counts as VTS coverage.",
+   "unresolved_issue": "Coverage rests on a project rule (decision 1): NOR VTS provides an information and monitoring service for the TSS, not a statutory VTS area; participation is not compulsory.",
+   "association_status": "VTS only",
+   "vts_name": "NOR VTS (Vardø VTS centre)",
+   "vts_authority": "Norwegian Coastal Administration (Kystverket)",
+   "vts_centre": "Vardø",
+   "vts_sector": "Information service and monitoring for routeing measures outside the statutory VTS areas",
+   "vts_coverage": "full",
+   "vts_boundary_basis": "Project decision 1 (user, 30 Sep 2026): shore monitoring of a TSS by a VTS centre outside a statutory VTS area counts as VTS coverage. Kystverket lists NOR VTS (Vardø) as the 'Information service for Barents SRS and routing schemes (TSS) in Norway' and states the centre 'monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast'. The TSS is not inside any statutory VTS area under the Maritime Traffic Regulations s.6.",
+   "vts_source_ids": [
+    "S-S1",
+    "S-S2",
+    "S-S3",
+    "R-S3",
+    "R-S4"
+   ],
+   "vts_leads": ""
+  },
+  "TSS-0084": {
+   "evidence_summary": "IMO B-II/19 'Off the coast of Norway' (consolidated 1 June 2021, S-S6), stretch Egersund-Risør (in force 2011, S-S5). Not inside any statutory Norwegian VTS area and not inside any Part I reporting area. Vardø VTS (NOR VTS) monitors tanker and risk traffic along the whole coast outside VTS areas and the NCA supervises compliance with the routeing measures (s.172), but this is surveillance outside a declared VTS area, not a VTS service area covering the TSS. Pass 4: the Regulation on vessels' notification obligations (21 Dec 2015 no. 1790) confirms the only transit reporting duty is Barents SRS (chapter 7), southern limit 67 10 N.",
+   "_reason": "Project decision 1 (user, 30 Sep 2026): NOR VTS monitoring of the offshore routeing measures counts as VTS coverage.",
+   "unresolved_issue": "Coverage rests on a project rule (decision 1): NOR VTS provides an information and monitoring service for the TSS, not a statutory VTS area; participation is not compulsory.",
+   "association_status": "VTS only",
+   "vts_name": "NOR VTS (Vardø VTS centre)",
+   "vts_authority": "Norwegian Coastal Administration (Kystverket)",
+   "vts_centre": "Vardø",
+   "vts_sector": "Information service and monitoring for routeing measures outside the statutory VTS areas",
+   "vts_coverage": "full",
+   "vts_boundary_basis": "Project decision 1 (user, 30 Sep 2026): shore monitoring of a TSS by a VTS centre outside a statutory VTS area counts as VTS coverage. Kystverket lists NOR VTS (Vardø) as the 'Information service for Barents SRS and routing schemes (TSS) in Norway' and states the centre 'monitors tankers and other risk vessels that follow the routing measures established outside the Norwegian coast'. The TSS is not inside any statutory VTS area under the Maritime Traffic Regulations s.6.",
+   "vts_source_ids": [
+    "S-S1",
+    "S-S2",
+    "S-S3",
+    "R-S3",
+    "R-S4"
+   ],
+   "vts_leads": ""
+  },
+  "TSS-0085": {
+   "reporting_boundary_basis": "MSC.190(79) para 2.1: the WETREP polygon runs 56°30'N 012°W - 54°40'41\"N 015°W - 50°56'45\"N 015°W - 48°27'N 006°25'W, with the inner closing point 21 on the Irish east coast (52°10'N 006°22'W). At Fastnet's longitude (c. 009°36'W) the southern boundary line lies near 49°23'N, about 2° south of the TSS, so the TSS (off Fastnet Rock, c. 51°18'-51°23'N) is wholly inside. Applies only to oil tankers >600 dwt carrying heavy crude, heavy fuel oil or bitumen/tar; WETREP does not name the TSS. Pass 4: MSC.190(79) annex para 6.2.1 names 'Off Fastnet Rock' among the TSS in the WETREP area. Applies to oil tankers over 600 dwt carrying heavy grade oil.",
+   "_reason": "Pass 4 stronger citation."
+  },
+  "TSS-0087": {
+   "unresolved_issue": "Partial WETREP coverage by coordinate comparison against the 1973/1996 centreline; confirm on current chart. No Irish coastal VTS source found; Irish Coast Guard VTS status not researched to exhaustion. WETREP para 6.2.1 also names Off Skerries, which lies beyond both Irish Sea closing lines; the list does not match the boundary, so coordinates govern.",
+   "_reason": "Pass 4 caveat."
+  },
+  "TSS-0091": {
+   "reporting_boundary_basis": "Boundary inclusion (not named: TSS adopted 2006, after MSC.190(79)). WETREP area runs from the UK coast out to the line 56 30 N 012 W to 62 N 003 W; the TSS (about 57 24-57 29 N, 006 49-006 58 W) lies well inside. Tanker-only. Pass 4: Minches are UK internal waters but WETREP's coast-based area does not exclude them.",
+   "_reason": "Pass 4 note."
+  },
+  "TSS-0094": {
+   "unresolved_issue": "Salvamento Marítimo website unavailable (HTTP 503 / TLS chain error), so current VHF channels not confirmed from the operator. Salvamento Maritimo website unreachable (TLS error, HTTP 503); current operation rests on the February 2025 Ministry of Transport article.",
+   "_reason": "Pass 4 caveat."
+  },
+  "TSS-0095": {
+   "unresolved_issue": "Coverage rests on coordinate comparison with narrow margins (about 0.2' of longitude); consolidated current text of DL 263/2009 not opened; DGRM own web page not opened. Whether Decree-Law 263/2009 has been amended could not be confirmed (Diario da Republica page empty).",
+   "_reason": "Pass 4 caveat."
+  },
+  "TSS-0088": {
+   "mandatory_reporting": "Unresolved",
+   "_reason": "Pass 4: WETREP para 6.2.1 names Off Skerries but the boundary excludes the Irish Sea; conflict within the IMO text, so reporting is Unresolved, not No."
+  },
+  "TSS-0051": {
+   "vts_boundary_basis": "PIG 2026 gives the Rotterdam VTS service area as 'Extending 38 nautical miles seawards of the port entrance' (P-S7). The official sector chart in the 2026 VHF procedure (Bijlage 2, P-S8; legally published P-S9) shows the Eurochannel buoys E1 to E9 and the traffic lanes west of the Maas Junction within the area shaded as Sector Maas Approach (VHF 1). Distance test from the North Mole head (51 59'.67N 004 02'.84E) using Circ.67 positions (P-S1): westernmost positions (44) 52 04'.37N 003 08'.52E and (61) 51 51'.22N 003 09'.29E are about 34 nm from the entrance, inside 38 nm. Note: the statutory Rotterdam approach area (STZ Bijlage 1(f), P-S10) ends at the inner ends of the Maas TSSs (buoys MN3, MN2, MNW2, MNW3-MW4, MW5), so statutory powers (traffic instructions, navigational assistance) do not extend over the TSS; the association rests on the VTS service area (information/traffic organisation). Pass 4 correction: the 2026 sector chart does not show this scheme (it stops at the western edge of the Maas Junction precautionary area). Coverage rests only on the Port Information Guide 2026 description of the VTS area as 38 nm seawards of the port entrance; the scheme's westernmost positions are 33.7 to 34.5 nm out.",
+   "_reason": "Pass 4.",
+   "unresolved_issue": "Outer VTS limit is stated as a distance ('38 nautical miles seawards'); the western end of the scheme is 4 nm inside it on a radius reading. If the 38 nm were measured along the channel the result is the same, but no coordinate boundary was found to confirm. Lower confidence: coverage rests on the port authority's 38 nm description, not a statutory boundary (the statutory Rotterdam approach area ends at the inner end of the scheme). Confirm against ALRS Vol 6 or a charted VTS limit."
+  },
+  "TSS-0048": {
+   "unresolved_issue": "VTS area outer limit is stated only as '38 nautical miles seawards of the port entrance' plus a schematic chart; no coordinate boundary found. Statutory approach area stops at the TSS southern end. Coordinator may treat coverage as moderate-confidence. Pass 4: the sector chart shows only the southern end; full coverage rests on the 38 nm description (scheme 8.6 to 24.8 nm from the North Mole head).",
+   "_reason": "Pass 4."
+  },
+  "TSS-0055": {
+   "vts_boundary_basis": "The VTS area at sea is the territorial sea within a 12 nm radius of the IJmuiden breakwater heads, including the extended IJ-geul (P-S12); the statutory IJmuiden approach area uses a 12 nm arc from reference point 52 27'.9N 004 32'.1E (P-S10). IJmuiden West Inner spans 004 07'-004 20'.35E (Circ.64, P-S2). Its eastern end (e.g. (16) 52 30'.52N 004 20'.35E, about 7.6 nm) lies inside 12 nm; the 12 nm arc crosses the scheme near 004 12'.6E, so roughly the eastern 4-5 nm (less if the territorial-sea limit is tighter) is inside and the western part is outside. Partial. Pass 4: the 12 nm arc crosses the scheme at about 004 12.5E to 004 13.3E; the extended IJ-geul corridor runs between the separation zones, so the VTS area adjoins the scheme's inner edge but the lanes west of about 004 13E are outside.",
+   "_reason": "Pass 4 note."
+  },
+  "TSS-0062": {
+   "vts_boundary_basis": "AnlBV Nr. 3.1 names the TSS and requires ships entering the Inner German Bight from the west to report to German Bight Traffic at 007°10'E, whether or not they use GBWA (Q-S1). On the AnlBV Anhang chart (Q-S2) the Inner German Bight (VHF 80 area) boundary runs north-south at about 007°18'E and crosses only the easternmost few miles of the TSS; the TSS's main length to the west lies outside. So coverage by German Bight Traffic is partial (eastern end). The western part lies in the outer German Bight, where ELWIS lists Verkehrszentrale Cuxhaven 'Äußere Deutsche Bucht' with sector German North Sea Traffic (Q-S3), but no boundary shows it includes the TSS. Pass 4: AnlBV Nr. 3.1 requires a report to German Bight Traffic at 007 10E, west of the statutory VHF 80 boundary (about 007 19E); a commercial source (findaport, lead only) gives a German Bight Traffic VHF 79 reporting point at buoy GW/B (54 10.42N 006 54.00E) on this TSS. Coverage probably extends further west than recorded; not confirmed by a Tier 1 source.",
+   "_reason": "Pass 4 note."
+  },
+  "TSS-0046": {
+   "reporting_boundary_basis": "No IMO Part I system covers the area (P-S6; WETREP north-eastern limit is the line B/NL border to 52 12'N UK coast, far to the south-west, P-S5). The Dutch legal vehicle for reporting systems outside the territorial sea (P-S16) has one implementing regulation, which contains routeing measures only and no reporting system (P-S17). Pass 4: Scheepvaartreglement territoriale zee art. 5(1) requires ships of 300 GT or more, or carrying dangerous goods, to report before entering the Dutch territorial sea; this is made as the VTS or approach-area arrival report and is not a separate ship reporting system.",
+   "_reason": "Pass 4 note."
+  },
+  "TSS-0047": {
+   "reporting_boundary_basis": "Outside all Part I systems (P-S6; WETREP limit line runs 51 22'N 003 22'E to 52 12'N UK coast, P-S5). Dutch EEZ routeing and reporting regulation contains no reporting system (P-S16, P-S17). Circ.59 recommends this western route to deep-draught tankers exempted from the southern mandatory tanker route and asks for a log entry only (P-S4): routeing, not reporting. Pass 4: Scheepvaartreglement territoriale zee art. 5(1) requires ships of 300 GT or more, or carrying dangerous goods, to report before entering the Dutch territorial sea; this is made as the VTS or approach-area arrival report and is not a separate ship reporting system.",
+   "_reason": "Pass 4 note."
+  },
+  "TSS-0052": {
+   "reporting_boundary_basis": "East of the WETREP limit line (at 52 05'-52 13'N the line lies near 001 50'E; scheme is at 002 56'-003 10'E) (P-S5); no other Part I system (P-S6); no Dutch EEZ reporting system (P-S16, P-S17). Pass 4: Scheepvaartreglement territoriale zee art. 5(1) requires ships of 300 GT or more, or carrying dangerous goods, to report before entering the Dutch territorial sea; this is made as the VTS or approach-area arrival report and is not a separate ship reporting system.",
+   "_reason": "Pass 4 note."
+  },
+  "TSS-0056": {
+   "reporting_boundary_basis": "No IMO Part I system covers this area: nearest are WETREP (VRS-0005), whose North Sea limit runs from the Belgium/Netherlands border to the UK east coast at 52°12'N (Q-S15), and CALDOVREP (VRS-0008, Dover Strait). No Dutch national mandatory reporting system for this area identified: STZ art. 5(1) territorial-sea entry report does not reach it because the TSS lies seaward of the 12 nm IJmuiden arc (Q-S10). The VHF 7 report to IJmuiden Approaches applies to ships bound for IJmuiden and is VTS reporting (Q-S9). Pass 4: Scheepvaartreglement territoriale zee art. 5(1) requires ships of 300 GT or more, or carrying dangerous goods, to report before entering the Dutch territorial sea; this is made as the VTS or approach-area arrival report and is not a separate ship reporting system.",
+   "_reason": "Pass 4 note."
+  },
+  "TSS-0057": {
+   "reporting_boundary_basis": "No IMO Part I system covers this area: nearest are WETREP (VRS-0005), whose North Sea limit runs from the Belgium/Netherlands border to the UK east coast at 52°12'N (Q-S15), and CALDOVREP (VRS-0008, Dover Strait). Seaward of the 12 nm IJmuiden arc, so the STZ art. 5(1) territorial-sea entry report does not apply (Q-S10). VHF 7 report to IJmuiden Approaches is VTS reporting for ships bound to IJmuiden (Q-S9). Pass 4: Scheepvaartreglement territoriale zee art. 5(1) requires ships of 300 GT or more, or carrying dangerous goods, to report before entering the Dutch territorial sea; this is made as the VTS or approach-area arrival report and is not a separate ship reporting system.",
+   "_reason": "Pass 4 note."
+  },
+  "TSS-0058": {
+   "reporting_boundary_basis": "No IMO Part I system covers this area: nearest are WETREP (VRS-0005), whose North Sea limit runs from the Belgium/Netherlands border to the UK east coast at 52°12'N (Q-S15), and CALDOVREP (VRS-0008, Dover Strait). Part of the TSS lies within the Dutch territorial sea (inner lane boundary about 9.5 nm off Texel). STZ art. 5(1) (Q-S10) requires ships of 300 GT or more to report before entering the Dutch territorial sea on a channel designated by ministerial regulation to the competent authority. The designation, receiving authority and practical operation were not found (Q-S11). This is not a named scheme and may be a dormant provision. Pass 4: Scheepvaartreglement territoriale zee art. 5(1) requires ships of 300 GT or more, or carrying dangerous goods, to report before entering the Dutch territorial sea; this is made as the VTS or approach-area arrival report and is not a separate ship reporting system.",
+   "_reason": "Pass 4 note."
+  },
+  "TSS-0059": {
+   "reporting_boundary_basis": "No IMO Part I system covers this area: nearest are WETREP (VRS-0005), whose North Sea limit runs from the Belgium/Netherlands border to the UK east coast at 52°12'N (Q-S15), and CALDOVREP (VRS-0008, Dover Strait). IMO coordinates for B-II/13 were not retrieved, so it is not known whether any part lies in the Dutch territorial sea where STZ art. 5(1) entry reporting would apply (Q-S10); that provision's channel and authority are also unconfirmed. Pass 4: Scheepvaartreglement territoriale zee art. 5(1) requires ships of 300 GT or more, or carrying dangerous goods, to report before entering the Dutch territorial sea; this is made as the VTS or approach-area arrival report and is not a separate ship reporting system.",
+   "_reason": "Pass 4 note."
+  },
+  "TSS-0060": {
+   "reporting_boundary_basis": "No IMO Part I system covers this area: nearest are WETREP (VRS-0005), whose North Sea limit runs from the Belgium/Netherlands border to the UK east coast at 52°12'N (Q-S15), and CALDOVREP (VRS-0008, Dover Strait). Territorial-sea extent not checked (IMO coordinates not retrieved), so the applicability of STZ art. 5(1) is not resolved. Pass 4: Scheepvaartreglement territoriale zee art. 5(1) requires ships of 300 GT or more, or carrying dangerous goods, to report before entering the Dutch territorial sea; this is made as the VTS or approach-area arrival report and is not a separate ship reporting system.",
+   "_reason": "Pass 4 note."
+  },
+  "TSS-0153": {
+   "association_status": "MRS only",
+   "_reason": "Project decision 3 (user, 30 Sep 2026): national reporting schemes count as MRS, including schemes mandatory only for national-flag ships.",
+   "mandatory_reporting": "Yes",
+   "vrs_id": "",
+   "voluntary_reporting": "No (foreign-ship participation recorded under the national scheme)",
+   "unresolved_issue": "Current (post-2020) official confirmation of Merak VTS operation and area limits not retrieved; texts of KM 129/2020 and KM 130/2020 not read (Hubla press release gives both titles as concerning Selat Lombok / Selat Lombok dan Selat Sunda). MRS applies only to Indonesian-flag ships. Pass 4: obtain a current (2023 or later) official source confirming the VTS operates over and covers this TSS; read the national decree text.",
+   "reporting_scheme_name": "SUNDAREP (national, Indonesia; mandatory for Indonesian-flag ships, strongly recommended for foreign ships)",
+   "reporting_authority": "Directorate General of Sea Transportation (Hubla), Indonesia"
+  },
+  "TSS-0154": {
+   "association_status": "MRS only",
+   "_reason": "Project decision 3 (user, 30 Sep 2026): national reporting schemes count as MRS, including schemes mandatory only for national-flag ships.",
+   "mandatory_reporting": "Yes",
+   "vrs_id": "",
+   "voluntary_reporting": "No (foreign-ship participation recorded under the national scheme)",
+   "unresolved_issue": "Current official confirmation of Benoa VTS operation and area limits not retrieved; KM texts not read. MRS applies only to Indonesian-flag ships. Pass 4: obtain a current (2023 or later) official source confirming the VTS operates over and covers this TSS; read the national decree text.",
+   "reporting_scheme_name": "LOMBOKREP (national, Indonesia; mandatory for Indonesian-flag ships, strongly recommended for foreign ships)",
+   "reporting_authority": "Directorate General of Sea Transportation (Hubla), Indonesia"
+  },
+  "TSS-0148": {
+   "vts_boundary_basis": "Scheme spans 101°59.7'E to 103°29.6'E (U-S6). Chartlet Appendix 1 (U-S6 p.119) shows it crossing Sectors 4, 5 and 6. Sector 7's western limit is the line Tg Piai (01°15.50'N 103°30.75'E) - Pulau Karimun Kecil (01°09.20'N 103°24.35'E) (U-S1 para 3.3.1, U-S5). A side-of-line calculation on the WGS 84 coordinates shows the eastern end points (58) 01°12.20'N 103°28.40'E, (70) 01°14.30'N 103°29.60'E and (76) 01°09.20'N 103°26.70'E lie slightly east of that line (well under 1 nm), so a very small terminal portion is in Singapore VTS Sector 7; the remainder is Klang (4-5) and Johor (6). Pass 4 correction: the eastern lane ends lie up to about 1.6 nm east of the Tg Piai to Pulau Karimun Kecil line (point 70 about 0.05 nm, 58 about 0.7 nm, 59 about 1.2 nm, 76 about 1.6 nm), so they are in Singapore VTS Sector 7.",
+   "_reason": "Pass 4 correction.",
+   "vts_name": "Klang VTS; Johor VTS; Singapore VTS"
+  },
+  "TSS-0152": {
+   "unresolved_issue": "No evidence found of VTS or mandatory reporting coverage of the part of the scheme east of 104°23'E; possible Malaysian (Johor) or Indonesian (Batam/Tanjung Pinang) VTS coverage not researched. Pass 4: MPA asks eastbound-arriving ships to report to VTIS East when Horsburgh Lt (104 24.3E) is abeam; that is a reporting point and does not extend VTS coverage east of 104 23E.",
+   "_reason": "Pass 4 note."
+  },
+  "TSS-0172": {
+   "vts_boundary_basis": "The VTS area includes seaward approaches within 38 nm of Mount Tamalpais (33 CFR 161.50). The VTS SF User Manual (Apr 2025) defines the Offshore Sector the same way, names the San Francisco Offshore TSS (Northern, Western and Southern lanes and Main Ship Channel) and sets Offshore Sector reporting procedures for it (MSIB 13-04). On the current IMO coordinates (COLREG.2/Circ.64, in force 1 June 2013) the Western approach (<=32.5 nm), Southern approach (<=37.7 nm), Main Ship Channel and Precautionary Area are inside 38 nm. The outer end of the Northern approach (about 38°06.9'N-38°10.1'N, 123°20.3'W-123°21.8'W) lies about 38.8 nm away, i.e. roughly 0.8 nm beyond the arc (computed). Coverage is therefore partial but nearly complete. eCFR 167.402-404 still show the pre-2013 coordinates (all within ~30 nm). Pass 4: the Offshore Sector is defined as navigable waters (12 nm territorial sea) within 38 nm of Mount Tamalpais; the manual notes a small part of the 38 nm arc lies outside navigable waters. Roughly the outer 5 to 7 nm of the northern approach, and possibly the last 2 to 3 nm of the southern approach, lie beyond 12 nm. The VTS uses a 'VTS Boundary Line' reporting waypoint on these routes (MSIB 13-04).",
+   "_reason": "Pass 4.",
+   "unresolved_issue": "Minor: the outer tip of the Northern approach is about 0.8 nm beyond the 38 nm arc; the OVMRS extent is not documented. Plot the 12 nm territorial-sea limit against the IMO (Circ.64) coordinates to fix the extent of partial coverage."
+  },
+  "TSS-0174": {
+   "unresolved_issue": "Minor: the outer ~0.3-0.7 nm of the southern approach is beyond 25 nm. The western approach's end point differs between IMO Circ.64 and local sources (see TSS-0173), but on either reading the western approach is within 25 nm. Pass 4: whether any of the San Pedro Channel along the southern approach lies more than 12 nm from both Santa Catalina Island and the mainland was not checked.",
+   "_reason": "Pass 4."
+  },
+  "TSS-0167": {
+   "vts_name": "Victoria VTS Zone; Vessel Traffic Service Puget Sound",
+   "_reason": "Pass 4: VTS name normalised (qualifier moved out of the name).",
+   "vts_boundary_basis": "33 CFR 167.1313 places the northern lanes at about 48°15.1'N to 48°21.8'N, 123°23.2'W to 123°30.4'W, running from precautionary area PA to precautionary area V off Victoria. They lie mainly in Canadian waters, inside Victoria VTS Zone Sector 1 (SOR/2025-275 Schedule 1 item 1; RAMN 2026 Table 3-1), and wholly inside the CVTS area (33 CFR 161.55(a)). The Church Point-Race Rocks line at about 48°17.9'N crosses the lanes: the southern part is in the Seattle Traffic Ch 5A service area and the northern part in the Victoria Traffic Ch 11 area (33 CFR 161.12 Table 1 item (10); RAMN s.3.5.4.2-3.5.4.3). Any part in US waters is in the VTS Puget Sound legal area. Services jointly within the Cooperative Vessel Traffic Service for the Juan de Fuca Region."
+  },
+  "TSS-0170": {
+   "vts_name": "Victoria VTS Zone; Vessel Traffic Service Puget Sound",
+   "_reason": "Pass 4: VTS name normalised (qualifier moved out of the name).",
+   "vts_boundary_basis": "The TSS (33 CFR 167.1331; COLREG.2/Circ.51 Part I) runs from precautionary area V off Victoria through Haro Strait and Boundary Pass, along the international boundary. Canadian waters: the Victoria VTS Zone limit follows the boundary through Boundary Pass and Haro Strait (SOR/2025-275 Sch.1 item 1; RAMN Table 3-1 Sector 1). US waters: VTS Puget Sound area to the boundary (33 CFR 161.55) and inside the CVTS. Under the CVTS, Victoria Traffic Ch 11 serves all Canadian and US waters of Haro Strait and Boundary Pass north and west of the Church Point-Race Rocks-Hein Bank-Cattle Point exchange line (33 CFR 161.12 Table 1 item (10)(iv); RAMN s.3.5.4.3). Services jointly within the Cooperative Vessel Traffic Service for the Juan de Fuca Region."
+  },
+  "TSS-0171": {
+   "vts_name": "Victoria VTS Zone; Vessel Traffic Service Puget Sound",
+   "_reason": "Pass 4: VTS name normalised (qualifier moved out of the name).",
+   "vts_boundary_basis": "The TSS (COLREG.2/Circ.51 Part II; 33 CFR 167.1332) runs from precautionary area GS (about 48°48'N to 48°55'N, 122°54'W to 123°07'W) through PR to the lane ends at about 49°04.5'N 123°20'W, crossing the boundary. Canadian waters, including the part north of 49°N, are in Victoria VTS Zone Sector 1 (SOR/2025-275 Sch.1 item 1; RAMN Table 3-1, whose Sector 1 line runs from 49°00'N 123°05'20\"W to Roberts Bank and Sandheads, leaving the TSS inside). US waters are in the VTS Puget Sound legal area (33 CFR 161.55) and the CVTS (north limit 49°N). The service provider for Boundary Pass and the southern Strait of Georgia on both sides of the boundary is Victoria Traffic Ch 11, north-west of the Patos Island-Alden Bank line (33 CFR 161.12 Table 1 item (10)(iv); RAMN s.3.5.4.3). Services US waters, within the Cooperative Vessel Traffic Service for the Juan de Fuca Region."
+  },
+  "TSS-0162": {
+   "vts_coverage": "partial",
+   "_reason": "Pass 4: the Cape Hinchinbrook precautionary area (to 59 51.80N 146 00W) lies largely outside the VTS area in 33 CFR 161.60(a); the lanes and Valdez Arm TSS are inside."
+  },
+  "TSS-0163": {
+   "vts_coverage": "partial",
+   "_reason": "Pass 4: component service named instead of the CVTS framework.",
+   "vts_name": "Prince Rupert VTS Zone (Prince Rupert Traffic)"
+  },
+  "TSS-0164": {
+   "vts_coverage": "partial",
+   "_reason": "Pass 4: component service named instead of the CVTS framework.",
+   "vts_name": "Prince Rupert VTS Zone (Prince Rupert Traffic)"
+  },
+  "TSS-0165": {
+   "vts_name": "Vessel Traffic Service Puget Sound; Prince Rupert VTS Zone (Prince Rupert Traffic)",
+   "_reason": "Pass 4: component services named instead of the CVTS framework (Seattle Traffic east of 124 40W, Prince Rupert Traffic west)."
+  },
+  "TSS-0158": {
+   "reporting_boundary_basis": "MASTREP area is the Australian SRR for which RCC Australia is responsible (V-S16); the TSS lies in Australian coastal waters well inside the SRR. Mandatory only for foreign vessels between first arrival at and final departure from an Australian port, and for regulated Australian vessels in the MASTREP area (V-S15), so through-transiting foreign ships are outside it. Automatic AIS-based reporting. Pass 4: Marine Order 63 (2019) gives effect to SOLAS V/11 (s.2), applies to regulated Australian vessels and to foreign vessels from arrival at their first Australian port until departure from their final Australian port (s.6(1)), with a strict-liability penalty (s.7). Counted as MRS under the project rule that a national scheme counts when it imposes a penal reporting duty on foreign ships in the TSS under defined voyage conditions. Through traffic not calling at Australian ports is not covered.",
+   "_reason": "Pass 4.",
+   "vts_boundary_basis": "AMSA's list of entities authorised to provide VTS in Australia (Marine Order 64) contains only port-named VTS areas plus REEFVTS; in Western Australia only Ashburton, Dampier, Fremantle and Port Hedland. None is at or near Cape Leeuwin (V-S14). VTS association therefore not established; the list strongly indicates absence. Pass 4: AMSA's 'VTS areas in Australia' list (updated 14 Nov 2023) does not itself cite Marine Order 64; VTS providers are authorised under Marine Order 64 (Vessel Traffic Services) 2022 only in areas approved by AMSA (e.g. TasPorts instrument, Dec 2025).",
+   "unresolved_issue": "VTS area charts on the AMSA list were not opened individually; the list page dates from November 2023. MASTREP has no project VRS ID (not an IMO Part I system); coordinator to decide whether to allocate a national-scheme ID. Pass 4: VTS absence is positively supported by the AMSA provider list (no provider on the south-west coast apart from port-limited Fremantle); candidate for Neither confirmed on the VTS side."
+  },
+  "TSS-0159": {
+   "reporting_boundary_basis": "MASTREP area is the Australian SRR for which RCC Australia is responsible (V-S16); the TSS lies in Australian coastal waters well inside the SRR. Mandatory only for foreign vessels between first arrival at and final departure from an Australian port, and for regulated Australian vessels in the MASTREP area (V-S15), so through-transiting foreign ships are outside it. Automatic AIS-based reporting. Pass 4: Marine Order 63 (2019) gives effect to SOLAS V/11 (s.2), applies to regulated Australian vessels and to foreign vessels from arrival at their first Australian port until departure from their final Australian port (s.6(1)), with a strict-liability penalty (s.7). Counted as MRS under the project rule that a national scheme counts when it imposes a penal reporting duty on foreign ships in the TSS under defined voyage conditions. Through traffic not calling at Australian ports is not covered.",
+   "_reason": "Pass 4.",
+   "vts_boundary_basis": "AMSA's list of authorised VTS providers (V-S14) has no provider on the south coast of Western Australia (WA entries are Ashburton, Dampier, Fremantle, Port Hedland). VTS association not established; the list strongly indicates absence. Pass 4: AMSA's 'VTS areas in Australia' list (updated 14 Nov 2023) does not itself cite Marine Order 64; VTS providers are authorised under Marine Order 64 (Vessel Traffic Services) 2022 only in areas approved by AMSA (e.g. TasPorts instrument, Dec 2025).",
+   "unresolved_issue": "Position of the Chatham Island component not re-plotted from the IMO text or Australian NtM; MASTREP has no project VRS ID. Pass 4: VTS absence is positively supported by the AMSA provider list; candidate for Neither confirmed on the VTS side."
+  },
+  "TSS-0160": {
+   "reporting_boundary_basis": "MASTREP area is the Australian SRR for which RCC Australia is responsible (V-S16); the TSS lies in Australian coastal waters well inside the SRR. Mandatory only for foreign vessels between first arrival at and final departure from an Australian port, and for regulated Australian vessels in the MASTREP area (V-S15), so through-transiting foreign ships are outside it. Automatic AIS-based reporting. Pass 4: Marine Order 63 (2019) gives effect to SOLAS V/11 (s.2), applies to regulated Australian vessels and to foreign vessels from arrival at their first Australian port until departure from their final Australian port (s.6(1)), with a strict-liability penalty (s.7). Counted as MRS under the project rule that a national scheme counts when it imposes a penal reporting duty on foreign ships in the TSS under defined voyage conditions. Through traffic not calling at Australian ports is not covered.",
+   "_reason": "Pass 4.",
+   "vts_boundary_basis": "AMSA's list of authorised VTS providers (V-S14) includes, around Bass Strait, only port VTS areas: Melbourne (Ports Victoria) and TasPorts port areas (Burnie, Devonport, Bell Bay, Stanley, Port Latta, Grassy on King Island, Lady Barron on Flinders Island) (V-S17). No source shows any of them extending to the TSS south of Wilsons Promontory. Pass 4: AMSA's 'VTS areas in Australia' list (updated 14 Nov 2023) does not itself cite Marine Order 64; VTS providers are authorised under Marine Order 64 (Vessel Traffic Services) 2022 only in areas approved by AMSA (e.g. TasPorts instrument, Dec 2025).",
+   "unresolved_issue": "Melbourne and TasPorts VTS area charts not opened, so absence of VTS is not formally demonstrated (does not affect MRS only status). MASTREP has no project VRS ID. Pass 4: VTS absence strongly supported (TasPorts areas are small) but not closed: the Port of Melbourne VTS area was not opened."
+  },
+  "TSS-0161": {
+   "reporting_boundary_basis": "MASTREP area is the Australian SRR for which RCC Australia is responsible (V-S16); the TSS lies in Australian coastal waters well inside the SRR. Mandatory only for foreign vessels between first arrival at and final departure from an Australian port, and for regulated Australian vessels in the MASTREP area (V-S15), so through-transiting foreign ships are outside it. Automatic AIS-based reporting. Pass 4: Marine Order 63 (2019) gives effect to SOLAS V/11 (s.2), applies to regulated Australian vessels and to foreign vessels from arrival at their first Australian port until departure from their final Australian port (s.6(1)), with a strict-liability penalty (s.7). Counted as MRS under the project rule that a national scheme counts when it imposes a penal reporting duty on foreign ships in the TSS under defined voyage conditions. Through traffic not calling at Australian ports is not covered.",
+   "_reason": "Pass 4.",
+   "vts_boundary_basis": "Same national evidence as TSS-0160: AMSA's list (V-S14) shows only port VTS areas around Bass Strait (Melbourne; TasPorts ports including Grassy and Lady Barron, V-S17); none shown to cover this TSS. Pass 4: AMSA's 'VTS areas in Australia' list (updated 14 Nov 2023) does not itself cite Marine Order 64; VTS providers are authorised under Marine Order 64 (Vessel Traffic Services) 2022 only in areas approved by AMSA (e.g. TasPorts instrument, Dec 2025).",
+   "unresolved_issue": "Exact position of the TSS not re-plotted from the IMO text or Australian NtM; port VTS area charts not opened. MASTREP has no project VRS ID. Pass 4: VTS absence strongly supported (TasPorts areas are small) but not closed: the Port of Melbourne VTS area was not opened."
+  },
+  "TSS-0156": {
+   "unresolved_issue": "IMO adoption instrument not re-opened; if any part of the IMO scheme (e.g. its southern entrance) extends south of the HKSAR boundary, that part would be outside HK VTS. Official sources describe the TSS as within Hong Kong waters. Pass 4: the fact sheet revision date (31 Dec 2025) was not shown on re-fetch; re-check.",
+   "_reason": "Pass 4."
+  },
+  "TSS-0194": {
+   "association_status": "MRS only",
+   "_reason": "Project decision 3a (user, 30 Sep 2026): CHILREP counts as a national mandatory reporting scheme for Chilean TSS.",
+   "mandatory_reporting": "Yes",
+   "unresolved_issue": "Counted under decision 3. Reporting frequency differs between NGA Pub. 124 (every 4 h, or 0800/2000 with pilot) and DIRECTEMAR (12:00Z/24:00Z); the governing instrument was not found (foreign-ship duty traced only to D.S. (M) 1190 of 1976, on reciprocity). No VTS established.",
+   "reporting_scheme_name": "Strait of Magellan reporting to the Maritime Authority at Punta Arenas (national, Chile); CHILREP (national, Chile; mandatory for Chilean-flag ships and for foreign ships in internal waters)",
+   "reporting_authority": "DIRECTEMAR, Chilean Maritime Authority (Punta Arenas)",
+   "reporting_boundary_basis": "NGA Pub. 124: vessels must inform the Maritime Authority in Punta Arenas when entering or leaving the Estrecho de Magallanes and report position during the passage (CHILREP). DIRECTEMAR CHILREP guidance: foreign ships in Chilean internal waters must report position at 12:00Z and 24:00Z. The amended TSS (53°10'.3-53°12'.8 S, 070°46'.7-070°51'.1 W) lies in Rada de Punta Arenas within the Strait, so inside the reporting area (full). Counted under decision 3a. DIRECTEMAR's CHILREP guidance (Sistema de Notificación de la Situación de las Naves) requires position reports from Chilean-flag ships and states that foreign ships in Chilean internal waters must report position at 12:00Z and 24:00Z; participation outside internal waters is voluntary for foreign ships. The TSS lies in the Chilean CHILREP area.",
+   "reporting_source_ids": [
+    "Y-S9",
+    "Y-S10",
+    "Y-S7",
+    "Y-S11"
+   ],
+   "voluntary_reporting": "No (CHILREP recorded as the national mandatory scheme; voluntary only for foreign ships outside internal waters)"
+  },
+  "TSS-0190": {
+   "vts_boundary_basis": "NGA Pub. 125 gives the VTS Quintero area as Bahía Quintero and the area bounded by 32°25'57\"S 71°25'38\"W, 32°25'51\"S 71°40'32\"W, 32°31'43\"S 71°49'30\"W, 32°45'32\"S 71°49'39\"W, 32°56'55\"S 71°43'20\"W, 33°01'05\"S 71°38'21\"W. All six TSS points (32°42'.9-32°45'.9 S, 071°32'-071°36'.4 W; COLREG.2/Circ.32) fall inside (point-in-polygon check). The NGA 'VTS Valparaiso' diagram also shows its control zone reaching north past Bahía Quintero. Pass 4 correction: points (1) and (5) at 071 32.00W fall just outside a straight chord from point a to point f; they are inside if the area closes along the coast (point f is at Punta Angeles). The VTS Valparaiso control zone (to about 32 37S) also contains this TSS.",
+   "_reason": "Project decision 3a (user, 30 Sep 2026): CHILREP counts as a national mandatory reporting scheme for Chilean TSS.",
+   "unresolved_issue": "Tier 3 only; relationship between VTS Quintero and VTS Valparaíso (separate services or one control zone with two centres) not established from a DIRECTEMAR source. Datum difference (TSS SAD69 chart vs VTS coordinates) negligible given margins. Evidence is Tier 3 only (NGA Pub. 125); no DIRECTEMAR primary source could be opened (prontus.directemar.cl returns 403).",
+   "association_status": "VTS + MRS",
+   "mandatory_reporting": "Yes",
+   "reporting_scheme_name": "CHILREP (national, Chile; mandatory for Chilean-flag ships and for foreign ships in internal waters)",
+   "reporting_authority": "DIRECTEMAR (Chilean Maritime Authority)",
+   "reporting_boundary_basis": "Not in IMO Part I (Y-S11). CHILREP is described by DIRECTEMAR as voluntary (Y-S10); the 24 h arrival notice for foreign ships is a port pre-arrival duty and the daily position report is a flag-State duty for Chilean ships only; reporting owed to the VTS is part of the VTS. The CHILREP internal-waters position-report duty for foreign ships was not assessed as applying to this open-coast approach. Counted under decision 3a. DIRECTEMAR's CHILREP guidance (Sistema de Notificación de la Situación de las Naves) requires position reports from Chilean-flag ships and states that foreign ships in Chilean internal waters must report position at 12:00Z and 24:00Z; participation outside internal waters is voluntary for foreign ships. The TSS lies in the Chilean CHILREP area.",
+   "reporting_source_ids": [
+    "Y-S11",
+    "Y-S10"
+   ],
+   "voluntary_reporting": "No (CHILREP recorded as the national mandatory scheme; voluntary only for foreign ships outside internal waters)"
+  },
+  "TSS-0191": {
+   "vts_boundary_basis": "NGA Pub. 125 diagram 'VTS Valparaiso' shows the Zona Control VTS Valparaíso from near Punta Curaumilla to north of Bahía Quintero, west to about 072°W, with the TSS drawn inside it off Bahía Valparaíso; text: VTM-STM operates in harbour limits and 'outward to the boundary depicted in the diagram titled VTS Valparaiso'. TSS (32°57'.3-33°00'.7 S, 071°35'.7-071°38'.7 W) lies inside. The TSS also falls inside the VTS Quintero coordinate polygon (computed). Participation mandatory within the limits and at anchor; voluntary for Las Salinas terminal traffic. Pass 4 correction: with a straight chord, 4 of the 6 TSS points lie outside the VTS Quintero area, so the secondary Quintero overlap claim is qualified; coverage rests on the VTS Valparaiso diagram.",
+   "_reason": "Project decision 3a (user, 30 Sep 2026): CHILREP counts as a national mandatory reporting scheme for Chilean TSS.",
+   "unresolved_issue": "Tier 3 only; DIRECTEMAR instrument (e.g. resolution 12.000/934 of 2018 lead) not opened. Overlap with the VTS Quintero area to be reconciled by the coordinator (one service or two). Evidence is Tier 3 only (NGA Pub. 125); no DIRECTEMAR primary source could be opened (prontus.directemar.cl returns 403).",
+   "association_status": "VTS + MRS",
+   "mandatory_reporting": "Yes",
+   "reporting_scheme_name": "CHILREP (national, Chile; mandatory for Chilean-flag ships and for foreign ships in internal waters)",
+   "reporting_authority": "DIRECTEMAR (Chilean Maritime Authority)",
+   "reporting_boundary_basis": "Not in IMO Part I (Y-S11). CHILREP is described by DIRECTEMAR as voluntary (Y-S10); the 24 h arrival notice for foreign ships is a port pre-arrival duty and the daily position report is a flag-State duty for Chilean ships only; reporting owed to the VTS is part of the VTS. The CHILREP internal-waters position-report duty for foreign ships was not assessed as applying to this open-coast approach. Counted under decision 3a. DIRECTEMAR's CHILREP guidance (Sistema de Notificación de la Situación de las Naves) requires position reports from Chilean-flag ships and states that foreign ships in Chilean internal waters must report position at 12:00Z and 24:00Z; participation outside internal waters is voluntary for foreign ships. The TSS lies in the Chilean CHILREP area.",
+   "reporting_source_ids": [
+    "Y-S11",
+    "Y-S10"
+   ],
+   "voluntary_reporting": "No (CHILREP recorded as the national mandatory scheme; voluntary only for foreign ships outside internal waters)"
+  },
+  "TSS-0187": {
+   "unresolved_issue": "VTS evidence is Tier 3 (NGA) only; DIRECTEMAR instrument defining VTS Arica limits not located (directemar.cl partly blocked). Diagram is schematic. Evidence is Tier 3 only (NGA Pub. 125); no DIRECTEMAR primary source could be opened (prontus.directemar.cl returns 403).",
+   "_reason": "Project decision 3a (user, 30 Sep 2026): CHILREP counts as a national mandatory reporting scheme for Chilean TSS.",
+   "vts_boundary_basis": "NGA Pub. 125 diagram 'VTS Arica' shows the VTS boundary limits extending from the Peru-Chile border to about 071°W offshore and the TSS drawn inside them (inset Rada de Arica); text: VTM-STM operates in port limits and 'outward to the boundary described in the diagram titled VTS Arica'. TSS (COLREG.2/Circ.32) lies 18°25'-18°30' S, 070°21'-070°25'.4 W, within the depicted limits. Participation mandatory for vessels in port limits and at anchor; voluntary for vessels passing through without stopping. Pass 4: the diagram's VTS limits reach about 070 52W (not 071W); the TSS lies well inside.",
+   "association_status": "VTS + MRS",
+   "mandatory_reporting": "Yes",
+   "reporting_scheme_name": "CHILREP (national, Chile; mandatory for Chilean-flag ships and for foreign ships in internal waters)",
+   "reporting_authority": "DIRECTEMAR (Chilean Maritime Authority)",
+   "reporting_boundary_basis": "Not in IMO Part I (Y-S11). CHILREP is described by DIRECTEMAR as voluntary (Y-S10); the 24 h arrival notice for foreign ships is a port pre-arrival duty and the daily position report is a flag-State duty for Chilean ships only; reporting owed to the VTS is part of the VTS. The CHILREP internal-waters position-report duty for foreign ships was not assessed as applying to this open-coast approach. Counted under decision 3a. DIRECTEMAR's CHILREP guidance (Sistema de Notificación de la Situación de las Naves) requires position reports from Chilean-flag ships and states that foreign ships in Chilean internal waters must report position at 12:00Z and 24:00Z; participation outside internal waters is voluntary for foreign ships. The TSS lies in the Chilean CHILREP area.",
+   "reporting_source_ids": [
+    "Y-S11",
+    "Y-S10"
+   ],
+   "voluntary_reporting": "No (CHILREP recorded as the national mandatory scheme; voluntary only for foreign ships outside internal waters)"
+  },
+  "TSS-0188": {
+   "unresolved_issue": "VTS evidence is Tier 3 (NGA) only; DIRECTEMAR instrument defining VTS Iquique limits not located. Evidence is Tier 3 only (NGA Pub. 125); no DIRECTEMAR primary source could be opened (prontus.directemar.cl returns 403).",
+   "_reason": "Project decision 3a (user, 30 Sep 2026): CHILREP counts as a national mandatory reporting scheme for Chilean TSS.",
+   "association_status": "VTS + MRS",
+   "mandatory_reporting": "Yes",
+   "reporting_scheme_name": "CHILREP (national, Chile; mandatory for Chilean-flag ships and for foreign ships in internal waters)",
+   "reporting_authority": "DIRECTEMAR (Chilean Maritime Authority)",
+   "reporting_boundary_basis": "Not in IMO Part I (Y-S11). CHILREP is described by DIRECTEMAR as voluntary (Y-S10); the 24 h arrival notice for foreign ships is a port pre-arrival duty and the daily position report is a flag-State duty for Chilean ships only; reporting owed to the VTS is part of the VTS. The CHILREP internal-waters position-report duty for foreign ships was not assessed as applying to this open-coast approach. Counted under decision 3a. DIRECTEMAR's CHILREP guidance (Sistema de Notificación de la Situación de las Naves) requires position reports from Chilean-flag ships and states that foreign ships in Chilean internal waters must report position at 12:00Z and 24:00Z; participation outside internal waters is voluntary for foreign ships. The TSS lies in the Chilean CHILREP area.",
+   "reporting_source_ids": [
+    "Y-S11",
+    "Y-S10"
+   ],
+   "voluntary_reporting": "No (CHILREP recorded as the national mandatory scheme; voluntary only for foreign ships outside internal waters)"
+  },
+  "TSS-0195": {
+   "unresolved_issue": "Exact territorial sea limit near the TSS not opened, so whether the Part I eastern end and Part II southern end lie in the Eastern VTS Zone or outside Canadian waters is not established. RAMN Table 3-24 calling-in points not read (page truncated; direct download refused). Pass 4: the Eastern VTS Zone is limited to Canadian waters and the local zone's eastern edge is the territorial sea limit, so the eastern end of Part I is probably outside every VTS zone, while the southern end of Part II may fall in the Eastern zone.",
+   "_reason": "Pass 4 note."
+  },
+  "TSS-0219": {
+   "vts_source_ids": [
+    "Z3-S1",
+    "Z3-S2",
+    "Z3-P4-S1"
+   ],
+   "_reason": "Pass 4.",
+   "vts_boundary_basis": "MSC.389(94) (Z3-S1), the IMO instrument for VRS-0022, names Chengshan Jiao VTS Centre (Weihai MSA) as the shore authority for the 24 nm reporting area, states the Centre has radar and a continuous 24-hour watch and provides traffic information to participating ships, requires a listening watch on the VTS working channel, and requires ships NUC or at anchor 'in the TSSs' to report to VTS. COLREG.2/Circ.66 (Z3-S2) cross-refers the TSS to the SRS. VTS extent is therefore taken from the IMO instrument's 24 nm area; no separate national VTS area description (Chinese VTS rules for Chengshan Jiao) was located. The inner TSS vertices lie 3.1 to 15.1 nm from the Centre. Pass 4: the Shandong MSA notice of 12 Nov 2024 (revised Chengshan Jiao VTS rules and User Guide, in force 2 Dec 2024) places the routeing lanes and precautionary areas inside the Chengshan VTS area, so VTS coverage is stated, not only inferred from the reporting boundary. VTS area coordinates not obtained.",
+   "source_date": "MSC.389(94) adopted 21 Nov 2014, in force 1 Jun 2015; COLREG.2/Circ.66 21 Nov 2014, implemented 1 Jun 2015; accessed 29 Sep 2026 ; Shandong MSA notice 12 Nov 2024 (rules in force 2 Dec 2024)"
+  },
+  "TSS-0220": {
+   "vts_source_ids": [
+    "Z3-S1",
+    "Z3-S2",
+    "Z3-P4-S1"
+   ],
+   "_reason": "Pass 4.",
+   "vts_boundary_basis": "MSC.389(94) (Z3-S1), the IMO instrument for VRS-0022, names Chengshan Jiao VTS Centre (Weihai MSA) as the shore authority for the 24 nm reporting area, states the Centre has radar and a continuous 24-hour watch and provides traffic information to participating ships, requires a listening watch on the VTS working channel, and requires ships NUC or at anchor 'in the TSSs' to report to VTS. COLREG.2/Circ.66 (Z3-S2) cross-refers the TSS to the SRS. VTS extent is therefore taken from the IMO instrument's 24 nm area; no separate national VTS area description (Chinese VTS rules for Chengshan Jiao) was located. The North TSS vertices lie 15.4 to 21.7 nm from the Centre. Pass 4: the Shandong MSA notice of 12 Nov 2024 (revised Chengshan Jiao VTS rules and User Guide, in force 2 Dec 2024) places the routeing lanes and precautionary areas inside the Chengshan VTS area, so VTS coverage is stated, not only inferred from the reporting boundary. VTS area coordinates not obtained.",
+   "source_date": "MSC.389(94) adopted 21 Nov 2014, in force 1 Jun 2015; COLREG.2/Circ.66 21 Nov 2014, implemented 1 Jun 2015; accessed 29 Sep 2026 ; Shandong MSA notice 12 Nov 2024 (rules in force 2 Dec 2024)"
+  },
+  "TSS-0221": {
+   "vts_source_ids": [
+    "Z3-S1",
+    "Z3-S2",
+    "Z3-P4-S1"
+   ],
+   "_reason": "Pass 4 correction.",
+   "vts_boundary_basis": "MSC.389(94) (Z3-S1), the IMO instrument for VRS-0022, names Chengshan Jiao VTS Centre (Weihai MSA) as the shore authority for the 24 nm reporting area, states the Centre has radar and a continuous 24-hour watch and provides traffic information to participating ships, requires a listening watch on the VTS working channel, and requires ships NUC or at anchor 'in the TSSs' to report to VTS. COLREG.2/Circ.66 (Z3-S2) cross-refers the TSS to the SRS. VTS extent is therefore taken from the IMO instrument's 24 nm area; no separate national VTS area description (Chinese VTS rules for Chengshan Jiao) was located. Coverage is partial: the eastern end of the East TSS lies beyond 24 nm. Pass 4: the Shandong MSA notice of 12 Nov 2024 (revised Chengshan Jiao VTS rules and User Guide, in force 2 Dec 2024) places the routeing lanes and precautionary areas inside the Chengshan VTS area, so VTS coverage is stated, not only inferred from the reporting boundary. VTS area coordinates not obtained. Pass 4 correction: point 22 (24.14 nm) and point 23 (25.74 nm) are both outside the 24 nm circle, so the whole outer limit of the north-westbound lane (22 to 23) lies outside; the circle cuts across the lane at an angle.",
+   "source_date": "MSC.389(94) adopted 21 Nov 2014, in force 1 Jun 2015; COLREG.2/Circ.66 21 Nov 2014, implemented 1 Jun 2015; accessed 29 Sep 2026 ; Shandong MSA notice 12 Nov 2024 (rules in force 2 Dec 2024)"
+  },
+  "TSS-0222": {
+   "vts_source_ids": [
+    "Z3-S1",
+    "Z3-S2",
+    "Z3-P4-S1"
+   ],
+   "_reason": "Pass 4.",
+   "vts_boundary_basis": "MSC.389(94) (Z3-S1), the IMO instrument for VRS-0022, names Chengshan Jiao VTS Centre (Weihai MSA) as the shore authority for the 24 nm reporting area, states the Centre has radar and a continuous 24-hour watch and provides traffic information to participating ships, requires a listening watch on the VTS working channel, and requires ships NUC or at anchor 'in the TSSs' to report to VTS. COLREG.2/Circ.66 (Z3-S2) cross-refers the TSS to the SRS. VTS extent is therefore taken from the IMO instrument's 24 nm area; no separate national VTS area description (Chinese VTS rules for Chengshan Jiao) was located. The South TSS vertices lie 13.7 to 21.3 nm from the Centre. Pass 4: the Shandong MSA notice of 12 Nov 2024 (revised Chengshan Jiao VTS rules and User Guide, in force 2 Dec 2024) places the routeing lanes and precautionary areas inside the Chengshan VTS area, so VTS coverage is stated, not only inferred from the reporting boundary. VTS area coordinates not obtained.",
+   "source_date": "MSC.389(94) adopted 21 Nov 2014, in force 1 Jun 2015; COLREG.2/Circ.66 21 Nov 2014, implemented 1 Jun 2015; accessed 29 Sep 2026 ; Shandong MSA notice 12 Nov 2024 (rules in force 2 Dec 2024)"
+  },
+  "TSS-0223": {
+   "unresolved_issue": "Salvamento Marítimo website unavailable (TLS/503), so its own description of CCS functions and any Spanish designation of a coastal VTS for the Canary TSS could not be checked; ALRS Vol 6 not consulted. CANREP chartlet not inspected (coordinate check used instead). Pass 4: Salvamento Maritimo reportedly says its Las Palmas and Tenerife centres 'controlled' ships in the TSS in 2025; its website was unreachable, so a Spanish coastal VTS designation is not fully ruled out (lead).",
+   "_reason": "Pass 4."
+  },
+  "TSS-0224": {
+   "unresolved_issue": "Salvamento Marítimo website unavailable (TLS/503), so its own description of CCS functions and any Spanish designation of a coastal VTS for the Canary TSS could not be checked; ALRS Vol 6 not consulted. CANREP chartlet not inspected (coordinate check used instead). Pass 4: Salvamento Maritimo reportedly says its Las Palmas and Tenerife centres 'controlled' ships in the TSS in 2025; its website was unreachable, so a Spanish coastal VTS designation is not fully ruled out (lead).",
+   "_reason": "Pass 4."
+  },
+  "TSS-0197": {
+   "vts_source_ids": [
+    "Z1-S1",
+    "Z1-S4",
+    "Z1-S5",
+    "Z1-P4-CP1-9"
+   ],
+   "_reason": "Pass 4 correction.",
+   "vts_boundary_basis": "No USCG VTS or VMRS is established for this area: Table 1 to 33 CFR 161.12(c) lists every VTS and VMRS centre and monitoring area and has none here, and 33 CFR 161.2 defines a VTS as a service implemented by the USCG. NAVCEN's enumerated list of Coast Guard Vessel Traffic Centers and its VTS Locations page also have none. Together these are treated as an official complete list of US VTS that excludes this TSS. Pass 4 correction: 33 CFR 161.12 Table 1 is not a complete list of US VTS (it omits VTS Tampa, which operates jointly with the Tampa Port Authority outside Part 161). VTS absence rests on 33 CFR 161.2 (VTS is a Coast Guard service), 33 CFR 161.6 (federal pre-emption of state VTS), the NAVCEN VTS Locations page (12 operating VTS including Tampa) and the current US Coast Pilot chapter for this approach, which describes it with no VTS."
+  },
+  "TSS-0199": {
+   "vts_source_ids": [
+    "Z1-S1",
+    "Z1-S2",
+    "Z1-S4",
+    "Z1-S5",
+    "Z1-P4-CP2-7"
+   ],
+   "_reason": "Pass 4.",
+   "vts_boundary_basis": "No USCG VTS or VMRS is established for this area: Table 1 to 33 CFR 161.12(c) lists every VTS and VMRS centre and monitoring area and has none here, and 33 CFR 161.2 defines a VTS as a service implemented by the USCG. NAVCEN's enumerated list of Coast Guard Vessel Traffic Centers and its VTS Locations page also have none. Together these are treated as an official complete list of US VTS that excludes this TSS. VMRS Buzzards Bay ('Buzzards Bay Control', Ch 11) is a USCG mandatory VMRS, not a VTS. Its area is east and north of the line Sakonnet Point (41°27.20'N 71°11.70'W) to Buzzards Bay Entrance Light (41°23.48'N 71°02.5'W) to Cuttyhunk (41°24.60'N 70°57.00'W). Own calculation: the Buzzards Bay approach separation zone ends at 41°21.80'N 71°07.10'W, about 3.5 NM south of that line, and the lane corners are about 3.3 to 3.8 NM short of it. The Narragansett approach and its precautionary areas (071°23.3'W) are west of Sakonnet Point, so also outside. The VMRS begins beyond the end of the TSS; it adjoins the route but does not cover it. Pass 4 correction: 33 CFR 161.12 Table 1 is not a complete list of US VTS (it omits VTS Tampa, which operates jointly with the Tampa Port Authority outside Part 161). VTS absence rests on 33 CFR 161.2 (VTS is a Coast Guard service), 33 CFR 161.6 (federal pre-emption of state VTS), the NAVCEN VTS Locations page (12 operating VTS including Tampa) and the current US Coast Pilot chapter for this approach, which describes it with no VTS.",
+   "reporting_boundary_basis": "VMRS Buzzards Bay does not cover the TSS (see above). WHALESNORTH does not extend west of 69°17'W south of 42°N or south of 41°00'N, so it does not reach this TSS. 33 CFR 165.100 (Northeast District RNA) repeats the VMRS Buzzards Bay rules and does not add a reporting scheme for the TSS. Pass 4: the Buzzards Bay VMRS line lies about 2.9 to 3.4 nm beyond the approach end (not 3.3 to 3.8 nm); notices of arrival (33 CFR 160), regulated navigation areas (33 CFR 165) and the Block Island Sound speed zone are not ship reporting schemes."
+  },
+  "TSS-0201": {
+   "vts_source_ids": [
+    "Z1-S1",
+    "Z1-S4",
+    "Z1-S5",
+    "Z1-P4-CP3-6"
+   ],
+   "_reason": "Pass 4.",
+   "vts_boundary_basis": "No USCG VTS or VMRS is established for this area: Table 1 to 33 CFR 161.12(c) lists every VTS and VMRS centre and monitoring area and has none here, and 33 CFR 161.2 defines a VTS as a service implemented by the USCG. NAVCEN's enumerated list of Coast Guard Vessel Traffic Centers and its VTS Locations page also have none. Together these are treated as an official complete list of US VTS that excludes this TSS. Pass 4 correction: 33 CFR 161.12 Table 1 is not a complete list of US VTS (it omits VTS Tampa, which operates jointly with the Tampa Port Authority outside Part 161). VTS absence rests on 33 CFR 161.2 (VTS is a Coast Guard service), 33 CFR 161.6 (federal pre-emption of state VTS), the NAVCEN VTS Locations page (12 operating VTS including Tampa) and the current US Coast Pilot chapter for this approach, which describes it with no VTS.",
+   "voluntary_reporting": "Yes: Delaware Pilots' voluntary vessel traffic information service (Ch 14) and recommended reports to the Maritime Exchange (US Coast Pilot 3 ch. 6)",
+   "vts_leads": "Delaware Pilots' voluntary vessel traffic information service (pilots' association, not a VTS); Maritime Exchange for the Delaware River and Bay"
+  },
+  "TSS-0202": {
+   "vts_source_ids": [
+    "Z1-S1",
+    "Z1-S4",
+    "Z1-S5",
+    "Z1-P4-CP3-9"
+   ],
+   "_reason": "Pass 4.",
+   "vts_boundary_basis": "No USCG VTS or VMRS is established for this area: Table 1 to 33 CFR 161.12(c) lists every VTS and VMRS centre and monitoring area and has none here, and 33 CFR 161.2 defines a VTS as a service implemented by the USCG. NAVCEN's enumerated list of Coast Guard Vessel Traffic Centers and its VTS Locations page also have none. Together these are treated as an official complete list of US VTS that excludes this TSS. Pass 4 correction: 33 CFR 161.12 Table 1 is not a complete list of US VTS (it omits VTS Tampa, which operates jointly with the Tampa Port Authority outside Part 161). VTS absence rests on 33 CFR 161.2 (VTS is a Coast Guard service), 33 CFR 161.6 (federal pre-emption of state VTS), the NAVCEN VTS Locations page (12 operating VTS including Tampa) and the current US Coast Pilot chapter for this approach, which describes it with no VTS.",
+   "reporting_boundary_basis": "TSS at about 36°48'N to 36°58'N (33 CFR 167.201-203); outside WHALESNORTH and WHALESSOUTH. 33 CFR 165.501 (Chesapeake Bay entrance RNA) imposes only situational reports (e.g. impaired manoeuvrability, emergencies) to the COTP, not a named ship reporting scheme. The DW route has only a recommended VHF 16 announcement (167.203(h)). Pass 4: the 33 CFR 165.501 regulated navigation area contains the TSS, but its duties are situational reports (e.g. impaired manoeuvrability, emergencies), not a ship reporting scheme."
+  },
+  "TSS-0203": {
+   "vts_source_ids": [
+    "Z1-S1",
+    "Z1-S4",
+    "Z1-S5",
+    "Z1-P4-CP4-6",
+    "Z1-P4-CP4-5"
+   ],
+   "_reason": "Pass 4 correction.",
+   "vts_boundary_basis": "No USCG VTS or VMRS is established for this area: Table 1 to 33 CFR 161.12(c) lists every VTS and VMRS centre and monitoring area and has none here, and 33 CFR 161.2 defines a VTS as a service implemented by the USCG. NAVCEN's enumerated list of Coast Guard Vessel Traffic Centers and its VTS Locations page also have none. Together these are treated as an official complete list of US VTS that excludes this TSS. Pass 4 correction: 33 CFR 161.12 Table 1 is not a complete list of US VTS (it omits VTS Tampa, which operates jointly with the Tampa Port Authority outside Part 161). VTS absence rests on 33 CFR 161.2 (VTS is a Coast Guard service), 33 CFR 161.6 (federal pre-emption of state VTS), the NAVCEN VTS Locations page (12 operating VTS including Tampa) and the current US Coast Pilot chapter for this approach, which describes it with no VTS."
+  },
+  "TSS-0200": {
+   "vts_boundary_basis": "Partial. 33 CFR 161.25 bounds VTS New York to the south by a line from Breezy Point through the entrance buoys of Ambrose, Swash and Sandy Hook Channels to Sandy Hook Point. The Table 1 monitoring areas use the same line. Ambrose Channel Lighted Buoy 1 is at 40.46876N 73.87223W (D1 LNM 06/10/2025), about 1.95 NM from the centre of the 7 NM circular precautionary area at 40°27.50'N 73°49.90'W (33 CFR 167.151(a)), so the VTS boundary line runs through the precautionary area. Own approximate estimate: the north-western part of the circle, roughly 8% of its area, lies inside the VTS area. All traffic lanes and separation zones (Eastern, South-eastern and Southern approaches ending at about 40°20'N to 40°28'N, 073°41'W to 073°48'W) and the Nantucket approach and junction area lie outside. Pass 4 correction: roughly 5 to 10 per cent of the precautionary area (not about 8 per cent) lies inside the VTS area; all lanes are outside.",
+   "_reason": "Pass 4 correction."
+  },
+  "TSS-0205": {
+   "unresolved_issue": "The ASIPONA pages do not use the term VTS and give no legal designation or mandatory participation rule; the service type should be confirmed from SEMAR/Capitanía or ALRS Vol 6. Partial coverage rests on 1996 TSS coordinates, not checked against any amendment in Ships' Routeing 2025. National mandatory reporting search was not exhaustive (SEMAR sources not located). Pass 4: the port traffic centre's defined area names the TSS, meeting association standards 1 and 3, though it is not designated a VTS; confirm with SEMAR or ALRS Vol 6.",
+   "_reason": "Pass 4."
+  },
+  "TSS-0189": {
+   "association_status": "MRS only",
+   "mandatory_reporting": "Yes",
+   "reporting_scheme_name": "CHILREP (national, Chile; mandatory for Chilean-flag ships and for foreign ships in internal waters)",
+   "reporting_authority": "DIRECTEMAR (Chilean Maritime Authority)",
+   "reporting_boundary_basis": "Not in IMO Part I (Y-S11). CHILREP is described by DIRECTEMAR as voluntary (Y-S10); the 24 h arrival notice for foreign ships is a port pre-arrival duty and the daily position report is a flag-State duty for Chilean ships only; reporting owed to the VTS is part of the VTS. The CHILREP internal-waters position-report duty for foreign ships was not assessed as applying to this open-coast approach. Counted under decision 3a. DIRECTEMAR's CHILREP guidance (Sistema de Notificación de la Situación de las Naves) requires position reports from Chilean-flag ships and states that foreign ships in Chilean internal waters must report position at 12:00Z and 24:00Z; participation outside internal waters is voluntary for foreign ships. The TSS lies in the Chilean CHILREP area.",
+   "reporting_source_ids": [
+    "Y-S11",
+    "Y-S10"
+   ],
+   "voluntary_reporting": "No (CHILREP recorded as the national mandatory scheme; voluntary only for foreign ships outside internal waters)",
+   "_reason": "Project decision 3a (user, 30 Sep 2026): CHILREP counts as a national mandatory reporting scheme for Chilean TSS."
+  },
+  "TSS-0192": {
+   "association_status": "MRS only",
+   "mandatory_reporting": "Yes",
+   "reporting_scheme_name": "CHILREP (national, Chile; mandatory for Chilean-flag ships and for foreign ships in internal waters)",
+   "reporting_authority": "DIRECTEMAR (Chilean Maritime Authority)",
+   "reporting_boundary_basis": "Not in IMO Part I (Y-S11); CHILREP voluntary for foreign ships (Y-S10). Open point: the TSS lies within Boca Grande at the entrance to Bahía Concepción; if in Chilean internal waters, the CHILREP guidance's 12:00Z/24:00Z position-report duty for foreign ships in internal waters could apply. Baseline/internal-waters status not established. Counted under decision 3a. DIRECTEMAR's CHILREP guidance (Sistema de Notificación de la Situación de las Naves) requires position reports from Chilean-flag ships and states that foreign ships in Chilean internal waters must report position at 12:00Z and 24:00Z; participation outside internal waters is voluntary for foreign ships. The TSS lies in the Chilean CHILREP area.",
+   "reporting_source_ids": [
+    "Y-S11",
+    "Y-S10"
+   ],
+   "voluntary_reporting": "No (CHILREP recorded as the national mandatory scheme; voluntary only for foreign ships outside internal waters)",
+   "_reason": "Project decision 3a (user, 30 Sep 2026): CHILREP counts as a national mandatory reporting scheme for Chilean TSS."
+  },
+  "TSS-0193": {
+   "association_status": "MRS only",
+   "mandatory_reporting": "Yes",
+   "reporting_scheme_name": "CHILREP (national, Chile; mandatory for Chilean-flag ships and for foreign ships in internal waters)",
+   "reporting_authority": "DIRECTEMAR (Chilean Maritime Authority)",
+   "reporting_boundary_basis": "Not in IMO Part I (Y-S11). CHILREP is described by DIRECTEMAR as voluntary (Y-S10); the 24 h arrival notice for foreign ships is a port pre-arrival duty and the daily position report is a flag-State duty for Chilean ships only; reporting owed to the VTS is part of the VTS. The CHILREP internal-waters position-report duty for foreign ships was not assessed as applying to this open-coast approach. Counted under decision 3a. DIRECTEMAR's CHILREP guidance (Sistema de Notificación de la Situación de las Naves) requires position reports from Chilean-flag ships and states that foreign ships in Chilean internal waters must report position at 12:00Z and 24:00Z; participation outside internal waters is voluntary for foreign ships. The TSS lies in the Chilean CHILREP area.",
+   "reporting_source_ids": [
+    "Y-S11",
+    "Y-S10"
+   ],
+   "voluntary_reporting": "No (CHILREP recorded as the national mandatory scheme; voluntary only for foreign ships outside internal waters)",
+   "_reason": "Project decision 3a (user, 30 Sep 2026): CHILREP counts as a national mandatory reporting scheme for Chilean TSS."
+  }
+ },
+ "pass4_notes": {
+  "B14": "An independent checker re-opened the Norwegian regulations (s.6 VTS list, chapter 5, notification regulation 2015 no. 1790), the Kystverket Barents SRS page, SN.1/Circ.318, MSC.190(79) and the Kystverket WFS polygons, and upheld every classification (research/stage2/pass4/chk_norway_result.json). Project decisions of 30 Sep 2026 applied (audits/stage2/Project_Decisions_2026-09-30.md).",
+  "B15": "An independent checker re-opened the Norwegian regulations (s.6 VTS list, chapter 5, notification regulation 2015 no. 1790), the Kystverket Barents SRS page, SN.1/Circ.318, MSC.190(79) and the Kystverket WFS polygons, and upheld every classification (research/stage2/pass4/chk_norway_result.json). Project decisions of 30 Sep 2026 applied (audits/stage2/Project_Decisions_2026-09-30.md).",
+  "B16": "An independent checker re-opened the Norwegian regulations (s.6 VTS list, chapter 5, notification regulation 2015 no. 1790), the Kystverket Barents SRS page, SN.1/Circ.318, MSC.190(79) and the Kystverket WFS polygons, and upheld every classification (research/stage2/pass4/chk_norway_result.json). Project decisions of 30 Sep 2026 applied (audits/stage2/Project_Decisions_2026-09-30.md).",
+  "B17": "An independent checker re-opened the Norwegian regulations (s.6 VTS list, chapter 5, notification regulation 2015 no. 1790), the Kystverket Barents SRS page, SN.1/Circ.318, MSC.190(79) and the Kystverket WFS polygons, and upheld every classification (research/stage2/pass4/chk_norway_result.json). Project decisions of 30 Sep 2026 applied (audits/stage2/Project_Decisions_2026-09-30.md).",
+  "B18": "An independent checker re-opened MSC.190(79), MSC.162(78), Decree-Law 263/2009, COLREG.2 circulars and the DGRM and EMSA pages, re-did the boundary geometry, and upheld every positive classification (research/stage2/pass4/chk_T_result.json).",
+  "B19": "An independent checker re-opened MSC.190(79), MSC.162(78), Decree-Law 263/2009, COLREG.2 circulars and the DGRM and EMSA pages, re-did the boundary geometry, and upheld every positive classification (research/stage2/pass4/chk_T_result.json).",
+  "B10": "An independent checker re-opened the Port Information Guide 2026, Staatscourant 2026 8272, the IJmuiden VTS regulation 2025, MSC.190(79), COLREG.2/Circ.64 and 67 and the Scheldt VTS folder, and re-did the WETREP, 38 nm and 12 nm geometry. Six positives upheld; Maas West Outer kept with its basis corrected and confidence lowered (research/stage2/pass4/chk_P_result.json).",
+  "B11": "An independent checker re-opened the Port Information Guide 2026, Staatscourant 2026 8272, the IJmuiden VTS regulation 2025, MSC.190(79), COLREG.2/Circ.64 and 67 and the Scheldt VTS folder, and re-did the WETREP, 38 nm and 12 nm geometry. Six positives upheld; Maas West Outer kept with its basis corrected and confidence lowered (research/stage2/pass4/chk_P_result.json).",
+  "B12": "An independent checker re-rendered the AnlBV Anhang chart, re-read the AnlBV, SeeSchStrO and 2014 GDWS notice, the ABP Humber page and COLREG.2/Circ.60, and upheld all five positives; German Bight western approach coverage note widened (research/stage2/pass4/chk_Q_result.json).",
+  "B13": "An independent checker re-rendered the AnlBV Anhang chart, re-read the AnlBV, SeeSchStrO and 2014 GDWS notice, the ABP Humber page and COLREG.2/Circ.60, and upheld all five positives; German Bight western approach coverage note widened (research/stage2/pass4/chk_Q_result.json).",
+  "B30": "An independent checker re-opened MSC.73(69), the MPA VTIS pages (updated 28 Sep 2026), the Singapore Port Information 2026 chartlets, the 2020 DG Sea Transportation release and the Hong Kong Marine Department sources. Seven positives upheld; TSS-0148 wording corrected; Sunda and Lombok downgraded (research/stage2/pass4/chk_U_result.json).",
+  "B31": "An independent checker re-opened MSC.73(69), the MPA VTIS pages (updated 28 Sep 2026), the Singapore Port Information 2026 chartlets, the 2020 DG Sea Transportation release and the Hong Kong Marine Department sources. Seven positives upheld; TSS-0148 wording corrected; Sunda and Lombok downgraded (research/stage2/pass4/chk_U_result.json). Project decisions of 30 Sep 2026 applied (audits/stage2/Project_Decisions_2026-09-30.md).",
+  "B36": "No positive or Neither confirmed classification to re-check. Coordinator confirmed every Unresolved record states what remains unknown.",
+  "B37": "No positive or Neither confirmed classification to re-check. Coordinator confirmed every Unresolved record states what remains unknown.",
+  "B34": "An independent checker re-opened eCFR 33 CFR 161 and 167, SOR/2025-275, CCG RAMN 2026 (CVTS), NAVCEN and the VTS Puget Sound, San Francisco and LA-LB user manuals, and COLREG.2/Circ.64, re-did the Race Rocks exchange-line and arc geometry, and upheld all eight positives; the San Francisco partial-coverage note was widened (research/stage2/pass4/chk_W_result.json).",
+  "B35": "An independent checker re-opened eCFR 33 CFR 161 and 167, SOR/2025-275, CCG RAMN 2026 (CVTS), NAVCEN and the VTS Puget Sound, San Francisco and LA-LB user manuals, and COLREG.2/Circ.64, re-did the Race Rocks exchange-line and arc geometry, and upheld all eight positives; the San Francisco partial-coverage note was widened (research/stage2/pass4/chk_W_result.json).",
+  "B32": "An independent checker re-opened eCFR 33 CFR 161 and 167, CCG RAMN 2026, SOR/2025-275, AMSA pages, Marine Order 63, the TasPorts Marine Order 64 instrument and Hong Kong Marine Department sources. No status downgraded; coverage set to partial for TSS-0162 to 0164; MASTREP retained as MRS under the national-scheme rule; Australian citation corrected (research/stage2/pass4/chk_V_result.json).",
+  "B33": "An independent checker re-opened eCFR 33 CFR 161 and 167, CCG RAMN 2026, SOR/2025-275, AMSA pages, Marine Order 63, the TasPorts Marine Order 64 instrument and Hong Kong Marine Department sources. No status downgraded; coverage set to partial for TSS-0162 to 0164; MASTREP retained as MRS under the national-scheme rule; Australian citation corrected (research/stage2/pass4/chk_V_result.json).",
+  "B38": "An independent checker re-opened NGA Pub. 124 and 125 (text and VTS diagrams), the COLREG.2 compilation, SOR/2025-275 Schedules 2 and 3 and DIRECTEMAR documents. Arica, Iquique and Chedabucto Bay upheld; Quintero and Valparaiso wording corrected; Punta Arenas downgraded to Unresolved (research/stage2/pass4/chk_Y_result.json). Decision 3a (CHILREP) applied.",
+  "B39": "An independent checker re-opened NGA Pub. 124 and 125 (text and VTS diagrams), the COLREG.2 compilation, SOR/2025-275 Schedules 2 and 3 and DIRECTEMAR documents. Arica, Iquique and Chedabucto Bay upheld; Quintero and Valparaiso wording corrected; Punta Arenas downgraded to Unresolved (research/stage2/pass4/chk_Y_result.json). Project decisions of 30 Sep 2026 applied (audits/stage2/Project_Decisions_2026-09-30.md). Decision 3a (CHILREP) applied.",
+  "B42": "No positive or Neither confirmed classification to re-check. Coordinator confirmed every Unresolved record states what remains unknown.",
+  "B43": "No positive or Neither confirmed classification to re-check. Coordinator confirmed every Unresolved record states what remains unknown.",
+  "B44": "An independent checker re-opened MSC.389(94), MSC.213(81), COLREG.2/Circ.57 and 66 and the La Moncloa release, found the Shandong MSA 2024 VTS notice, and re-did the 24 nm and CANREP geometry. All six positives upheld; TSS-0221 wording corrected (research/stage2/pass4/chk_Z3_result.json).",
+  "B45": "An independent checker re-opened MSC.389(94), MSC.213(81), COLREG.2/Circ.57 and 66 and the La Moncloa release, found the Shandong MSA 2024 VTS notice, and re-did the 24 nm and CANREP geometry. All six positives upheld; TSS-0221 wording corrected (research/stage2/pass4/chk_Z3_result.json).",
+  "B40": "An independent checker re-opened eCFR 33 CFR 161, 167 and 169, NAVCEN, SOR/2025-275, the ASIPONA Veracruz pages and the current US Coast Pilot chapters. Nothing downgraded; the Neither confirmed basis corrected (33 CFR 161 Table 1 omits VTS Tampa) and re-sourced to 161.2, 161.6, NAVCEN and Coast Pilot; Delaware voluntary service added (research/stage2/pass4/chk_Z1_result.json).",
+  "B41": "An independent checker re-opened eCFR 33 CFR 161, 167 and 169, NAVCEN, SOR/2025-275, the ASIPONA Veracruz pages and the current US Coast Pilot chapters. Nothing downgraded; the Neither confirmed basis corrected (33 CFR 161 Table 1 omits VTS Tampa) and re-sourced to 161.2, 161.6, NAVCEN and Coast Pilot; Delaware voluntary service added (research/stage2/pass4/chk_Z1_result.json)."
+ },
+ "audit_result": {},
+ "vts_alias": {
+  "VTS North Sea Canal Area": "VTS North Sea Canal Area (Noordzeekanaalgebied)"
+ },
+ "assignment": "assigned B40–B45",
+ "vts_fixed_ids": {
+  "Klang VTS": "VTS-0004",
+  "Johor VTS": "VTS-0005",
+  "Singapore VTS": "VTS-0006",
+  "VTS Prince William Sound": "VTS-0009",
+  "Vessel Traffic Service Puget Sound": "VTS-0010",
+  "VTS Puget Sound": "VTS-0010",
+  "Vessel Traffic Service San Francisco": "VTS-0011",
+  "VTS San Francisco": "VTS-0011",
+  "Vessel Traffic Service Los Angeles-Long Beach": "VTS-0012",
+  "VTS Los Angeles-Long Beach": "VTS-0012",
+  "Vessel Traffic Service Prince William Sound": "VTS-0009",
+  "VTS Houston-Galveston": "VTS-0013",
+  "VTS New York": "VTS-0014"
+ },
+ "decisions": {
+  "1": "Shore monitoring of a TSS by a VTS centre outside a statutory VTS area counts as VTS coverage (NOR VTS, Norway).",
+  "2": "Tanker-only IMO Part I schemes (WETREP, CANREP) count as MRS, with applicability recorded.",
+  "3": "National reporting schemes count as MRS, including flag-only and area schemes (SUNDAREP, LOMBOKREP, Strait of Magellan; MASTREP already counted).",
+  "4": "Currency: VTS evidence older than about three years with no later official source stays Unresolved.",
+  "5": "An official port traffic centre whose defined area names the TSS counts as a VTS (Veracruz).",
+  "3a": "CHILREP (Chile) counts as a national mandatory reporting scheme for Chilean TSS."
+ }
+}
