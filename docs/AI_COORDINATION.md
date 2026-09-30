@@ -60,3 +60,13 @@ Never convert a failed search into "Neither confirmed"; that needs an authoritat
 - `research/stage2/write_stage2_batches.py`: writes register rows, batch files and audits from research output. It appends new rows and leaves other rows byte-for-byte unchanged. To allocate from your reserved block, run it with `STAGE2_VTS_START` and `STAGE2_SRC_START` set, for example `STAGE2_VTS_START=100 STAGE2_SRC_START=1000 python3 research/stage2/write_stage2_batches.py B20`.
 - `research/stage2/resync_with_main.py`: renumbers a branch's own IDs after main has moved (only needed if working on a branch).
 - `research/reconciliation/Legacy_v0_3_Findings_to_IMO_2025.csv`: earlier findings for TSS-0036 onward, usable as leads (not evidence).
+
+
+## Mandatory storage controls added 30 September 2026
+
+Read current main before every write. Preserve concurrent changes.
+Use a CSV parser/writer, never physical-line replacement or hand-concatenated CSV.
+Check IDs across the complete live register before allocating new ones.
+Do not rerun historical ID-resynchronisation scripts against current data.
+Run the validator and regression tests before committing.
+A Git commit is not an evidence audit, and row coverage is not research completion.

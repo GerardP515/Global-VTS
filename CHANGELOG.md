@@ -1,5 +1,10 @@
 # Changelog
 
+## Repository integrity review - 30 September 2026
+
+Repaired CSV storage, integrated 50 first-pass rows, applied recorded counting decisions, restored references and reopened unsupported completion claims. See the repository review and gaps register.
+
+
 ## v1.0 - 29 September 2026
 
 Established the authoritative IMO 2025 baseline.

@@ -126,3 +126,19 @@ Version 0.2 contains the following sheets:
 - Legacy Links
 
 The workbook is the current working register. This dictionary sets the direction for later normalisation.
+
+
+## Repository review schema, 30 September 2026
+
+The current master retains the original 27 fields and adds explicit provenance and readiness fields.
+`recorded_association_status` and `recorded_review_status` preserve the pre-review findings.
+`association_status` includes documented policy corrections; it is not a publication-readiness flag.
+`review_status` is `pass1-recorded`, `reopened` or `audited`.
+`readiness_status` distinguishes first-pass, follow-up and recorded association review.
+`quality_flags` identify unresolved evidence, boundary, national-scheme and scope issues.
+`candidate_vts_ids` are leads, never confirmed links.
+`vts_coverage_type` distinguishes monitoring, partial coverage and unsettled extent.
+`record_origin` and `audit_path` retain traceability.
+`voluntary_reporting_notes` preserves qualified prose while the flag uses Yes/No/Unresolved.
+The reporting register combines IMO and national identities without implying IMO adoption of national schemes.
+The guide-service table counts service records only, not final VTS areas or editorial entries.

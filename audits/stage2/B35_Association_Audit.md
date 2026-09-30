@@ -1,3 +1,5 @@
+> Repository review, 30 September 2026: historical research record. Current master fields, review flags and [repository audit](../repository_review_20260930/REVIEW.md) govern readiness. A previous PASS label is not a completeness certificate.
+
 # Stage 2 association audit: B35
 
 ### Batch

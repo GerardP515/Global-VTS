@@ -1,3 +1,5 @@
+> Current machine-readable index: `SOURCE_REGISTER.csv`. Access history is not a fresh link-validation claim.
+
 # Source Register
 
 ## Baseline sources
@@ -1870,3 +1872,102 @@ Third-party material may identify a lead. It must not establish current operatio
 - Evidence class: Primary current government geodata.
 - Accessed: 30 September 2026.
 - Use: Current Dutch VTS-centre inventory, including Den Helder, IJmuiden, Rotterdam, Scheveningen and Scheldt-related centres. Used with exact VTS-area boundaries rather than as sole evidence of absence.
+
+
+### SRC-008 — BELTREP reporting procedures
+
+- Authority: Danish Defence / Royal Danish Navy.
+- URL: https://www.forsvaret.dk/da/organisation/soevaernet/civile-opgaver/beltrep/
+- Evidence class: Primary authority material.
+- Verification: Definition recovered from the v0.2 audit/source history. Not newly verified by this repair.
+- Use: Existing BELTREP operating source
+
+
+### SRC-009 — About SOUNDREP
+
+- Authority: Swedish Maritime Administration.
+- URL: https://www.sjofartsverket.se/en/services/maritime-traffic-information/soundrep/soundrep-information/about-soundrep/
+- Evidence class: Primary authority material.
+- Verification: Definition recovered from the v0.2 audit/source history. Not newly verified by this repair.
+- Use: Existing Sound VTS / SOUNDREP operating source
+
+
+### SRC-011 — GOFREP Area: Master’s Guide
+
+- Authority: Fintraffic.
+- URL: https://mastersguide.fintraffic.fi/en/gofrep-area
+- Evidence class: Primary authority material.
+- Verification: Definition recovered from the v0.2 audit/source history. Not newly verified by this repair.
+- Use: Existing GOFREP identity, boundaries and centre source
+
+
+### SRC-015 — Vessel Traffic Service
+
+- Authority: Danish Defence / Royal Danish Navy.
+- URL: https://www.forsvaret.dk/da/organisation/soevaernet/nationalt-maritimt-operationscenter/vts/
+- Evidence class: Primary authority material.
+- Verification: Definition recovered from the v0.2 audit/source history. Not newly verified by this repair.
+- Use: Existing Great Belt, Sound and Fehmarnbelt service source
+
+
+### SRC-020 — Resolution MSC.332(90): BELTREP
+
+- Authority: International Maritime Organization.
+- URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.332(90).pdf
+- Evidence class: Primary authority material.
+- Verification: Definition recovered from the v0.2 audit/source history. Not newly verified by this repair.
+- Use: Existing BELTREP adopted instrument
+
+
+### SRC-021 — Resolution MSC.314(88): SOUNDREP
+
+- Authority: IMO; Swedish Maritime Administration host.
+- URL: https://www.sjofartsverket.se/globalassets/tjanster/sjotrafiktjanster/msc.31488.pdf
+- Evidence class: Primary authority material.
+- Verification: Definition recovered from the v0.2 audit/source history. Not newly verified by this repair.
+- Use: Existing SOUNDREP adopted instrument
+
+
+### SRC-194 — South Åland Sea TSS: Master’s Guide
+
+- Authority: Fintraffic.
+- URL: https://mastersguide.fintraffic.fi/en/south-aland-sea-tss
+- Evidence class: Primary authority material.
+- Verification: Opened during the repository review on 30 September 2026.
+- Use: South Åland Sea monitoring by Åland Sea Traffic from the Western Finland VTS centre; decision 1 applies.
+
+
+### SRC-195 — New VTS Off Texel operational from 3 November 2025
+
+- Authority: Rijkswaterstaat.
+- URL: https://www.rijkswaterstaat.nl/nieuws/archief/2025/10/nieuw-vts-gebied-off-texel-vanaf-3-november-operationeel
+- Evidence class: Primary authority material.
+- Verification: Opened during the repository review on 30 September 2026.
+- Use: Current service identity and commencement; not proof of whole-TSS coverage.
+
+
+### SRC-196 — Container-ship advice and Off Texel VTS
+
+- Authority: Netherlands Coastguard.
+- URL: https://kustwacht.nl/beroepsvaart/advies-voor-containerschepen-bij-waddeneilanden/
+- Evidence class: Primary authority material.
+- Verification: Opened during the repository review on 30 September 2026.
+- Use: Current authority confirmation of Off Texel; limits of route coverage require component mapping.
+
+
+### SRC-197 — VTS Centres: international-waters monitoring
+
+- Authority: Fintraffic.
+- URL: https://www.fintraffic.fi/fi/node/255
+- Evidence class: Primary authority material.
+- Verification: Opened during the repository review on 30 September 2026.
+- Use: Helsinki Traffic monitors northern GOFREP from the Gulf of Finland VTS centre; Åland Sea Traffic from Western Finland.
+
+
+### SRC-198 — Monitoring international waters
+
+- Authority: Fintraffic.
+- URL: https://www.fintraffic.fi/sv/node/254
+- Evidence class: Primary authority material.
+- Verification: Opened during the repository review on 30 September 2026.
+- Use: GOFREP centre allocation and four named TSS; South Åland Sea has no obligatory reporting system.

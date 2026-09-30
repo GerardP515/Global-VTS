@@ -1,0 +1,46 @@
+{
+  "review_date": "2026-09-30",
+  "baseline_parents": 164,
+  "baseline_tss": 224,
+  "master_rows_before": 174,
+  "unintegrated_first_pass_rows": 50,
+  "master_rows_after": 224,
+  "csv_width_repairs": 61,
+  "orphan_continuation_groups": 2,
+  "orphan_continuation_rows": 5,
+  "existing_stage2_audit_records": 174,
+  "first_pass_only_records": 50,
+  "service_records_before": 40,
+  "service_records_after": 43,
+  "imo_reporting_schemes": 23,
+  "national_reporting_schemes": 5,
+  "source_records_before": 177,
+  "source_records_after": 188,
+  "restored_source_definitions": 6,
+  "policy_corrections": 5,
+  "reported_classifications_before": {
+    "VTS only": 48,
+    "MRS only": 33,
+    "Neither confirmed": 30,
+    "VTS + MRS": 40,
+    "Unresolved": 73
+  },
+  "reported_classifications_after": {
+    "VTS only": 49,
+    "VTS + MRS": 44,
+    "Neither confirmed": 29,
+    "MRS only": 29,
+    "Unresolved": 73
+  },
+  "readiness_status": {
+    "Review required": 145,
+    "Association record reviewed; not publication-ready": 29,
+    "First pass only": 50
+  },
+  "records_requiring_follow_up": 195,
+  "per_tss_gap_records": 195,
+  "scope_wide_gates_open": 6,
+  "full_required_vts_register": false,
+  "publication_ready": false,
+  "scope_of_review": "Whole-repository storage/integrity and policy-consistency audit with targeted current-authority checks; not a fresh audit of every operational claim."
+}

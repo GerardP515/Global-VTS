@@ -1,3 +1,5 @@
+> Superseded status note: all 50 first-pass rows are now integrated into the master CSV. They remain first-pass-only, not audited.
+
 # IMO 2025 B20–B29 block close
 
 **Date:** 30 September 2026  

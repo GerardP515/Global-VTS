@@ -1,0 +1,4 @@
+candidate_id,name,legacy_id,candidate_type,source_context,status,reason
+ADD-001,REEFVTS / REEFREP,VTS-007,Non-TSS or additional-area VTS/reporting,audits/Global_VTS_Inventory_v0_2_Audit.md; SRC-018,Legacy authority-supported lead; current scope reconciliation pending,TSS-led inventory alone does not demonstrate coverage of the Great Barrier Reef reporting/VTS area.
+ADD-002,Fehmarnbelt VTS,VTS-008,Temporary/voluntary VTS,Legacy v0.2 source history SRC-015/SRC-016,Legacy service lead; current construction-phase limits/status need rechecking,"Do not drop a service merely because it is temporary, voluntary or absent from the 224 TSS links."
+ADD-003,Sweden Traffic,,Monitoring-service eligibility review,SRC-033; Project_Decisions_2026-09-30.md decision 1,TSS monitoring recorded; eligibility as VTS-centre monitoring not established here,Recheck before treating Swedish offshore TSS negative findings as final.

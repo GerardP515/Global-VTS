@@ -1,3 +1,5 @@
+> **30 September 2026 correction:** `docs/STAGE_2_COUNTING_AND_COMPLETION.md` and the recorded project decisions take precedence over contradictory wording below. Read both before starting.
+
 # Stage 2 Prompt: TSS to VTS and Vessel Reporting Association Research
 
 ## Purpose

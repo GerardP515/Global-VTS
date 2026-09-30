@@ -1,0 +1,356 @@
+{
+  "repairs": [
+    {
+      "tss_id": "TSS-0008",
+      "input_path": "data/current/TSS_VTS_MRS_Association_Register.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0009",
+      "input_path": "data/current/TSS_VTS_MRS_Association_Register.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0010",
+      "input_path": "data/current/TSS_VTS_MRS_Association_Register.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0011",
+      "input_path": "data/current/TSS_VTS_MRS_Association_Register.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0012",
+      "input_path": "data/current/TSS_VTS_MRS_Association_Register.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0013",
+      "input_path": "data/current/TSS_VTS_MRS_Association_Register.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0014",
+      "input_path": "data/current/TSS_VTS_MRS_Association_Register.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0015",
+      "input_path": "data/current/TSS_VTS_MRS_Association_Register.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0016",
+      "input_path": "data/current/TSS_VTS_MRS_Association_Register.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0019",
+      "input_path": "data/current/TSS_VTS_MRS_Association_Register.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0020",
+      "input_path": "data/current/TSS_VTS_MRS_Association_Register.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0023",
+      "input_path": "data/current/TSS_VTS_MRS_Association_Register.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0024",
+      "input_path": "data/current/TSS_VTS_MRS_Association_Register.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0025",
+      "input_path": "data/current/TSS_VTS_MRS_Association_Register.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0028",
+      "input_path": "data/current/TSS_VTS_MRS_Association_Register.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0029",
+      "input_path": "data/current/TSS_VTS_MRS_Association_Register.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0030",
+      "input_path": "data/current/TSS_VTS_MRS_Association_Register.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0031",
+      "input_path": "data/current/TSS_VTS_MRS_Association_Register.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0033",
+      "input_path": "data/current/TSS_VTS_MRS_Association_Register.csv",
+      "repair": "Joined two evidence-summary fields; neither narrative was discarded."
+    },
+    {
+      "tss_id": "TSS-0034",
+      "input_path": "data/current/TSS_VTS_MRS_Association_Register.csv",
+      "repair": "Joined two evidence-summary fields; neither narrative was discarded."
+    },
+    {
+      "tss_id": "TSS-0035",
+      "input_path": "data/current/TSS_VTS_MRS_Association_Register.csv",
+      "repair": "Joined two evidence-summary fields; neither narrative was discarded."
+    },
+    {
+      "tss_id": "TSS-0046",
+      "input_path": "data/current/TSS_VTS_MRS_Association_Register.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0047",
+      "input_path": "data/current/TSS_VTS_MRS_Association_Register.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0043",
+      "input_path": "data/current/TSS_VTS_MRS_Association_Register.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0044",
+      "input_path": "data/current/TSS_VTS_MRS_Association_Register.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0045",
+      "input_path": "data/current/TSS_VTS_MRS_Association_Register.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0097",
+      "input_path": "data/current/B20_B29_Association_Rows.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0099",
+      "input_path": "data/current/B20_B29_Association_Rows.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0100",
+      "input_path": "data/current/B20_B29_Association_Rows.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0101",
+      "input_path": "data/current/B20_B29_Association_Rows.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0102",
+      "input_path": "data/current/B20_B29_Association_Rows.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0103",
+      "input_path": "data/current/B20_B29_Association_Rows.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0104",
+      "input_path": "data/current/B20_B29_Association_Rows.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0106",
+      "input_path": "data/current/B20_B29_Association_Rows.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0107",
+      "input_path": "data/current/B20_B29_Association_Rows.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0108",
+      "input_path": "data/current/B20_B29_Association_Rows.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0109",
+      "input_path": "data/current/B20_B29_Association_Rows.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0110",
+      "input_path": "data/current/B20_B29_Association_Rows.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0111",
+      "input_path": "data/current/B20_B29_Association_Rows.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0112",
+      "input_path": "data/current/B20_B29_Association_Rows.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0113",
+      "input_path": "data/current/B20_B29_Association_Rows.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0114",
+      "input_path": "data/current/B20_B29_Association_Rows.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0115",
+      "input_path": "data/current/B20_B29_Association_Rows.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0116",
+      "input_path": "data/current/B20_B29_Association_Rows.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0117",
+      "input_path": "data/current/B20_B29_Association_Rows.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0118",
+      "input_path": "data/current/B20_B29_Association_Rows.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0119",
+      "input_path": "data/current/B20_B29_Association_Rows.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0125",
+      "input_path": "data/current/B20_B29_Association_Rows.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0127",
+      "input_path": "data/current/B20_B29_Association_Rows.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0128",
+      "input_path": "data/current/B20_B29_Association_Rows.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0129",
+      "input_path": "data/current/B20_B29_Association_Rows.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0130",
+      "input_path": "data/current/B20_B29_Association_Rows.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0131",
+      "input_path": "data/current/B20_B29_Association_Rows.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0132",
+      "input_path": "data/current/B20_B29_Association_Rows.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0133",
+      "input_path": "data/current/B20_B29_Association_Rows.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0134",
+      "input_path": "data/current/B20_B29_Association_Rows.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0137",
+      "input_path": "data/current/B20_B29_Association_Rows.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0138",
+      "input_path": "data/current/B20_B29_Association_Rows.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0142",
+      "input_path": "data/current/B20_B29_Association_Rows.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0143",
+      "input_path": "data/current/B20_B29_Association_Rows.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    },
+    {
+      "tss_id": "TSS-0144",
+      "input_path": "data/current/B20_B29_Association_Rows.csv",
+      "repair": "Removed surplus empty field before reporting_boundary_basis."
+    }
+  ],
+  "orphan_fragments": {
+    "TSS-0046": [
+      [
+        "https://wetten.overheid.nl/BWBR0007914/"
+      ],
+      [
+        "https://www.defensie.nl/site/binaries/site-content/collections/baz-weekly-editions/2025/41/wkly_y2025_w41_baz257_265.pdf"
+      ],
+      [
+        "https://kustwacht.nl/hulpverlening/vtm/\"",
+        "No",
+        "",
+        "",
+        "",
+        "No IMO Part I system covers the area (P-S6; WETREP north-eastern limit is the line B/NL border to 52 12'N UK coast, far to the south-west, P-S5). The Dutch legal vehicle for reporting systems outside the territorial sea (P-S16) has one implementing regulation, which contains routeing measures only and no reporting system (P-S17). Pass 4: Scheepvaartreglement territoriale zee art. 5(1) requires ships of 300 GT or more, or carrying dangerous goods, to report before entering the Dutch territorial sea; this is made as the VTS or approach-area arrival report and is not a separate ship reporting system.",
+        "SRC-083; SRC-049; SRC-050; SRC-051",
+        "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.190(79).pdf\ndata/authoritative/IMO_2025_Mandatory_Reporting_Systems.csv\nhttps://wetten.overheid.nl/BWBR0008956/\nhttps://wetten.overheid.nl/BWBR0033648/",
+        "No",
+        "Offshore EEZ scheme north of the Wadden Islands. Mandatory reporting: none (Part I and Dutch EEZ regulation checked). VTS: none found; VTS Off Texel boundary excludes it; no official complete list of Dutch VTS areas was found to prove absence.",
+        "COLREG.2/Circ.66/Corr.1 20 May 2016; BaZ 261(P)/25 9 Oct 2025; BWBR0033648 version 6 Jul 2022",
+        "2026-09-29",
+        "audited",
+        "VTS absence not proven by an official complete list of Dutch VTS areas; eastern end of the scheme relative to German Bight Traffic (German VTS) not checked; coordinates of the eastern end not retrieved."
+      ]
+    ],
+    "TSS-0047": [
+      [
+        "https://www.defensie.nl/site/binaries/site-content/collections/baz-weekly-editions/2025/41/wkly_y2025_w41_baz257_265.pdf"
+      ],
+      [
+        "https://kustwacht.nl/hulpverlening/vtm/\"",
+        "No",
+        "",
+        "",
+        "",
+        "Outside all Part I systems (P-S6; WETREP limit line runs 51 22'N 003 22'E to 52 12'N UK coast, P-S5). Dutch EEZ routeing and reporting regulation contains no reporting system (P-S16, P-S17). Circ.59 recommends this western route to deep-draught tankers exempted from the southern mandatory tanker route and asks for a log entry only (P-S4): routeing, not reporting. Pass 4: Scheepvaartreglement territoriale zee art. 5(1) requires ships of 300 GT or more, or carrying dangerous goods, to report before entering the Dutch territorial sea; this is made as the VTS or approach-area arrival report and is not a separate ship reporting system.",
+        "SRC-052; SRC-083; SRC-049; SRC-050; SRC-051",
+        "https://cimrc.shmtu.edu.cn/_upload/article/files/63/dc/35c66be74d12873254dc88a2ef00/465d5392-0ba5-4f33-8e61-a48e3499b1b3.pdf\nhttps://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.190(79).pdf\ndata/authoritative/IMO_2025_Mandatory_Reporting_Systems.csv\nhttps://wetten.overheid.nl/BWBR0008956/\nhttps://wetten.overheid.nl/BWBR0033648/",
+        "No",
+        "Offshore scheme on the western deep-draught route. No mandatory reporting. No VTS found; VTS Off Texel does not reach it. Absence of VTS not proven by a complete official list.",
+        "COLREG.2/Circ.59 31 Oct 2007; BaZ week 41 2025; BWBR0033648 version 6 Jul 2022",
+        "2026-09-29",
+        "audited",
+        "Exact TSS coordinates (IMO B-II/9, positions (41)-(56)) not retrieved; responsible State/EEZ not confirmed; VTS absence not proven by an official complete list."
+      ]
+    ]
+  }
+}
