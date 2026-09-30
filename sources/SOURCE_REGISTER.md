@@ -2716,3 +2716,159 @@ Off Cape S. Vicente"
 - Locator: n/a
 - Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30.
 - Use: TSS-0126: snippet suggests an Egyptian VTMS/positioning system covering the Tiran Straits; not opened, not relied on
+
+
+### SRC-2060 — VTIS External Procedures, AHQ/CD/PPA/PRO/005/R01/20
+
+- Authority: ADNOC Petroleum Ports Authority (PPA).
+- URL: https://ppa.adnoc.ae/-/media/ppa/files/forms/2020/5-ahqcdppapro005r0120---vtis-external-procedures.ashx?la=en
+- Evidence class: Tier 2
+- Edition or date: Rev. 01, effective 20 February 2020; still hosted on ppa.adnoc.ae (retrieved 30 September 2026)
+- Accessed: 2026-09-30
+- Locator: Section 1 Purpose (p. 6); 10.2 Sectors and VHF channels; 10.3 Traffic Separation Schemes; 10.8 Das/Zirku sector; 10.8.3 Zaqqum In; 10.8.4 Zaqqum Out
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "improve the safety of navigation, life, environment, and property in the PPA-VTIS Sectors i.e. the approaches to Ruwais, Das Island, the Zaqqum TSS , the approaches to Zirku and Mubarraz Terminal."
+- Use: TSS-0135: Ruwais/Das VTIS established for PPA-VTIS Sectors that expressly include the Zaqqum TSS; Zaqqum In/Out reporting points; Das/Zirku sector limits; active/passive participants
+
+
+### SRC-2061 — VTIS (Petroleum Ports VTIS Control Stations) web page
+
+- Authority: ADNOC Petroleum Ports Authority (PPA).
+- URL: https://ppa.adnoc.ae/en/ports/vtis
+- Evidence class: Tier 2
+- Edition or date: Undated web page; site footer copyright 2026; accessed 30 September 2026
+- Accessed: 2026-09-30
+- Locator: Section 'Das / Zirku Port VTIS Limits'
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Das / Zirku Port VTIS Limits The VTIS will control the traffic from fairway buoy to inner harbour terminals and berths which will be limited by the following coordinates"
+- Use: TSS-0135: current published Das/Zirku Port VTIS limits (points A to M); the Zaqqum buoy, Zaqqum East and Zaqqum West reporting points of SRC-2060 fall inside this polygon (point-in-polygon check by researcher)
+
+
+### SRC-2062 — Das Zirku and Mubarraz Ports, Part V 11 - Nautical Services
+
+- Authority: ADNOC Petroleum Ports Authority (PPA).
+- URL: https://ppa.adnoc.ae/en/ports/das-zirku-mubarraz/part-v---11
+- Evidence class: Tier 2
+- Edition or date: Undated web page; site footer copyright 2026; accessed 30 September 2026
+- Accessed: 2026-09-30
+- Locator: 11.2.1, 11.2.2, 11.3.5.2
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Das VTIS operates 24/7 on VHF channel 23, with VHF Channel 16 to be used for emergencies only. The VTIS currently operates only as an information system."
+- Use: TSS-0135: Das VTIS operates 24/7 as an information service; limits and reporting points are those of the VTIS External Procedures (SRC-2060); south pilot station for vessels approaching via the Zakkum TSS
+
+
+### SRC-2063 — Das Zirku and Mubarraz Ports, Part III 8 - Port Navigation
+
+- Authority: ADNOC Petroleum Ports Authority (PPA).
+- URL: https://ppa.adnoc.ae/en/ports/das-zirku-mubarraz/part-iii---8
+- Evidence class: Tier 2
+- Edition or date: Undated web page; site footer copyright 2026; accessed 30 September 2026
+- Accessed: 2026-09-30
+- Locator: 8.1.4 VTIS; 8.9.1 Routing
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "A VTIS station is installed in Das Port Control Room and monitors all traffic within the Port limits and established VTIS sectors."
+- Use: TSS-0135: VTIS station in Das Port Control Room monitors port limits and VTIS sectors; inbound routing uses the TSS with Das VTIS instructions
+
+
+### SRC-2064 — Port Marine Notice DZM/MN/016/2026: Mooring Buoys Deployed North of Zirku Island
+
+- Authority: ADNOC PPA, Harbour Master, Port of Das Zirku & Mubarraz.
+- URL: https://ppa.adnoc.ae/-/media/ppa/files/marine-notices/local-marine-notices/das/2026/marine-notice0162026mooring-buoys--north-of-zirku-island.ashx
+- Evidence class: Tier 2
+- Edition or date: 28 September 2026
+- Accessed: 2026-09-30
+- Locator: Caution, item c)
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Maintain a listening watch on VHF Channel 23 (Das VTIS)"
+- Use: TSS-0135: Das VTIS currently operating (currency only; notice does not concern the TSS)
+
+
+### SRC-2065 — Port Marine Notice DZM/MN/019/2023: Traffic arrangement in Zaqqum TSS during pipe laying operation by DLB 750
+
+- Authority: ADNOC PPA, Harbour Master, Port of Das Zirku & Mubarraz.
+- URL: https://ppa.adnoc.ae/-/media/ppa/files/marine-notices/local-marine-notices/das/2023/marine-notice-019-2023---pipe-laying-operation---traffic-arrangement-in-zaqqum-tss.ashx
+- Evidence class: Tier 2
+- Edition or date: 14 March 2023 (temporary; not listed in the active notices list DZM/MN/017/2026 of 28 September 2026)
+- Accessed: 2026-09-30
+- Locator: Page 2, Caution items d) and g)
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Maintain a listening watch on VHF Channel 23 (Das VTIS) all times"
+- Use: TSS-0135: historical corroboration that Das VTIS served traffic in the Zaqqum TSS (2023); not relied on for currency
+
+
+### SRC-2067 — Middle East / Strait of Hormuz (hot topic page)
+
+- Authority: International Maritime Organization.
+- URL: https://www.imo.org/en/mediacentre/hottopics/pages/middle-east-strait-of-hormuz.aspx
+- Evidence class: Tier 1
+- Edition or date: Continuously updated; latest item dated 27 September 2026; accessed 30 September 2026
+- Accessed: 2026-09-30
+- Locator: Sections 'Strait of Hormuz - shipping route' and 'Regional Contact Points: Iran'
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "The existing Traffic Separation Scheme (TSS) in the Strait of Hormuz was proposed by Iran and Oman and adopted by IMO in 1968."
+- Use: TSS-0133: Hormuz TSS proposed by Iran and Oman; Iranian regional contact given as port VTS centres (lead for Iranian port VTS, no area link to the TSS)
+
+
+### SRC-2068 — Operational FAQs - IMO Strait of Hormuz Evacuation Plan
+
+- Authority: International Maritime Organization.
+- URL: https://www.imo.org/en/mediacentre/hottopics/pages/faqs-strait-of-hormuz-evacuation-plan.aspx
+- Evidence class: Tier 1
+- Edition or date: Undated (2026, plan stated to be paused); accessed 30 September 2026
+- Accessed: 2026-09-30
+- Locator: Q20 and Q21
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "No. The TSS should not be used due to the reported presence of mines."
+- Use: TSS-0133: current IMO statement that the TSS should not be used; traffic organised through coastal-State corridors (Iran, Oman)
+
+
+### SRC-2069 — Navigation Warning Promulgation Request: Arabian Gulf, Strait of Hormuz
+
+- Authority: Oman National Hydrographic Office (navigation warning request to NAVAREA IX coordinator, hosted by IMO).
+- URL: https://wwwcdn.imo.org/localresources/en/MediaCentre/PressBriefings/Documents/Oman%20Notice%20to%20Mariners%20on%20Transit%20thru%20Hormuz.pdf
+- Evidence class: Tier 2
+- Edition or date: 23 June 2026 (temporary emergency measure)
+- Accessed: 2026-09-30
+- Locator: Paras 5, 9 and 15
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "CURRENT REPORTS INDICATE THAT THE TSS IS NOT SAFE FOR USE AT THIS TIME."
+- Use: TSS-0133: Oman states the TSS is not safe for use; temporary eastbound corridor; vessels to contact radio station A4N (a radio station, not a VTS) and report dangers to Oman Maritime Security Centre
+
+
+### SRC-2070 — JMIC Advisory Note 010-26: Strait of Hormuz Open (hosted by IMO)
+
+- Authority: Joint Maritime Information Center (JMIC).
+- URL: https://wwwcdn.imo.org/localresources/en/MediaCentre/HotTopics/Documents/JMIC%20Advisory%20Note%2001026%20SoH%20procedure.pdf
+- Evidence class: Tier 4
+- Edition or date: 20 June 2026
+- Accessed: 2026-09-30
+- Locator: Section 1
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Coordination with NCAGS is not mandatory. Ships may transit the southern route without coordination."
+- Use: TSS-0133: NCAGS coordination for Hormuz transits is voluntary (security reporting, not MRS)
+
+
+### SRC-2071 — Marine Security Bulletin 07/2026/Rev.3
+
+- Authority: Liberian International Ship & Corporate Registry (flag administration).
+- URL: https://www.liscr.com/marketing/liscr/media/liscr/online%20library/maritime/msb-07_2026_rev-3.pdf
+- Evidence class: Tier 4
+- Edition or date: 14 July 2026
+- Accessed: 2026-09-30
+- Locator: Recommendations
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "All vessels transiting the Arabian Gulf, Strait of Hormuz, Gulf of Oman and North Araiian Sea are also encouraged to report to the Information Fusion Centre – Indian Ocean Region (IFCIOR), this is a voluntary reporting measure"
+- Use: TSS-0131 to TSS-0135: voluntary security reporting (UKMTO, MSCIO VRA, IFC-IOR) for the Arabian Gulf, Strait of Hormuz, Gulf of Oman and North Arabian Sea
+
+
+### SRC-2073 — Persian Gulf Strait Authority
+
+- Authority: Wikipedia (third-party summary of press reports).
+- URL: https://en.wikipedia.org/wiki/Persian_Gulf_Strait_Authority
+- Evidence class: Lead only
+- Edition or date: Accessed 30 September 2026 (article describes events of May to June 2026)
+- Accessed: 2026-09-30
+- Locator: n/a
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30.
+- Use: TSS-0133, TSS-0134: reported Iranian transit-permit regime for the Strait of Hormuz (2026); no official Iranian notice located; not evidence of an MRS
+
+
+### SRC-2074 — Port Marine Notice DZM/MN/019/2023, attached diagram 'Zaqqum TSS - Traffic Arrangement During Pipelying Operation at East Bound Lane' (chart extract)
+
+- Authority: ADNOC Petroleum Ports Authority (PPA), Harbour Master, Port of Das Zirku & Mubarraz.
+- URL: https://ppa.adnoc.ae/-/media/ppa/files/marine-notices/local-marine-notices/das/2023/marine-notice-019-2023---pipe-laying-operation---traffic-arrangement-in-zaqqum-tss.ashx
+- Evidence class: Tier 2
+- Edition or date: 14 March 2023 (temporary notice, used only for the TSS geometry, not for currency); opened 30 September 2026
+- Accessed: 2026-09-30
+- Locator: Page 3, Phase-1 diagram
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Ensure any non-compliance by any vessel is reported to DAS VTIS immediately on Channel 23"
+- Use: TSS-0135: charted extent of the 'TSS Between Zaqqum and Umm Shaif' from Zaqqum West buoy (about 52°59.6'E) to beyond Zaqqum buoy (eastern corners about 25°07.3'N 53°25.2'E and 25°05.8'N 53°26.4'E), used for the pass 4 overlay against the VTIS polygons
