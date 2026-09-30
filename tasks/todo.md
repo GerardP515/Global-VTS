@@ -21,3 +21,10 @@ Running count: 53 + 2 core + 2 supplemental = 57 identities (not final; FC-B and
 Project owner decisions: decision 6 (disputed-jurisdiction services counted, flagged); Iceland MTS supplemental.
 Checker corrections: Liverpool Bay to no service (1971 Act limit); Corsica to supplemental; Odesa to new service
 (Order 655 consolidated 2025). Another AI's FC-B audits landed on main during this work (audits only, no ID clash).
+
+# Double-check of disputed and marginal VTS negatives (decision 7)
+
+- [x] Record decision 7: include by default on conflict
+- [ ] Triage the whole register for marginal or disputed removals and no-VTS results
+- [ ] Independent double-check per country group; apply decision 7
+- [ ] Update register, fact-check table and audit; validator and tests; commit to the FC-A PR

@@ -45,3 +45,11 @@ Main's batches may contain cases these rules change, for example monitoring serv
 **Decision 6 (disputed jurisdiction):** a VTS operated by a party whose jurisdiction over the waters is disputed is recorded and counted as a core service, strictly as that party's claim, with the other party's position recorded alongside and the flag `DISPUTED_JURISDICTION_SERVICE`. Recording it does not endorse either position or imply current safe operation. First applied to TSS-0117 (Kerch Strait VTS, VTS-0210) in FC-A.
 
 **Classification note (FC-A):** the Icelandic Coast Guard Maritime Traffic Service (VTS-0212) is counted as a supplemental monitoring/information service, not a core VTS, because Iceland declares no VTS area and the governing Act gives it no traffic-organisation function.
+
+**Decision 7 (inclusion by default on conflict):** every VTS finding that is disputed or marginal and ended with a
+VTS link removed or recorded as no VTS is double-checked. Where the double-check still leaves the evidence in
+conflict, the service is **included** by default. Conflict means official sources disagree (one inside or monitored,
+another outside), or the TSS lies on or within source or datum precision of a service boundary, or the result turns
+on an interpretation choice that an official source supports either way. An unsuccessful search is not a conflict:
+it still leaves the record Unresolved. Included-by-default links carry the flag `INCLUDED_BY_DEFAULT_ON_CONFLICT`
+so they can be revisited if better evidence appears.
