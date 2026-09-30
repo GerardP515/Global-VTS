@@ -114,11 +114,16 @@ def main(batches):
     # ---- source IDs: group-local -> next unused SRC-NNN in SOURCE_REGISTER.md ----
     src_md = open(SRC_MD, encoding="utf-8").read()
     url_to_id = {}
-    for m in re.finditer(r"^### (SRC-\d{3}).*?(?=^### |\Z)", src_md, re.S | re.M):
+    for m in re.finditer(r"^### (SRC-\d{3,4}).*?(?=^### |\Z)", src_md, re.S | re.M):
         u = re.search(r"^- URL: (\S+)", m.group(0), re.M)
         if u:
             url_to_id.setdefault(u.group(1), m.group(1))
-    next_src = max(int(x) for x in re.findall(r"^### SRC-(\d{3})", src_md, re.M)) + 1
+    used_src = [int(x) for x in re.findall(r"^### SRC-(\d{3,4})", src_md, re.M)]
+    src_start = int(os.environ.get("STAGE2_SRC_START", "0"))
+    if src_start:  # reserved block, e.g. 1000 for SRC-1000 to SRC-1999
+        next_src = max([x for x in used_src if src_start <= x < src_start + 1000] + [src_start - 1]) + 1
+    else:
+        next_src = max(used_src) + 1
     src_reg = {}  # new sources only
     src_url = {v: k for k, v in url_to_id.items()}
     local_to_global = {}
@@ -153,7 +158,11 @@ def main(batches):
     vts_reg = {r["vts_id"]: r for r in read_csv(VTS_REG)}
     existing_vts = set(vts_reg)
     name_to_vts = {norm(r["vts_name"]): r["vts_id"] for r in vts_reg.values()}
-    next_id = max(int(k[4:]) for k in vts_reg) + 1
+    vts_start = int(os.environ.get("STAGE2_VTS_START", "0"))
+    if vts_start:  # reserved block, e.g. 100 for VTS-0100 to VTS-0199
+        next_id = max([int(k[4:]) for k in vts_reg if vts_start <= int(k[4:]) < vts_start + 100] + [vts_start - 1]) + 1
+    else:
+        next_id = max(int(k[4:]) for k in vts_reg) + 1
 
     def vts_ids_for(rec):
         ids = []
