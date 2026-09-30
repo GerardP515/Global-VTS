@@ -17,5 +17,5 @@ Pass 4 changed: TSS-0100 and TSS-0101 (Neither confirmed to Unresolved), TSS-010
 VTS + MRS, VTS Croatia Sector A), TSS-0108 (VTS Croatia added), SAFREP recorded as voluntary
 (TSS-0143, TSS-0144), plus boundary wording on TSS-0096, 0120, 0124, 0125, 0135 and 0136.
 
-TSS-0145 (One Fathom Bank) has no open item and is marked `audited`. The other 49 rows keep at
+TSS-0109 (Approaches to/from Koper) has no open item and is marked `audited`. The other 49 rows keep at
 least one review flag and are `reopened`, with specific open items in `data/current/Research_Gaps.csv`.
