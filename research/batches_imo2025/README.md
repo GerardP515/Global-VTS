@@ -10,15 +10,15 @@ The earlier `research/batches/` folder is retained for historical/reconciliation
 
 | Batch | IDs | IMO parent refs | Scope status |
 |---|---|---|---|
-| [B01](B01.md) | TSS-0001–TSS-0005 | B-I/1, B-I/2, B-I/3, B-I/4, B-I/5 | **Active** |
-| [B02](B02.md) | TSS-0006–TSS-0010 | B-I/6, B-I/7, B-I/8, B-I/9, B-I/10 | **Active** |
-| [B03](B03.md) | TSS-0011–TSS-0015 | B-I/11, B-I/12, B-I/13, B-I/14 | **Active** |
-| [B04](B04.md) | TSS-0016–TSS-0020 | B-I/15, B-I/16, B-I/17, B-I/18 | **Active** |
-| [B05](B05.md) | TSS-0021–TSS-0025 | B-I/19, B-I/20, B-I/21, B-I/22, B-I/23 | **Active** |
-| [B06](B06.md) | TSS-0026–TSS-0030 | B-I/24, B-I/25, B-I/26 | **Active** |
-| [B07](B07.md) | TSS-0031–TSS-0035 | B-I/26, B-II/1, B-II/2, B-II/3 | **Active** |
-| [B08](B08.md) | TSS-0036–TSS-0040 | B-II/4, B-II/5, B-II/6, B-II/7, B-II/8 | **Active** |
-| [B09](B09.md) | TSS-0041–TSS-0045 | B-II/8, B-II/9 | **Active** |
+| [B01](B01.md) | TSS-0001–TSS-0005 | B-I/1, B-I/2, B-I/3, B-I/4, B-I/5 | **Stage 2 complete** |
+| [B02](B02.md) | TSS-0006–TSS-0010 | B-I/6, B-I/7, B-I/8, B-I/9, B-I/10 | **Stage 2 complete** |
+| [B03](B03.md) | TSS-0011–TSS-0015 | B-I/11, B-I/12, B-I/13, B-I/14 | **Stage 2 complete** |
+| [B04](B04.md) | TSS-0016–TSS-0020 | B-I/15, B-I/16, B-I/17, B-I/18 | **Stage 2 complete** |
+| [B05](B05.md) | TSS-0021–TSS-0025 | B-I/19, B-I/20, B-I/21, B-I/22, B-I/23 | **Stage 2 complete** |
+| [B06](B06.md) | TSS-0026–TSS-0030 | B-I/24, B-I/25, B-I/26 | **Stage 2 complete** |
+| [B07](B07.md) | TSS-0031–TSS-0035 | B-I/26, B-II/1, B-II/2, B-II/3 | **Stage 2 complete** |
+| [B08](B08.md) | TSS-0036–TSS-0040 | B-II/4, B-II/5, B-II/6, B-II/7, B-II/8 | **Stage 2 complete** |
+| [B09](B09.md) | TSS-0041–TSS-0045 | B-II/8, B-II/9 | **Stage 2 complete** |
 | [B10](B10.md) | TSS-0046–TSS-0050 | B-II/9, B-II/10 | **Stage 2 complete** |
 | [B11](B11.md) | TSS-0051–TSS-0055 | B-II/10, B-II/11 | **Stage 2 complete** |
 | [B12](B12.md) | TSS-0056–TSS-0060 | B-II/11, B-II/12, B-II/13 | **Stage 2 complete** |
