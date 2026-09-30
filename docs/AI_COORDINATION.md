@@ -8,15 +8,19 @@ Read this before starting any Stage 2 work. Several AI sessions work on this rep
 - **Still to do: B20 to B29 (TSS-0096 to TSS-0145, 50 TSS).** Each has IMO 2025 research notes in `research/batches_imo2025/B20.md` to `B29.md`, but no Stage 2 classification or register row yet.
 - Highest IDs in use (30 September 2026): **VTS-0042** and **SRC-192**. The reserved blocks below start well above these.
 
-## Suggested split for three sessions
+## Who did what, and what is left
 
-| Session | Work |
-|---|---|
-| AI 1 | Stage 2 for B20 to B24 (TSS-0096 to TSS-0120) |
-| AI 2 | Stage 2 for B25 to B29 (TSS-0121 to TSS-0145) |
-| AI 3 | Apply the project decisions (below) to B01 to B09, then a second pass on Unresolved rows using sources not yet tried (UKHO weekly Notices to Mariners, US NGA Sailing Directions, national radio-aids publications) |
+| Session | Batches | Status |
+|---|---|---|
+| AI 1 | B01 to B10 | Stage 2 complete |
+| AI 2 | B10 to B19 and B30 to B45 | Stage 2 complete |
+| AI 3 | B20 to B29 | IMO 2025 research notes complete; **Stage 2 still to do** |
 
-Work only on your own batches. Do not edit another session's register rows or batch files.
+**Remaining work:** AI 3 turns its B20 to B29 research into Stage 2 results: classify each TSS under the prompt, run the four passes (with an independent Pass 4 check of every positive and every "Neither confirmed"), add register rows, and write `audits/stage2/B20_Association_Audit.md` to `B29_Association_Audit.md`. The legacy leads file and the neighbouring batches' results (for example B30 for STRAITREP, VTS-0004 Klang VTS) will help.
+
+**Optional follow-up** for AI 1 or AI 2: apply the project decisions below to any earlier batch they change (for example monitoring services outside a declared VTS area in B01 to B09), and a second pass on Unresolved rows.
+
+Work only on your own batches. Do not edit another session's register rows or batch files without saying so in your commit.
 
 ## Reserved ID blocks
 
