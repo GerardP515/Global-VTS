@@ -6,7 +6,7 @@ Read this before starting any Stage 2 work. Several AI sessions work on this rep
 
 - Stage 2 results are in `data/current/TSS_VTS_MRS_Association_Register.csv` for **174 of 224 TSS**: B01 to B19 and B30 to B45.
 - **Still to do: B20 to B29 (TSS-0096 to TSS-0145, 50 TSS).** Each has IMO 2025 research notes in `research/batches_imo2025/B20.md` to `B29.md`, but no Stage 2 classification or register row yet.
-- Highest IDs in use: **VTS-0039** and **SRC-184**.
+- Highest IDs in use (30 September 2026): **VTS-0042** and **SRC-192**. The reserved blocks below start well above these.
 
 ## Suggested split for three sessions
 
