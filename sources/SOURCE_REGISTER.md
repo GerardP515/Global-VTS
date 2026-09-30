@@ -216,3 +216,28 @@ Third-party material may identify a lead. It must not establish current operatio
 - Accessed: 30 September 2026.
 - Use: Current Göteborg VTS boundary. Southern boundary is latitude 57°31.9'N on 30 September 2026; this confirms TSS Fladen, around 57°13'N–57°15'N, lies outside the VTS area.
 - Note: A published boundary amendment takes effect 1 October 2026, moving the southern limit to about 57°30.6'N. This does not affect the Fladen conclusion.
+
+### SRC-042 — NCSR 10/INF.7, Denmark and Sweden Route S experience
+
+- Submitters: Denmark and Sweden; hosted by Danish Maritime Authority.
+- URL: https://www.soefartsstyrelsen.dk/Media/638197316856841051/NCSR%2010-INF.7%20-%20Experience%20gained%20from%20the%20establishment%20of%20traffic%20separation%20schemes%20and%20other%20routeing...%20%28Denmark%20and%20Sweden%29.pdf
+- Evidence class: Primary intergovernmental submission / official administration source.
+- Accessed: 30 September 2026.
+- Use: Explicit statement that TSS Entrance to the Sound is situated within mandatory SOUNDREP, operated by Sound VTS. Also documents Route S and the new TSS Lilla Middelgrund.
+
+### SRC-043 — MCA MGN 610 (M+F) Amendment 1, SOLAS chapter V guidance
+
+- Authority: UK Maritime and Coastguard Agency.
+- URL: https://www.gov.uk/government/publications/mgn-610-mf-amendment-1-solas-chapter-v-guidance-on-the-merchant-shipping-safety-of-navigation-regulations-2020/mgn-610-mf-amendment-1-navigation-solas-chapter-v-guidance-on-the-merchant-shipping-safety-of-navigation-regulations-2020
+- Evidence class: Primary national guidance.
+- Published/updated: 2025 page version checked on 30 September 2026.
+- Use: Confirms WETREP remains a mandatory IMO ship reporting system, with a reporting area extending from southern Portugal to the Shetland Islands; separately lists UK voluntary reporting schemes including the Isles of Scilly.
+
+### SRC-044 — IMO Resolution MSC.190(79), WETREP
+
+- Authority: International Maritime Organization.
+- URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.190%2879%29.pdf
+- Evidence class: Primary adopted IMO instrument.
+- Adopted: 6 December 2004.
+- Accessed: 30 September 2026.
+- Use: Establishes the mandatory West European Tanker Reporting System (WETREP) in the Western European PSSA and defines participating ship categories and system geography.
