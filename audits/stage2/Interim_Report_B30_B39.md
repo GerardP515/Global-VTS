@@ -32,16 +32,18 @@ These figures cover 50 of 224 TSS. They are not a worldwide total and must not b
 
 ## Update after project decisions (30 September 2026)
 
-The project owner's decisions (`audits/stage2/Project_Decisions_2026-09-30.md`) changed 3 records in this block (decision 3: national reporting schemes count as MRS): TSS-0153 Sunda Strait (SUNDAREP), TSS-0154 Lombok Strait (LOMBOKREP) and TSS-0194 Punta Arenas (Strait of Magellan reporting) move from Unresolved to MRS only. Their VTS side stays Unresolved.
+The project owner's decisions (`audits/stage2/Project_Decisions_2026-09-30.md`) changed 10 records in this block.
+- Decision 3 (national reporting schemes count as MRS): TSS-0153 Sunda Strait (SUNDAREP), TSS-0154 Lombok Strait (LOMBOKREP) and TSS-0194 Punta Arenas (Strait of Magellan reporting) move from Unresolved to MRS only. Their VTS side stays Unresolved.
+- Decision 3a (CHILREP counts as MRS): Arica, Iquique, Quintero and Valparaíso move from VTS only to VTS + MRS; Antofagasta, Concepción and San Vicente move from Unresolved to MRS only.
 
 | Classification | Before | After |
 |---|---:|---:|
-| VTS + MRS | 7 | 7 |
-| VTS only | 19 | 19 |
-| MRS only | 4 | 7 |
-| Unresolved | 20 | 17 |
+| VTS + MRS | 7 | 11 |
+| VTS only | 19 | 15 |
+| MRS only | 4 | 10 |
+| Unresolved | 20 | 14 |
 
-Mandatory reporting schemes linked in this block rise from 2 to 5 (STRAITREP, MASTREP, SUNDAREP, LOMBOKREP, Strait of Magellan reporting).
+Mandatory reporting schemes linked in this block rise from 2 to 6 (STRAITREP, MASTREP, SUNDAREP, LOMBOKREP, Strait of Magellan reporting, CHILREP).
 
 ## Distinct entities
 

@@ -545,30 +545,78 @@
   },
   "TSS-0194": {
    "association_status": "MRS only",
-   "_reason": "Project decision 3 (user, 30 Sep 2026): national reporting schemes count as MRS, including schemes mandatory only for national-flag ships.",
+   "_reason": "Project decision 3a (user, 30 Sep 2026): CHILREP counts as a national mandatory reporting scheme for Chilean TSS.",
    "mandatory_reporting": "Yes",
    "unresolved_issue": "Counted under decision 3. Reporting frequency differs between NGA Pub. 124 (every 4 h, or 0800/2000 with pilot) and DIRECTEMAR (12:00Z/24:00Z); the governing instrument was not found (foreign-ship duty traced only to D.S. (M) 1190 of 1976, on reciprocity). No VTS established.",
-   "reporting_scheme_name": "Strait of Magellan reporting to the Maritime Authority at Punta Arenas (national, Chile)",
-   "reporting_authority": "DIRECTEMAR, Chilean Maritime Authority (Punta Arenas)"
+   "reporting_scheme_name": "Strait of Magellan reporting to the Maritime Authority at Punta Arenas (national, Chile); CHILREP (national, Chile; mandatory for Chilean-flag ships and for foreign ships in internal waters)",
+   "reporting_authority": "DIRECTEMAR, Chilean Maritime Authority (Punta Arenas)",
+   "reporting_boundary_basis": "NGA Pub. 124: vessels must inform the Maritime Authority in Punta Arenas when entering or leaving the Estrecho de Magallanes and report position during the passage (CHILREP). DIRECTEMAR CHILREP guidance: foreign ships in Chilean internal waters must report position at 12:00Z and 24:00Z. The amended TSS (53°10'.3-53°12'.8 S, 070°46'.7-070°51'.1 W) lies in Rada de Punta Arenas within the Strait, so inside the reporting area (full). Counted under decision 3a. DIRECTEMAR's CHILREP guidance (Sistema de Notificación de la Situación de las Naves) requires position reports from Chilean-flag ships and states that foreign ships in Chilean internal waters must report position at 12:00Z and 24:00Z; participation outside internal waters is voluntary for foreign ships. The TSS lies in the Chilean CHILREP area.",
+   "reporting_source_ids": [
+    "Y-S9",
+    "Y-S10",
+    "Y-S7",
+    "Y-S11"
+   ],
+   "voluntary_reporting": "No (CHILREP recorded as the national mandatory scheme; voluntary only for foreign ships outside internal waters)"
   },
   "TSS-0190": {
    "vts_boundary_basis": "NGA Pub. 125 gives the VTS Quintero area as Bahía Quintero and the area bounded by 32°25'57\"S 71°25'38\"W, 32°25'51\"S 71°40'32\"W, 32°31'43\"S 71°49'30\"W, 32°45'32\"S 71°49'39\"W, 32°56'55\"S 71°43'20\"W, 33°01'05\"S 71°38'21\"W. All six TSS points (32°42'.9-32°45'.9 S, 071°32'-071°36'.4 W; COLREG.2/Circ.32) fall inside (point-in-polygon check). The NGA 'VTS Valparaiso' diagram also shows its control zone reaching north past Bahía Quintero. Pass 4 correction: points (1) and (5) at 071 32.00W fall just outside a straight chord from point a to point f; they are inside if the area closes along the coast (point f is at Punta Angeles). The VTS Valparaiso control zone (to about 32 37S) also contains this TSS.",
-   "_reason": "Pass 4 caveat.",
-   "unresolved_issue": "Tier 3 only; relationship between VTS Quintero and VTS Valparaíso (separate services or one control zone with two centres) not established from a DIRECTEMAR source. Datum difference (TSS SAD69 chart vs VTS coordinates) negligible given margins. Evidence is Tier 3 only (NGA Pub. 125); no DIRECTEMAR primary source could be opened (prontus.directemar.cl returns 403)."
+   "_reason": "Project decision 3a (user, 30 Sep 2026): CHILREP counts as a national mandatory reporting scheme for Chilean TSS.",
+   "unresolved_issue": "Tier 3 only; relationship between VTS Quintero and VTS Valparaíso (separate services or one control zone with two centres) not established from a DIRECTEMAR source. Datum difference (TSS SAD69 chart vs VTS coordinates) negligible given margins. Evidence is Tier 3 only (NGA Pub. 125); no DIRECTEMAR primary source could be opened (prontus.directemar.cl returns 403).",
+   "association_status": "VTS + MRS",
+   "mandatory_reporting": "Yes",
+   "reporting_scheme_name": "CHILREP (national, Chile; mandatory for Chilean-flag ships and for foreign ships in internal waters)",
+   "reporting_authority": "DIRECTEMAR (Chilean Maritime Authority)",
+   "reporting_boundary_basis": "Not in IMO Part I (Y-S11). CHILREP is described by DIRECTEMAR as voluntary (Y-S10); the 24 h arrival notice for foreign ships is a port pre-arrival duty and the daily position report is a flag-State duty for Chilean ships only; reporting owed to the VTS is part of the VTS. The CHILREP internal-waters position-report duty for foreign ships was not assessed as applying to this open-coast approach. Counted under decision 3a. DIRECTEMAR's CHILREP guidance (Sistema de Notificación de la Situación de las Naves) requires position reports from Chilean-flag ships and states that foreign ships in Chilean internal waters must report position at 12:00Z and 24:00Z; participation outside internal waters is voluntary for foreign ships. The TSS lies in the Chilean CHILREP area.",
+   "reporting_source_ids": [
+    "Y-S11",
+    "Y-S10"
+   ],
+   "voluntary_reporting": "No (CHILREP recorded as the national mandatory scheme; voluntary only for foreign ships outside internal waters)"
   },
   "TSS-0191": {
    "vts_boundary_basis": "NGA Pub. 125 diagram 'VTS Valparaiso' shows the Zona Control VTS Valparaíso from near Punta Curaumilla to north of Bahía Quintero, west to about 072°W, with the TSS drawn inside it off Bahía Valparaíso; text: VTM-STM operates in harbour limits and 'outward to the boundary depicted in the diagram titled VTS Valparaiso'. TSS (32°57'.3-33°00'.7 S, 071°35'.7-071°38'.7 W) lies inside. The TSS also falls inside the VTS Quintero coordinate polygon (computed). Participation mandatory within the limits and at anchor; voluntary for Las Salinas terminal traffic. Pass 4 correction: with a straight chord, 4 of the 6 TSS points lie outside the VTS Quintero area, so the secondary Quintero overlap claim is qualified; coverage rests on the VTS Valparaiso diagram.",
-   "_reason": "Pass 4 caveat.",
-   "unresolved_issue": "Tier 3 only; DIRECTEMAR instrument (e.g. resolution 12.000/934 of 2018 lead) not opened. Overlap with the VTS Quintero area to be reconciled by the coordinator (one service or two). Evidence is Tier 3 only (NGA Pub. 125); no DIRECTEMAR primary source could be opened (prontus.directemar.cl returns 403)."
+   "_reason": "Project decision 3a (user, 30 Sep 2026): CHILREP counts as a national mandatory reporting scheme for Chilean TSS.",
+   "unresolved_issue": "Tier 3 only; DIRECTEMAR instrument (e.g. resolution 12.000/934 of 2018 lead) not opened. Overlap with the VTS Quintero area to be reconciled by the coordinator (one service or two). Evidence is Tier 3 only (NGA Pub. 125); no DIRECTEMAR primary source could be opened (prontus.directemar.cl returns 403).",
+   "association_status": "VTS + MRS",
+   "mandatory_reporting": "Yes",
+   "reporting_scheme_name": "CHILREP (national, Chile; mandatory for Chilean-flag ships and for foreign ships in internal waters)",
+   "reporting_authority": "DIRECTEMAR (Chilean Maritime Authority)",
+   "reporting_boundary_basis": "Not in IMO Part I (Y-S11). CHILREP is described by DIRECTEMAR as voluntary (Y-S10); the 24 h arrival notice for foreign ships is a port pre-arrival duty and the daily position report is a flag-State duty for Chilean ships only; reporting owed to the VTS is part of the VTS. The CHILREP internal-waters position-report duty for foreign ships was not assessed as applying to this open-coast approach. Counted under decision 3a. DIRECTEMAR's CHILREP guidance (Sistema de Notificación de la Situación de las Naves) requires position reports from Chilean-flag ships and states that foreign ships in Chilean internal waters must report position at 12:00Z and 24:00Z; participation outside internal waters is voluntary for foreign ships. The TSS lies in the Chilean CHILREP area.",
+   "reporting_source_ids": [
+    "Y-S11",
+    "Y-S10"
+   ],
+   "voluntary_reporting": "No (CHILREP recorded as the national mandatory scheme; voluntary only for foreign ships outside internal waters)"
   },
   "TSS-0187": {
    "unresolved_issue": "VTS evidence is Tier 3 (NGA) only; DIRECTEMAR instrument defining VTS Arica limits not located (directemar.cl partly blocked). Diagram is schematic. Evidence is Tier 3 only (NGA Pub. 125); no DIRECTEMAR primary source could be opened (prontus.directemar.cl returns 403).",
-   "_reason": "Pass 4 note.",
-   "vts_boundary_basis": "NGA Pub. 125 diagram 'VTS Arica' shows the VTS boundary limits extending from the Peru-Chile border to about 071°W offshore and the TSS drawn inside them (inset Rada de Arica); text: VTM-STM operates in port limits and 'outward to the boundary described in the diagram titled VTS Arica'. TSS (COLREG.2/Circ.32) lies 18°25'-18°30' S, 070°21'-070°25'.4 W, within the depicted limits. Participation mandatory for vessels in port limits and at anchor; voluntary for vessels passing through without stopping. Pass 4: the diagram's VTS limits reach about 070 52W (not 071W); the TSS lies well inside."
+   "_reason": "Project decision 3a (user, 30 Sep 2026): CHILREP counts as a national mandatory reporting scheme for Chilean TSS.",
+   "vts_boundary_basis": "NGA Pub. 125 diagram 'VTS Arica' shows the VTS boundary limits extending from the Peru-Chile border to about 071°W offshore and the TSS drawn inside them (inset Rada de Arica); text: VTM-STM operates in port limits and 'outward to the boundary described in the diagram titled VTS Arica'. TSS (COLREG.2/Circ.32) lies 18°25'-18°30' S, 070°21'-070°25'.4 W, within the depicted limits. Participation mandatory for vessels in port limits and at anchor; voluntary for vessels passing through without stopping. Pass 4: the diagram's VTS limits reach about 070 52W (not 071W); the TSS lies well inside.",
+   "association_status": "VTS + MRS",
+   "mandatory_reporting": "Yes",
+   "reporting_scheme_name": "CHILREP (national, Chile; mandatory for Chilean-flag ships and for foreign ships in internal waters)",
+   "reporting_authority": "DIRECTEMAR (Chilean Maritime Authority)",
+   "reporting_boundary_basis": "Not in IMO Part I (Y-S11). CHILREP is described by DIRECTEMAR as voluntary (Y-S10); the 24 h arrival notice for foreign ships is a port pre-arrival duty and the daily position report is a flag-State duty for Chilean ships only; reporting owed to the VTS is part of the VTS. The CHILREP internal-waters position-report duty for foreign ships was not assessed as applying to this open-coast approach. Counted under decision 3a. DIRECTEMAR's CHILREP guidance (Sistema de Notificación de la Situación de las Naves) requires position reports from Chilean-flag ships and states that foreign ships in Chilean internal waters must report position at 12:00Z and 24:00Z; participation outside internal waters is voluntary for foreign ships. The TSS lies in the Chilean CHILREP area.",
+   "reporting_source_ids": [
+    "Y-S11",
+    "Y-S10"
+   ],
+   "voluntary_reporting": "No (CHILREP recorded as the national mandatory scheme; voluntary only for foreign ships outside internal waters)"
   },
   "TSS-0188": {
    "unresolved_issue": "VTS evidence is Tier 3 (NGA) only; DIRECTEMAR instrument defining VTS Iquique limits not located. Evidence is Tier 3 only (NGA Pub. 125); no DIRECTEMAR primary source could be opened (prontus.directemar.cl returns 403).",
-   "_reason": "Pass 4 caveat."
+   "_reason": "Project decision 3a (user, 30 Sep 2026): CHILREP counts as a national mandatory reporting scheme for Chilean TSS.",
+   "association_status": "VTS + MRS",
+   "mandatory_reporting": "Yes",
+   "reporting_scheme_name": "CHILREP (national, Chile; mandatory for Chilean-flag ships and for foreign ships in internal waters)",
+   "reporting_authority": "DIRECTEMAR (Chilean Maritime Authority)",
+   "reporting_boundary_basis": "Not in IMO Part I (Y-S11). CHILREP is described by DIRECTEMAR as voluntary (Y-S10); the 24 h arrival notice for foreign ships is a port pre-arrival duty and the daily position report is a flag-State duty for Chilean ships only; reporting owed to the VTS is part of the VTS. The CHILREP internal-waters position-report duty for foreign ships was not assessed as applying to this open-coast approach. Counted under decision 3a. DIRECTEMAR's CHILREP guidance (Sistema de Notificación de la Situación de las Naves) requires position reports from Chilean-flag ships and states that foreign ships in Chilean internal waters must report position at 12:00Z and 24:00Z; participation outside internal waters is voluntary for foreign ships. The TSS lies in the Chilean CHILREP area.",
+   "reporting_source_ids": [
+    "Y-S11",
+    "Y-S10"
+   ],
+   "voluntary_reporting": "No (CHILREP recorded as the national mandatory scheme; voluntary only for foreign ships outside internal waters)"
   },
   "TSS-0195": {
    "unresolved_issue": "Exact territorial sea limit near the TSS not opened, so whether the Part I eastern end and Part II southern end lie in the Eastern VTS Zone or outside Canadian waters is not established. RAMN Table 3-24 calling-in points not read (page truncated; direct download refused). Pass 4: the Eastern VTS Zone is limited to Canadian waters and the local zone's eastern edge is the territorial sea limit, so the eastern end of Part I is probably outside every VTS zone, while the southern end of Part II may fall in the Eastern zone.",
@@ -685,6 +733,45 @@
   "TSS-0205": {
    "unresolved_issue": "The ASIPONA pages do not use the term VTS and give no legal designation or mandatory participation rule; the service type should be confirmed from SEMAR/Capitanía or ALRS Vol 6. Partial coverage rests on 1996 TSS coordinates, not checked against any amendment in Ships' Routeing 2025. National mandatory reporting search was not exhaustive (SEMAR sources not located). Pass 4: the port traffic centre's defined area names the TSS, meeting association standards 1 and 3, though it is not designated a VTS; confirm with SEMAR or ALRS Vol 6.",
    "_reason": "Pass 4."
+  },
+  "TSS-0189": {
+   "association_status": "MRS only",
+   "mandatory_reporting": "Yes",
+   "reporting_scheme_name": "CHILREP (national, Chile; mandatory for Chilean-flag ships and for foreign ships in internal waters)",
+   "reporting_authority": "DIRECTEMAR (Chilean Maritime Authority)",
+   "reporting_boundary_basis": "Not in IMO Part I (Y-S11). CHILREP is described by DIRECTEMAR as voluntary (Y-S10); the 24 h arrival notice for foreign ships is a port pre-arrival duty and the daily position report is a flag-State duty for Chilean ships only; reporting owed to the VTS is part of the VTS. The CHILREP internal-waters position-report duty for foreign ships was not assessed as applying to this open-coast approach. Counted under decision 3a. DIRECTEMAR's CHILREP guidance (Sistema de Notificación de la Situación de las Naves) requires position reports from Chilean-flag ships and states that foreign ships in Chilean internal waters must report position at 12:00Z and 24:00Z; participation outside internal waters is voluntary for foreign ships. The TSS lies in the Chilean CHILREP area.",
+   "reporting_source_ids": [
+    "Y-S11",
+    "Y-S10"
+   ],
+   "voluntary_reporting": "No (CHILREP recorded as the national mandatory scheme; voluntary only for foreign ships outside internal waters)",
+   "_reason": "Project decision 3a (user, 30 Sep 2026): CHILREP counts as a national mandatory reporting scheme for Chilean TSS."
+  },
+  "TSS-0192": {
+   "association_status": "MRS only",
+   "mandatory_reporting": "Yes",
+   "reporting_scheme_name": "CHILREP (national, Chile; mandatory for Chilean-flag ships and for foreign ships in internal waters)",
+   "reporting_authority": "DIRECTEMAR (Chilean Maritime Authority)",
+   "reporting_boundary_basis": "Not in IMO Part I (Y-S11); CHILREP voluntary for foreign ships (Y-S10). Open point: the TSS lies within Boca Grande at the entrance to Bahía Concepción; if in Chilean internal waters, the CHILREP guidance's 12:00Z/24:00Z position-report duty for foreign ships in internal waters could apply. Baseline/internal-waters status not established. Counted under decision 3a. DIRECTEMAR's CHILREP guidance (Sistema de Notificación de la Situación de las Naves) requires position reports from Chilean-flag ships and states that foreign ships in Chilean internal waters must report position at 12:00Z and 24:00Z; participation outside internal waters is voluntary for foreign ships. The TSS lies in the Chilean CHILREP area.",
+   "reporting_source_ids": [
+    "Y-S11",
+    "Y-S10"
+   ],
+   "voluntary_reporting": "No (CHILREP recorded as the national mandatory scheme; voluntary only for foreign ships outside internal waters)",
+   "_reason": "Project decision 3a (user, 30 Sep 2026): CHILREP counts as a national mandatory reporting scheme for Chilean TSS."
+  },
+  "TSS-0193": {
+   "association_status": "MRS only",
+   "mandatory_reporting": "Yes",
+   "reporting_scheme_name": "CHILREP (national, Chile; mandatory for Chilean-flag ships and for foreign ships in internal waters)",
+   "reporting_authority": "DIRECTEMAR (Chilean Maritime Authority)",
+   "reporting_boundary_basis": "Not in IMO Part I (Y-S11). CHILREP is described by DIRECTEMAR as voluntary (Y-S10); the 24 h arrival notice for foreign ships is a port pre-arrival duty and the daily position report is a flag-State duty for Chilean ships only; reporting owed to the VTS is part of the VTS. The CHILREP internal-waters position-report duty for foreign ships was not assessed as applying to this open-coast approach. Counted under decision 3a. DIRECTEMAR's CHILREP guidance (Sistema de Notificación de la Situación de las Naves) requires position reports from Chilean-flag ships and states that foreign ships in Chilean internal waters must report position at 12:00Z and 24:00Z; participation outside internal waters is voluntary for foreign ships. The TSS lies in the Chilean CHILREP area.",
+   "reporting_source_ids": [
+    "Y-S11",
+    "Y-S10"
+   ],
+   "voluntary_reporting": "No (CHILREP recorded as the national mandatory scheme; voluntary only for foreign ships outside internal waters)",
+   "_reason": "Project decision 3a (user, 30 Sep 2026): CHILREP counts as a national mandatory reporting scheme for Chilean TSS."
   }
  },
  "pass4_notes": {
@@ -706,8 +793,8 @@
   "B35": "An independent checker re-opened eCFR 33 CFR 161 and 167, SOR/2025-275, CCG RAMN 2026 (CVTS), NAVCEN and the VTS Puget Sound, San Francisco and LA-LB user manuals, and COLREG.2/Circ.64, re-did the Race Rocks exchange-line and arc geometry, and upheld all eight positives; the San Francisco partial-coverage note was widened (research/stage2/pass4/chk_W_result.json).",
   "B32": "An independent checker re-opened eCFR 33 CFR 161 and 167, CCG RAMN 2026, SOR/2025-275, AMSA pages, Marine Order 63, the TasPorts Marine Order 64 instrument and Hong Kong Marine Department sources. No status downgraded; coverage set to partial for TSS-0162 to 0164; MASTREP retained as MRS under the national-scheme rule; Australian citation corrected (research/stage2/pass4/chk_V_result.json).",
   "B33": "An independent checker re-opened eCFR 33 CFR 161 and 167, CCG RAMN 2026, SOR/2025-275, AMSA pages, Marine Order 63, the TasPorts Marine Order 64 instrument and Hong Kong Marine Department sources. No status downgraded; coverage set to partial for TSS-0162 to 0164; MASTREP retained as MRS under the national-scheme rule; Australian citation corrected (research/stage2/pass4/chk_V_result.json).",
-  "B38": "An independent checker re-opened NGA Pub. 124 and 125 (text and VTS diagrams), the COLREG.2 compilation, SOR/2025-275 Schedules 2 and 3 and DIRECTEMAR documents. Arica, Iquique and Chedabucto Bay upheld; Quintero and Valparaiso wording corrected; Punta Arenas downgraded to Unresolved (research/stage2/pass4/chk_Y_result.json).",
-  "B39": "An independent checker re-opened NGA Pub. 124 and 125 (text and VTS diagrams), the COLREG.2 compilation, SOR/2025-275 Schedules 2 and 3 and DIRECTEMAR documents. Arica, Iquique and Chedabucto Bay upheld; Quintero and Valparaiso wording corrected; Punta Arenas downgraded to Unresolved (research/stage2/pass4/chk_Y_result.json). Project decisions of 30 Sep 2026 applied (audits/stage2/Project_Decisions_2026-09-30.md).",
+  "B38": "An independent checker re-opened NGA Pub. 124 and 125 (text and VTS diagrams), the COLREG.2 compilation, SOR/2025-275 Schedules 2 and 3 and DIRECTEMAR documents. Arica, Iquique and Chedabucto Bay upheld; Quintero and Valparaiso wording corrected; Punta Arenas downgraded to Unresolved (research/stage2/pass4/chk_Y_result.json). Decision 3a (CHILREP) applied.",
+  "B39": "An independent checker re-opened NGA Pub. 124 and 125 (text and VTS diagrams), the COLREG.2 compilation, SOR/2025-275 Schedules 2 and 3 and DIRECTEMAR documents. Arica, Iquique and Chedabucto Bay upheld; Quintero and Valparaiso wording corrected; Punta Arenas downgraded to Unresolved (research/stage2/pass4/chk_Y_result.json). Project decisions of 30 Sep 2026 applied (audits/stage2/Project_Decisions_2026-09-30.md). Decision 3a (CHILREP) applied.",
   "B42": "No positive or Neither confirmed classification to re-check. Coordinator confirmed every Unresolved record states what remains unknown.",
   "B43": "No positive or Neither confirmed classification to re-check. Coordinator confirmed every Unresolved record states what remains unknown.",
   "B44": "An independent checker re-opened MSC.389(94), MSC.213(81), COLREG.2/Circ.57 and 66 and the La Moncloa release, found the Shandong MSA 2024 VTS notice, and re-did the 24 nm and CANREP geometry. All six positives upheld; TSS-0221 wording corrected (research/stage2/pass4/chk_Z3_result.json).",
@@ -740,6 +827,7 @@
   "2": "Tanker-only IMO Part I schemes (WETREP, CANREP) count as MRS, with applicability recorded.",
   "3": "National reporting schemes count as MRS, including flag-only and area schemes (SUNDAREP, LOMBOKREP, Strait of Magellan; MASTREP already counted).",
   "4": "Currency: VTS evidence older than about three years with no later official source stays Unresolved.",
-  "5": "An official port traffic centre whose defined area names the TSS counts as a VTS (Veracruz)."
+  "5": "An official port traffic centre whose defined area names the TSS counts as a VTS (Veracruz).",
+  "3a": "CHILREP (Chile) counts as a national mandatory reporting scheme for Chilean TSS."
  }
 }

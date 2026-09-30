@@ -9,6 +9,7 @@ They apply to every Stage 2 batch. Batches already written by this branch have b
 | 2 | Do tanker-only IMO Part I schemes (WETREP, CANREP) count as MRS? | **Yes**, with applicability recorded. |
 | 3 | Do national reporting schemes count as MRS? | **Yes**, including schemes mandatory only for national-flag ships and area schemes without an IMO VRS ID. |
 | 4 | Is a VTS link resting only on evidence older than about three years, with no later official source, still Unresolved? | **Yes.** |
+| 3a | Does CHILREP (Chile) count as a national mandatory reporting scheme? | **Yes** (decided after the first update). |
 | 5 | Does an official port traffic centre whose defined area names the TSS count as a VTS, even if not designated a VTS? | **Yes.** |
 
 ## Changes made to this branch's batches
@@ -23,12 +24,16 @@ They apply to every Stage 2 batch. Batches already written by this branch have b
 - TSS-0194 Punta Arenas (Strait of Magellan reporting to the Maritime Authority) moves from Unresolved to **MRS only**.
 - National schemes have no VRS ID; they are named in `reporting_scheme_name`.
 
+**Decision 3a (8 TSS, B38 and B39):** CHILREP is counted as a national mandatory reporting scheme for the Chilean TSS, TSS-0187 to TSS-0194 (DIRECTEMAR guidance: mandatory for Chilean-flag ships and for foreign ships in internal waters).
+- Arica, Iquique, Quintero and Valparaíso move from VTS only to **VTS + MRS**.
+- Antofagasta, Concepción and San Vicente move from Unresolved to **MRS only**.
+- Punta Arenas stays **MRS only**, now with CHILREP alongside the Strait of Magellan reporting.
+
 **Decisions 2, 4 and 5:** confirm the rules already applied; no record changes.
 
 ## Not changed, for the record
 
 - **Routine reporting owed to a VTS** is still part of the VTS, not a separate MRS (German AnlBV/SeeSchStrO reports, Canadian VTS zone reports, US VTS participation, Dutch territorial-sea arrival reports). Decision 3 concerns reporting schemes, not VTS participation duties.
-- **CHILREP** (Chile) stays voluntary for foreign ships. The daily position report it requires of Chilean-flag ships is a general flag-State duty, not a scheme tied to an area or TSS. Flagged for confirmation.
 - **Monitoring by bodies that are not VTS centres** (Irish Coast Guard at Tuskar and Fastnet; Cuban "control posts"; Spanish rescue centres in the Canaries) is not covered by decision 1 and stays a lead.
 
 ## For other sessions
