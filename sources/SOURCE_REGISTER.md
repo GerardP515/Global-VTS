@@ -2872,3 +2872,195 @@ Off Cape S. Vicente"
 - Locator: Page 3, Phase-1 diagram
 - Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Ensure any non-compliance by any vessel is reported to DAS VTIS immediately on Channel 23"
 - Use: TSS-0135: charted extent of the 'TSS Between Zaqqum and Umm Shaif' from Zaqqum West buoy (about 52°59.6'E) to beyond Zaqqum buoy (eastern corners about 25°07.3'N 53°25.2'E and 25°05.8'N 53°26.4'E), used for the pass 4 overlay against the VTIS polygons
+
+
+### SRC-2075 — Ports and Terminals, July 2025: Ras Tanura Port (North Pier and Sea Island) chapter
+
+- Authority: Saudi Aramco (Ports and Terminals).
+- URL: https://www.aramco.com/-/media/downloads/working-with-us/ports-and-terminals-july-2025/03--ras-tanura-port--si--np-compressed.pdf
+- Evidence class: Tier 2
+- Edition or date: July 2025 edition (PDF modified 2 July 2025)
+- Accessed: 2026-09-30
+- Locator: s.1 Harbor Boundaries; s.3 Early contact / Arrival at the Port; s.4 Arrival Directions; s.5 Vessel Traffic Management System (VTMS)
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "A mandatory Vessel Traffic Management System (VTMS) is in operation to improve navigational safety for all vessels within the Port of Ras Tanura."
+- Use: Port of Ras Tanura harbour boundary (11 points, eastern limit 50 23 E); mandatory VTMS for all vessels within the Port; VTS operator information service; IMO-approved Ras Tanura Channel separation zones; reporting to Ras Tanura Port Control at the Entry buoy
+
+
+### SRC-2076 — Ports and Terminals, July 2025: Ras Tanura Port, Juaymah LPG Terminal chapter
+
+- Authority: Saudi Aramco (Ports and Terminals).
+- URL: https://www.aramco.com/-/media/downloads/working-with-us/ports-and-terminals-july-2025/05--ras-tanura-port--juaymah-ngl-compressed.pdf
+- Evidence class: Tier 2
+- Edition or date: July 2025 edition (PDF modified 2 July 2025)
+- Accessed: 2026-09-30
+- Locator: s.3.1 VTMS; s.3.2 Traffic Rules; s.3.2.4 Arrival Channel Rules
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "The separation zones and routes shown on the charts of the Ras Tanura Channel are approved by IMO."
+- Use: Same VTMS text; traffic rules for ships using the Ras Tanura Channel TSS; reporting positions to Ras Tanura Port Control; Juaymah areas under Ras Tanura Port Control
+
+
+### SRC-2077 — Pub. 172 Sailing Directions (Enroute) Red Sea and the Persian Gulf
+
+- Authority: US National Geospatial-Intelligence Agency.
+- URL: https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub172bk.pdf&type=download
+- Evidence class: Tier 3
+- Edition or date: 24th edition, 2025
+- Accessed: 2026-09-30
+- Locator: Sector 16, paras 16.12, 16.13 (Vessel Traffic Service), 16.28, 16.33, 16.39, 16.41
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "A Vessel Traffic Management System is in operation and covers the following facilities: 1. Ad Damman. 2. Ras Tannurah (paragraph 16.15). 3. Ju Aymah Oil Terminal (paragraph 16.16)."
+- Use: Ras Tanura/Ju Aymah TSS and VTMS coverage and reporting points (16.12, 16.13); Ras al Khafji terminal VHF 16 only, IMO TSS noted (16.28); Marjan/Zuluf TSS with no traffic service (16.33); Mina al Ahmadi TSS, security zone and control tower permission on VHF 69 (16.38 to 16.41)
+
+
+### SRC-2078 — Resolution A.338(IX) Routeing systems: In the approaches to Ras Tanura and Ju'aymah (as amended)
+
+- Authority: IMO (IMCO) Assembly.
+- URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.338(9).pdf
+- Evidence class: Tier 1
+- Edition or date: Adopted 12 November 1975
+- Accessed: 2026-09-30
+- Locator: Annex p.9, Parts I to III
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "A separation zone bounded by a line connecting the following geographical positions. (1) 27°06'50" N., 50°42'00" E. (2) 27°06'06" N., 50°23'18" E."
+- Use: TSS geometry: Ras Tanura Approach separation zone from 27 06 50 N 50 42 00 E west via 27 06 06 N 50 23 18 E to the channel ending about 26 40 52 N 50 12 E; Ju'aymah arrival and departure lanes
+
+
+### SRC-2079 — Compilation of IMO COLREG.2 circulars (incl. COLREG.2/Circ.44, Circ.54, Circ.55)
+
+- Authority: IMO (compilation published by Transportstyrelsen, Sweden).
+- URL: https://www.transportstyrelsen.se/globalassets/global/sjofart/dokument/sjotrafik_dok/imo_colreg.2_cirkular.pdf?id=58526
+- Evidence class: Tier 1
+- Edition or date: Circ.44 May 1998; Circ.54 28 May 2004; Circ.55 15 December 2004
+- Accessed: 2026-09-30
+- Locator: Circ.44 annexes 1 and 9; Circ.54 annex 2; Circ.55 annex 2
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "The new traffic separation scheme for the Ra's Al Khafji approaches will consist of: Two traffic lanes and one traffic separation zone between them."
+- Use: TSS geometry for One Fathom Bank (Circ.44 annex 1, 100 43 E to 101 12 E, 02 41 N to 03 03 N), Alphard Banks and FA platform (Circ.44 annex 9), Ra's al Khafji (Circ.54 annex 2), Mina Al-Ahmadi North I, North II and South (Circ.55 annex 2); implementation 1 December 1998 for Circ.44
+
+
+### SRC-2080 — Traffic Separation Schemes: adoption reference list (ruttsystem.pdf)
+
+- Authority: Transportstyrelsen (Swedish Transport Agency).
+- URL: https://transportstyrelsen.se/globalassets/global/sjofart/dokument/sjotrafik_dok/ruttsystem.pdf
+- Evidence class: Tier 4
+- Edition or date: Undated compilation
+- Accessed: 2026-09-30
+- Locator: Indian Ocean list rows
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Off Dondra Head Colreg.2/Circ.14 1981 MSC 42 1980"
+- Use: Adoption references: Off Dondra Head COLREG.2/Circ.14 (MSC 42, 1980); Alphard Banks and FA platform COLREG.2/Circ.44 (MSC 69, 1998); Khafji Circ.54; Mina Al-Ahmadi Circ.55
+
+
+### SRC-2081 — Pub. 173 Sailing Directions (Enroute) India and the Bay of Bengal
+
+- Authority: US National Geospatial-Intelligence Agency.
+- URL: https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub173bk.pdf&type=download
+- Evidence class: Tier 3
+- Edition or date: 16th edition, 2026
+- Accessed: 2026-09-30
+- Locator: Sector 4, para 4.30
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "An IMO-adopted traffic scheme has been established off Dondra Head."
+- Use: Dondra Head TSS noted with no VTS, vessel traffic or reporting arrangement stated for Sri Lankan waters (Sector 4)
+
+
+### SRC-2082 — MEPC 80/16/3 Call for establishment of a new traffic separation scheme south of Sri Lanka
+
+- Authority: IWC, ICS, BIMCO, INTERTANKO and others (IMO submission).
+- URL: https://www.worldshipping.org/s/MEPC-80-16-3-Call-for-establishment-of-a-new-traffic-separation-scheme-south-of-Sri-Lanka-IWC-ICS-BI.pdf
+- Evidence class: Tier 4
+- Edition or date: 28 April 2023
+- Accessed: 2026-09-30
+- Locator: paras on TSS history
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "territorial waters roughly 15 nm south of the existing TSS that was first established in 1980."
+- Use: Dondra Head TSS still in force (established 1980); proposed relocation; no VTS described
+
+
+### SRC-2083 — Pub. 171 Sailing Directions (Enroute) East Africa and the South Indian Ocean
+
+- Authority: US National Geospatial-Intelligence Agency.
+- URL: https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub171bk.pdf&type=download
+- Evidence class: Tier 3
+- Edition or date: 15th edition, 2026
+- Accessed: 2026-09-30
+- Locator: Sector 1, paras 1.2 (laden tankers), 1.14 (Alphard Banks), 1.18 (Mosselbaai)
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Vessels are required to contact the harbormaster on VHF channel 16 when passing the 12-mile reporting line and the 6-mile reporting line."
+- Use: Alphard Banks: advice to laden tankers, area to avoid within 6 miles, oil development area; no VTS or reporting scheme; Mossel Bay port reporting lines are 12 and 6 mile circles centred on the harbour
+
+
+### SRC-2084 — List of valid Marine Notices
+
+- Authority: South African Maritime Safety Authority (SAMSA).
+- URL: https://www.samsa.org.za/static/media/ListofvalidMarineNotices.6ddd7af5834ec84c9bce.pdf
+- Evidence class: Tier 2
+- Edition or date: Last updated 24 January 2025
+- Accessed: 2026-09-30
+- Locator: List entry '6 of 1999'
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "6 of 1999 South African Ship reporting system (SAFREP)"
+- Use: Marine Notice 6 of 1999 'South African Ship reporting system (SAFREP)' remains on the valid list; its mandatory status, participants and area not established (notice text not opened)
+
+
+### SRC-2085 — South African Maritime and Aeronautical Search and Rescue Act 2002, Regulations: reg. 30 Ship reporting system
+
+- Authority: Acts Online (third-party reproduction of SASAR Regulations 2016).
+- URL: https://source.acts.co.za/south-african-maritime-and%20aeronautical-search-and-rescue-act-2002/r604_30__ship_reporting_sy.php
+- Evidence class: Lead only
+- Edition or date: Regulations 2016 (as reproduced)
+- Accessed: 2026-09-30
+- Locator: reg. 30
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "A ship reporting system must be established in terns of Chapter 5 of the Maritime SAR Convention"
+- Use: General SAR ship reporting system requirement; not TSS-specific; participants and area not stated in the extract
+
+
+### SRC-2086 — Resolution MSC.73(69) Mandatory ship reporting systems, Annex: STRAITREP
+
+- Authority: IMO Maritime Safety Committee.
+- URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.73(69).pdf
+- Evidence class: Tier 1
+- Edition or date: Adopted 19 May 1998 (in force 1 December 1998)
+- Accessed: 2026-09-30
+- Locator: Annex paras 2.1, 3 and appendix 3
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "The operational area of STRAITREP covers the Straits of Malacca and Singapore between longitudes 100E 40'E and 104E 23'E ... The area includes the routeing system in the Straits of Malacca and Singapore."
+- Use: STRAITREP operational area 100 40 E to 104 23 E including the routeing system; nine sectors; Klang VTS is VTS authority for Sectors 1 to 5 (Sector 1 VHF 66, Sector 2 VHF 88)
+
+
+### SRC-2087 — STRAITREP Operational Areas (maps; sectors, VHF channels and VTS authorities)
+
+- Authority: Maritime and Port Authority of Singapore.
+- URL: https://www.mpa.gov.sg/port-marine-ops/operations/vessel-traffic-information-system/operational-areas
+- Evidence class: Tier 2
+- Edition or date: Page footer 'Last Updated on 30 Sep 2026' (accessed 30 September 2026)
+- Accessed: 2026-09-30
+- Locator: Table 'Sectors, VHF channels and VTS authorities'; image 'STRAITREP-operational-area-sectors-1-to-9'
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "Sector 1 VHF Channel 66 KLANG VTS Sector 2 VHF Channel 88 KLANG VTS"
+- Use: Current STRAITREP sector table naming KLANG VTS for Sectors 1 to 5; chartlet shows Sector 1 (Angsa) and Sector 2 (Jugra) covering the One Fathom Bank area at the western end of the operational area
+
+
+### SRC-2088 — Pub. 174 Sailing Directions (Enroute) Strait of Malacca and Sumatera
+
+- Authority: US National Geospatial-Intelligence Agency.
+- URL: https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub174bk.pdf&type=download
+- Evidence class: Tier 3
+- Edition or date: 16th edition, 2025
+- Accessed: 2026-09-30
+- Locator: Sector 1 regulations; Sector 2 para 2.13
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "STRAITREP, a joint Indonesia-Malaysia-Singapore mandatory ship reporting system, operates in the Strait of Malacca and Singapore Strait."
+- Use: STRAITREP operates in the Strait; One Fathom Bank TSS adopted as part of the Straits routeing system
+
+
+### SRC-2089 — Marine Notice No. 35 of 2018: The Merchant Shipping (Maritime Security) Regulations, 2004 (para 21, SAFREP)
+
+- Authority: South African Maritime Safety Authority (SAMSA).
+- URL: https://www.samsa.org.za/api/api/File/view/P5Ou7VxVqc2IpxutSORnhg==
+- Evidence class: Tier 2
+- Edition or date: 13 December 2018; on the SAMSA valid Marine Notices list of 24 January 2025
+- Accessed: 2026-09-30
+- Locator: para 21 'SAFREP', pp. 4 to 5
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "It makes use of movement reports submitted to Cape Town Radio by ships within the South African search and rescue region. Participation in the system is voluntary."
+- Use: SAFREP is a voluntary SAR ship reporting system, based on movement reports to Cape Town Radio from ships within the South African SRR; not an MRS
+
+
+### SRC-2090 — Marine Notice No. 52 of 2020: Maritime Safety Information (MSI) and Cospas-Sarsat LEOSAR services provided by Telkom SA
+
+- Authority: South African Maritime Safety Authority (SAMSA).
+- URL: https://samsa.org.za/api/api/File/view/qp1cdD44c6FniSEFv9lQ8A==
+- Evidence class: Tier 2
+- Edition or date: 16 November 2020; on the SAMSA valid list of 24 January 2025
+- Accessed: 2026-09-30
+- Locator: para 7 'SAFREP Services'
+- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "This service is provided by receiving and preparing messages, for onward transmission, from stations at sea via Radio Telephone and INMARSAT."
+- Use: SAFREP service still provided (message relay via radiotelephone and INMARSAT); no mandatory status stated
