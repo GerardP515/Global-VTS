@@ -28,6 +28,10 @@ These figures cover 29 of 224 TSS. They are not a worldwide total and must not b
 
 All six batch audits closed as PASS WITH UNRESOLVED ITEMS.
 
+## Update after project decisions (30 September 2026)
+
+The project owner's decisions (`audits/stage2/Project_Decisions_2026-09-30.md`) confirm the rules applied in this block (decisions 2 and 5). No records changed.
+
 ## Distinct entities
 
 **VTS services linked: 5.**

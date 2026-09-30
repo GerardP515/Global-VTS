@@ -32,6 +32,20 @@ All ten batch audits closed as PASS WITH UNRESOLVED ITEMS, except B14 and B16 (P
 | B18 | Smalls, Tuskar, Skerries, Liverpool Bay, North Channel | 0 | 0 | 3 | 0 | 2 |
 | B19 | Little Minches, Iceland, Finisterre, Cape Roca | 2 | 0 | 1 | 0 | 2 |
 
+## Update after project decisions (30 September 2026)
+
+The project owner's decisions (`audits/stage2/Project_Decisions_2026-09-30.md`) changed 19 records in this block. NOR VTS (Vardø, VTS-0039) now counts as VTS coverage for the 19 Norwegian coastal TSS (decision 1).
+
+| Classification | Before | After |
+|---|---:|---:|
+| VTS + MRS | 2 | 10 |
+| VTS only | 10 | 21 |
+| MRS only | 15 | 7 |
+| Neither confirmed | 11 | 0 |
+| Unresolved | 12 | 12 |
+
+Distinct VTS services linked in this block rise from 6 to 7. The "Neither confirmed" findings for southern Norway are superseded; the evidence that no statutory VTS area covers those TSS is kept in each record.
+
 ## Distinct entities
 
 **VTS areas identified: 6** (canonical IDs VTS-0022 to VTS-0027; see ID note below)

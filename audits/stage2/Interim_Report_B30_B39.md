@@ -30,6 +30,19 @@ These figures cover 50 of 224 TSS. They are not a worldwide total and must not b
 | B38 | Ilo, Arica, Iquique, Antofagasta, Quintero | 0 | 3 | 0 | 0 | 2 | PASS WITH UNRESOLVED ITEMS |
 | B39 | Valparaíso, Concepción, San Vicente, Punta Arenas, Chedabucto Bay | 0 | 2 | 0 | 0 | 3 | PASS WITH UNRESOLVED ITEMS |
 
+## Update after project decisions (30 September 2026)
+
+The project owner's decisions (`audits/stage2/Project_Decisions_2026-09-30.md`) changed 3 records in this block (decision 3: national reporting schemes count as MRS): TSS-0153 Sunda Strait (SUNDAREP), TSS-0154 Lombok Strait (LOMBOKREP) and TSS-0194 Punta Arenas (Strait of Magellan reporting) move from Unresolved to MRS only. Their VTS side stays Unresolved.
+
+| Classification | Before | After |
+|---|---:|---:|
+| VTS + MRS | 7 | 7 |
+| VTS only | 19 | 19 |
+| MRS only | 4 | 7 |
+| Unresolved | 20 | 17 |
+
+Mandatory reporting schemes linked in this block rise from 2 to 5 (STRAITREP, MASTREP, SUNDAREP, LOMBOKREP, Strait of Magellan reporting).
+
 ## Distinct entities
 
 **VTS services linked: 15.** Seven reuse legacy v0.2 IDs; eight are new.
