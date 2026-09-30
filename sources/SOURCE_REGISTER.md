@@ -3080,3 +3080,999 @@ Off Cape S. Vicente"
 - Locator: para 7 'SAFREP Services'
 - Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "This service is provided by receiving and preparing messages, for onward transmission, from stations at sea via Radio Telephone and INMARSAT."
 - Use: SAFREP service still provided (message relay via radiotelephone and INMARSAT); no mandatory status stated
+
+
+### SRC-2091 — MSN 1796 (M+F) Amendment 4: Vessel Traffic Services - Designation of Vessel Traffic Service (VTS) centres in the United Kingdom
+
+- Authority: Maritime and Coastguard Agency (UK).
+- URL: https://www.gov.uk/government/publications/msn-1796-mf-amendment-4-designation-of-vessel-traffic-services-vts/msn-1796-amendment-4-vessel-traffic-services-designation-of-vessel-traffic-service-vts-centres-in-the-united-kingdom
+- Evidence class: Tier 1
+- Edition or date: Published 8 August 2022; GOV.UK content record shows no later update or withdrawal notice (checked 30 September 2026)
+- Accessed: 2026-09-30
+- Locator: Paras 1.3, 6.3 and Annex 1
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "Services which are designated for the purposes of the 2004 Regulations are listed in the annex to this MSN."
+- Use: Official complete list of designated UK VTS: Aberdeen, Belfast, Bristol, CNIS, Dover Port, Forth and Tay, Harwich Haven, Humber Estuary, Liverpool, London (Gravesend), London Thames Barrier, Medway, Milford Haven, Southampton & Nab, Orkney, Peterhead, Plymouth, Poole, Portsmouth, Sullom Voe, Sunk, Tees and Hartlepool, Tyne. No Holyhead or Anglesey VTS.
+
+
+### SRC-2092 — Content API record for MSN 1796 (M+F) Amendment 4
+
+- Authority: GOV.UK (Maritime and Coastguard Agency).
+- URL: https://www.gov.uk/api/content/government/publications/msn-1796-mf-amendment-4-designation-of-vessel-traffic-services-vts
+- Evidence class: Tier 2
+- Edition or date: first_published_at and public_updated_at 2022-08-08; withdrawn_notice empty
+- Accessed: 2026-09-30
+- Locator: change_history
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "First published."
+- Use: Currency check: Amendment 4 is the current, unwithdrawn designation notice; GOV.UK search for 'MSN 1796' returned no later amendment.
+
+
+### SRC-2093 — Port of Liverpool Pilotage Directions (LPI01) version 5
+
+- Authority: The Mersey Docks and Harbour Company Ltd (Peel Ports), Competent Harbour Authority.
+- URL: https://www.peelports.com/media/ku1jcdge/lpi01-pilotage-directions-v5.pdf
+- Evidence class: Tier 2
+- Edition or date: Version 5 effective 01/09/2026
+- Accessed: 2026-09-30
+- Locator: Section 2 definitions; PEC areas (f)(i); section 7(a)(i)
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "A full Certificate shall have effect within the areas bounded by the outer Port limit (6.5mls west of the Bar Light)"
+- Use: Current definition of the outer Port of Liverpool limit (about 6.5 miles west of the Bar Light) and approximate Bar Buoy position 53 32 N 003 21 W; Port Operations Control is Mersey VTS.
+
+
+### SRC-2094 — Port of Liverpool Notice to Mariners No. 70 of 2017: Lynas Pilot Station
+
+- Authority: The Mersey Docks and Harbour Company Ltd (Peel Ports).
+- URL: https://www.peelports.com/media/isonk2az/lntm-2017-70-lynas-pilot-station.pdf
+- Evidence class: Tier 2
+- Edition or date: 7 December 2017
+- Accessed: 2026-09-30
+- Locator: Single page
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "does not constitute or infer the provision of a traffic service, as this area falls outside the limits of the Statutory Harbour Authority of the Port of Liverpool."
+- Use: Statement that the Port of Liverpool traffic service does not extend outside the Statutory Harbour Authority limits (Point Lynas area); older than three years, used only as context for the service boundary.
+
+
+### SRC-2095 — Port of Liverpool Notice to Mariners No. 20 of 2025: VHF channel allocations
+
+- Authority: The Mersey Docks and Harbour Company Ltd (Peel Ports).
+- URL: https://peelports.com/media/233gvc2i/lntm-2025-20-vhf-channel-allocations.pdf
+- Evidence class: Tier 2
+- Edition or date: 1 March 2025
+- Accessed: 2026-09-30
+- Locator: Page 2 table
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "MDHC Port Control Centre Mersey VTS 12† Port operations"
+- Use: Current operation of Mersey VTS (MDHC Port Control Centre, VHF 12) within the Port of Liverpool.
+
+
+### SRC-2096 — COLREG.2/Circ.60, Annex 3: New traffic separation scheme In Liverpool Bay
+
+- Authority: IMO.
+- URL: /tmp/claude-0/-home-user/8ae1a22f-e22b-5949-9052-1b98ee3518d6/scratchpad/s2/ck/colreg2.txt (project-downloaded COLREG.2 compilation)
+- Evidence class: Tier 1
+- Edition or date: 2008 circular (WGS 84 positions)
+- Accessed: 2026-09-30
+- Locator: Annex 3 paras (a) to (d)
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "(1) 53° 32 ′.76 N 003° 32′.18 W"
+- Use: TSS In Liverpool Bay extends 003 32.10 W to 003 41.36 W between 53 29.84 N and 53 34.56 N.
+
+
+### SRC-2097 — COLREG.2/Circ.64, Annex 1: In the approaches to IJmuiden
+
+- Authority: IMO.
+- URL: /tmp/claude-0/-home-user/8ae1a22f-e22b-5949-9052-1b98ee3518d6/scratchpad/s2/ck/colreg2.txt (project-downloaded COLREG.2 compilation)
+- Evidence class: Tier 1
+- Edition or date: 2012 circular (WGS 84 positions)
+- Accessed: 2026-09-30
+- Locator: Annex 1 pages 1-2
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "(17) 52º 31′.35 N 4º 13′.25 E (19) 52º 36′.04 N 4º 06′.36 E"
+- Use: Positions of IJmuiden North (points 9, 10, 17, 18, 19, 31, 32) and IJmuiden West Outer (points 22 to 35).
+
+
+### SRC-2098 — COLREG.2/Circ.64, Annex 3: North Hinder North traffic separation scheme
+
+- Authority: IMO.
+- URL: /tmp/claude-0/-home-user/8ae1a22f-e22b-5949-9052-1b98ee3518d6/scratchpad/s2/ck/colreg2.txt (project-downloaded COLREG.2 compilation)
+- Evidence class: Tier 1
+- Edition or date: 2012 circular (WGS 84 positions)
+- Accessed: 2026-09-30
+- Locator: Annex 3, North Hinder North paras (a)-(c)
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "(61) 52° 07′.29 N 003° 03′.08 E (63) 52° 11′.51 N 003° 02′.62 E"
+- Use: Positions 61 to 68 of North Hinder North.
+
+
+### SRC-2099 — Scheepvaartreglement territoriale zee (BWBR0007914), Bijlage 1 Aanloopgebieden
+
+- Authority: Netherlands (Minister of Infrastructure and Water Management).
+- URL: https://wetten.overheid.nl/BWBR0007914/
+- Evidence class: Tier 1
+- Edition or date: Version in force 01-01-2025 to date, consulted 30-09-2026
+- Accessed: 2026-09-30
+- Locator: Bijlage 1 (d) and (f)
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "het gedeelte van de territoriale zee dat ligt binnen het gebied, begrensd door een lijn die loopt van de positie 52°27’.9 N 004°32’.1 E (referentiepunt)"
+- Use: Statutory IJmuiden approach area: territorial sea inside a 12 nm arc about 52 27.9 N 004 32.1 E; Rotterdam approach area bounded by buoys MN3, MN2, MNW2, MNW3-MW4, MW5.
+
+
+### SRC-2100 — VTS communicatieregeling Noordzeekanaalgebied 2.0 (NL/EN), incl. Appendix I scope map
+
+- Authority: Directeur Centraal Nautisch Beheer Noordzeekanaalgebied (Port of Amsterdam).
+- URL: https://www.portofamsterdam.com/sites/default/files/2025-09/2025-479_VTS%20communicatieregeling%202.0%20def_NLEN_rev.pdf
+- Evidence class: Tier 2
+- Edition or date: In force 30 September 2025 (map dated 03-09-2025)
+- Accessed: 2026-09-30
+- Locator: Pp. 4, 8, 10
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "VHF Channel 7 is used for traffic-related communication concerning seagoing vessels. Information services only are provided to maritime traffic on this channel."
+- Use: VTS NZKG scope is the 12 nm approaches plus the extended IJ-geul; VHF 7 IJmuiden Approaches is an information-only supporting channel whose label sits outside the 12 nm zone on a schematic map without coordinates or TSS.
+
+
+### SRC-2101 — VHF channels web page
+
+- Authority: Port of Amsterdam.
+- URL: https://www.portofamsterdam.com/en/shipping/vhf-channels
+- Evidence class: Tier 2
+- Edition or date: Current page, accessed 30 September 2026
+- Accessed: 2026-09-30
+- Locator: Description of block and supporting channels
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "Supporting VHF Channel for ships that pass through IJmuiden."
+- Use: Describes 'IJmuiden approach' as a supporting channel for first contact; no area or TSS named.
+
+
+### SRC-2102 — Port Information Guide Rotterdam
+
+- Authority: Port of Rotterdam Authority (Harbour Master).
+- URL: https://www.portofrotterdam.com/sites/default/files/2026-02/port-information-guide.pdf
+- Evidence class: Tier 3
+- Edition or date: January 2026 (file 2026-02)
+- Accessed: 2026-09-30
+- Locator: p. 18, Nautical services
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "Extending 38 nautical miles seawards of the port entrance to 2 nautical miles east of the Van Brienenoord Bridge"
+- Use: Rotterdam VTS service area stated as extending 38 nm seawards of the port entrance; basis of measurement not stated.
+
+
+### SRC-2103 — Procedure VHF-communicatie VTS en HCC 2026 (Staatscourant 2026, nr. 8272)
+
+- Authority: Havenmeester van Rotterdam.
+- URL: https://zoek.officielebekendmakingen.nl/stcrt-2026-8272.html
+- Evidence class: Tier 1
+- Edition or date: Published 3 March 2026; in force 1 February 2026 per text
+- Accessed: 2026-09-30
+- Locator: Art. 2 and Bijlage 2 (PDF p. 7)
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "Het toepassingsgebied voor deze procedure is het VTS-gebied zoals aangegeven op de kaart in bijlage 2."
+- Use: The VTS area is the area shown on the Bijlage 2 chart; that chart's Maas Approach sector runs off the western frame near Eurogeul buoy E1 and does not show North Hinder North.
+
+
+### SRC-2104 — Vessel Traffic Monitoring
+
+- Authority: Rijkswaterstaat (Noordzeeloket).
+- URL: https://www.noordzeeloket.nl/functies-gebruik/windenergie/scheepvaartveiligheid-moswoz/vessel-traffic-monitoring/
+- Evidence class: Lead only
+- Edition or date: Current page, accessed 30 September 2026 (service stated to start autumn 2025)
+- Accessed: 2026-09-30
+- Locator: Taken VTMon
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "VTMon geldt als een passieve vorm van verkeersbegeleiding; de focus ligt in beginsel op het voorkomen van ongelukken en niet op de begeleiding van de scheepvaart."
+- Use: VTMon is a passive monitoring service run by the Coastguard in and around wind farms, not traffic guidance; no TSS named.
+
+
+### SRC-2105 — Het Walradar-systeem (Noordzeekanaal)
+
+- Authority: Rijkswaterstaat.
+- URL: https://www.rijkswaterstaat.nl/water/vaarwegenoverzicht/noordzeekanaal/walradar
+- Evidence class: Tier 2
+- Edition or date: Current page, accessed 30 September 2026
+- Accessed: 2026-09-30
+- Locator: Onder de radar
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "Dit systeem is noodzakelijk om alle scheepvaart op zee van en naar IJmuiden, op het Noordzeekanaal , bij Schellingwoude en een stukje Amsterdam-Rijnkanaal een veilige en snelle verkeersbegeleiding te verzekeren."
+- Use: The VTS radar chain serves shipping at sea to and from IJmuiden; no seaward limit or TSS named.
+
+
+### SRC-2106 — BaZ 527/13 replacement block (HP1 radio table) for IJmuiden
+
+- Authority: Netherlands Hydrographic Service.
+- URL: https://english.defensie.nl/site/binaries/site-content/collections/baz-weekly-editions/2013/50/mutation/blck_hp1_y2013_baz529c.pdf
+- Evidence class: Lead only
+- Edition or date: December 2013 (week 50/2013)
+- Accessed: 2026-09-30
+- Locator: Single page table
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "Operational from open sea up to the outer breakwaters of IJmuiden Harbour."
+- Use: Historic description of VHF 7 IJmuiden Approach as operational from open sea; older than three years and not a boundary (decision 4).
+
+
+### SRC-2107 — Expanded VTS for Port of Liverpool
+
+- Authority: Maritime Journal (trade press).
+- URL: https://www.maritimejournal.com/?p=214743
+- Evidence class: Lead only
+- Edition or date: Undated in fetched text
+- Accessed: 2026-09-30
+- Locator: Article body (WebFetch extract)
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "the VTS area which includes the Port, River Mersey and the port approaches"
+- Use: Mentions Peel Ports system sensors including Lynas; says the VTS area includes the port approaches, without limits.
+
+
+### SRC-2108 — MGN 401 (M+F) Amendment 3: Navigation: Vessel Traffic Services (VTS) and Local Port Services (LPS) in the UK
+
+- Authority: Maritime and Coastguard Agency (UK).
+- URL: https://www.gov.uk/government/publications/mgn-401-mf-amendment-3-navigation-vessel-traffic-services-vts-and-local-port-services-lps-in-the-uk/mgn-401-mf-amendment-3-navigation-vessel-traffic-services-vts-and-local-port-services-lps-in-the-uk
+- Evidence class: Tier 2
+- Edition or date: Published 22 March 2022; GOV.UK content API withdrawn_notice empty on 30 September 2026
+- Accessed: 2026-09-30
+- Locator: Paras 2.6, 2.8, 4.2.1(12), 4.2.2
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "Designating VTS, approving VTS Areas in accordance with current regulations and promulgating a list of designated VTS (see MSN 1796 (as amended)"
+- Use: MCA is the UK competent authority for VTS; harbour authorities apply to the MCA for designation of a VTS and approval of its area; the MCA promulgates the list of designated VTS in MSN 1796; a harbour authority provides VTS within its own port limits. Makes MSN 1796 the complete UK VTS list.
+
+
+### SRC-2109 — Port of Liverpool General Byelaws 2021
+
+- Authority: The Mersey Docks and Harbour Company Ltd (Peel Ports); confirmed by the Secretary of State for Transport.
+- URL: https://www.peelports.com/media/bbchw5oa/lrg9-port-of-liverpool-general-byelaws-2021.pdf
+- Evidence class: Tier 1
+- Edition or date: Made 19 January 2021, confirmed 26 March 2021; listed on the current MDHC marine page
+- Accessed: 2026-09-30
+- Locator: Byelaw 2 (Interpretation), 'the Port of Liverpool'
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "to a position in latitude 53 degrees 29 minutes 00 seconds north and longitude 3 degrees 32 minutes 00 seconds west, thence in a true north direction"
+- Use: Current statutory definition of the Port of Liverpool with coordinates: western limit on the meridian 003 32 00 W from 53 29 00 N to 53 33 00 N, then 065 degrees true.
+
+
+### SRC-2110 — Mersey Docks and Harbour Act 1971 (c. lvii), section 2 definition of 'the port of Liverpool'
+
+- Authority: UK Parliament.
+- URL: https://www.legislation.gov.uk/ukla/1971/57
+- Evidence class: Tier 1
+- Edition or date: 27 July 1971 (as enacted scan); definition still applied by SI 2021/45 and the 2021 byelaws
+- Accessed: 2026-09-30
+- Locator: s.2, printed p.4
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "thence in a true north direction to a position in latitude 53 degrees 33 minutes 00 seconds north and longitude 3 degrees 32 minutes 00 seconds west"
+- Use: Statutory Port of Liverpool limit coordinates (same as F1-C2), with proviso excluding waters outside territorial waters. The researcher missed this text, which is on printed page 4 (PDF page 7).
+
+
+### SRC-2111 — The Mersey Docks and Harbour Company (Liverpool Cruise Terminal Extension) Harbour Revision Order 2021 (SI 2021/45)
+
+- Authority: UK Government (Marine Management Organisation).
+- URL: https://www.legislation.gov.uk/uksi/2021/45/made
+- Evidence class: Tier 1
+- Edition or date: In force 12 February 2021
+- Accessed: 2026-09-30
+- Locator: Art. 2 (Interpretation)
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "“the port” means the port of Liverpool as defined in the 1971 Act"
+- Use: Confirms that the port of Liverpool is still the port as defined in the 1971 Act.
+
+
+### SRC-2112 — Port of Liverpool Notice to Mariners No. 1 of 2026: Notices remaining in force; and MDHC Liverpool marine information page
+
+- Authority: The Mersey Docks and Harbour Company Ltd (Peel Ports).
+- URL: https://www.peelports.com/media/tbog0vc3/lntm-2026-01-notices-remaining-in-force.pdf
+- Evidence class: Tier 2
+- Edition or date: 2026; page accessed 30 September 2026
+- Accessed: 2026-09-30
+- Locator: Single page
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "the Notices remaining in force from prior years are displayed on MDHC’s website (https://www.peelports.com/marine/our-ports/liverpool) under the Notices to Mariners link."
+- Use: Notices displayed on the MDHC Liverpool page remain in force; NtM 70/2017 (Lynas Pilot Station, no traffic service outside SHA limits) is displayed there (https://www.peelports.com/marine/our-ports/liverpool/), so it is current despite its date.
+
+
+### SRC-2113 — The Holyhead Harbour Revision Order 2023 (WSI 2023/897)
+
+- Authority: Welsh Ministers.
+- URL: https://www.legislation.gov.uk/wsi/2023/897/made
+- Evidence class: Tier 1
+- Edition or date: In force 14 August 2023
+- Accessed: 2026-09-30
+- Locator: Art. 2 (Interpretation), 'the harbour'
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "the harbour of the Company at Holyhead the limits of which are defined by section 28 of the 1959 Act and described in the Third Schedule to that Act"
+- Use: Holyhead harbour limits are those defined by the British Transport Commission Act 1959 s.28 and Third Schedule (text not online); Stena Line Ports Ltd is the harbour authority.
+
+
+### SRC-2114 — Resolution A.161(ES.IV): Off Skerries traffic separation scheme
+
+- Authority: IMO.
+- URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.161(ES.IV).pdf
+- Evidence class: Tier 1
+- Edition or date: 27 November 1968 (historical positions; gross geometry only)
+- Accessed: 2026-09-30
+- Locator: Off Skerries paragraph, p.6
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "A two-mile wide separation zone is centred upon the following geographical positions"
+- Use: Separation zone centreline 53 22.8 N 004 52.0 W, 53 31.3 N 004 41.7 W, 53 32.1 N 004 31.6 W; 2-mile zone and 2-mile lanes, so the inner edge is about 3 nm off the Skerries and about 5.9 nm from the Holyhead breakwater. Used only for gross distance.
+
+
+### SRC-2115 — Aanhangsel Handelingen II 2024-2025, nr. 1833 (answers to parliamentary questions)
+
+- Authority: Minister of Infrastructure and Water Management (Netherlands).
+- URL: https://zoek.officielebekendmakingen.nl/ah-tk-20242025-1833.html
+- Evidence class: Tier 1
+- Edition or date: 2025
+- Accessed: 2026-09-30
+- Locator: Antwoord 4
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "Vanaf oktober 2025 start de Nederlandse Kustwacht met Vessel Traffic Monitoring (VTMon), voornamelijk in en om gebieden met windparken op de Noordzee."
+- Use: Official scope statement for VTMon: mainly in and around wind farm areas; no TSS or fairway named; VTS is described separately as the service in the port approach areas.
+
+
+### SRC-2116 — Vessel Traffic Monitoring (VTMon) operationeel (news)
+
+- Authority: Kustwacht Nederland.
+- URL: https://kustwacht.nl/nieuws/vessel-traffic-monitoring-vtmon-operationeel/
+- Evidence class: Tier 2
+- Edition or date: 6 October 2025
+- Accessed: 2026-09-30
+- Locator: Page body
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "Een speciale VTMon-desk is sinds 1 oktober 2025 24/7 operationeel."
+- Use: VTMon desk at the Coastguard Centre, Den Helder, operational 24/7 since 1 October 2025; monitors traffic near wind farms and fairways; no named TSS or area.
+
+
+### SRC-2117 — Nieuw VTS-gebied Off Texel vanaf 3 november operationeel (news)
+
+- Authority: Rijkswaterstaat.
+- URL: https://www.rijkswaterstaat.nl/nieuws/archief/2025/10/nieuw-vts-gebied-off-texel-vanaf-3-november-operationeel
+- Evidence class: Tier 2
+- Edition or date: October 2025
+- Accessed: 2026-09-30
+- Locator: Article body (WebFetch extract)
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "elk schip dat het VTS-gebied Off Texel wil binnenvaren, moet zich melden via marifoonkanaal 63"
+- Use: Lead for TSS-0058 to TSS-0060 (not in this group's scope): a new VTS area Off Texel operated by the Rijkshavenmeester Den Helder, VHF 63, from 3 November 2025, covering the shipping routes north of the Wadden Islands. No coordinates or TSS names in the article.
+
+
+### SRC-2118 — Reglugerð nr. 524/2008 um afmörkun siglingaleiða, svæði sem ber að forðast og tilkynningaskyldu skipa fyrir Suðvesturlandi (consolidated current version)
+
+- Authority: Innviðaráðuneytið (Ministry of Infrastructure), Iceland; published in B-deild Stjórnartíðinda.
+- URL: https://files.reglugerd.is/pdf/0524-2008/current
+- Evidence class: Tier 1
+- Edition or date: Version in force from 3 November 2022 (as amended by 361/2009 and 1195/2022); consolidated PDF dated 16 August 2026
+- Accessed: 2026-09-30
+- Locator: Art. 7 (3rd para, item b); art. 8; art. 9; Annex I Parts I and II; TRANSREP annex paras 3.4 and 7
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "b. Ef komið er norður af Garðskaga: Áætlaðan komutíma að aðskildum siglingaleiðum (64°08'7 ʺ N, 022°43'4 ʺ V)."
+- Use: Defines both TSS (Annex I, Part I north-west of Garðskagaviti; Part II south-west of Reykjanes); art. 7 requires inner-route ships to report to vaktstöð siglinga with a passage plan including ETA at the Garðskagi TSS; art. 8 lets vaktstöð siglinga grant exemptions; TRANSREP annex names vaktstöð siglinga í Reykjavík (Maritime Traffic Service, MTS), VHF 70 (16), staffed H24 by Coast Guard personnel; art. 9 states the regulation is made under art. 13 of Act 41/2003.
+
+
+### SRC-2119 — Reglugerð nr. 1195/2022 um breytingu á reglugerð nr. 524/2008
+
+- Authority: Innviðaráðuneytið (Ministry of Infrastructure), Iceland.
+- URL: https://files.reglugerd.is/pdf/1195-2022/original
+- Evidence class: Tier 1
+- Edition or date: Signed 19 October 2022; in force 2 November 2022
+- Accessed: 2026-09-30
+- Locator: Arts 3(b), 4 and 5
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "Samgöngustofa skal halda skrá yfir þá sem hafa virk leyfi og sannreynir vaktstöð siglinga að skipstjórar sem hyggjast sigla innri leið hafi gilda heimild Samgöngustofu til þess."
+- Use: Amendment that gave vaktstöð siglinga the operational tasks tied to the Garðskagi/Reykjanes routeing measures: verifying inner-route authorisations, receiving the passage plan with ETA at the Garðskagi TSS (repeated 30 minutes before), and granting exemptions in consultation with the Coast Guard.
+
+
+### SRC-2120 — Lög nr. 41/2003 um vaktstöð siglinga (consolidated text, Lagasafn 157c)
+
+- Authority: Alþingi (Parliament of Iceland).
+- URL: https://www.althingi.is/lagas/nuna/2003041.html
+- Evidence class: Tier 1
+- Edition or date: Íslensk lög 1. september 2026 (útgáfa 157c); last amended by L. 93/2024
+- Accessed: 2026-09-30
+- Locator: Art. 2 (Markmið og hlutverk), item a
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "setja á fót vaktstöð siglinga sem veitir skipum sem sigla um íslenska efnahagslögsögu m.a. eftirfarandi öryggisþjónustu: a. vöktun og eftirlit sjálfvirks tilkynningarkerfis skipa (STK), þ.m.t. sjálfvirks alþjóðlegs auðkenningarkerfis skipa (AIS)"
+- Use: Statutory basis of the service: vaktstöð siglinga provides ships sailing in the Icelandic EEZ with AIS monitoring and surveillance, among other safety services; tasks may be assigned to the Icelandic Coast Guard.
+
+
+### SRC-2121 — JRCC Iceland: Rescue Centre for mariners and aircraft
+
+- Authority: Landhelgisgæsla Íslands (Icelandic Coast Guard).
+- URL: https://www.lhg.is/en/jrcc-iceland/jrcc-iceland-rescue-centre-for-mariners-and-aircrafts/
+- Evidence class: Tier 2
+- Edition or date: Current web page (image assets dated 2025-03); accessed 2026-09-30
+- Accessed: 2026-09-30
+- Locator: Page body
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "In addition, the Icelandic Vessel Traffic Service is operated within the operations centre."
+- Use: Current operation and identity: the Icelandic Vessel Traffic Service is operated inside the Coast Guard operations centre (JRCC Iceland), Reykjavík.
+
+
+### SRC-2122 — Dispositivos de separación de tráfico (web page)
+
+- Authority: Salvamento Marítimo (SASEMAR).
+- URL: https://www.salvamentomaritimo.es/mejora-tu-seguridad/control-y-servicios-en-la-mar/dispositivos-de-separacion-de-trafico
+- Evidence class: Tier 2
+- Edition or date: Current page (copyright line 2021); copy fetched in Stage 2, re-read 2026-09-30
+- Accessed: 2026-09-30
+- Locator: 'Estrecho de Gibraltar' section and 'Otros dispositivos'
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "El Centro de Coordinación de Salvamento de Tarifa presta el Servicio de Tráfico Marítimo en el Estrecho de Gibraltar"
+- Use: Names CCS Tarifa as provider of the traffic service in the Strait of Gibraltar; lists Spain's DST as Finisterre, Estrecho, Cabo de Gata, Canarias, Cabo de Palos and Cabo de la Nao, with no service named for Palos or La Nao and no mention of Banco del Hoyo.
+
+
+### SRC-2123 — Orden FOM/245/2003, de 30 de enero, por la que se aprueba el plan de utilización de los espacios portuarios del puerto de Cartagena
+
+- Authority: Ministerio de Fomento (BOE).
+- URL: https://www.boe.es/boe/dias/2003/02/13/pdfs/A05891-05893.pdf
+- Evidence class: Tier 1
+- Edition or date: BOE núm. 38, 13 February 2003, pp. 5891-5893
+- Accessed: 2026-09-30
+- Locator: Zona II description and coordinate table
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "La Zona II, o exterior de las aguas portuarias, que abarca las zonas de entrada, maniobra y posible fondeo, ... incluye todas las aguas situadas al norte de la línea que une la Punta del Sofre con Cabo Tiñoso"
+- Use: Outer limit of Cartagena port waters (Zona II): waters north of the line Punta del Sofre to Cabo Tiñoso, points L-1 (UTM 667385/4156170) and L-2 (UTM 680723/4158974), about 37 32 N 001 06 W and 37 34 N 000 57 W (converted, ED50, approximate). Restated in Orden FOM/1909/2014.
+
+
+### SRC-2124 — Orden FOM/1909/2014, de 3 de octubre, por la que se aprueba la valoración de los terrenos y lámina de agua de la zona de servicio del puerto de Cartagena
+
+- Authority: Ministerio de Fomento (BOE).
+- URL: https://www.boe.es/boe/dias/2014/10/18/pdfs/BOE-A-2014-10590.pdf
+- Evidence class: Tier 1
+- Edition or date: BOE núm. 253, 18 October 2014
+- Accessed: 2026-09-30
+- Locator: Zona II description
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "Zona II: Exterior de las aguas portuarias. ... incluye todas las aguas situadas al Norte de la línea que une la Punta del Sofre con Cabo Tiñoso."
+- Use: Confirms the same Zona II outer limit (Punta del Sofre to Cabo Tiñoso) for the Cartagena port service area.
+
+
+### SRC-2125 — Retenido un yate en Ibiza que puso en riesgo seguridad marítima en Cabo de Palos
+
+- Authority: La Voz de Ibiza (reporting a Delegación del Gobierno en Murcia statement).
+- URL: https://lavozdeibiza.com/?p=65567
+- Evidence class: Lead only
+- Edition or date: 19 September 2024
+- Accessed: 2026-09-30
+- Locator: Article body
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "el Centro de Coordinación de Salvamento Marítimo de Cartagena detectó el incumplimiento"
+- Use: Shows that CCS Cartagena detected a vessel proceeding against the traffic flow in the Cabo de Palos DST on 15 September 2024 and tried to call it on VHF 16; the Capitanía Marítima de Cartagena opened sanction proceedings. Original Government Delegation note not opened (mptmd.gob.es listing did not render).
+
+
+### SRC-2126 — Real Decreto 210/2004, de 6 de febrero, por el que se establece un sistema de seguimiento y de información sobre el tráfico marítimo (consolidated)
+
+- Authority: Gobierno de España (BOE).
+- URL: https://www.boe.es/buscar/act.php?id=BOE-A-2004-2752
+- Evidence class: Tier 1
+- Edition or date: BOE-A-2004-2752, consolidated text accessed 2026-09-30
+- Accessed: 2026-09-30
+- Locator: Arts 3(ñ), 3(o), 7.1 and 9.2
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "ñ) Estación costera: los centros de coordinación de salvamento adscritos a la entidad pública empresarial Sociedad de Salvamento y Seguridad Marítima (SASEMAR)."
+- Use: General duty only: the maritime administration urges ships to use IMO mandatory routeing systems used by Spain and monitors them; coastal stations are defined as the SASEMAR CCS. Names no VTS area or DST and does not by itself create a service for any TSS.
+
+
+### SRC-2127 — COLREG.2/Circ.52 New and amended traffic separation schemes (Annexes 2 and 3)
+
+- Authority: IMO.
+- URL: local copy of IMO COLREG.2 circulars compilation (scratchpad s2/ck/colreg2.txt)
+- Evidence class: Tier 1
+- Edition or date: 6 January 2003 (MSC 76)
+- Accessed: 2026-09-30
+- Locator: Annex 2 (La Nao), Annex 3 (Palos)
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "(4) 37 o32·.00 N 000 o33·.50 W"
+- Use: TSS coordinates (European Datum): Off Cape Palos 37 31.2 N to 37 35.7 N, 000 28.7 W to 000 35.75 W; Off Cape La Nao 38 37.7 N to 38 44.0 N, 000 13.5 E to 000 28.8 E.
+
+
+### SRC-2128 — Resolution A.186(VI)
+
+- Authority: IMO Assembly.
+- URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.186(6).pdf
+- Evidence class: Tier 1
+- Edition or date: Adopted 28 October 1969 (Stage 2 copy re-read)
+- Accessed: 2026-09-30
+- Locator: Annex, scheme 1
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "A two-mile wide separation zone is centred upon the following geographical positions: (i) 35°55'.5 N., 6°6'.0 W (ii) 35°55'.5 N., 6°12'.0 W"
+- Use: Banco del Hoyo TSS: separation zone centred on 35 55.5 N between 006 06 W and 006 12 W; limits 35 52.3 N to 35 58.2 N; about 8 to 14 NM west of the GIBREP western limit (005 58 W).
+
+
+### SRC-2129 — Icelandic Maritime Traffic Service / Vaktstöð siglinga
+
+- Authority: Neyðarlínan ohf. (112 Iceland), page on vaktstöð siglinga.
+- URL: https://www.112.is/en/vaktstod-siglinga
+- Evidence class: Tier 2
+- Edition or date: Current web page, accessed 2026-09-30
+- Accessed: 2026-09-30
+- Locator: 'Emergency and safety services for seafarers'
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "The Maritime Traffic Service ensures safe sailing in the Icelandic exclusive economic zone; the safety of ships, passengers, and crews; and strengthens the prevention of pollution from ships."
+- Use: Service description of vaktstöð siglinga: EEZ-wide telecommunications, emergency and safety services (distress communications, NAVTEX, MEDICO, navigational warnings, monitoring of ships in the reporting system); no traffic-organisation role or VTS area stated. Supports monitoring-information classification.
+
+
+### SRC-2130 — Actualidad (news archive), filter year 2024, month September
+
+- Authority: Ministerio de Política Territorial y Memoria Democrática, Delegación del Gobierno en la Región de Murcia.
+- URL: https://mptmd.gob.es/portal/delegaciones_gobierno/delegaciones/murcia/actualidad
+- Evidence class: Tier 2
+- Edition or date: Accessed 2026-09-30 (content_display.y2024.m9 selector)
+- Accessed: 2026-09-30
+- Locator: September 2024 listing
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "No matching item (listing titles concern agriculture, prisons, drug tests, weather, funding)."
+- Use: Search record only: the September 2024 archive lists 11 notes (5 to 27 Sept 2024), none on the Cabo de Palos DST incident; the original statement reported in F2-S12 is not available on the current site.
+
+
+### SRC-2131 — Arrêté préfectoral n° 256/2016 réglementant la navigation dans le dispositif de séparation du trafic, les zones de prudence et la zone de navigation côtière associées du canal de Corse
+
+- Authority: Préfecture maritime de la Méditerranée.
+- URL: https://www.premar-mediterranee.gouv.fr/uploads/mediterranee/arretes/1479998332-index-2016-256.pdf
+- Evidence class: Tier 1
+- Edition or date: 24 November 2016; in force 1 December 2016 00h00 UTC
+- Accessed: 2026-09-30
+- Locator: Articles 4 to 8 and 10; Annex I
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "Ces navires sont tenus de répondre sur cette fréquence à tout appel provenant soit du CROSS Méditerranée, soit d’un sémaphore, soit d’un navire ou aéronef de l’Etat français"
+- Use: Only French national instrument regulating the Corsica Channel TSS. Operational roles given to CROSS Méditerranée (La Garde) and the naval signal stations (sémaphores) of Cap Corse and Sagro: VHF 16 watch in French part of TSS, obligation to answer CROSS Med / sémaphore / State units, ZNC reports to sémaphores, annual declaration to CROSS Med. No VTS, VTS centre or VTS area is designated. Annex I restates TSS coordinates (lanes 43°02'N to 42°54'N, 009°33'.68E to 009°43'.20E; precautionary areas 43°07'N to 42°48'N).
+
+
+### SRC-2132 — Arrêtés search listing, numéro 2016-256, filter 'Limiter aux actes en vigueur'
+
+- Authority: Préfecture maritime de la Méditerranée.
+- URL: https://www.premar-mediterranee.gouv.fr/arretes?numero=2016-256&envigueur=on
+- Evidence class: Tier 2
+- Edition or date: Listing accessed 30 September 2026
+- Accessed: 2026-09-30
+- Locator: Search result entry 2016-256
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "2016-256 Date de signature : 24 nov. 2016 Haute-Corse arrêté préfectoral n°256/2016 réglementant la navigation dans le dispositif de séparation du trafic"
+- Use: Arrêté 256/2016 is returned with the in-force filter and carries no 'Abrogé' marker (other listed acts show 'Abrogé' where repealed), so it is current.
+
+
+### SRC-2133 — Vessel Traffic Service (Italian page and English page listing VTS centres and manuals)
+
+- Authority: Comando generale del Corpo delle Capitanerie di porto - Guardia Costiera (Italy).
+- URL: https://www.guardiacostiera.gov.it/portale/vessel-traffic-service
+- Evidence class: Tier 2
+- Edition or date: Live page, accessed 30 September 2026 (undated); cites D.M. 22 novembre 2023
+- Accessed: 2026-09-30
+- Locator: Page body
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "Attualmente i Centri VTS in Italia sono 11."
+- Use: Official complete national list: 11 Italian VTS centres (A.M.S. Messina, Bari, Brindisi, Genova, La Maddalena, La Spezia, Palermo, Savona, Taranto, Trieste, Venezia). No Livorno, Piombino, Portoferraio or Tuscan Archipelago VTS, and no VTS in western Sicily or Pantelleria other than Palermo. English list: https://www.guardiacostiera.gov.it/portale/web/english/vessel-traffic-service
+
+
+### SRC-2134 — Italia Genova Traffic procedure (VTS user manual)
+
+- Authority: Capitaneria di porto di Genova - Guardia Costiera.
+- URL: https://www.guardiacostiera.gov.it/portale/documents/d/guest/it_genova_manuale_utentevts
+- Evidence class: Tier 2
+- Edition or date: Edizione 002, revisione 14.10.2013
+- Accessed: 2026-09-30
+- Locator: Page GOA 1, Informazioni generali
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "IL VTS GENOVA EFFETTUA IL MONITORAGGIO DEL TRAFFICO NAVALE ALL'INTERNO DELL'AREA VTS DEFINITA DAL D.M. 10 MAGGIO 2011 ... c. LAT. 44°03'.0N - LONG. 009°19'.0E"
+- Use: Genova VTS area (D.M. 10 May 2011) southern limit about 44°03'N; excludes the Corsica Channel TSS (43°07'N and south). Read from the rendered page image.
+
+
+### SRC-2135 — La Spezia V.T.S. information sheet
+
+- Authority: Capitaneria di porto di La Spezia - Guardia Costiera.
+- URL: https://www.guardiacostiera.gov.it/portale/documents/d/guest/scheda-informazioni-la-spezia
+- Evidence class: Tier 2
+- Edition or date: PDF created 1 April 2025
+- Accessed: 2026-09-30
+- Locator: 1.2 Coverage of a VTS area
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "C. lat. 43° 46'. 0 N - long. 009° 45'.2 E"
+- Use: La Spezia VTS area polygon A-D, southernmost point 43°46'.0N; excludes the Corsica Channel TSS.
+
+
+### SRC-2136 — VTS Savona information sheet (ITA/EN)
+
+- Authority: Capitaneria di porto di Savona - Guardia Costiera.
+- URL: https://www.guardiacostiera.gov.it/portale/documents/d/guest/scheda-inforrmazioni-ita-en
+- Evidence class: Tier 2
+- Edition or date: PDF dated 17 April 2025
+- Accessed: 2026-09-30
+- Locator: 1.2 Coverage of a VTS area
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "E. Lat 43°38’ N Long 008°07’ E"
+- Use: Savona VTS area polygon, southernmost 43°38'N, easternmost 008°50'.5E; excludes the Corsica Channel TSS.
+
+
+### SRC-2137 — Italy Bonifacio Strait common procedures (Bonifacio Traffic)
+
+- Authority: Capitaneria di porto di La Maddalena - Guardia Costiera.
+- URL: https://www.guardiacostiera.gov.it/portale/documents/d/guest/it_lamaddalena_manuale_utentevts
+- Evidence class: Tier 2
+- Edition or date: Edizione 002, 24 February 2011 (file modified 9 September 2024)
+- Accessed: 2026-09-30
+- Locator: Limiti dell'area VTS dello stretto di Bonifacio
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "La congiungente Pointe de Rondinara in Corsica al punto di coordinate 41°22’.55N – 009°22’.38E (estremità nord-est delle corsie di traffico)."
+- Use: Bonifacio VTS area is the Strait of Bonifacio only (about 41°16'N to 41°23'N); excludes the Corsica Channel TSS. Joint Italian/French operation (La Maddalena and Pertusato signal station).
+
+
+### SRC-2138 — Italy VTS Palermo common procedures
+
+- Authority: Capitaneria di porto di Palermo - Guardia Costiera.
+- URL: https://www.guardiacostiera.gov.it/portale/documents/d/guest/it_palermo_manuale_utentevts
+- Evidence class: Tier 2
+- Edition or date: Edition 004, revision 01.02.2010 (area set by D.M. 02.10.08)
+- Accessed: 2026-09-30
+- Locator: Limiti area VTS Palermo
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "1) Lat. 38°07’.7 N – Long. 013°22’.6 E (Racon Palermo) 2) Lat. 38°24’.7 N – Long. 013°22’.6 E"
+- Use: Palermo VTS area lies between 013°22'.6E and 013°41'.5E, 38°07'N to 38°24'.7N; excludes the Cape Bon TSS (011°06'E to 011°21'E) and Cani Island TSS. Palermo is the only listed Italian VTS in western Sicily.
+
+
+### SRC-2139 — COLREG.2/Circ.58, annex 7: amendment to the TSS north of Cani Island and north of Cape Bon
+
+- Authority: IMO.
+- URL: Project copy of IMO COLREG.2 circulars compilation (scratchpad s2/ck/colreg2.txt); no URL recorded
+- Evidence class: Tier 1
+- Edition or date: 11 December 2006; implemented 1 July 2007
+- Accessed: 2026-09-30
+- Locator: Annex 7, pages 318 to 320 of compilation
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "AMENDMENT TO THE TRAFFIC SEPARATION SCHEME NORTH OF CAPE BON"
+- Use: Positions: Cani Island TSS 37°31'N to 37°40'N, 010°02'.5E to 010°13'.4E, inshore zone apex Cani Islands light; Cape Bon TSS about 37°17'N to 37°29'N, 011°06'.5E to 011°21'.4E, apex Cape Bon light. No reporting or VTS provision in the descriptions.
+
+
+### SRC-2140 — Tunisie - Transport: des ports de plus en plus sécurisés
+
+- Authority: WebManagerCenter (Tunisian business press).
+- URL: https://www.webmanagercenter.com/2007/09/21/33340/tunisie-transport-des-ports-de-plus-en-plus-securises/
+- Evidence class: Lead only
+- Edition or date: 21 September 2007
+- Accessed: 2026-09-30
+- Locator: Article body
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "Dès la rade, un VTS, plus simplement un système de gestion du trafic des navires installé, jusqu'ici, aux ports les plus fréquentés, la Goulette et Radès, prend en charge le navire."
+- Use: In 2007 a port VTS operated at La Goulette and Radès from the roadstead to the quay; VTS for Bizerte, Sfax and Gabès was planned. Port-scale, old, press; no link to either TSS.
+
+
+### SRC-2141 — Tender for navigation security, communication equipment for Tunisian ports postponed
+
+- Authority: PortSEurope (trade press).
+- URL: https://www.portseurope.com/tender-for-navigation-security-communication-equipment-for-tunisian-ports-postponed/
+- Evidence class: Lead only
+- Edition or date: 2026 (January 2026 per search summary; article paywalled)
+- Accessed: 2026-09-30
+- Locator: Visible lead paragraph
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "postponed the tender deadline for submission of offers for the supply and installation of navigation security and maritime communication equipment at Tunisian commercial ports for a second time"
+- Use: OMMP tender for navigation security and maritime communication equipment at Tunisian commercial ports was still pending in 2026; content (whether VTS) not visible.
+
+
+### SRC-2142 — MBSHC22 Tunisian national report
+
+- Authority: Tunisian Navy Hydrographic and Oceanographic Centre (IHO MBSHC).
+- URL: https://iho.int/uploads/user/Inter-Regional%20Coordination/RHC/MBSHC/MBSHC22/MBSHC22_TUNISIAN%20NATIONAL%20REPORT.PDF
+- Evidence class: Lead only
+- Edition or date: May 2021
+- Accessed: 2026-09-30
+- Locator: Whole document (13 pages)
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "(no relevant passage; searched for VTS, traffic, trafic, surveillance, Cap Bon, Cani)"
+- Use: Opened and searched: no mention of VTS, traffic monitoring, Cani Island or Cape Bon. Not evidence of absence (hydrographic report, not a service list).
+
+
+### SRC-2143 — Brève: séminaire des SHEM en Corse
+
+- Authority: Fondation méditerranéenne d'études stratégiques (FMES), reporting a briefing by the directeur interrégional de la mer.
+- URL: https://fmes-france.org/wp-content/uploads/2025/03/breve-seminaire-des-shem-en-corse.pdf
+- Evidence class: Lead only
+- Edition or date: PDF created 27 March 2025 (seminar 12 to 14 March 2025)
+- Accessed: 2026-09-30
+- Locator: Page 1 to 2, CROSS Med paragraph
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "le CROSS Med veille également au respect des dispositifs de séparation de trafic (DST) du canal de Corse et des Bouches de Bonifacio"
+- Use: Current (2025) description: CROSS Med en Corse surveils offshore traffic using seven Marine nationale sémaphores and oversees compliance with the Corsica Channel DST; Sagro sémaphore is in charge of traffic surveillance in the channel.
+
+
+### SRC-2144 — Avarie sur un porte-conteneurs au large du Cap Corse: un important dispositif d'assistance mobilisé
+
+- Authority: Corse Net Infos (press, citing a Préfecture maritime de la Méditerranée communiqué).
+- URL: https://www.corsenetinfos.corsica/Avarie-sur-un-porte-conteneurs-au-large-du-Cap-Corse-un-important-dispositif-d-assistance-mobilise_a84323.html
+- Evidence class: Lead only
+- Edition or date: 29 April 2025
+- Accessed: 2026-09-30
+- Locator: Article body
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "le CROSS a néanmoins demandé au sémaphore de Sagro de renforcer la surveillance du trafic maritime dans cette zone particulièrement fréquentée"
+- Use: Operational example: Sagro sémaphore alerted CROSS Med to a disabled ship in the Corsica Channel DST; CROSS asked Sagro to reinforce traffic surveillance; préfet maritime issued a formal notice. Prémar original not located on premar-mediterranee.gouv.fr.
+
+
+### SRC-2145 — Sécurité, sûreté et protection de l'environnement portuaire
+
+- Authority: Office de la Marine Marchande et des Ports (OMMP), Tunisia.
+- URL: https://www.ommp.nat.tn/securite-surete-et-protection-de-lenvironnement-portuaire/
+- Evidence class: Tier 2
+- Edition or date: Page dated 25 August 2015; accessed 30 September 2026
+- Accessed: 2026-09-30
+- Locator: Section 'Des navires en toute sécurité: de la mer au quai'
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "Dès la rade, un VTS aux ports les plus fréquentés; La Goulette et Rades prend en charge le navire ; il ne le quittera plus jusqu'à son accostage."
+- Use: Official OMMP statement that port VTS exist only at La Goulette and Radès (from the roadstead) and that VTS are to be installed at Bizerte, Sousse, Sfax and Gabès. Port-scale; no area reaching either TSS; older than three years, so it cannot close a finding (decision 4).
+
+
+### SRC-2146 — Ένταξη της Πράξης «Επέκταση, Αναβάθμιση και Εκσυγχρονισμός του Εθνικού Συστήματος VTMIS» με Κωδικό ΟΠΣ 6050796 (ΑΔΑ 6ΑΜΤΗ-ΤΑΞ)
+
+- Authority: Hellenic Republic, Ministry of National Economy and Finance, Managing Authority of the 'Transport 2021-2027' programme (decision addressed to Hellenic Coast Guard HQ, Directorate of Safety of Navigation).
+- URL: https://diavgeia.gov.gr/doc/6%CE%91%CE%9C%CE%A4%CE%97-%CE%A4%CE%91%CE%9E
+- Evidence class: Tier 2
+- Edition or date: 24/09/2026 (Ορθή Επανάληψη 25/09/2026), A.P. 152906 ΕΞ 2026; accessed 2026-09-30 via Diavgeia
+- Accessed: 2026-09-30
+- Locator: p. 4, section A.5 'Φυσικό αντικείμενο της πράξης' (page image read; text layer lacks Greek glyphs)
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "Προβλέπεται η αναβάθμιση επτά (7) υφιστάμενων Κέντρων VTS στους λιμένες Πειραιά, Ραφήνας, Λαυρίου, Πάτρας, Αντιρρίου, Κέρκυρας και Ηγουμενίτσας, καθώς και η δημιουργία τριών (3) νέων Κέντρων VTS στη Θεσσαλονίκη"
+- Use: Current official statement that VTS Piraeus is one of seven existing Hellenic Coast Guard VTS centres (Piraeus, Rafina, Lavrio, Patras, Antirrio, Corfu, Igoumenitsa) and that a Thessaloniki VTS centre is still to be created; each VTS centre has a defined area of responsibility (area not given)
+
+
+### SRC-2147 — Π.Δ. 81/2014 (ΦΕΚ Α' 125/29.05.2014) Αναδιάρθρωση Περιφερειακών Διοικήσεων Λ.Σ.-ΕΛ.ΑΚΤ. και Λιμενικών Αρχών
+
+- Authority: Hellenic Republic (Presidential Decree; text as reproduced by dsanet.gr, not the FEK original).
+- URL: https://dsanet.gr/Epikairothta/Nomothesia/pd%2081_2014.htm
+- Evidence class: Lead only
+- Edition or date: 29 May 2014; current in-force status and later amendments not checked
+- Accessed: 2026-09-30
+- Locator: Article on the Saronikos Port Office jurisdiction, para. 1(β)
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "Το Λιμεναρχείο Σαρωνικού δεν ασκεί στην περιοχή δικαιοδοσίας του αρμοδιότητες ελέγχου κυκλοφορίας πλοίων στην ορισμένη ζώνη Διαχωρισμού Θαλάσσιας Κυκλοφορίας Πλοίων του λιμένα Πειραιά."
+- Use: Statutory text (secondary copy) showing a defined 'traffic separation zone of the port of Piraeus' within the Saronikos Port Office's area, over which that office does NOT exercise ship traffic control; implies control rests elsewhere (by inference the Central Port Authority of Piraeus), but does not name VTS Piraeus or give coordinates of the zone. Older than three years
+
+
+### SRC-2148 — Απόρριψη της Πράξης «Επέκταση, Αναβάθμιση και Εκσυγχρονισμός του Εθνικού Συστήματος VTMIS» (ΟΠΣ 6001400) (ΑΔΑ 60ΙΥΗ-Υ0Υ)
+
+- Authority: Hellenic Republic, Ministry of National Economy and Finance, Managing Authority 'Transport'.
+- URL: https://diavgeia.gov.gr/doc/60%CE%99%CE%A5%CE%97-%CE%A50%CE%A5
+- Evidence class: Tier 2
+- Edition or date: 16/07/2025, A.P. 126613 ΕΞ 2025
+- Accessed: 2026-09-30
+- Locator: Decision operative part, p. 3
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "Εκδόθηκε σχετικά η με α.π. 2832.7/45549/20-06-2025 Υπουργική Απόφαση για τη ματαίωση της διαγωνιστικής διαδικασίας και την επανάληψη αυτής"
+- Use: The VTMIS expansion tender (which includes the new Thessaloniki centre) was cancelled in June 2025 and re-tendered; corroborates that the Thessaloniki VTS centre was not built as of 2025
+
+
+### SRC-2149 — Απόφαση 57/2026 (ΑΔΑ ΨΔ2ΝΟΕΘΔ-319): Επικαιροποίηση απόφασης για εγκατάσταση εξοπλισμού του έργου Επέκταση-αναβάθμιση-εκσυγχρονισμός του Εθνικού Συστήματος VTMIS
+
+- Authority: Δημοτικό Λιμενικό Ταμείο Μονεμβασίας (municipal port fund), citing Ministry of Maritime Affairs and Insular Policy / Directorate of Safety of Navigation letter 2223.9-15/40436/2026 of 11/06/2026.
+- URL: https://diavgeia.gov.gr/doc/%CE%A8%CE%942%CE%9D%CE%9F%CE%95%CE%98%CE%94-319
+- Evidence class: Lead only
+- Edition or date: 30/06/2026
+- Accessed: 2026-09-30
+- Locator: Section 'ΛΕΙΤΟΥΡΓΙΑ – ΠΡΟΣΩΠΙΚΟ V.T.M.I.S.'
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "Το Κέντρο VTMIS καθώς και τα Κέντρα-Υπόκεντρα VTS λειτουργούν σε 24ωρη βάση"
+- Use: Identity context: Greek VTS centres and sub-centres are staffed by the Hellenic Coast Guard, operate 24 hours, and talk directly to ships; VTMIS expansion still at re-tender stage in June 2026
+
+
+### SRC-2150 — «Εθνικό VTMIS» (Διπλωματική Εργασία)
+
+- Authority: University of the Aegean (MSc dissertation, N. Ntatis).
+- URL: https://hellanicus.lib.aegean.gr/bitstream/handle/11610/12999/file0.pdf?sequence=2
+- Evidence class: Lead only
+- Edition or date: October 2005
+- Accessed: 2026-09-30
+- Locator: Chapter 3.1
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "Κατά την φάση αυτή υλοποιήθηκε το VTS Πειραιά που καλύπτει την ευρεία περιοχή των προσβάσεων του"
+- Use: Historical lead: VTS Piraeus built in phase 1 (from 1999) to cover the wider area of its approaches; cites the VTMIS operating regulation Υ.Α. 3239.10/01/03 (ΦΕΚ Β' 1900/22-12-2003). No boundary, no TSS
+
+
+### SRC-2151 — Rules of Navigation, December 2020 Edition, Part III Chapter X 'The Suez Canal Vessel Traffic Management System (SC-VTMS)' (official flipbook; text read from the flipbook's text index)
+
+- Authority: Suez Canal Authority (Egypt).
+- URL: https://www.suezcanal.gov.eg/FlipPDFFiles/RulesOfNavigation/index.html
+- Evidence class: Tier 2
+- Edition or date: December 2020 edition, in effect from 1 January 2021; still the edition published by SCA on 2026-09-30
+- Accessed: 2026-09-30
+- Locator: Chapter X Overview, p. 156 (text index file mobile/javascript/search_config.js)
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "providing complete surveillance and tracking of all vessels throughout the Canal and its approaches at Port Said and Suez anchorage area"
+- Use: SC-VTMS is an SCA vessel traffic management system giving surveillance and tracking of vessels in the Canal and its Port Said approaches, including vessels arriving at the approaches from 15 miles out; the IMO TSS off Bur Said are not named and no boundary is given
+
+
+### SRC-2152 — Rules of Navigation, December 2020 Edition, Art. 8 (Port Said) and Chapter IX (Port Said Port Office VHF)
+
+- Authority: Suez Canal Authority (Egypt).
+- URL: https://www.suezcanal.gov.eg/FlipPDFFiles/RulesOfNavigation/index.html
+- Evidence class: Tier 2
+- Edition or date: December 2020 edition, in effect from 1 January 2021
+- Accessed: 2026-09-30
+- Locator: Art. 8 General (p. 7 to 11); Chapter IX A(1) (p. 154)
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "The vessels coming from sea fifteen miles before arrival Fairway Buoy should contact the harbor office by: 1. V.H.F Channel 12, 13, 16"
+- Use: Arriving vessels call the Port Said harbour office 15 miles before the Fairway Buoy (31°21'.32N 32°20'.81E) on VHF 12/13/16; Port Said 1 works VHF 12 outside the harbour. Gives the reference point used here for the 15-mile distance comparison (an assumption for SC-VTMS, not stated in Chapter X)
+
+
+### SRC-2153 — EAMS website content file (English), sections on VTS, GOS VTIMS and ship traffic information
+
+- Authority: Egyptian Authority for Maritime Safety (EAMS).
+- URL: https://www.eams.gov.eg/i18n/en.json
+- Evidence class: Tier 2
+- Edition or date: Current site (carries 2025/2026 items); accessed 2026-09-30
+- Accessed: 2026-09-30
+- Locator: keys shipTrafficInformation.objectiveOfTheProject; aids-to-navigation list4
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "across the Gulf of Suez, the southern Gulf of Aqaba, the northern Red Sea, as well as at the Port of Alexandria up to a distance of 25 nautical miles into the Mediterranean Sea"
+- Use: EAMS VTS stations are only in the Gulf of Suez; EAMS VTIMS capability reaches the Mediterranean only at Alexandria (25 NM). EAMS does not describe any VTS at Damietta or Port Said, so VTS-0207 is not a candidate for TSS-0113 to TSS-0116
+
+
+### SRC-2154 — Damietta Port Authority postpones opening of technical bids for supply and operation of a vessel traffic management system (VTS)
+
+- Authority: Alborsaa News (press).
+- URL: https://www.alborsaanews.com/2025/02/27/1872139
+- Evidence class: Lead only
+- Edition or date: 27 February 2025
+- Accessed: 2026-09-30
+- Locator: Article body (WebFetch extract)
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "تمتد منطقة عمل منظومة ادارة حركة السفن بميناء دمياط حتى 25 كيلو متر من خط الشاطئ"
+- Use: Damietta Port Authority tender (2024/2025) for a new VTS operated from the VTS tower on the east side of the port, working area up to 25 km (about 13.5 nm) from the shoreline; no evidence found that it is in operation
+
+
+### SRC-2155 — Π.Δ. 81/2014 Αναδιάρθρωση Περιφερειακών Διοικήσεων Λ.Σ.-ΕΛ.ΑΚΤ. και Λιμενικών Αρχών (ΦΕΚ Α' 125/29.05.2014)
+
+- Authority: Hellenic Republic, National Printing Office (Εθνικό Τυπογραφείο), official FEK.
+- URL: https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2014/20140100125.pdf
+- Evidence class: Tier 1
+- Edition or date: 29 May 2014; official FEK PDF accessed 2026-09-30
+- Accessed: 2026-09-30
+- Locator: FEK p. 4 (Saronikos Port Office, para. 1(β)); Art. 12 (Κεντρικό Λιμεναρχείο Θεσσαλονίκης)
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "Το Λιμεναρχείο Σαρωνικού δεν ασκεί στην περιοχή δικαιοδοσίας του αρμοδιότητες ελέγχου κυκλοφορίας πλοίων στην ορισμένη ζώνη Διαχωρισμού Θαλάσσιας Κυκλοφορίας Πλοίων του λιμένα Πειραιά."
+- Use: Official text replacing the dsanet.gr copy (F4-S2): the Saronikos Port Office does not exercise ship traffic control in the defined traffic separation zone of the port of Piraeus (does not name VTS Piraeus, gives no zone coordinates). Art. 12 defines the Central Port Authority of Thessaloniki's jurisdiction with no comparable traffic-control or TSS provision. Older than three years
+
+
+### SRC-2156 — Υ.Α. 3239.10/01/03 Έγκριση Κανονισμού Λειτουργίας του Εθνικού Συστήματος Διαχείρισης & Πληροφοριών Κυκλοφορίας Πλοίων (VTMIS) (ΦΕΚ Β' 1900/22.12.2003)
+
+- Authority: Ministry of Mercantile Marine (Greece), official FEK.
+- URL: https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2003/20030201900.pdf
+- Evidence class: Tier 1
+- Edition or date: 22 December 2003 (original text; later amendments not found); official FEK PDF accessed 2026-09-30
+- Accessed: 2026-09-30
+- Locator: Arts. 5, 7, 9 and Annexes A and B (FEK pp. 25927 to 25934)
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "Η περιοχή ευθύνης των Κέντρων VTS οριοθετείται ... όπως εμφαίνεται στα ΠΑΡΑΡΤΗΜΑΤΑ του παρόντος για κάθε Κέντρο VTS."
+- Use: Legal frame: the national VTMIS consists of the VTMIS centre (Piraeus) and the VTS centres and sub-centres listed in the annexes (Art. 5); VTS centres installed and operating in Greek waters are characterised under this regulation (Art. 7); each VTS centre's area of responsibility is set in the annexes (Art. 9). The original annexes define only Patras/Antirrio (PATRA TRAFFIC, RIO TRAFFIC) and Kerkyra/Igoumenitsa (KERKIRA TRAFFIC, IGUMENITSA TRAFFIC); no Piraeus or Thessaloniki annex. Older than three years; context only
+
+
+### SRC-2157 — Με χρηματοδότηση από το ΕΣΠΑ η επέκταση, αναβάθμιση και εκσυγχρονισμός του Εθνικού Συστήματος Διαχείρισης Θαλάσσιας Κυκλοφορίας (VTMIS) και Πληροφόρησης
+
+- Authority: Hellenic Republic, Ministry of National Economy and Finance (minfin.gov.gr press release).
+- URL: https://minfin.gov.gr/me-chrimatodotisi-apo-to-espa-i-epektasi-anavathmisi-kai-eksygchronismos-tou-ethnikou-systimatos-diacheirisis-thalassias-kykloforias-vtmis-kai-pliroforisis/
+- Evidence class: Tier 2
+- Edition or date: 24 September 2026; accessed 2026-09-30 (WebFetch)
+- Accessed: 2026-09-30
+- Locator: Press release body
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "Προβλέπεται η αναβάθμιση επτά υφιστάμενων Κέντρων ελέγχου θαλάσσιας κυκλοφορίας στους λιμένες Πειραιά, Ραφήνας, Λαυρίου, Πάτρας, Αντιρρίου, Κέρκυρας και Ηγουμενίτσας"
+- Use: Corroborates F4-S1: seven existing traffic control centres (Piraeus, Rafina, Lavrio, Patras, Antirrio, Corfu, Igoumenitsa); three new centres to be created at Thessaloniki, Elefsina and Neapoli Voion
+
+
+### SRC-2158 — Rules of Navigation, December 2020 Edition, flipbook text index (reopened)
+
+- Authority: Suez Canal Authority (Egypt).
+- URL: https://www.suezcanal.gov.eg/FlipPDFFiles/RulesOfNavigation/mobile/javascript/search_config.js
+- Evidence class: Tier 2
+- Edition or date: December 2020 edition; file retrieved from suezcanal.gov.eg 2026-09-30
+- Accessed: 2026-09-30
+- Locator: Chapter X Overview, p. 156, service (1)
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "(1) Automatic surveillance and tracking of vessel arriving at SC approaches (15 miles faraway) until anchorage in the waiting areas."
+- Use: Reopening of F4-S6/F4-S7: Chapter X text confirmed; the '15 miles' has no stated reference point; no mention of a traffic separation scheme off Port Said anywhere in the text
+
+
+### SRC-2159 — Order No. 110 of 23.03.2018 'On approval of the Compulsory Regulations in the seaport of Kavkaz' (consolidated, as amended to 17.07.2026)
+
+- Authority: Ministry of Transport of the Russian Federation (instrument of one party; area disputed).
+- URL: https://legalacts.ru/doc/prikaz-mintransa-rossii-ot-23032018-n-110-ob-utverzhdenii/
+- Evidence class: Tier 1
+- Edition or date: Amended to 17.07.2026; in force until 1 March 2029 (per order); accessed 2026-09-30 via legalacts.ru
+- Accessed: 2026-09-30
+- Locator: Chapter V paras 34 to 39; Annex 4
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "34. Акватория морского порта и подходы к нему входят в зону действия СУДС Керченского пролива, которая обслуживает морские порты Тамань, Керчь и Темрюк."
+- Use: Kerch Strait VTS zone polygon (para 35, southern limit 44°59.90'N 36°28.52'E to 36°45.15'E), VTS reporting duties (para 39), sectors and call sign Kavkaz-Traffic (Annex 4); service claimed to serve Taman, Kerch and Temryuk
+
+
+### SRC-2160 — Resolution A.374(X) Routeing systems: 'In the southern approaches to the Kerch Strait' (new scheme)
+
+- Authority: IMO Assembly.
+- URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.374(10).pdf
+- Evidence class: Tier 1
+- Edition or date: Adopted 14 November 1977
+- Accessed: 2026-09-30
+- Locator: Page 10, Kerch Strait scheme
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "(a) A separation zone is bounded by lines connecting the following geographical positions: (1) 44°49'.7 N., 36°29'.0 E. (2) 45°02'.3 N., 36°30'.0 E."
+- Use: TSS coordinates used for the overlay (44°49.7'N to 45°06.8'N; 36°26.8'E to 36°33.2'E); reference chart USSR No. 514
+
+
+### SRC-2161 — NP 24 Black Sea and Sea of Azov Pilot, 1st edition, Chapter 8 extract
+
+- Authority: UK Hydrographic Office (exhibit UA-222 in PCA case Ukraine v. Russian Federation).
+- URL: https://files.pca-cpa.org/pcadocs/ua-ru/04.%20UA%20Rejoinder%20Memorial/01.%20Exhibits/UA-222.pdf
+- Evidence class: Tier 3
+- Edition or date: 2003
+- Accessed: 2026-09-30
+- Locator: Para 8.22
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "the S end of the traffic separation scheme (44°50 ′N, 36°30 ′E) (8.25) as shown on the chart."
+- Use: Corroborates the TSS south end at 44°50'N 36°30'E; historical description of the Kerch strait traffic control (historical only)
+
+
+### SRC-2162 — Україна офіційно закриває для міжнародного судноплавства морські порти Криму
+
+- Authority: Cabinet of Ministers of Ukraine (Government portal).
+- URL: https://www.kmu.gov.ua/news/247436461
+- Evidence class: Tier 2
+- Edition or date: Published 05.07.2014
+- Accessed: 2026-09-30
+- Locator: Body text
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "морські порти Євпаторія, Керч, Севастополь, Феодосія, Ялта, розташовані на території Автономної Республіки Крим та м. Севастополя"
+- Use: Ukraine's position: ports of Kerch and Sevastopol closed by Order No. 255 of 16.06.2014; IMO informed. Recorded neutrally as one party's position
+
+
+### SRC-2163 — Order No. 26 of 24.01.2017 'On approval of the Compulsory Regulations in the seaport of Sevastopol'
+
+- Authority: Ministry of Transport of the Russian Federation (instrument of one party; area disputed).
+- URL: https://legalacts.ru/doc/prikaz-mintransa-rossii-ot-24012017-n-26-ob-utverzhdenii/
+- Evidence class: Tier 1
+- Edition or date: 24.01.2017, registered 17.02.2017 No. 45696; no amendments shown; accessed 2026-09-30
+- Accessed: 2026-09-30
+- Locator: Chapter V para 47; para 93; Annex 5
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "47. В акватории морского порта и на подходах к нему действует СУДС, зоной действия которой является акватория, которая ограничивается:"
+- Use: Claimed Sevastopol VTS zone limits (para 47) and call sign 'Sevastopol-Traffic-Control' (para 93, Annex 5); evidence older than three years (decision 4)
+
+
+### SRC-2164 — COLREG.2/Circ.61 Annex 5: New traffic separation scheme 'In the area off the south-western coast of the Crimea'
+
+- Authority: IMO.
+- URL: local:scratchpad/s2/ck/colreg2.txt (IMO COLREG.2 circulars compilation, pages 368 to 371)
+- Evidence class: Tier 1
+- Edition or date: 2010 (as held in project COLREG.2 compilation)
+- Accessed: 2026-09-30
+- Locator: Annex 5, pages 1 to 4
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "The traffic separation scheme consists of two parts: Part one, Routeing System No.9 "Sevastopol Harbour Approach"; and Part two, Routeing System No.3 "From Cape Khersones to Cape Aitodor"."
+- Use: TSS parts and coordinates used for the comparison with the Sevastopol VTS zone
+
+
+### SRC-2165 — Proposals have been drafted to amend the Traffic Separation Scheme (TSS) No 2. In the Approaches to the Chornomorsk, Odesa and Pivdennyi Ports
+
+- Authority: State Service of Maritime and Inland Waterway Transport of Ukraine (MARAD) / State Hydrographic Service of Ukraine.
+- URL: https://marad.gov.ua/storage/app/sites/1/international-activities/Propozicii_sistemi_rozpodilu_ryhu_en.pdf
+- Evidence class: Tier 2
+- Edition or date: Undated, pre-adoption; accessed 2026-09-30
+- Accessed: 2026-09-30
+- Locator: Part I proposal
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "The VTS of the State Enterprise 'Ukrainian Sea Ports Authority' (SE USPA) Pilotage Branch – Delta Pilot has suggested to expand the traffic lanes in Part I of the TSS"
+- Use: Delta Pilot VTS involvement with the TSS; no VTS area defined
+
+
+### SRC-2166 — VTS Services, Azovo-Chernomorsky Basin Branch: Statistics (Kerch Strait VTS)
+
+- Authority: FSUE Rosmorport (Russian Federation operator; area disputed).
+- URL: https://www.rosmorport.com/filials/nvr_serv_nav/
+- Evidence class: Tier 2
+- Edition or date: Undated page; statistics to 2023; reopened 2026-09-30 (EN and RU)
+- Accessed: 2026-09-30
+- Locator: Section 4 Statistics; Section 1 General Information
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "VTS of the Kerch Strait ... 2023 | 203,933 | 143,650 | 10,140 | 8,719 | 25,066"
+- Use: Operation of the Kerch Strait VTS through 2023 (vessel counts, including transits of the strait); Rosmorport VTS list for the basin excludes Sevastopol
+
+
+### SRC-2167 — Order No. 255 of 16.06.2014 'On closure of seaports' (registered 24.06.2014 No. 690/25467)
+
+- Authority: Ministry of Infrastructure of Ukraine.
+- URL: https://zakon.rada.gov.ua/laws/show/z0690-14
+- Evidence class: Tier 1
+- Edition or date: 16.06.2014; current text on zakon.rada.gov.ua reopened 2026-09-30
+- Accessed: 2026-09-30
+- Locator: Para 1
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "закрити морські порти Керч, Севастополь, Феодосія, Ялта, Євпаторія з дня набрання чинності цим наказом."
+- Use: Ukraine's position: ports of Kerch and Sevastopol closed pending restoration of constitutional order; recorded neutrally as one party's position
+
+
+### SRC-2168 — Rosmorport completed transition to Russian software for vessel traffic management systems
+
+- Authority: www1.ru news site citing Rosmorport press service.
+- URL: https://www1.ru/news/2025/09/11/rosmorport-zaversil-perexod-na-rossiiskoe-po-dlia-sistem-upravleniia-sudami.html
+- Evidence class: Lead only
+- Edition or date: 11.09.2025
+- Accessed: 2026-09-30
+- Locator: First paragraph
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "Работы затронули СУДС Керченского пролива, Севастополя, Феодосии, Новороссийска и Туапсе."
+- Use: Lead that VTS of the Kerch Strait, Sevastopol and Feodosia were operated by Rosmorport's Azovo-Chernomorsky branch in September 2025
+
+
+### SRC-2169 — Sitronics Group to convert five VTS in Azov-Black Sea ports to Russian software
+
+- Authority: ComNews (trade press).
+- URL: https://www.comnews.ru/content/234021/2024-06-27/2024-w26/1011/sitronics-group-perevedet-rossiyskoe-pyat-sistem-upravleniya-dvizheniem-sudov-suds-morskikh-portakh-azovo-chernomorskogo-basseyna
+- Evidence class: Lead only
+- Edition or date: 27.06.2024
+- Accessed: 2026-09-30
+- Locator: Body
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "переведет на программное обеспечение собственной разработки "СиТрафик" пять СУДС: портов Новороссийска, Туапсе, Керчи, Севастополя и Феодосии."
+- Use: Lead naming a Sevastopol VTS in a Rosmorport contract
+
+
+### SRC-2170 — Navigation services using VTS (enterprise list of VTS by branch)
+
+- Authority: FSUE Rosmorport.
+- URL: https://www.rosmorport.ru/services/vts_services/
+- Evidence class: Tier 2
+- Edition or date: Undated; reopened 2026-09-30
+- Accessed: 2026-09-30
+- Locator: Body
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "Азово-Черноморский бассейновый филиал ( СУДС Новороссийск ; СУДС Керченского пролива ; СУДС Сочи ; СУДС Туапсе и СУДС Таганрогского залива )"
+- Use: Official Rosmorport list for the Azovo-Chernomorsky branch names Novorossiysk, Kerch Strait, Sochi, Tuapse and Taganrog Gulf VTS only (no Sevastopol)
+
+
+### SRC-2171 — Order No. 655 of 01.08.2007 'On approval of the Rules of navigation and pilotage of vessels in the north-western part of the Black Sea, Buh-Dnipro-Lyman and Kherson sea canals' (registered 05.10.2007 No. 1150/14417)
+
+- Authority: Ministry of Transport and Communications of Ukraine (as amended by Ministry of Infrastructure and Ministry for Development of Communities and Territories).
+- URL: https://zakon.rada.gov.ua/laws/show/z1150-07
+- Evidence class: Tier 1
+- Edition or date: Restated by Order 587 of 09.08.2022; amended 10.10.2022 No. 767, 30.12.2024 No. 1495, 06.01.2025 No. 7; zakon.rada edition 06.02.2025; reopened 2026-09-30
+- Accessed: 2026-09-30
+- Locator: Rules section II paras 1 and 2; Annex 2
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "у зоні дії цих Правил регулювання руху суден цілодобово здійснюється службою регулювання руху суден, до складу якої входять: ЦРРС «Миколаїв», ЦРРС «Чорноморськ», ПРРС «Одеса», ПРРС «Південний»"
+- Use: VTS (SRRS) structure, zone limits of TsRRS Chornomorsk, PRRS Odesa and PRRS Pivdennyi, mandatory use of the traffic separation system and VTS permission; VHF call signs (Annex 2)
+
+
+### SRC-2172 — До уваги Морських агентів, щодо агентування суден (Delta-Lotsman services, including vessel traffic regulation, under the accession contract from 01.05.2024)
+
+- Authority: SE Ukrainian Sea Ports Authority (USPA).
+- URL: https://www.uspa.gov.ua/announcements/do-uvagy-morskyh-agentiv-shhodo-agentuvannya-suden
+- Evidence class: Tier 2
+- Edition or date: 07.03.2024; reopened 2026-09-30
+- Accessed: 2026-09-30
+- Locator: Body
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "з 01.05.2024 послуги із забезпечення лоцманського проведення суден, з регулювання руху суден ... надаватимуться філією «Дельта-лоцман» ДП «АМПУ»"
+- Use: Delta-Lotsman branch provides VTS (vessel traffic regulation) services from 01.05.2024
+
+
+### SRC-2173 — Procurement notices: current repair of the VTS centre (TsRRS) 'Chornomorsk' (UA-2026-06-22-005530-a); expert review for the VTS post (PRRS) 'Odesa' facade (UA-2025-06-23-006749-a)
+
+- Authority: SE Ukrainian Sea Ports Authority (USPA), Delta-Lotsman branch.
+- URL: https://www.uspa.gov.ua/zakupivli/poslugy-z-potochnogo-remontu-czentru-regulyuvannya-ruhu-suden-czrrs-chornomorsk-inv-%e2%84%96-4490-4554-2
+- Evidence class: Tier 2
+- Edition or date: 25.06.2026 and 24.06.2025; reopened 2026-09-30
+- Accessed: 2026-09-30
+- Locator: Notice body
+- Verification: Opened during the FC-A final-count fact-check on 2026-09-30. Passage: "Послуги з поточного ремонту центру регулювання руху суден (ЦРРС) “Чорноморськ” (інв.№ 4490, 4554)."
+- Use: Existence and upkeep in 2025 to 2026 of TsRRS Chornomorsk and PRRS Odesa by the Delta-Lotsman branch (centre existence only, not coverage)

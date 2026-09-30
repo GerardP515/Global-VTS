@@ -43,6 +43,7 @@ def flags_for(r: dict) -> list[str]:
     if 'VTS' in status and (not r['vts_id'] or not r['vts_source_id']): flags.append('POSITIVE_VTS_EVIDENCE_INCOMPLETE')
     if 'MRS' in status and (not r['vrs_id'] or not r['reporting_source_id']): flags.append('POSITIVE_REPORTING_EVIDENCE_INCOMPLETE')
     if r['candidate_vts_ids']: flags.append('KNOWN_CURRENT_SERVICE_COMPONENT_MAPPING_REQUIRED')
+    if 'disputed jurisdiction' in r['vts_association_state']: flags.append('DISPUTED_JURISDICTION_SERVICE')
     return flags
 
 

@@ -39,3 +39,9 @@ They apply to every Stage 2 batch. Batches already written by this branch have b
 ## For other sessions
 
 Main's batches may contain cases these rules change, for example monitoring services outside a declared VTS area (such as Åland Sea Traffic, B03) and national reporting schemes. They have not been changed here.
+
+## Later decisions (final count fact-check)
+
+**Decision 6 (disputed jurisdiction):** a VTS operated by a party whose jurisdiction over the waters is disputed is recorded and counted as a core service, strictly as that party's claim, with the other party's position recorded alongside and the flag `DISPUTED_JURISDICTION_SERVICE`. Recording it does not endorse either position or imply current safe operation. First applied to TSS-0117 (Kerch Strait VTS, VTS-0210) in FC-A.
+
+**Classification note (FC-A):** the Icelandic Coast Guard Maritime Traffic Service (VTS-0212) is counted as a supplemental monitoring/information service, not a core VTS, because Iceland declares no VTS area and the governing Act gives it no traffic-organisation function.
