@@ -1793,7 +1793,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Use: Direct association between Dover Strait TSS, Channel VTS and CALDOVREP.
 
 
-### SRC-045 — CROSS Corsen Bilan d'activité 2024
+### SRC-185 — CROSS Corsen Bilan d'activité 2024
 
 - Authority: Préfecture maritime de l'Atlantique / CROSS Corsen.
 - URL: https://www.premar-atlantique.gouv.fr/uploads/atlantique/pages/0aeb0352c8045036ca019e9377ee98fa.pdf
@@ -1802,7 +1802,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Accessed: 30 September 2026.
 - Use: Defines the coastal VTS mission of Ouessant Traffic in the Ouessant TSS and records mandatory vessel reports received during 2024.
 
-### SRC-046 — CROSS Jobourg VTS designation and Casquets scope
+### SRC-186 — CROSS Jobourg VTS designation and Casquets scope
 
 - Authority: French maritime administration / CROSS Jobourg.
 - URL: https://www.premar-manche.gouv.fr/uploads/manche/pages/docs-ocr/bilan-2014/cross_jobourg_-_bilan_operationnel_2014_janvier_2015_-2.pdf
@@ -1810,7 +1810,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Accessed: 30 September 2026.
 - Use: Explicitly designates CROSS Jobourg as the VTS for the Casquets TSS and adjacent coastal area and identifies its operation of the mandatory reporting system.
 
-### SRC-047 — Current CROSS Jobourg Casquets operational evidence
+### SRC-187 — Current CROSS Jobourg Casquets operational evidence
 
 - Authority: Préfecture maritime de la Manche et de la mer du Nord.
 - URL: https://www.premar-manche.gouv.fr/communiques-presse/operation-d-assistance-a-un-navire-en-difficulte-au-niveau-du-cap-de-la-hague
@@ -1819,7 +1819,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Accessed: 30 September 2026.
 - Use: Confirms CROSS Jobourg continues active radar/traffic monitoring of commercial vessels in the Casquets routeing area.
 
-### SRC-048 — PLA Tide Booklet 2026
+### SRC-188 — PLA Tide Booklet 2026
 
 - Authority: Port of London Authority.
 - URL: https://pla.co.uk/sites/default/files/2025-12/PLA-Tide-Booklet-2026.pdf
@@ -1828,7 +1828,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Accessed: 30 September 2026.
 - Use: States that Sunk VTS covers the Sunk Inner Precautionary Area and TSS and is run by the MCA from CNIS Dover.
 
-### SRC-049 — MCA Sea Link response, April 2026
+### SRC-189 — MCA Sea Link response, April 2026
 
 - Authority: UK Maritime and Coastguard Agency.
 - URL: https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN020026-003122-MCA%20Sea%20Link%20Deadline%206%20response%20Cover%20Letter.pdf
@@ -1837,7 +1837,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Accessed: 30 September 2026.
 - Use: Confirms MCA is the National Competent Authority for Sunk VTS and HM Coastguard is responsible for day-to-day operation.
 
-### SRC-050 — VTS-Scheldt VHF Procedures, version 7.3
+### SRC-190 — VTS-Scheldt VHF Procedures, version 7.3
 
 - Authority: VTS-Scheldt / Common Nautical Management.
 - URL: https://www.vts-scheldt.net/download/d72c012e-266f-4fe4-8412-640b6485834e?dl=0
@@ -1846,7 +1846,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Accessed: 30 September 2026.
 - Use: Current VHF-sector limits in the Scheldt approaches. Used to test, but not assert, a West Hinder TSS-to-VTS relationship.
 
-### SRC-051 — Netherlands Notice 41/261(P)/25: VTS Off Texel
+### SRC-191 — Netherlands Notice 41/261(P)/25: VTS Off Texel
 
 - Authority: Netherlands Hydrographic Service; reproduced in UKHO Weekly Edition 44 of 2025.
 - URL: https://msi.admiralty.co.uk/NoticesToMariners/DownloadFile?batchId=fbeae6b4-4204-4a74-bf85-b699fa8be8b5&fileName=44snii25.pdf&frequency=Weekly&mimeType=application%2Fpdf
@@ -1855,7 +1855,7 @@ Third-party material may identify a lead. It must not establish current operatio
 - Accessed: 30 September 2026.
 - Use: Exact polygon of VTS Off Texel, VHF 63 and stated purpose of providing VTS in the TSS off Texel and Vlieland.
 
-### SRC-052 — Rijkswaterstaat Verkeerscentrale Den Helder
+### SRC-192 — Rijkswaterstaat Verkeerscentrale Den Helder
 
 - Authority: Rijkswaterstaat.
 - URL: https://www.rijkswaterstaat.nl/over-ons/onze-organisatie/organisatiestructuur/verkeer-en-watermanagement/verkeerscentrale-den-helder

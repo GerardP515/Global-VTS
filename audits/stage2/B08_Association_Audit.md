@@ -76,9 +76,9 @@ Classification: **VTS + MRS**.
 
 1. Added TSS-0036 to TSS-0040 to the master association register.
 2. Normalised legacy **VTS-0001 Channel VTS**.
-3. Added **VTS-0022 Ouessant Traffic / CROSS Corsen**.
-4. Added **VTS-0023 Jobourg Traffic / CROSS Jobourg**.
-5. Added **VTS-0024 Sunk VTS**.
+3. Added **VTS-0040 Ouessant Traffic / CROSS Corsen**.
+4. Added **VTS-0041 Jobourg Traffic / CROSS Jobourg**.
+5. Added **VTS-0042 Sunk VTS**.
 6. Recorded multiple mandatory reporting systems where they genuinely overlap.
 7. Added current French, MCA, PLA and VTS-Scheldt sources.
 

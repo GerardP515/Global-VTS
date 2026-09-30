@@ -69,7 +69,7 @@ Classification: **Neither confirmed**.
 
 ## Duplicate check
 
-- TSS-0041 and TSS-0042 share the existing **VTS-0024 Sunk VTS**.
+- TSS-0041 and TSS-0042 share the existing **VTS-0042 Sunk VTS**.
 - TSS-0041 and TSS-0042 share **VRS-0005 WETREP**.
 - VTS Off Texel is a real current VTS, but none of TSS-0043 to TSS-0045 falls inside its polygon.
 - VTS Off Texel is therefore not added as a positive association in B09 and no new VTS ID is allocated from this batch.
