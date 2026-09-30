@@ -33,9 +33,5 @@ jobs:
           persist-credentials: false
       - name: Validate current registers and regression tests
         run: |
-          if [ ! -f scripts/validate_registers.py ]; then
-            echo 'Validator installation pending the one-time repair.'
-            exit 0
-          fi
           python3 scripts/validate_registers.py
           python3 -m unittest discover -s tests -v

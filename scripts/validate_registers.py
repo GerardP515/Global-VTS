@@ -63,7 +63,10 @@ def validate() -> dict:
     for p in parents:check(parent_counts[p['imo_ref']]==int(p['individual_tss_count']),f"Parent count mismatch: {p['imo_ref']}")
     vids=unique(vts,'vts_id','VTS register');rids=unique(reports,'vrs_id','reporting register');sids=unique(sources,'source_id','sources')
     bmap={r['canonical_id']:r for r in base};mapping={r['tss_id']:r for r in rows}
-    check(len(rids)==28 and sum(r['adoption_scope']=='IMO-adopted baseline' for r in reports)==23,'Reporting inventory must distinguish 23 IMO and five national schemes')
+    _,imo_reports=table('data/authoritative/IMO_2025_Mandatory_Reporting_Systems.csv')
+    expected_imo={r['reporting_id'] for r in imo_reports}
+    actual_imo={r['vrs_id'] for r in reports if r['adoption_scope']=='IMO-adopted baseline'}
+    check(actual_imo==expected_imo,'Reporting register must retain the IMO baseline separately from national additions')
     for r in rows:
         tid=r['tss_id'];b=bmap[tid]
         check(r['tss_name']==b['display_name'],f'Name drift: {tid}')
@@ -77,8 +80,12 @@ def validate() -> dict:
         for field,prefix,known in [('vts_id','VTS',vids),('candidate_vts_ids','VTS',vids),('vrs_id','VRS',rids),('vts_source_id','SRC',sids),('reporting_source_id','SRC',sids),('candidate_source_ids','SRC',sids)]:
             for key in references(r[field],prefix):check(key in known,f'Dangling reference: {tid}/{field}/{key}')
         check((ROOT/r['audit_path']).is_file(),f'Missing evidence audit: {tid}')
-        if r['recorded_review_status']=='pass1-recorded':
-            check(r['review_status']=='pass1-recorded' and r['readiness_status']=='First pass only',f'First pass improperly promoted: {tid}')
+        if r['review_status']=='pass1-recorded':
+            check(r['readiness_status']=='First pass only',f'First-pass readiness mismatch: {tid}')
+        elif r['recorded_review_status']=='pass1-recorded':
+            expected_audit=f"audits/stage2/{r['batch_id']}_Association_Audit.md"
+            check(r['audit_path']==expected_audit and (ROOT/expected_audit).is_file(),f'First-pass promotion lacks a Stage 2 audit: {tid}')
+            check('FIRST_PASS_NOT_AUDITED' not in r['quality_flags'],f'First-pass promotion retains incomplete audit flag: {tid}')
         if r['quality_flags']:check(r['review_status']!='audited',f'Open issues marked audited: {tid}')
         if r['review_status']=='audited':check(r['association_status']!='Unresolved',f'Unresolved final classification: {tid}')
     for s in vts:
@@ -111,12 +118,9 @@ def validate() -> dict:
     source_md=(ROOT/'sources/SOURCE_REGISTER.md').read_text()
     source_keys=re.findall(r'^### (SRC-\d+)\b',source_md,re.M)
     check(len(source_keys)==len(set(source_keys)) and set(source_keys)==sids,'Source MD/CSV mismatch')
-    summary=json.loads((ROOT/'audits/repository_review_20260930/summary.json').read_text())
-    check(summary['master_rows_after']==len(rows),'Summary row count drift')
-    check(summary['service_records_after']==len(vts),'Summary service count drift')
-    check(summary['reported_classifications_after']==dict(collections.Counter(r['association_status'] for r in rows)),'Summary classification drift')
-    check(summary['records_requiring_follow_up']==len(expected_gaps),'Summary gap count drift')
-    check(not summary['full_required_vts_register'] and not summary['publication_ready'],'Unjustified completeness flag')
+    # The dated repository review is an immutable historical snapshot.
+    # Validate live relationships and batch views without freezing research progress
+    # or requiring future editors to rewrite that historical audit.
     return {'structural_validation':'PASS','master_records':len(rows),'service_records':len(vts),
             'reporting_schemes':len(reports),'source_definitions':len(sources),
             'records_requiring_follow_up':len(expected_gaps),'operational_verification':'NOT CERTIFIED BY THIS VALIDATOR'}
