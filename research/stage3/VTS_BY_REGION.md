@@ -100,7 +100,7 @@ It is **not yet a final worldwide VTS count**. Monitoring-only services and traf
 | ID | Rationalised name | Type | Action |
 |---|---|---|---|
 | VTS-0028 | Hong Kong VTS | Core VTS | NORMALISE_NAME |
-| VTS-0036 | Chengshan Jiao VTS | VTS/reporting centre | NORMALISE_NAME |
+| VTS-0036 | Chengshan Jiao VTS | VTS/reporting centre; area identity review required | REVIEW |
 
 ## NPC — North America Pacific coast (6)
 
