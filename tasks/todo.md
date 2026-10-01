@@ -1,3 +1,17 @@
+# Current TSS→VTS status — 1 October 2026
+
+- Definitive IMO TSS population: **224**
+- Distinct TSS-derived service identities: **76**
+- Core project services: **67**
+- Supplemental monitoring/information services: **9**
+- TSS still unresolved: **13**
+- **Important:** the 13 unresolved TSS are not confirmed as `NO VTS`. They remain undetermined pending sufficient authority evidence.
+- Authoritative final register: `data/current/TSS_Derived_VTS_Final_Register.csv`
+- Regional view: `research/stage3/TSS_DERIVED_VTS_FINAL_REGISTER.md`
+- Count/reconciliation audit: `audits/stage3/final_count/Final_76_Service_Register_Audit_20261001.md`
+
+---
+
 # FC-A: final VTS count fact-check, Europe and Mediterranean (25 TSS)
 
 Method: research/prompts/FINAL_TSS_LINKED_VTS_COUNT_FACT_CHECK_PROMPT.md, run as three regional
