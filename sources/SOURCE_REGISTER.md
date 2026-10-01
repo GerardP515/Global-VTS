@@ -5566,3 +5566,48 @@ Off Cape S. Vicente"
 - Locator: Ministry statement on 24-hour port operations and integrated operating systems.
 - Verification: Opened during the FC-A recheck on 2026-10-01.
 - Use: Current official confirmation that Damietta Port is operating normally 24 hours a day with integrated operating systems. It does not name a VTS or define coverage of the Mina Dumyat TSS.
+
+
+### SRC-2299 — Ports and Terminals 2025: Jazan Primary and Downstream Industries Port
+
+- Authority: Saudi Aramco.
+- URL: https://www.aramco.com/-/media/downloads/working-with-us/ports-and-terminals-2025/port-of-jazan-primary-and-downstream-industries.pdf
+- Evidence class: Tier 2.
+- Edition or date: 2025 rules and regulations guidebook.
+- Accessed: 2026-10-01.
+- Locator: sections 2.4.1, 4.1 to 4.3 and 5.
+- Verification: Reopened during unresolved-TSS resolution review on 2026-10-01.
+- Use: The main arrival/departure channel is the IMO-developed 90 NM approach channel. Inbound vessels using the deep-water approach channel must call Jazan Commercial Port Control Center on VHF 16 for instructions to proceed, with JPDI Port Control on VHF 09; vessels maintain both watches during channel passage. Supports a Decision-5 traffic-service association with TSS-0127.
+
+### SRC-2300 — Pub. 160 Sailing Directions (Planning Guide) South Atlantic Ocean and Indian Ocean
+
+- Authority: US National Geospatial-Intelligence Agency.
+- URL: https://msi.nga.mil/api/publications/download?key=16694492/SFH00000/Pub160bk.pdf&type=view
+- Evidence class: Tier 3.
+- Edition or date: Fifteenth Edition, 2026; corrected to 31 January 2026.
+- Accessed: 2026-10-01.
+- Locator: country chapters for Djibouti, Eritrea, Iran, Oman, Saudi Arabia, Sri Lanka and Yemen.
+- Verification: Reopened during unresolved-TSS resolution review on 2026-10-01.
+- Use: Current country-level screen. Iran lists the three relevant IMO TSS and only Bandar-e Imam Khomeyni as a VTS. Oman lists the Hormuz and Ras al Hadd TSS but no VTS. Saudi Arabia lists the current VTS services, which exclude Khafji and Marjan/Zuluf. Djibouti and Eritrea list the southern Red Sea TSS without a VTS service; Yemen's Bab al Mandeb notification applies to vessels calling at Yemeni ports. Sri Lanka lists the Dondra Head TSS, SAR/coast-radio arrangements and no VTS.
+
+### SRC-2301 — Aniva Bay VTS services and coverage
+
+- Authority: FSUE Rosmorport, Sakhalin Branch.
+- URL: https://www.rosmorport.com/filials/shl_serv_vts/
+- Evidence class: Tier 2.
+- Edition or date: Current live operator page; 2025 traffic statistics and 2024 compliance certificate shown.
+- Accessed: 2026-10-01.
+- Locator: sections 1 and 2, Aniva Bay VTS coverage.
+- Verification: Reopened during unresolved-TSS resolution review on 2026-10-01.
+- Use: Current Aniva Bay VTS polygon is bounded by 46°37.5'N 142°26.0'E, 46°25.0'N 142°30.0'E, 46°25.0'N 143°04.0'E and 46°35.7'N 143°04.0'E. The IMO TSS off Cape Aniva lies materially south/east of this polygon, resolving TSS-0216 as outside the VTS.
+
+### SRC-2302 — Pub. 172 Sailing Directions (Enroute) Red Sea and the Persian Gulf, current online edition
+
+- Authority: US National Geospatial-Intelligence Agency.
+- URL: https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub172bk.pdf
+- Evidence class: Tier 3.
+- Edition or date: Current online edition accessed 2026-10-01.
+- Accessed: 2026-10-01.
+- Locator: Sector 16, Ras al Khafji, Marjan/Zuluf and Kuwait oil-port approaches.
+- Verification: Reopened during unresolved-TSS resolution review on 2026-10-01.
+- Use: Khafji Port Control requirements are terminal/anchorage formalities and do not define a service area over the IMO TSS. Marjan/Zuluf is described as a TSS between oil fields without a through-traffic VTS. Mina al Ahmadi security/port-control arrangements are distinct from the IMO TSS used by through traffic.
