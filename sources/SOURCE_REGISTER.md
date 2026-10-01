@@ -2438,12 +2438,12 @@ Off Cape S. Vicente"
 
 - Authority: Hellenic Coast Guard (hcg.gr).
 - URL: https://www.hcg.gr/el/epikoinwnia/kentra-diaxeirishs-8alassias-kykloforias-vts/
-- Evidence class: Lead only
-- Edition or date: Not accessible: HTTP 403 on 30 September 2026 (curl, WebFetch and archive)
-- Accessed: 2026-09-30
-- Locator: n/a
-- Verification: Opened during the B20-B29 Stage 2 review on 2026-09-30. Passage: "(not opened; no quotation)"
-- Use: Lead only: first-pass audit reports this page names VTS ΠΕΙΡΑΙΑ (VHF 13, 14, 15); not reopened in this pass
+- Evidence class: Tier 2
+- Edition or date: Live Hellenic Coast Guard page, current on 1 October 2026
+- Accessed: 2026-10-01
+- Locator: VTS ΠΕΙΡΑΙΑ entry
+- Verification: Reopened during the FC-A recheck on 2026-10-01. The live page lists VTS Piraeus at Akti Vassiliadi, with VHF channels 13, 14 and 15.
+- Use: Current official confirmation that VTS Piraeus is operational. The page does not publish its area of responsibility, so it confirms service existence but does not independently close the TSS boundary question.
 
 
 ### SRC-2042 — VTS Hrvatska - WFS (feature type VTS_WFS:VTS_shp: VTS Croatia sectors)
@@ -5533,3 +5533,36 @@ Off Cape S. Vicente"
 - Verification: Reopened during FC-C.
 - Locator: Cabo San Antonio border radar post.
 - Use: Historical state-media evidence of a radiotechnical border post monitoring international maritime traffic. It is not evidence of a VTS and cannot resolve the seven Cuban TSS.
+
+### SRC-2296 — Salvamento Marítimo presenta la nueva Salvamar Aldebarán en su base de Valencia
+
+- Authority: Sociedad de Salvamento y Seguridad Marítima (SASEMAR), Ministerio de Transportes y Movilidad Sostenible, Spain.
+- URL: https://www.salvamentomaritimo.es/sala-de-comunicacion/sala-de-prensa/salvamento-maritimo-presenta-la-nueva-salvamar-aldebaran-en-su-base-de-valencia
+- Evidence class: Tier 2.
+- Edition or date: 9 April 2026.
+- Accessed: 2026-10-01.
+- Locator: Section “Medios de SASEMAR en la Comunidad Valenciana”.
+- Verification: Reopened during the FC-A recheck on 2026-10-01.
+- Use: Current SASEMAR statement that CCS Valencia controls the Cabo de la Nao traffic separation scheme. This directly resolves the TSS-0101 service-presence question. No formal VTS polygon or separate ship-facing call sign is published on the page.
+
+### SRC-2297 — Damietta Port profile
+
+- Authority: Maritime Transport and Logistics Sector, Ministry of Transport, Egypt.
+- URL: https://www.mts.gov.eg/ar/port/%D9%85%D9%8A%D9%86%D8%A7%D8%A1-%D8%AF%D9%85%D9%8A%D8%A7%D8%B7/
+- Evidence class: Tier 2.
+- Edition or date: Undated live port profile.
+- Accessed: 2026-10-01.
+- Locator: Port data, entrance channel, pilotage and marine station.
+- Verification: Opened during the FC-A recheck on 2026-10-01.
+- Use: Confirms Damietta Port, its entrance channel, compulsory pilotage, VHF 14/16 and a marine station on channel 14. It does not identify an operating VTS or define a VTS/TSS service area.
+
+### SRC-2298 — Ministry of Transport: normal operations at Damietta Port
+
+- Authority: Maritime Transport and Logistics Sector, Ministry of Transport, Egypt.
+- URL: https://www.mts.gov.eg/ar/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%86%D9%82%D9%84-%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D9%85-%D9%83%D8%A7%D9%85%D9%84-%D9%81%D9%8A-%D8%AD%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%AA%D8%B4%D8%BA%D9%8A/
+- Evidence class: Tier 2.
+- Edition or date: 30 July 2026.
+- Accessed: 2026-10-01.
+- Locator: Ministry statement on 24-hour port operations and integrated operating systems.
+- Verification: Opened during the FC-A recheck on 2026-10-01.
+- Use: Current official confirmation that Damietta Port is operating normally 24 hours a day with integrated operating systems. It does not name a VTS or define coverage of the Mina Dumyat TSS.
