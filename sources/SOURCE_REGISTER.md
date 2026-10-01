@@ -5611,3 +5611,115 @@ Off Cape S. Vicente"
 - Locator: Sector 16, Ras al Khafji, Marjan/Zuluf and Kuwait oil-port approaches.
 - Verification: Reopened during unresolved-TSS resolution review on 2026-10-01.
 - Use: Khafji Port Control requirements are terminal/anchorage formalities and do not define a service area over the IMO TSS. Marjan/Zuluf is described as a TSS between oil fields without a through-traffic VTS. Mina al Ahmadi security/port-control arrangements are distinct from the IMO TSS used by through traffic.
+
+
+### SRC-2303 — VTS areas in Australia
+
+- Authority: Australian Maritime Safety Authority (AMSA), Australian Government.
+- URL: https://www.amsa.gov.au/safety-navigation/navigating-coastal-waters/vts-areas-australia
+- Evidence class: Tier 2.
+- Edition or date: Live competent-authority page; displayed page metadata says last updated 14 November 2023.
+- Accessed: 2026-10-01.
+- Locator: Complete page list under "Entities authorised to provide vessel traffic services in Australia are".
+- Verification: Opened during AUS Global VTS Census pilot on 2026-10-01.
+- Use: Primary competent-authority census source. Lists 35 authorised Australian VTS areas and their VTS providers, including REEFVTS.
+
+### SRC-2304 — Australian legislative framework for VTS / Marine Order 64
+
+- Authority: Australian Maritime Safety Authority (AMSA), Australian Government.
+- URL: https://www.amsa.gov.au/safety-navigation/navigating-coastal-waters/australian-legislative-framework-vts
+- Evidence class: Tier 1.
+- Edition or date: Current framework; Marine Order 64 (Vessel traffic services) 2022 commenced 1 July 2022.
+- Accessed: 2026-10-01.
+- Locator: AMSA competent-authority and authorisation framework.
+- Verification: Opened during AUS Global VTS Census pilot on 2026-10-01.
+- Use: Establishes AMSA as Australia's competent authority for VTS and the national authorisation framework.
+
+### SRC-2305 — Maritime Safety Queensland Vessel Traffic Services
+
+- Authority: Maritime Safety Queensland.
+- URL: https://www.msq.qld.gov.au/Shipping/Vessel-traffic-services
+- Evidence class: Tier 2.
+- Edition or date: Current page; last updated 29 May 2025.
+- Accessed: 2026-10-01.
+- Locator: VTS centres and contact details.
+- Verification: Opened during AUS Global VTS Census pilot on 2026-10-01.
+- Use: Confirms Maritime Safety Queensland as Queensland VTS provider and five current regional VTS centres at Cairns, Townsville, Hay Point, Gladstone and Brisbane.
+
+### SRC-2306 — Great Barrier Reef and Torres Strait Vessel Traffic Service
+
+- Authority: Maritime Safety Queensland.
+- URL: https://www.msq.qld.gov.au/Shipping/Reefvts.aspx
+- Evidence class: Tier 2.
+- Edition or date: Current page.
+- Accessed: 2026-10-01.
+- Locator: About Reef VTS.
+- Verification: Opened during AUS Global VTS Census pilot on 2026-10-01.
+- Use: Confirms REEFVTS as a coastal VTS dedicated to the Great Barrier Reef and Torres Strait region, split operationally into Reef North and Reef South.
+
+### SRC-2307 — TasPorts Vessel Traffic Services
+
+- Authority: TasPorts.
+- URL: https://tasports.com.au/vts
+- Evidence class: Tier 2.
+- Edition or date: Current page.
+- Accessed: 2026-10-01.
+- Locator: "VTS areas in Tasmania" and contact/call-sign table.
+- Verification: Opened during AUS Global VTS Census pilot on 2026-10-01.
+- Use: Confirms 10 TasPorts VTS areas: Bell Bay, Devonport, Burnie, Port Latta, Strahan, Stanley, Hobart, Grassy, Coles Bay and Lady Barron.
+
+### SRC-2308 — Flinders Ports VTS
+
+- Authority: Flinders Port Holdings / Flinders Ports.
+- URL: https://www.flindersportholdings.com.au/adelaide-vts/
+- Evidence class: Tier 2.
+- Edition or date: Current page; regional accreditation acquired in 2024.
+- Accessed: 2026-10-01.
+- Locator: VTS provider statement, port/location table and VTS areas.
+- Verification: Opened during AUS Global VTS Census pilot on 2026-10-01.
+- Use: Confirms eight authorised VTS identities/areas: Adelaide, Ardrossan, Klein Point, Port Giles, Wallaroo, Spencer, Port Lincoln and Thevenard. Spencer VTS comprises Port Pirie, Port Bonython, Whyalla, transhipment areas and the Spencer Gulf Deep Water Passage.
+
+### SRC-2309 — Ashburton Vessel Traffic Services
+
+- Authority: Pilbara Ports.
+- URL: https://www.pilbaraports.com.au/ports/port-of-ashburton/port-operations/vessel-traffic-services
+- Evidence class: Tier 2.
+- Edition or date: Current page.
+- Accessed: 2026-10-01.
+- Locator: Authorisation and VTS coverage-area statements.
+- Verification: Opened during AUS Global VTS Census pilot on 2026-10-01.
+- Use: Confirms AMSA-authorised Ashburton VTS.
+
+### SRC-2310 — Dampier Vessel Traffic Services
+
+- Authority: Pilbara Ports.
+- URL: https://www.pilbaraports.com.au/ports/port-of-dampier/port-operations/vessel-traffic-services
+- Evidence class: Tier 2.
+- Edition or date: Current page.
+- Accessed: 2026-10-01.
+- Locator: Authorisation and VTS coverage-area statements.
+- Verification: Opened during AUS Global VTS Census pilot on 2026-10-01.
+- Use: Confirms AMSA-authorised Dampier VTS.
+
+### SRC-2311 — Port Hedland Vessel Traffic Services
+
+- Authority: Pilbara Ports.
+- URL: https://www.pilbaraports.com.au/ports/port-of-port-hedland/port-operations/vessel-traffic-services
+- Evidence class: Tier 2.
+- Edition or date: Current page.
+- Accessed: 2026-10-01.
+- Locator: Authorisation and VTS coverage-area statements.
+- Verification: Opened during AUS Global VTS Census pilot on 2026-10-01.
+- Use: Confirms AMSA-authorised Port Hedland VTS.
+
+### SRC-2312 — Ports Victoria marine operations
+
+- Authority: Ports Victoria.
+- URL: https://ports.vic.gov.au/marine-operations/
+- Evidence class: Tier 2.
+- Edition or date: Current page.
+- Accessed: 2026-10-01.
+- Locator: Shipping movements and VTS controls.
+- Verification: Opened during AUS Global VTS Census pilot on 2026-10-01.
+- Use: Current corroboration that Melbourne shipping movements are controlled through Melbourne VTS and Lonsdale VTS; AMSA counts Melbourne as one authorised VTS area with two operational sectors.
+
