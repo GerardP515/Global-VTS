@@ -1,0 +1,36 @@
+name: Channel pilot source capture
+
+on:
+  pull_request:
+    types: [opened, reopened]
+    paths:
+      - 'scripts/pilot_channel_capture.py'
+      - '.github/workflows/pilot-channel-capture.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  capture:
+    if: github.event.pull_request.head.repo.full_name == github.repository && github.head_ref == 'review/pilot-channel-vts-20261002'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+      - name: Capture two fixed public MCA sources
+        run: python3 scripts/pilot_channel_capture.py
+      - name: Commit captures to this review branch only
+        env:
+          REVIEW_BRANCH: ${{ github.head_ref }}
+        run: |
+          test "$REVIEW_BRANCH" = 'review/pilot-channel-vts-20261002'
+          git add sources/archive/html sources/extracted sources/manifests/PILOT-01
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name 'VTS pilot source capture'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Capture MCA source responses for Channel VTS pilot'
+          git push origin "HEAD:$REVIEW_BRANCH"
