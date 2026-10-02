@@ -1,6 +1,7 @@
 # VTS production research
 
-Start with [VTS_RESEARCH_PROMPT.md](../../VTS_RESEARCH_PROMPT.md).
+Read [VTS_GUIDE_SCHEMA.md](../../VTS_GUIDE_SCHEMA.md) for the YAML data model.
+Then follow [VTS_RESEARCH_PROMPT.md](../../VTS_RESEARCH_PROMPT.md) for source-first research and review.
 Use the [regional index](INDEX.md) to open an individual service file.
 This folder is separate from legacy TSS-discovery batches.
 
@@ -17,25 +18,37 @@ Develop the same dossier in place when a service is assigned. Do not create dupl
 Scaffold creation supplies headings and inherited inventory metadata only; it does not author operational guide text.
 The protocol's source-first rule applies before adding reporting instructions or an evidence-based narrative.
 
-## Study packages and structured data
+## YAML data decision: 2 October 2026
+
+The owner requested YAML and accepted the directional data model inferred from Iain's email.
+The canonical operational record will be YAML front matter within each existing dossier.
+The Markdown body is its readable narrative; CSV tables and graphics are dependent exports.
+This supersedes the earlier CSV-first storage instructions, not the source, review or release controls.
+See [the schema specification](../../VTS_GUIDE_SCHEMA.md) and [YAML template](templates/guide.template.yaml).
+
+The template contains null record prototypes to show structure. Use empty collections in an unresearched dossier.
+Preserve all existing identity metadata and research work when adopting it.
+No migration of the 76 dossiers, YAML exporter or full schema validator has been performed by this setup.
+The old CSV headers remain compatibility templates, not separately editable operational masters.
+
+## Study packages and supporting files
 
 A study may reference one or more service dossiers. Record study scope and directions separately from service identity.
 For a single-service study, keep its supporting files beside `dossier.md`.
-For a combined study, its packet references the existing service dossiers rather than copying them.
+For a combined study, designate an owning dossier and reference the others without copying their operational records.
+Do not assume one service means one area, centre or spread.
 
-Create these files from `templates/` only as research begins:
+The supporting package includes:
 
-- `evidence.csv`: atomic claims and precise source citations.
-- `reporting_matrix.csv`: directional events, triggers and applicability.
-- `report_fields.csv`: required information for each report type.
-- `reporting_geometry.csv`: as-published points, lines, areas and verbal triggers.
-- `gaps.csv` and `conflicts.csv`: missing evidence and source disagreements.
-- `packet.json`: exact input versions, paths, bytes and hashes.
-- `effort.csv`: observed effort only.
+- Source manifests identifying the exact original files and versions.
+- `packet.json`: exact input versions, paths, bytes and hashes for independent review.
+- An effort ledger recording actual effort only.
+- Derived evidence, reporting, geometry, gap and conflict tables when an exporter is implemented.
+- Graphics data and PDF outputs tied to an approved dossier revision.
 
-The CSV tables remain the canonical operational data once populated. Dossier prose and graphics are dependent views.
 An unopened register URL is a lead, not a held or verified source.
 All directions require separate research; none is inferred by reversing another direction.
+Generated exports must not compete with hand-edited YAML for authority.
 
 ## Status and storage
 
