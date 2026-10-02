@@ -1,0 +1,1 @@
+event_id,study_id,direction_id,route_variant,sequence,geometry_id,trigger_type,trigger_text,vessel_applicability,requirement_strength,recipient,call_sign,calling_channel,working_channel,watch_requirement,report_type_id,changeover_instruction,exceptions,claim_ids,verification_state

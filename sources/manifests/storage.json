@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "default_store": "working-repository",
+  "stores": [
+    {
+      "store_id": "working-repository",
+      "repository": "GerardP515/Global-VTS",
+      "root": ".",
+      "originals_path": "sources/archive",
+      "status": "CONFIGURED_FOR_PILOT"
+    }
+  ],
+  "sibling_store": null,
+  "notes": "Source folders prepared only. No downloads, source migrations or source verification are claimed."
+}

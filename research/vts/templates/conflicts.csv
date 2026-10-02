@@ -1,0 +1,1 @@
+conflict_id,study_id,direction_id,subject,severity,claim_ids,source_a_snapshot,source_a_locator,assertion_a,source_b_snapshot,source_b_locator,assertion_b,affected_output,precedence_assessment,state,decision_record,reviewer

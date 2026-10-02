@@ -1,0 +1,4 @@
+study_id,service_ids,assignment_status,research_state,research_commit,source_packet_revision,independent_review_record,marine_approval_record,layout_qa_record,release_record,notes
+PILOT-01,VTS-0001,PROPOSED,NOT_STARTED,,,,,,,Channel VTS candidate; no operational research executed by this scaffold
+PILOT-02,VTS-0002,PROPOSED,NOT_STARTED,,,,,,,Great Belt candidate; no operational research executed by this scaffold
+PILOT-03,VTS-0006,PROPOSED,NOT_STARTED,,,,,,,Singapore study extent and adjoining service scope require confirmation

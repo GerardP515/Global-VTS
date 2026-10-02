@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "study_id": null,
+  "service_ids": [],
+  "direction_ids": [],
+  "route_variants": [],
+  "research_cutoff_utc": null,
+  "research_commit": null,
+  "source_store_revisions": [],
+  "files": [],
+  "source_snapshot_ids": [],
+  "required_render_paths": [],
+  "unchecked_claim_ids": [],
+  "review_limitations": [],
+  "packet_state": "NOT_STARTED",
+  "author_record": null,
+  "independent_review_record": null,
+  "marine_approval_record": null
+}

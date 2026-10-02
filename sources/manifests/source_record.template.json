@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.0",
+  "source_id": null,
+  "snapshot_id": null,
+  "bibliography": {
+    "title": null,
+    "issuer": null,
+    "document_reference": null,
+    "edition_or_revision": null,
+    "published_date": null,
+    "language": null,
+    "authority_role": null
+  },
+  "scope": {
+    "service_ids": [],
+    "study_ids": [],
+    "direction_ids": [],
+    "geographical_scope": null,
+    "vessel_applicability": null
+  },
+  "retrieval": {
+    "requested_url": null,
+    "final_url": null,
+    "retrieved_at_utc": null,
+    "http_status": null,
+    "content_type": null,
+    "capture_method": null,
+    "capture_status": "NOT_FETCHED",
+    "failure_reason": null,
+    "bytes": null
+  },
+  "storage": {
+    "store_id": "working-repository",
+    "original_path": null,
+    "sha256": null,
+    "restricted_access_record": null
+  },
+  "derivatives": {
+    "text_path": null,
+    "text_sha256": null,
+    "extractor_name": null,
+    "extractor_version": null,
+    "processed_at_utc": null,
+    "render_paths": [],
+    "translation_paths": []
+  },
+  "currency": {
+    "last_checked_at_utc": null,
+    "effective_from": null,
+    "effective_until": null,
+    "supersedes_snapshot_id": null,
+    "subsequent_notice_check": null,
+    "in_force_status": "NOT_ASSESSED"
+  },
+  "rights": {
+    "status": "NOT_ASSESSED",
+    "basis": null,
+    "permitted_storage": null,
+    "permitted_reproduction": null
+  },
+  "inspection": {
+    "identity_match": "NOT_CHECKED",
+    "content_inspected": false,
+    "inspector_record": null,
+    "limitations": []
+  }
+}
