@@ -1,0 +1,208 @@
+Dover Strait crossings: Channel VTS - GOV.UK
+Cookies on GOV.UK
+We use some essential cookies to make this website work.
+We’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.
+We also use cookies set by other sites to help us deliver content from their services.
+You have accepted additional cookies. You can change your cookie settings at any time.
+You have rejected additional cookies. You can change your cookie settings at any time.
+Accept additional cookies
+Reject additional cookies
+View cookies
+Hide cookie message
+Skip to main content
+GOV.UK
+Navigation menu
+Menu
+Menu
+Services and information
+Benefits
+Births, death, marriages and care
+Business and self-employed
+Childcare and parenting
+Citizenship and living in the UK
+Crime, justice and the law
+Disabled people
+Driving and transport
+Education and learning
+Employing people
+Environment and countryside
+Housing and local services
+Money and tax
+Passports, travel and living abroad
+Visas and immigration
+Working, jobs and pensions
+Government activity
+Departments
+Departments, agencies and public bodies
+News
+News stories, speeches, letters and notices
+Guidance and regulation
+Detailed guidance, regulations and rules
+Research and statistics
+Reports, analysis and official statistics
+Policy papers and consultations
+Consultations and strategy
+Transparency
+Data, Freedom of Information releases and corporate reports
+Search GOV.UK
+×
+Search GOV.UK
+Search
+Search GOV.UK
+Search
+Home
+Transport
+Maritime and shipping
+Maritime navigation
+Dover Strait crossings: Channel VTS
+Maritime &
+Coastguard
+Agency
+Guidance
+Dover Strait crossings: Channel VTS
+Updated 1 February 2024
+Contents
+About the Dover Strait
+Traffic lanes and inshore traffic zones
+How Channel VTS works
+Mandatory reporting - CALDOVREP
+Exemptions from the CALDOVREP scheme
+Print this page
+© Crown copyright 2024
+This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-government-licence/version/3 or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU, or email: psi@nationalarchives.gov.uk.
+Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.
+This publication is available at https://www.gov.uk/government/publications/dover-strait-crossings-channel-navigation-information-service/dover-strait-crossings-channel-navigation-information-service-cnis
+The Channel VTS service helps vessels navigate safely and aids preventing collisions in the Dover Strait.
+About the Dover Strait
+Over 400 commercial vessels use the Dover Strait every day. It is under full radar surveillance and operates an IMO adopted Traffic Separation Scheme (TSS).
+The service provides a 24 hour radio and radar safety service for all shipping in the Dover Strait. Channel VTS is jointly operated by the UK and France from the Dover Maritime Rescue Co-ordination Centre (MRCC) and CROSS Gris Nez in France.
+The Dover Strait is a mandatory reporting area. This means that vessels over 300 gross tonnes must report to either Dover MRCC (South West Lane) or CROSS Gris Nez (North East Lane) before proceeding through the service area.
+The functions of Channel VTS are to:
+keep the Dover Strait TSS under observation
+monitor the flow of traffic
+detect and report vessels which contravene the International Regulations for Preventing Collisions at Sea 1972, as amended (COLREGS)
+Channel VTS supports MCA and HM Coastguard in:
+promoting safety of life at sea
+improving counter-pollution measures
+providing improved support for enforcement activity
+Crossing the Dover Strait
+Vessels must meet the legal requirements (COLREGS) of any TSS passage or crossing to make sure they, or other vessels, are not put at risk. The Merchant Shipping (Watercraft) Order 2023 has introduced new legislation which widens the applications of the COLREGs for vessels, and specifically Rule 10 for TSS.  Merchant shipping notice MSN 1781 (M+F) as amended gives full jurisdiction and guidance on COLREG application for UK vessels and all vessels in UK waters.
+The Strait has strong tides, sandbanks and shoals and weather conditions can change quickly. Visibility is often poor, and it can be difficult to navigate.
+Large vessels passing through the Strait can be difficult to manoeuvre often taking several miles to stop or turn. Some container vessels are frequently over 300 metres long, with drafts in excess of 12 metres. The service speed for many vessels may be in excess of 20 knots (23 mph). They have to commit to a course of action long before a swimmer or small craft may be detected on radar or visually. Much of the cross-channel traffic includes high-speed ferries carrying high numbers of passengers and vehicles. Many ships carry dangerous cargoes which, if released accidentally could have disastrous effects on the environment, marine life and the coastlines of England, France, and the North Sea states.
+Some vessels experience minor engine problems which can be sorted out quickly without Channel VTS getting involved, other situations are more serious and can take longer to resolve. These situations can develop without notice and might mean that a vessel has to anchor or drift in a traffic lane of the TSS or near to the coast.
+Traffic lanes and inshore traffic zones
+Traffic Separation Scheme (TSS)
+Two traffic lanes run through the Strait for inward and outward-bound traffic. The rules for navigating in or near a TSS are internationally agreed. Mariners should be aware of the traffic lanes, separation zones, and inshore traffic zones.
+This chart  shows the traffic separation scheme in operation in the Dover Strait. This chart is not a navigational chart and full safety information is not provided.  Mariners operating in the area should conduct planning and navigation using the appropriate publications and charts for the area.
+Further guidance on TSS’s and navigation in or near them can be found in NP100 The Mariner’s Handbook and in Rule 10 of the International Regulations for Prevention of Collisions at Sea (COLREG).
+Inshore traffic zones (ITZ)
+ITZs are designated areas along both the UK and French coasts. The UK ITZ is limited by a line drawn from Shoreham to the CS1 light buoy (marking the end of the SW lane) and a line drawn south from South Foreland to the SW lane.
+This ITZ area has restrictions as stipulated in COLREG rule 10(d). In summary, a vessel shall not  use an ITZ when it can safely use the appropriate traffic lane within the TSS. Vessels can only use the zone if they are:
+less than 20 metres in length
+sailing vessels
+vessels engaged in fishing
+A vessel may also use an ITZ to avoid immediate danger if it’s going to or from:
+a port
+an offshore installation or structure
+a pilot station
+any other place situated within the ITZ
+Any vessel can use the ITZ if the master considers it’s necessary for the safety of the vessel and crew or to avoid immediate danger, but they must advise the Channel VTS of their intended route and reasons for the passage.
+How Channel VTS works
+Channel VTS is a coastal vessel traffic service which deals with traffic passing through the Dover Strait. It provides information so that mariners can make on-board navigational decisions. The service broadcasts necessary information at fixed times and intervals or when a vessel requests it.
+The service broadcasts on VHF radio channel 11 every 60 minutes - or every 30 minutes if visibility drops below two miles - to give warnings of:
+navigational difficulties (“navigation warnings”; “information pertaining to safe navigation” etc)
+weather conditions
+traffic information in the traffic separation scheme (TSS)
+This includes information about:
+misplaced or defective navigational aids
+hampered vessels
+deep draught bulk carriers and tankers
+vessels under tow
+surveying vessels
+unorthodox crossings such as cross-channel swims
+A broadcast is also transmitted for any vessel that appears to contravene the International Regulations for Preventing Collisions at Sea 1972 (COLREGS). This warns other vessels that a potentially hazardous situation exists in a particular part of the TSS.
+Ships using the TSS are automatically tracked by radar and evidence is collected. This can be used in prosecutions of contraventions of the COLREGS.
+It’s possible to make a video recording of the passage of a ‘rogue vessel’. The system also collects data from vessels fitted with automatic identification system (AIS) transponders, this data may be used in prosecutions of contraventions of the COLREGS.
+Enforcement
+If a suspected offending vessel is heading for a UK port then action may be taken. Otherwise, the evidence is sent to the vessel’s flag state for them to take action under international regulations. If it’s a UK-registered vessel then all information is forwarded to MCA Regulatory Compliance Investigation Team (RCIT) for investigation.
+The MCA RCIT investigates the actions of the vessel and its master and takes further action if there’s a significant breach of collision regulations. MCA can prosecute the master or owner of the vessel if there is enough evidence, and the seriousness of the case means that it’s in the public interest to prosecute.
+Mandatory reporting - CALDOVREP
+The mandatory requirement from ships entering the area covered by the system is the Pas de Calais/Dover Strait report or CALDOVREP.
+All vessels over 300 gross tonnes must take part in the scheme. The service area covers a 65 mile stretch of the Dover Strait/Pas-de-Calais. It’s bounded by:
+a line to the east drawn from North Foreland to the border between France and Belgium
+a line to the west drawn from the Royal Sovereign light tower through the Bassurelle light buoy (at its assigned position) to the coast of France
+The CALDOVREP report must contain the following information:
+name of the ship, call sign, IMO identification number and MMSI number
+position in latitude and longitude
+course and speed of the ship
+vessel’s draught
+route information
+hazardous cargo, IMO class and quantity (if applicable)
+breakdown, damage and/or deficiencies affecting the structure, cargo or equipment of the ship
+any other circumstances affecting normal navigation according to the provisions of the SOLAS and MARPOL Conventions
+Vessels on passage NE must report to CROSS Gris Nez traffic, on the French coast, 2 nautical miles before crossing the boundary line in the NE traffic lane.
+Vessels on passage SW must report to the Dover Coastguard MRCC on the English coast when they’re in VHF radio range of North Foreland and before crossing the boundary line in the SW traffic lane.
+Most reports are received via VHF radio although the Dover Coastguard can receive AIS transponder reports. HM Coastguard records radio and telephone traffic to and from their co-ordination centres. This is in the interest of public safety, preventing and detecting crime, maintaining operational standards, and monitoring maritime security.
+Full details and requirements on communications are contained in the Admiralty List of Radio Signals, volume 6 (and official digital equivalent).
+The Mandatory Reporting Scheme is in accordance with the Safety of Life at Sea (SOLAS) Convention 1974, chapter V, regulation 11-1.
+Exemptions from the CALDOVREP scheme
+Cross-channel ferries
+Ferries don’t have to take part fully in the scheme. This is because freight cargo can cover too many different categories to expect a full manifest via VHF radio. If ferries are on a regular, scheduled, short sea crossing they only need to advise the Dover coastguard or CROSS Gris Nez that they’ve departed. Ferry companies hold the manifest which is available at immediate notice if there’s been an incident with a ferry.
+Each day there are more than 100 cross-channel freight and passenger ferry movements. The main Dover to Calais route is the busiest with four main operators. However other routes are in service to northern France and Belgium.
+Naval vessels
+Whatever their nationality, naval vessels are also exempt from reporting, although most comply with the scheme mainly to advise the Channel VTS that they are on passage. No other details are requested.
+Back to top
+Is this page useful?
+Maybe
+Yes this page is useful
+No this page is not useful
+Thank you for your feedback
+Report a problem with this page
+Help us improve GOV.UK
+Do not include personal or financial information like your National Insurance number or credit card details.
+This field is for robots only. Please leave blank
+What were you doing?
+What went wrong?
+Send
+Cancel
+Help us improve GOV.UK
+To help us improve GOV.UK, we’d like to know more about your visit today.
+Please fill in this survey (opens in a new tab and requires JavaScript).
+Cancel
+Services and information
+Benefits
+Births, death, marriages and care
+Business and self-employed
+Childcare and parenting
+Citizenship and living in the UK
+Crime, justice and the law
+Disabled people
+Driving and transport
+Education and learning
+Employing people
+Environment and countryside
+Housing and local services
+Money and tax
+Passports, travel and living abroad
+Visas and immigration
+Working, jobs and pensions
+Government activity
+Departments
+News
+Guidance and regulation
+Research and statistics
+Policy papers and consultations
+Transparency
+How government works
+Get involved
+Support links
+Help
+Privacy
+Cookies
+Accessibility statement
+Contact
+Terms and conditions
+Rhestr o Wasanaethau Cymraeg
+Government Digital Service
+All content is available under the Open Government Licence v3.0, except where otherwise stated
+© Crown copyright
