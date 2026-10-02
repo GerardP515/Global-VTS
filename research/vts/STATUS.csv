@@ -1,4 +1,4 @@
 study_id,service_ids,assignment_status,research_state,research_commit,source_packet_revision,independent_review_record,marine_approval_record,layout_qa_record,release_record,notes
-PILOT-01,VTS-0001,PROPOSED,NOT_STARTED,,,,,,,Channel VTS candidate; no operational research executed by this scaffold
+PILOT-01,VTS-0001,AUTHORISED_SAMPLE,HOLD,dd25fb71d0e642450d93a8d43bed86c9a49ebf03,P01-0.1-INCOMPLETE,,,,,"NE/SW author sample saved; two MCA originals held; five consulted sources not retained; seven gaps; no independent approval or PDF"
 PILOT-02,VTS-0002,PROPOSED,NOT_STARTED,,,,,,,Great Belt candidate; no operational research executed by this scaffold
 PILOT-03,VTS-0006,PROPOSED,NOT_STARTED,,,,,,,Singapore study extent and adjoining service scope require confirmation

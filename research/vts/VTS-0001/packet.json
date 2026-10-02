@@ -1,0 +1,39 @@
+{
+  "schema_version": "pilot-packet-0.1",
+  "study_id": "PILOT-01",
+  "service_ids": ["VTS-0001"],
+  "direction_ids": ["P01-NE", "P01-SW"],
+  "packet_revision": "P01-0.1-INCOMPLETE",
+  "packet_state": "INCOMPLETE_NOT_READY_FOR_INDEPENDENT_REVIEW",
+  "research_commit": "dd25fb71d0e642450d93a8d43bed86c9a49ebf03",
+  "source_store": "GerardP515/Global-VTS",
+  "source_store_commit": "6f47e665f08f9dae23b87674395f4c131ea2d5e5",
+  "source_capture_manifest": "sources/manifests/PILOT-01/capture_result.json",
+  "source_capture_manifest_git_blob": "f9c7ff417b6d5a19ba0f188906d25d75cf4d0617",
+  "files": [
+    {"path": "research/vts/VTS-0001/dossier.md", "bytes": 32033, "sha256": "c9cb6c3cb07f8856a3cede312894454eded7aa2d24ff04d9a6e1dbbf847f9ecf"},
+    {"path": "research/vts/VTS-0001/source_catalogue.json", "bytes": 7768, "sha256": "c46767941a9b1885d088e66dcb8ddd6d2e5c4721d8ea9f128a76480ec8c3ab83"},
+    {"path": "sources/archive/html/SRC-004__20261002T163852Z__2e5ab12c2a39.html", "bytes": 98987, "sha256": "2e5ab12c2a3968548407a567d29bac0dd28c918b8e3c18a1b4e692cba7cf3c67"},
+    {"path": "sources/extracted/SRC-004__20261002T163852Z__2e5ab12c2a39.txt", "bytes": 13837, "sha256": "88674278730a2a94579f62a01d4dd3b61a7eab527b5c781a8c939d0c3e0eef20"},
+    {"path": "sources/archive/html/SRC-005__20261002T163852Z__1cafaed9fae8.html", "bytes": 127272, "sha256": "1cafaed9fae8ee85176f47e9daff20411075c26c41a85fd672ece59559541409"},
+    {"path": "sources/extracted/SRC-005__20261002T163852Z__1cafaed9fae8.txt", "bytes": 28254, "sha256": "523bf2a8ec82eda007009712b2c831c9393f7907f120c0d3c88f6825c7ac53b1"}
+  ],
+  "missing_original_source_ids": ["P01-IMO85", "P01-IMO251", "P01-TH-RS", "P01-LIB-NCSR13", "P01-DOVER-PORT"],
+  "render_paths": [],
+  "live_pdf_pages_inspected": [
+    {"source_id": "P01-IMO85", "pdf_pages_1_based": [10, 11, 12, 13], "scope": "Annex 2 only", "retained_render": false},
+    {"source_id": "P01-IMO251", "pdf_pages_1_based": [3], "scope": "Amended report-content Appendix", "retained_render": false}
+  ],
+  "independent_review_state": "NOT_STARTED",
+  "independently_unchecked_evidence_ids": ["EV-IDENTITY", "EV-THRESHOLD", "EV-THRESHOLD-IMO", "EV-EXEMPT", "EV-FERRY", "EV-NE", "EV-SW", "EV-SW-TIMING", "EV-AMENDMENT", "EV-OLD-LIST", "EV-CHANGE", "EV-AIS", "EV-RS", "EV-FUTURE", "EV-PORT", "EV-F01", "EV-F02", "EV-F03", "EV-F04", "EV-F05", "EV-F06", "EV-F07", "EV-F08", "EV-F09", "EV-F10", "EV-F11", "EV-F12", "EV-F13"],
+  "review_limitations": [
+    "Live-only evidence cannot yet be reproduced from retained originals",
+    "Complete ALRS and subsequent UK/French notices reconciliation remains open",
+    "Geometry is not approved for plotting; no map or safe track supplied",
+    "No independent marine or artwork approval",
+    "No PDF produced",
+    "Pilot-local bibliography IDs still require shared-register reconciliation"
+  ],
+  "structural_check_run": "https://github.com/GerardP515/Global-VTS/actions/runs/37036936429",
+  "publication_ready": false
+}
