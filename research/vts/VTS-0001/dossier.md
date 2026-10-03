@@ -985,119 +985,521 @@ scope_exclusions:
 
 # Channel VTS / CALDOVREP
 
-**Research correction 0.2.1 | 3 October 2026 | HOLD: not for navigation or publication**
+**Directional reporting guide | Research revision 0.2.1-author-correction | Presentation proforma-1**
 
-## 1. Scope
+> **DRAFT / HOLD. Not for navigation or publication.**
+> Reporting details below are inherited research findings, not newly approved instructions.
+> Current notices, communications, plotting geometry and independent marine review remain outstanding.
+> Consult the limitations beside each affected item and the complete checks in Section 9.
 
-One service, VTS-0001, with separate north-eastbound and south-westbound through-transit research.
-This is not a passage plan or a complete operational guide.
-Core classification and TSS-0038 association are inherited inventory records, not newly certified findings.
+## Contents
 
-Channel VTS is jointly operated from Dover MRCC and CROSS Gris-Nez. [SRC-004, About the Dover Strait]
-Port of Dover's harbour VTS is a different service. Its port-entry procedures are excluded. [P01-DOVER-PORT, VTS Information]
+1. Service overview
+2. Participation and applicability
+3. Reporting arrangements by direction
+4. Information required
+5. Communications and watchkeeping
+6. Conditional and exceptional reporting
+7. Reporting locations and graphic requirements
+8. References
+9. Outstanding checks and editorial notes
 
-## 2. Directional entry reports
+Research and review records appear in Appendix A.
 
-These are published instructions recorded for research, pending the holds below. This is not a bridge-use reporting card.
+## 1. Service overview
 
-| Direction | Reporting boundary | Canonical entry timing | Published recipient / calling channel | Evidence |
-|---|---|---|---|---|
-| North-eastbound | Western reporting line | two (2) nautical miles before crossing | Gris-Nez Traffic / VHF 13 | EV-NE, EV-THRESHOLD, EV-AMENDMENT, EV-EXEMPT |
-| South-westbound | Eastern reporting line | Within VHF range of North Foreland and before the eastern reporting line; MGN states no later than crossing. | Dover Coastguard / VHF 11 | EV-SW, EV-THRESHOLD, EV-AMENDMENT, EV-EXEMPT, EV-SW-TIMING |
+| Item | Recorded position |
+| --- | --- |
+| Service | Channel VTS [R3 About the Dover Strait; How Channel VTS works](#r3) |
+| Operating centres | Dover MRCC and CROSS Gris-Nez [R3 About the Dover Strait; How Channel VTS works](#r3) |
+| Reporting system | CALDOVREP. [R3 About the Dover Strait; How Channel VTS works](#r3) [R2 commencement paragraph; Appendix (PDF pp.2–3)](#r2) |
+| Study scope | Standard NE-bound and SW-bound through-transits, approach reporting, conditional navigation changes and English ITZ notification. Special-operation variants are outside this sample, not exempt from their rules. (Editorial scope.) |
+| Authority detail | UK and French maritime authorities; current administrative titles require publication review. [R3 About the Dover Strait; How Channel VTS works](#r3) [G03](#g03). |
 
-Each entry event links to the CALDOVREP report type in YAML.
-The NE two-mile trigger must not be copied to SW traffic.
-Each direction also records conditional navigation-change and English ITZ notification events.
-Sequence values control display order, not a fixed itinerary or scheduled series of calls.
-[P01-IMO85, Annex 2, 3.3]
+Channel VTS and Port of Dover harbour VTS are separate services. Harbour-entry procedures are outside this guide. [R7 VTS Information; Entry procedure](#r7)
 
-## 3. Required information
+## 2. Participation and applicability
 
-MSC.251(83) expressly replaces the original CALDOVREP report-content clause and summary.
-Its 13 code groups are A, B, C or D, E, F, G, I, O, P, Q or R, T, W and X.
-The amendment took effect on 1 May 2008. [P01-IMO251, PDF pages 2-3, adoption paragraph 2 and Annex clause 3/Appendix]
+**Standard participation:** All vessels of 300GT and over. [R1 §§3.7–3.9](#r1) [R4 Annex 2 §1](#r4)
 
-Each YAML field has its own evidence reference and source item locator.
-The field descriptions are paraphrases, not a complete encoded radio message.
-W explicitly requests the number aboard. Q/R retains structure, cargo and equipment scope.
-X contains two subitems in the published order. Only the bunker subitem has the greater-than-5,000-tonne condition.
-The bunker condition in X concerns more than 5,000 tonnes of bunker fuel, not vessel gross tonnage.
-[P01-IMO251, Appendix, X]
+**Naval vessels:** Whatever their nationality, naval vessels are also exempt from reporting. [R3 Exemptions](#r3)
 
-The current MCA summary is shorter than the amended list. Copying that summary alone would omit reporting information.
-This discrepancy is retained in C02. [SRC-004, Mandatory reporting; P01-IMO251, clause 3/Appendix]
+**Ferry arrangements:** simplified reporting must not be treated as a blanket exemption. The original scheme requires ship-specific bilateral approval. [R4 Annex 2 §3.3, Crossing Traffic](#r4) [R3 Exemptions](#r3)
 
-## 4. Exceptions and conditions
+The shorter MCA summary uses a different threshold formulation. The inclusive threshold is retained; see C01 in Section 9. [R1 §§3.7–3.9](#r1) [R4 Annex 2 §1](#r4) [R3 Mandatory reporting](#r3)
 
-Participation starts at 300 GT inclusive. Specific MCA guidance and the adopted clause agree.
-The shorter MCA webpage instead says over 300 GT. C01 preserves that distinction.
-[SRC-005, 3.8; P01-IMO85, Annex 2, 1; SRC-004, Mandatory reporting]
+### 2.1 Scope exclusions
 
-Naval vessels are exempt under the MCA summary. [SRC-004, Exemptions: Naval vessels]
-Ferry special arrangements require ship-specific approval by both stations under the original scheme.
-They must not become a blanket exemption. [P01-IMO85, Annex 2, 3.3, Crossing Traffic]
+These are proposed editorial exclusions, not exemptions from applicable reporting rules.
 
-Smaller vessels have separate conditional reporting guidance, not universal mandatory participation in this sample.
-[SRC-005, 3.9; P01-IMO85, Annex 2, 1]
-Dover AIS capability does not establish a universal exemption from voice reporting. Current implementation details remain G04.
-The base instrument permits advance non-verbal delivery for confidential cargo information only.
-This is not an exemption from the remaining report. No delivery address has been invented.
-[P01-IMO85, Annex 2 section 3 opening paragraph and section 5]
-[SRC-004, Mandatory reporting: communications paragraphs]
+| Not fully developed in this sample | Research position |
+| --- | --- |
+| Complete reporting procedures for vessels below 300 GT. | The source remains a specific conditional-reporting lead. No universal exemption is asserted. [R1 §3.9](#r1) |
+| Complete tug and long-tow reporting procedures. | The source contains best-practice early and continued reporting advice. It is not applied to every vessel. [R1 §5.1(iv)](#r1) |
+| Ferry, harbour-entry, joining and crossing route variants. | The source includes port-departure and ship-specific ferry arrangements. These remain outside the bounded through-transit example. [R4 Annex 2 §3.3](#r4) |
+| Recreational and dive-support operations. | The source contains a specific notification recommendation. Separate research is required for this vessel/activity scope. [R1 §6.4](#r1) |
 
-English ITZ notification is recorded as a separate conditional event, not permission to contravene Rule 10.
-The reporting subject is established; current contact handling and timing remain G08.
-[SRC-005, 3.4; SRC-004, Inshore traffic zones]
+## 3. Reporting arrangements by direction
 
-The YAML scope_exclusions explicitly identify special-operation variants outside this sample.
-They are proposed editorial boundaries, not vessel exemptions or approved operational exclusions.
+The two directions are presented separately. Conditional notifications are not routine second or third reporting points.
 
-## 5. Geometry and artwork
+### 3.1 North-eastbound transit
 
-Both reporting boundaries remain lines. No missing endpoint, assumed datum or approved track has been invented.
-[SRC-005, 3.10-3.11]
+| Action or condition | Reporting arrangement | Reference |
+| --- | --- | --- |
+| Applicability | Ships of 300 GT and over, subject to applicable exemptions. | [R1 §§3.7–3.9](#r1) [R3 Exemptions](#r3) |
+| Entry boundary | Western reporting line. Full description in Section 7. | [R1 §3.11](#r1) |
+| When to report | two (2) nautical miles before crossing | [R1 §3.11](#r1) |
+| Who to call | Gris-Nez Traffic; CROSS Gris-Nez. | [R1 §3.11](#r1) |
+| Published calling channel | VHF 13. Further channel roles remain open under G04. | [R1 §3.11](#r1) |
+| Information required | CALDOVREP information in Section 4, including each stated condition. | [R2 commencement paragraph; Appendix (PDF pp.2–3)](#r2) |
 
-The western description still references Royal Sovereign light tower. Trinity House records its topsides removal in October 2023.
-That does not itself relocate or cancel the reporting line. Its current charted reference needs checking before drawing.
-[P01-TH-RS, 1 October 2023; SRC-005, 3.11]
+**During transit:** see Section 6 for conditional navigation-change and English ITZ notifications. [R4 Annex 2 §3.3](#r4) [R1 §3.4](#r1)
 
-No graphic or PDF spread has been produced. The two spread records define intended output scope only.
+**Transfers and departure:** subsequent routine instructions are not established in this sample. Do not read this as “no report required”. See [G03](#g03)–[G05](#g05).
 
-## 6. Source pack and currency
+### 3.2 South-westbound transit
 
-Two MCA HTML originals and mechanical text extractions are held in the repository.
-The capture log records retrieval times, byte counts and SHA-256 values.
-The author read their relevant archived sections against the live authority pages.
-No independent evidence review has occurred.
+| Action or condition | Reporting arrangement | Reference |
+| --- | --- | --- |
+| Applicability | Ships of 300 GT and over, subject to applicable exemptions. | [R1 §§3.7–3.9](#r1) [R3 Exemptions](#r3) |
+| Entry boundary | Eastern reporting line. Full description in Section 7. | [R1 §3.10](#r1) |
+| When to report | Within VHF range of North Foreland and before the eastern reporting line; MGN states no later than crossing. | [R1 §3.10](#r1) [R3 Mandatory reporting, SW paragraph](#r3) |
+| Who to call | Dover Coastguard; Dover MRCC. | [R1 §3.10](#r1) |
+| Published calling channel | VHF 11. Further channel roles remain open under G04. | [R1 §3.10](#r1) |
+| Information required | CALDOVREP information in Section 4, including each stated condition. | [R2 commencement paragraph; Appendix (PDF pp.2–3)](#r2) |
 
-The IMO resolutions and supporting sources were inspected live but are not archived in this packet.
-Their snapshot IDs remain null. Permitted retained copies are a review prerequisite, not an assumed possession.
+**During transit:** see Section 6 for conditional navigation-change and English ITZ notifications. [R4 Annex 2 §3.3](#r4) [R1 §3.4](#r1)
 
-The Liberian Registry's NCSR 13 account flags proposed CALDOVREP changes for later MSC adoption.
-It is a prospective change lead, not authority to add new reporting duties now.
-[P01-LIB-NCSR13, PDF pages 1-2, Routeing measures / Ship Reporting System in Europe]
+**Transfers and departure:** subsequent routine instructions are not established in this sample. Do not read this as “no report required”. See [G03](#g03)–[G05](#g05).
 
-A.851(20) has been catalogued as the format-source route for G06; no encoded example is claimed.
-Calling channels are retained; separate working-channel assignments remain unknown under G04.
-Current ALRS, the full UKHO/French notices chain and current call-name convention require reconciliation before release.
-No claim is made that all applicable reporting requirements have been exhausted.
 
-## 7. Review disposition
+## 4. Information required
 
-Four author dispositions address the threshold, amended report content, ferry treatment and SW timing.
-Eight open gaps remain in YAML, covering retained evidence, geometry, notices, communications, conditional updates, formatting and approval.
+The table shows the report subjects retained in the amended CALDOVREP list. It is not a worked radio message. [R2 commencement paragraph; Appendix (PDF pp.2–3)](#r2)
 
-HOLD is a publication-research state. It does not change the existing 76-service inventory.
-The correction pass addresses QA-01 to QA-07 and records first-reproof refinements RR-01 to RR-03 without closing the remaining evidence or release gates.
-A complete retained source packet and independent evidence/marine review remain necessary before approved directional PDF production.
+**Open formatting checks:** units, time standard, encoding and nil-report handling remain under [G06](#g06).
 
-## 8. Sources and records
+| Code | Information required | Condition or qualification | Reference |
+| --- | --- | --- | --- |
+| A | Vessel name, radio call sign and IMO identifier; MMSI may identify a transponder report. | MMSI alternative concerns transponder reporting. | [R2 Appendix, item A (PDF p.3)](#r2) |
+| B | Reporting date and time. | Not separately recorded. | [R2 Appendix, item B (PDF p.3)](#r2) |
+| C or D | Position: latitude/longitude, or true bearing and distance from an identified landmark. | Alternative position expressions; not two compulsory position reports. | [R2 Appendix, item C or D (PDF p.3)](#r2) |
+| E | Course referenced to true north. | Not separately recorded. | [R2 Appendix, item E (PDF p.3)](#r2) |
+| F | Vessel speed. | Not separately recorded. | [R2 Appendix, item F (PDF p.3)](#r2) |
+| G | Departure port. | Not separately recorded. | [R2 Appendix, item G (PDF p.3)](#r2) |
+| I | Destination port with arrival estimate. | Not separately recorded. | [R2 Appendix, item I (PDF p.3)](#r2) |
+| O | Current draught. | Not separately recorded. | [R2 Appendix, item O (PDF p.3)](#r2) |
+| P | Cargo; add dangerous-goods quantity and IMO class when applicable. | Dangerous-goods particulars depend on cargo carried. | [R2 Appendix, item P (PDF p.3)](#r2) |
+| Q or R | Report structural, cargo or equipment defects, damage or deficiencies. Also report other circumstances disrupting normal navigation under SOLAS or MARPOL. | Preserve applicable defects and circumstances; no assumed nil-report convention. | [R2 Appendix, item Q or R (PDF p.3)](#r2) |
+| T | Contact address for dangerous-cargo particulars. | Dangerous-cargo information purpose; nil-report handling not established. | [R2 Appendix, item T (PDF p.3)](#r2) |
+| W | Total number of persons aboard. | Not separately recorded. | [R2 Appendix, item W (PDF p.3)](#r2) |
+| X | Bunker particulars and navigational conditions. See the separate subjects in Section 4.1. | Apply the bunker threshold only to the bunker particulars. | [R2 Appendix, item X (PDF p.3)](#r2) |
 
-See `source_catalogue.json` for URLs, titles, issuers, dates, locators and held/live-only status.
-P01-prefixed source IDs are pilot-local; reconcile them with the shared register before wider production.
-Existing global IDs SRC-004 and SRC-005 are retained.
+### 4.1 Field X: separate reporting subjects
 
-`packet.json` records exact research/source inputs and explicit missing originals.
-`author_check.json` records the historical 0.1.0 checks. It is not approval of this corrected revision.
-The current packet and correction report identify the actual corrected files and later test results.
-The source-first protocol and YAML specification continue to apply.
+The following labels are editorial descriptions, not additional official report codes.
+
+| Subject within X | Condition | Reference |
+| --- | --- | --- |
+| Estimated amount and characteristics of bunker fuel. | Bunker fuel exceeds 5,000 tonnes. | [R2 Appendix, item X (PDF p.3)](#r2) |
+| Navigational conditions. | Not subject to the bunker-quantity threshold. | [R2 Appendix, item X (PDF p.3)](#r2) |
+
+Unknown bunker quantity remains a review question. It is not treated as zero or an automatic exemption.
+
+### 4.2 Confidential cargo information
+
+The original scheme provides an advance non-verbal option for commercially confidential cargo particulars. [R4 Annex 2 §§3, 5](#r4)
+
+This concerns the cargo portion only, not the entire report. [R4 Annex 2 §§3, 5](#r4)
+
+**Current delivery details remain unconfirmed.** No address or whole-report exemption is supplied. See [G04](#g04).
+
+## 5. Communications and watchkeeping
+
+| Purpose | Recipient / call sign | Calling channel | Other channel roles | Reference |
+| --- | --- | --- | --- | --- |
+| NE entry | CROSS Gris-Nez / Gris-Nez Traffic | VHF 13 | Working-channel assignment and listening watch not established: G04. | [R1 §3.11](#r1) |
+| SW entry | Dover MRCC / Dover Coastguard | VHF 11 | Working-channel assignment and listening watch not established: G04. | [R1 §3.10](#r1) |
+| English ITZ notification | Channel VTS | Not established: G08. | Recipient selection, method and timing remain open. | [R1 §3.4](#r1) |
+
+AIS reception capability does not establish a universal exemption from voice reporting. [R3 Mandatory reporting, communications](#r3)
+
+Current call-name, watch, transfer, failure and alternative-delivery details remain subject to [G03](#g03), [G04](#g04) and [G08](#g08).
+
+## 6. Conditional and exceptional reporting
+
+These notifications are conditional. Display order is not a schedule of calls.
+
+### 6.1 Changed navigational circumstances
+
+| Item | Recorded requirement |
+| --- | --- |
+| Trigger | Whenever navigational circumstances change. [R4 Annex 2 §3.3](#r4) |
+| Information | Changed navigation circumstances, particularly defects and other circumstances under Q/R. [R4 Annex 2 §3.3](#r4) |
+| Recipient | The relevant shore station. Exact selection remains open under G05. [R4 Annex 2 §3.3](#r4) |
+| Strength | The source says should. No new formal report title or full-repeat requirement is asserted. [R4 Annex 2 §3.3](#r4) [G05](#g05). |
+
+### 6.2 Decision to use the English ITZ
+
+Notify the decision to use the English ITZ, the intended route and reasons. [R1 §3.4](#r1) [R3 Inshore traffic zones, final paragraph](#r3)
+
+Only when the master decides that circumstances warrant use of the English ITZ. Notification is not permission to breach Rule 10. [R1 §3.4](#r1) [R3 Inshore traffic zones, final paragraph](#r3)
+
+**Implementation gap:** exact current contact selection, method and timing remain [G08](#g08).
+
+## 7. Reporting locations and graphic requirements
+
+**Not approved for plotting.** Published descriptions are retained below. Missing endpoints or datum must not be inferred.
+
+### 7.1 Western reporting line
+
+Line from the Royal Sovereign light tower, through the Bassurelle Light Buoy (at its assigned position of 50°32’.8N, 000°57’.8E) to the coast of France. [R1 §3.11](#r1)
+
+**Datum:** not stated in the recorded source clause. **Plotting:** blocked pending [G02](#g02).
+
+### 7.2 Eastern reporting line
+
+Line drawn from North Foreland Light (51° 23’N; 001° 27’E) to the border between France and Belgium (51° 05’N; 002° 33’E). [R1 §3.10](#r1)
+
+**Datum:** not stated in the recorded source clause. **Plotting:** blocked pending [G02](#g02).
+
+The western reference requires confirmation following the reported removal of Royal Sovereign lighthouse topsides. [R5 deconstruction account](#r5) [R1 §3.11](#r1)
+
+That removal does not establish a replacement reporting line. No replacement position is supplied.
+
+### 7.3 Artwork requirements
+
+Keep reporting boundaries as lines. Direction arrows must not imply approved tracks. Show applicability and conditional notices beside the relevant callouts.
+
+Map extent, base material, reproduction permissions and finished artwork remain unapproved. See [G02](#g02) and [G07](#g07).
+
+## 8. References
+
+References below identify the exact provisions used by this draft. A citation is not a claim that an unretained original is held.
+
+“PDF page” refers to file-page order. Printed page numbers are retained in the underlying evidence ledger.
+
+<a id="r1"></a>
+
+### R1. MGN 364 (M+F) Amendment 2
+
+**Issuer:** Maritime and Coastguard Agency. **Publication/update:** 2024-12-03.
+
+[Original source](https://www.gov.uk/government/publications/mgn-364-mf-amendment-2-navigation-safety-traffic-separation-schemes-application-of-rule-10-and-navigation-in-the-dover-strait/mgn-364-mf-amendment-2-navigation-safety-traffic-separation-schemes-application-of-rule-10-and-navigation-in-the-dover-strait) · **Recorded access:** 2026-10-02.
+
+**Source scope:** Sections 3.1, 3.4 and 3.7-3.11
+
+**Retained:** original HTML and mechanical text extraction.
+
+Original: `sources/archive/html/SRC-005__20261002T163852Z__1cafaed9fae8.html`.
+
+Extraction: `sources/extracted/SRC-005__20261002T163852Z__1cafaed9fae8.txt`.
+
+**Limitations:** Reporting-line datum and complete western geometry not stated in the cited paragraphs; current ALRS and notices require reconciliation
+
+<a id="r2"></a>
+
+### R2. Resolution MSC.251(83): amendments to CALDOVREP report content
+
+**Issuer:** International Maritime Organization. **Publication/update:** 2007-10-08.
+
+[Original source](https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.251(83).pdf) · **Recorded access:** 2026-10-02.
+
+**Source scope:** PDF page 3 / printed Annex 29 page 2, clause 3 and Appendix; PDF page 2 for entry into force
+
+**Not retained:** consulted live in the earlier research; no original snapshot is held in this packet. See [G01](#g01).
+
+**Limitations:** Permitted retained review copy and complete later-amendment reconciliation remain open
+
+<a id="r3"></a>
+
+### R3. Dover Strait crossings: Channel VTS
+
+**Issuer:** Maritime and Coastguard Agency. **Publication/update:** 2024-02-01.
+
+[Original source](https://www.gov.uk/government/publications/dover-strait-crossings-channel-navigation-information-service/dover-strait-crossings-channel-navigation-information-service-cnis) · **Recorded access:** 2026-10-02.
+
+**Source scope:** About the Dover Strait; Mandatory reporting - CALDOVREP; Exemptions from the CALDOVREP scheme
+
+**Retained:** original HTML and mechanical text extraction.
+
+Original: `sources/archive/html/SRC-004__20261002T163852Z__2e5ab12c2a39.html`.
+
+Extraction: `sources/extracted/SRC-004__20261002T163852Z__2e5ab12c2a39.txt`.
+
+**Limitations:** Threshold wording is imprecise; report-content summary differs from the explicit IMO amendment
+
+<a id="r4"></a>
+
+### R4. Resolution MSC.85(70), Annex 2: CALDOVREP
+
+**Issuer:** International Maritime Organization. **Publication/update:** 1998-12-07.
+
+[Original source](https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.85(70).pdf) · **Recorded access:** 2026-10-02.
+
+**Source scope:** Annex 2 ONLY: PDF pages 10-13 / printed Annex 16 pages 9-12, sections 1-5
+
+**Not retained:** consulted live in the earlier research; no original snapshot is held in this packet. See [G01](#g01).
+
+**Limitations:** Annex 1 concerns US right whales and is excluded; Original section 3.2 is superseded by MSC.251(83); Old hardware and national-law descriptions are not reused as current rules; No reproducible retained original/render packet yet
+
+<a id="r5"></a>
+
+### R5. Royal Sovereign Lighthouse: stage one of deconstruction
+
+**Issuer:** Trinity House. **Publication/update:** 2023-10-01.
+
+[Original source](https://www.trinityhouse.co.uk/galleries/royal-sovereign-lighthouse-stage-one-of-deconstruction) · **Recorded access:** 2026-10-02.
+
+**Source scope:** 1 October 2023; deconstruction account
+
+**Not retained:** consulted live in the earlier research; no original snapshot is held in this packet. See [G01](#g01).
+
+**Limitations:** Confirms topsides removal, not a new reporting-line location or cancellation
+
+<a id="r6"></a>
+
+### R6. Resolution A.851(20): ship-reporting format reference
+
+**Issuer:** International Maritime Organization. **Publication/update:** 1997-11-27.
+
+[Original source](https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.851(20).pdf) · **Recorded access:** 2026-10-03.
+
+**Source scope:** Appendix paragraph 2, PDF pages 7-9, especially B/C/D/E/F/I. Generic report schedules are not adopted as CALDOVREP duties.
+
+**Not retained:** consulted live in the earlier research; no original snapshot is held in this packet. See [G01](#g01).
+
+**Limitations:** Format-reference route only. No provider implementation, nil-report convention or new final-report duty inferred.
+
+<a id="r7"></a>
+
+### R7. Port of Dover: Dover VTS
+
+**Issuer:** Dover Harbour Board. **Publication/update:** not recorded.
+
+[Original source](https://www.portofdover.com/port-information/using-the-port/port-control-vts/) · **Recorded access:** 2026-10-02.
+
+**Source scope:** VTS Information; Entry procedure
+
+**Not retained:** consulted live in the earlier research; no original snapshot is held in this packet. See [G01](#g01).
+
+**Limitations:** Port-entry source is excluded from CALDOVREP through-transit instructions
+
+<a id="r8"></a>
+
+### R8. IMO NCSR 13 Meeting summary
+
+**Issuer:** Liberian Registry (LISCR), participating delegation. **Publication/update:** 2026-07-23.
+
+[Original source](https://www.liscr.com/marketing/liscr/media/liscr/online%20library/maritime/ncsr-13-meeting-summary.pdf) · **Recorded access:** 2026-10-02.
+
+**Source scope:** PDF pages 1-2, Routeing measures and Ship Reporting System in Europe
+
+**Not retained:** consulted live in the earlier research; no original snapshot is held in this packet. See [G01](#g01).
+
+**Limitations:** Prospective change lead, not an adopted IMO instrument or an in-force reporting instruction
+
+
+## 9. Outstanding checks and editorial notes
+
+Open checks remain visible here and beside the affected instructions. None is closed by this presentation change.
+
+<a id="g01"></a>
+
+### G01. Retained originals and permitted storage for six live-only sources, including newly catalogued A.851(20).
+
+**Status:** OPEN. **Severity:** BLOCKER.
+
+Two MCA sources are held. Remaining consulted sources lack permitted retained originals. Rights and access are tracked separately.
+
+**Required action:** Confirm an authorised archive and applicable reproduction rights; capture actual bytes and renders, then issue a new packet.
+
+<a id="g02"></a>
+
+### G02. Current full reporting-line geometry, reference feature and datums
+
+**Status:** OPEN. **Severity:** BLOCKER.
+
+MGN gives a verbal western line and one assigned buoy position. Royal Sovereign topsides were removed in 2023.
+
+**Required action:** Check corrected official chart/ALRS and competent authority. Do not substitute a buoy or infer endpoints.
+
+<a id="g03"></a>
+
+### G03. Complete notice/ALRS/French-instruction reconciliation and current UK call-name confirmation
+
+**Status:** OPEN. **Severity:** BLOCKER.
+
+MCA publishes Dover Coastguard while the service is branded Channel VTS. A 2026 meeting report flags future amendments.
+
+**Required action:** Obtain current ALRS 6(1), official amendments and provider clarification where needed. Keep harbour Dover VTS separate.
+
+<a id="g04"></a>
+
+### G04. Current watch, working-channel roles, AIS acceptance, non-verbal cargo delivery implementation and failure procedures.
+
+**Status:** OPEN. **Severity:** BLOCKER.
+
+The limited confidential-cargo option is now recorded. Current delivery addresses, accepted fields and procedures remain unconfirmed.
+
+**Required action:** Acquire detailed instructions. Do not invent a universal AIS exemption or a routine exit or transfer report.
+
+<a id="g05"></a>
+
+### G05. Exact recipient, obligation strength and urgency routing for conditional changes
+
+**Status:** OPEN. **Severity:** ERROR.
+
+Base IMO instrument says should and relevant shore station; current implementation not fully reconciled.
+
+**Required action:** Check provider instructions and national duties; retain the trigger without inventing a normal second-report point.
+
+<a id="g06"></a>
+
+### G06. Full encoding, units, time standard and nil-report conventions
+
+**Status:** OPEN. **Severity:** ERROR.
+
+A.851(20), Appendix paragraph 2, is an identified format source. Current CALDOVREP implementation, amendments and nil conventions remain unchecked.
+
+**Required action:** Retain and reconcile A.851(20) and amendments with current provider/ALRS instructions. Do not import generic final-report events.
+
+<a id="g07"></a>
+
+### G07. Independent evidence review, marine approval and graphic checks
+
+**Status:** OPEN. **Severity:** BLOCKER.
+
+This is an author research sample; no independent reviewer or released artwork exists.
+
+**Required action:** Review the completed frozen packet and resolve findings before producing directional PDF prototypes.
+
+<a id="g08"></a>
+
+### G08. Current operational recipient selection, contact method and timing for the English ITZ notification.
+
+**Status:** OPEN. **Severity:** BLOCKER.
+
+MCA identifies Channel VTS and the reporting subject; the exact event-handling detail is not stated in the reviewed clause.
+
+**Required action:** Obtain current provider implementation before presenting this conditional event as a complete bridge instruction.
+
+### 9.1 Source conflicts and author dispositions
+
+**C01 · AUTHOR_RESOLVED_PENDING_REVIEW**
+
+Over 300 gross tonnes [R3](#r3)
+
+300GT and over [R1 §§3.7–3.9](#r1)
+
+300 GT inclusive [R4 Annex 2 §1](#r4)
+
+**Author disposition:** Use inclusive 300 GT threshold; specific MCA guidance agrees with the adopted participation clause. Preserve the discrepant summary.
+
+**C02 · AUTHOR_RESOLVED_PENDING_REVIEW**
+
+Shorter summary includes route information and omits amended code groups. [R3 Mandatory reporting, content list](#r3)
+
+Explicit replacement of section 3.2 and summary section 4, effective 1 May 2008. [R2 commencement paragraph; Appendix (PDF pp.2–3)](#r2)
+
+**Author disposition:** Use the 13 amended groups for this sample. Do not retain L as mandatory from the old summary. Later amendments remain G03.
+
+**C03 · AUTHOR_RESOLVED_PENDING_REVIEW**
+
+Regular scheduled ferries receive simplified treatment. [R3 Exemptions](#r3)
+
+Special arrangements need ship-specific approval by both stations. [R4 Annex 2 §3.3, Crossing Traffic](#r4)
+
+**Author disposition:** Do not turn the short summary into a blanket ferry exemption. Ferry routes are outside this through-transit sample.
+
+**C04 · AUTHOR_CORRECTED_PENDING_REVIEW**
+
+Within VHF range and before crossing. [R3 Mandatory reporting, SW paragraph](#r3)
+
+Not later than crossing. [R1 §3.10](#r1)
+
+**Author disposition:** Both source wordings are retained in the canonical SW event timing_conditions. timing_summary supplies the combined display instruction. No two-mile SW condition is inferred.
+
+### 9.2 Amendment and format follow-up
+
+The catalogued NCSR 13 account is a prospective amendment lead, not an adopted instruction. [R8 PDF pp.1–2](#r8)
+
+A.851(20) is the recorded format-reference route. Current implementation and nil conventions remain unconfirmed. [R6 Appendix §2 (PDF pp.7–9)](#r6)
+
+## Appendix A. Research and review record
+
+The operational YAML is unchanged from revision 0.2.1. This is presentation revision proforma-1.
+
+No new source acquisition, current-notice check, independent review or publication approval is claimed.
+
+The YAML, source catalogue and capture manifests remain the underlying evidence records. Reader labels R1–R8 are aliases, not replacement source IDs.
+
+| Record | Location |
+| --- | --- |
+| Detailed correction and re-proof history | [Correction report](../../../reviews/vts/reports/PILOT-01__correction_reproof_2026-10-03.md) |
+| Source catalogue | [source_catalogue.json](source_catalogue.json) |
+| Exact review inputs | [packet.json](packet.json) |
+| Presentation checks | [presentation_check.json](presentation_check.json) |
+| Prospective effort ledger | [effort.csv](effort.csv) |
+
+### A.1 Citation crosswalk
+
+| Reader reference | Source ID |
+| --- | --- |
+| R1 | SRC-005 |
+| R2 | P01-IMO251 |
+| R3 | SRC-004 |
+| R4 | P01-IMO85 |
+| R5 | P01-TH-RS |
+| R6 | P01-A851 |
+| R7 | P01-DOVER-PORT |
+| R8 | P01-LIB-NCSR13 |
+
+### A.2 Complete evidence locator ledger
+
+| Evidence ID | Reader citation | Exact recorded locator |
+| --- | --- | --- |
+| EV-IDENTITY | [R3 About the Dover Strait; How Channel VTS works](#r3) | About the Dover Strait; How Channel VTS works |
+| EV-THRESHOLD | [R1 §§3.7–3.9](#r1) | Sections 3.7-3.9 |
+| EV-THRESHOLD-IMO | [R4 Annex 2 §1](#r4) | Annex 2 section 1; PDF page 10 / printed Annex 16 page 9 |
+| EV-EXEMPT | [R3 Exemptions](#r3) | Exemptions from the CALDOVREP scheme |
+| EV-FERRY | [R4 Annex 2 §3.3, Crossing Traffic](#r4) | Annex 2 section 3.3, Crossing Traffic; PDF page 12 / printed Annex 16 page 11 |
+| EV-NE | [R1 §3.11](#r1) | Section 3.11 |
+| EV-SW | [R1 §3.10](#r1) | Section 3.10 |
+| EV-SW-TIMING | [R3 Mandatory reporting, SW paragraph](#r3) | Mandatory reporting - CALDOVREP: SW passage paragraph |
+| EV-AMENDMENT | [R2 commencement paragraph; Appendix (PDF pp.2–3)](#r2) | PDF page 2 paragraph 2; PDF page 3 clause 3 and Appendix |
+| EV-OLD-LIST | [R3 Mandatory reporting, content list](#r3) | Mandatory reporting - CALDOVREP: report-content bullets |
+| EV-CHANGE | [R4 Annex 2 §3.3](#r4) | Annex 2 section 3.3; PDF page 12 / printed Annex 16 page 11 |
+| EV-AIS | [R3 Mandatory reporting, communications](#r3) | Mandatory reporting - CALDOVREP: AIS and ALRS paragraphs |
+| EV-RS | [R5 deconstruction account](#r5) | 1 October 2023; deconstruction account |
+| EV-FUTURE | [R8 PDF pp.1–2](#r8) | PDF pages 1-2; Routeing measures / Ship Reporting System in Europe |
+| EV-PORT | [R7 VTS Information; Entry procedure](#r7) | VTS Information; Entry procedure |
+| EV-F01 | [R2 Appendix, item A (PDF p.3)](#r2) | PDF page 3 / printed Annex 29 page 2; clause 3 and Appendix, A item |
+| EV-F02 | [R2 Appendix, item B (PDF p.3)](#r2) | PDF page 3 / printed Annex 29 page 2; clause 3 and Appendix, B item |
+| EV-F03 | [R2 Appendix, item C or D (PDF p.3)](#r2) | PDF page 3 / printed Annex 29 page 2; clause 3 and Appendix, C or D item |
+| EV-F04 | [R2 Appendix, item E (PDF p.3)](#r2) | PDF page 3 / printed Annex 29 page 2; clause 3 and Appendix, E item |
+| EV-F05 | [R2 Appendix, item F (PDF p.3)](#r2) | PDF page 3 / printed Annex 29 page 2; clause 3 and Appendix, F item |
+| EV-F06 | [R2 Appendix, item G (PDF p.3)](#r2) | PDF page 3 / printed Annex 29 page 2; clause 3 and Appendix, G item |
+| EV-F07 | [R2 Appendix, item I (PDF p.3)](#r2) | PDF page 3 / printed Annex 29 page 2; clause 3 and Appendix, I item |
+| EV-F08 | [R2 Appendix, item O (PDF p.3)](#r2) | PDF page 3 / printed Annex 29 page 2; clause 3 and Appendix, O item |
+| EV-F09 | [R2 Appendix, item P (PDF p.3)](#r2) | PDF page 3 / printed Annex 29 page 2; clause 3 and Appendix, P item |
+| EV-F10 | [R2 Appendix, item Q or R (PDF p.3)](#r2) | PDF page 3 / printed Annex 29 page 2; clause 3 and Appendix, Q or R item |
+| EV-F11 | [R2 Appendix, item T (PDF p.3)](#r2) | PDF page 3 / printed Annex 29 page 2; clause 3 and Appendix, T item |
+| EV-F12 | [R2 Appendix, item W (PDF p.3)](#r2) | PDF page 3 / printed Annex 29 page 2; clause 3 and Appendix, W item |
+| EV-F13 | [R2 Appendix, item X (PDF p.3)](#r2) | PDF page 3 / printed Annex 29 page 2; clause 3 and Appendix, X item |
+| EV-CARGO-OPTION | [R4 Annex 2 §§3, 5](#r4) | Annex 2 section 3 opening paragraph, PDF page 11; section 5, PDF page 13 |
+| EV-ITZ-MGN | [R1 §3.4](#r1) | Section 3.4 |
+| EV-ITZ-DETAIL | [R3 Inshore traffic zones, final paragraph](#r3) | Inshore traffic zones, final notification paragraph |
+| EV-FORMAT-ROUTE | [R6 Appendix §2 (PDF pp.7–9)](#r6) | Appendix paragraph 2, PDF pages 7-9; read with P01-IMO85 Annex 2 section 3.1 |
+
+### A.3 Event-to-section crosswalk
+
+| Event ID | Direction | Event type | Readable location |
+| --- | --- | --- | --- |
+| NE-ENTRY | North-eastbound | ENTRY | Section 3.1 |
+| NE-CHANGE | North-eastbound | CONDITIONAL | Section 6.1 |
+| NE-ITZ-DECISION | North-eastbound | CONDITIONAL | Section 6.2 |
+| SW-ENTRY | South-westbound | ENTRY | Section 3.2 |
+| SW-CHANGE | South-westbound | CONDITIONAL | Section 6.1 |
+| SW-ITZ-DECISION | South-westbound | CONDITIONAL | Section 6.2 |
