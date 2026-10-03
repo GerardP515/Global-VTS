@@ -1,6 +1,6 @@
 # VTS five-stage correction and re-proof prompt
 
-Revision: 1.1, 3 October 2026. Includes the entry-2 presentation standard.
+Revision: 1.2, 3 October 2026. Includes entry-2 structure and the professional-1 language standard.
 Scope: one study package and its existing review findings.
 The author performs corrections, not independent release approval.
 Work against complete held sources and the current committed research revision.
@@ -16,6 +16,8 @@ Do not repair coordinates from memory or fill gaps with plausible values.
 For presentation-only work, preserve exact YAML bytes and factual meaning.
 Rewrite the entry as original explanation, not synonym substitution in source sentences.
 Keep exact codes, call signs, figures, units and conditions accurate.
+Apply the professional-language rules in section 4 of `docs/vts-production/GUIDE_PRESENTATION.md`.
+For language-only findings, cite the relevant style clause and entry location; do not invent source evidence.
 An encyclopaedic rewrite does not authorise extra local facts or remove HOLD status.
 Commit a scoped checkpoint and record research and presentation revisions separately.
 
@@ -31,6 +33,8 @@ Compare rewritten assertions semantically with YAML and source meaning, not mere
 Check that condition scope, obligation strength and event distinctions survived the rewrite.
 Review distinctive phrase overlap with source texts actually available; record the comparison scope and omissions.
 Technical labels and numerical values must not be altered to reduce similarity.
+Perform the complete professional-language pass specified in the presentation standard, section 4.6.
+Record language findings separately, including drafting commentary, stock framing, forced introductions and unnecessary repetition.
 Record new findings before making further changes.
 
 ## Stage 3: apply first re-proof findings
@@ -51,6 +55,8 @@ Verify source binding, event semantics, geometry labels and repeated communicati
 Check the complete mariner-facing entry independently of its editorial appendix.
 Material limitations remain beside affected instructions and in the operational-limitations section.
 Internal evidence IDs and archive history do not replace the entry's explanation.
+Check that language fixes have not reintroduced repetitive framing, vague terminology or commentary about the writing process.
+Do not remove a caution needed beside an independently used direction or reference table.
 Check quotations, attribution and originality findings without inventing a plagiarism scan or certification.
 Record findings separately from Stage 2.
 
@@ -59,6 +65,8 @@ Record findings separately from Stage 2.
 Recheck and apply supported final findings.
 Run available validators and record commands, counts, skipped work and limitations.
 For a final change affecting operational meaning, repeat Stage 4 before closing.
+Recheck the final prose edit and its affected citations, cross-references and warnings.
+Record the language review's actual scope and outcome separately from source and approval states.
 
 Verify unique section/reference anchors, immediate citations, clickable contents and standalone repository links.
 Reading copies may omit YAML and the editorial appendix, never operational qualifications or references.
