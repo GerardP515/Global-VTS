@@ -1,0 +1,34 @@
+{
+  "role": "AUTHOR",
+  "source_text_scopes": "As declared per source in source_catalogue.json",
+  "visual_page_checks_1_based": {
+    "P02-DK820": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "SRC-020": [
+      3,
+      13,
+      14,
+      15,
+      16
+    ],
+    "P02-IMO332REV1": [
+      2,
+      16
+    ],
+    "P02-EN820": [
+      1
+    ]
+  },
+  "method": "Web PDF page screenshots and retained local page images. Remaining source pages read only where relevant; no claim every captured render was visually checked.",
+  "independent_danish_translation_review": "NOT_PERFORMED",
+  "full_current_notices_check": "INCOMPLETE",
+  "acquisition_shell": "P02-ETR excluded from operational evidence"
+}

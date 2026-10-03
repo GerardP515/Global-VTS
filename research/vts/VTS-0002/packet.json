@@ -1,0 +1,125 @@
+{
+  "schema_version": "pilot-packet-0.1",
+  "study_id": "PILOT-02",
+  "service_ids": [
+    "VTS-0002"
+  ],
+  "research_commit": "131e5faf511178a964a690a888bb4943de4eff7c",
+  "research_revision": "0.2-author-correction",
+  "packet_revision": "P02-0.2-HOLD",
+  "packet_state": "HOLD_PENDING_CURRENCY_DURABLE_STORAGE_AND_INDEPENDENT_REVIEW",
+  "files": [
+    {
+      "path": "VTS_GUIDE_SCHEMA.md",
+      "bytes": 14347,
+      "sha256": "5e7c45bfafd0fe48e43f8bb79b5de960332c8391bb483aa096499f3345e7e5a8"
+    },
+    {
+      "path": "VTS_RESEARCH_PROMPT.md",
+      "bytes": 34749,
+      "sha256": "138d5e31a0249e3f4491c0f247fb9dbfdb99304b38f4e347433dae75fd6777a4"
+    },
+    {
+      "path": "docs/vts-production/GREAT_BELT_SCHEMA_ADDENDUM.md",
+      "bytes": 5087,
+      "sha256": "91e7a506657f0a85db2fb6ae205a822ed27a49200b01deb848b99b913bff67d0"
+    },
+    {
+      "path": "docs/vts-production/GUIDE_PRESENTATION.md",
+      "bytes": 18279,
+      "sha256": "94b65e1f71d2d3a41105f41125b15f3db4d63039c14d70b3fd3d4d024b947675"
+    },
+    {
+      "path": "research/vts/VTS-0002/assignment.json",
+      "bytes": 1618,
+      "sha256": "87774ff2fe68f7ce9dee95091dc8986c71da8389a41a7d3ef82c9b7ae440f795"
+    },
+    {
+      "path": "research/vts/VTS-0002/correction_check.json",
+      "bytes": 1975,
+      "sha256": "34fb610cfd96df9fdd0101e5ba0893fbb22d5c40965b3d4749ad1341550d563a"
+    },
+    {
+      "path": "research/vts/VTS-0002/correction_dispositions.json",
+      "bytes": 2197,
+      "sha256": "80b2a83618e03625092a853af5f53f30dc49dc031868e464fb4b8484ea63ba13"
+    },
+    {
+      "path": "research/vts/VTS-0002/correction_reproof.json",
+      "bytes": 2617,
+      "sha256": "c9d5d258c002ec2dc5424b8112cadb5601729eedf68388fc8e4f487d410c931a"
+    },
+    {
+      "path": "research/vts/VTS-0002/dossier.md",
+      "bytes": 99730,
+      "sha256": "4fec09e293317f66cb0e546573f7e78cae29367668a3f34818e65096aece3c30"
+    },
+    {
+      "path": "research/vts/VTS-0002/source_catalogue.json",
+      "bytes": 23657,
+      "sha256": "36607d3fe6cc49921271e77830eb519c667236d0faaa5f7d0873f93a5ad8d484"
+    },
+    {
+      "path": "reviews/vts/CORRECTION_REPROOF_PROMPT.md",
+      "bytes": 5968,
+      "sha256": "375addf48df5e6b409c0a07bc35eb7a0ea326c97aff6a03a74d8055946b5df6e"
+    },
+    {
+      "path": "reviews/vts/REVIEWER_PROMPT.md",
+      "bytes": 7440,
+      "sha256": "2a1c7117c99cefdb151a3a3b4f6695ca4f18c22437802ca93a9739373424c024"
+    },
+    {
+      "path": "reviews/vts/checks/great_belt_correction_check.py",
+      "bytes": 20819,
+      "sha256": "83f723812066600caa35069b66815360e9cd5a36cf5e89d4fbb0a81505c7e694"
+    },
+    {
+      "path": "reviews/vts/packets/PILOT-02__0.1__packet.json",
+      "bytes": 4010,
+      "sha256": "a49800c3144546b4a0c19af9b70e7a48cce36cf86fc3f4898f0a7c2b58a740ab"
+    },
+    {
+      "path": "reviews/vts/reports/PILOT-02__canonical_correction_2026-10-03.md",
+      "bytes": 8032,
+      "sha256": "1403ef1fd4dd2d8af733143094d3c91afe650d0717ca510ef3dc411d53bb6e5d"
+    },
+    {
+      "path": "sources/manifests/PILOT-02/additional_order_1171.json",
+      "bytes": 1335,
+      "sha256": "fe75a4ff4c11e8103850dc8c5b522d2bcd916022c07b1e4b04d6c2cdb8cdac74"
+    },
+    {
+      "path": "sources/manifests/PILOT-02/capture_result.json",
+      "bytes": 18747,
+      "sha256": "a3762ecb8f57a609ebf879cd4bb512e536a6ccd7ee7efa03eae5e077193ec621"
+    }
+  ],
+  "previous_packet_path": "reviews/vts/packets/PILOT-02__0.1__packet.json",
+  "source_stores": [
+    {
+      "artifact_id": 11270632198,
+      "run_id": 37113574518,
+      "sha256": "4208b318397f88dc54ea68d88b5973b1cf7f6fc9a9a14446f1ae5a7ab305cbc5",
+      "expires_at": "2026-11-02T09:35:58Z"
+    },
+    {
+      "artifact_id": 11271423361,
+      "run_id": 37117171014,
+      "sha256": "75a5f40bb7d4ecfab5014f7ac673a399262c877af3a10ca67fd7756a8b495dbd",
+      "expires_at": "2026-11-02T10:40:13Z"
+    }
+  ],
+  "durable_archive_approved": false,
+  "public_republication_rights": "NOT_ASSUMED",
+  "independent_review_state": "NOT_STARTED",
+  "marine_approval_record": null,
+  "publication_ready": false,
+  "assembly_utc": "2026-10-03T10:58:36.028040+00:00",
+  "limits": [
+    "Author-side correction and re-proof, not independent marine approval.",
+    "Eight open gaps remain.",
+    "Source originals remain in expiring review artefacts.",
+    "Historical 0.1 check records do not validate this new revision."
+  ]
+}

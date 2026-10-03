@@ -1,0 +1,51 @@
+{
+  "schema_version": "pilot-capture-0.1",
+  "records": [
+    {
+      "source_id": "SRC-004",
+      "study_id": "PILOT-01",
+      "service_ids": [
+        "VTS-0001"
+      ],
+      "requested_url": "https://www.gov.uk/government/publications/dover-strait-crossings-channel-navigation-information-service/dover-strait-crossings-channel-navigation-information-service-cnis",
+      "retrieved_at_utc": "2026-10-02T16:38:52+00:00",
+      "capture_status": "HELD",
+      "http_status": 200,
+      "final_url": "https://www.gov.uk/government/publications/dover-strait-crossings-channel-navigation-information-service/dover-strait-crossings-channel-navigation-information-service-cnis",
+      "original_path": "sources/archive/html/SRC-004__20261002T163852Z__2e5ab12c2a39.html",
+      "sha256": "2e5ab12c2a3968548407a567d29bac0dd28c918b8e3c18a1b4e692cba7cf3c67",
+      "bytes": 98987,
+      "text_path": "sources/extracted/SRC-004__20261002T163852Z__2e5ab12c2a39.txt",
+      "text_sha256": "88674278730a2a94579f62a01d4dd3b61a7eab527b5c781a8c939d0c3e0eef20",
+      "rights": "Open Government Licence v3.0 for MCA text; third-party artwork not approved",
+      "inspection_status": "CAPTURE_ONLY_NOT_INDEPENDENTLY_CHECKED",
+      "failure_reason": null,
+      "content_type": "text/html; charset=utf-8",
+      "snapshot_id": "SRC-004__20261002T163852Z__2e5ab12c2a39",
+      "extractor": "Python standard-library HTMLParser; scripts/pilot_channel_capture.py"
+    },
+    {
+      "source_id": "SRC-005",
+      "study_id": "PILOT-01",
+      "service_ids": [
+        "VTS-0001"
+      ],
+      "requested_url": "https://www.gov.uk/government/publications/mgn-364-mf-amendment-2-navigation-safety-traffic-separation-schemes-application-of-rule-10-and-navigation-in-the-dover-strait/mgn-364-mf-amendment-2-navigation-safety-traffic-separation-schemes-application-of-rule-10-and-navigation-in-the-dover-strait",
+      "retrieved_at_utc": "2026-10-02T16:38:52+00:00",
+      "capture_status": "HELD",
+      "http_status": 200,
+      "final_url": "https://www.gov.uk/government/publications/mgn-364-mf-amendment-2-navigation-safety-traffic-separation-schemes-application-of-rule-10-and-navigation-in-the-dover-strait/mgn-364-mf-amendment-2-navigation-safety-traffic-separation-schemes-application-of-rule-10-and-navigation-in-the-dover-strait",
+      "original_path": "sources/archive/html/SRC-005__20261002T163852Z__1cafaed9fae8.html",
+      "sha256": "1cafaed9fae8ee85176f47e9daff20411075c26c41a85fd672ece59559541409",
+      "bytes": 127272,
+      "text_path": "sources/extracted/SRC-005__20261002T163852Z__1cafaed9fae8.txt",
+      "text_sha256": "523bf2a8ec82eda007009712b2c831c9393f7907f120c0d3c88f6825c7ac53b1",
+      "rights": "Open Government Licence v3.0 for MCA text; third-party artwork not approved",
+      "inspection_status": "CAPTURE_ONLY_NOT_INDEPENDENTLY_CHECKED",
+      "failure_reason": null,
+      "content_type": "text/html; charset=utf-8",
+      "snapshot_id": "SRC-005__20261002T163852Z__1cafaed9fae8",
+      "extractor": "Python standard-library HTMLParser; scripts/pilot_channel_capture.py"
+    }
+  ]
+}

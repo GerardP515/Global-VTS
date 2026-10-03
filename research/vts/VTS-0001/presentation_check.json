@@ -1,0 +1,39 @@
+{
+  "presentation_revision": "proforma-1",
+  "canonical_yaml_sha256": "e35c68bc166249f2e5244b0bec4a9f30c82ffb084f3c8c71725e49c76ff3e5ef",
+  "directions": 2,
+  "events": 6,
+  "main_report_code_groups": 13,
+  "evidence_records": 32,
+  "bibliography_entries": 8,
+  "gaps": 8,
+  "conflicts": 4,
+  "research_state": "HOLD",
+  "publication_ready": false,
+  "source_reference_map": {
+    "SRC-005": "R1",
+    "P01-IMO251": "R2",
+    "SRC-004": "R3",
+    "P01-IMO85": "R4",
+    "P01-TH-RS": "R5",
+    "P01-A851": "R6",
+    "P01-DOVER-PORT": "R7",
+    "P01-LIB-NCSR13": "R8"
+  },
+  "checks": [
+    "YAML bytes unchanged",
+    "all evidence mapped",
+    "all citation anchors resolve",
+    "all events mapped",
+    "nine fixed sections",
+    "eight bibliography records"
+  ],
+  "limits": [
+    "Presentation transformation only",
+    "No fresh operational fact check",
+    "No independent or marine approval"
+  ],
+  "input_dossier_sha256": "5ac557049d0e7e2d644fc25167206b64831351ebd1aafbbb6f595ccf7eec0341",
+  "output_dossier_sha256": "566b107d4707713bad252aec46f1aa5a2231ae23cb2d56895bb3e30a9e2ccc4e",
+  "input_commit": "b175a412fc2c118a3d4f1c266e667e92984d5571"
+}

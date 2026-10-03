@@ -1,0 +1,17 @@
+{
+  "before_dossier_sha256": "c87a00b6f8a9f6df571a1cf561f402e389e1f7004ecd2138868aca854f70c6be",
+  "after_dossier_sha256": "26d21fe9344ce6c95b6d50176fa6ccd39544f9ecd5c66ef05b5ef2ae6b075e37",
+  "change_utc": "2026-10-03T09:51:18.053051+00:00",
+  "changes": [
+    "Shortened one 21-word sentence without changing timing",
+    "Distinguished author-translated event wording from verbatim source text",
+    "Added presentation revision; improved source-reference punctuation"
+  ],
+  "operational_values_changed": false,
+  "second_reproof": {
+    "finding": "The word directs could overstate the routeing recommendation.",
+    "disposition": "ACCEPT: use recommends; published numeric condition unchanged.",
+    "after_dossier_sha256": "f4b13b90907b71d624f3d5b401b2fe157dd2a39aebb45806406c03358c83042e",
+    "utc": "2026-10-03T09:52:14.481014+00:00"
+  }
+}

@@ -1,0 +1,34 @@
+name: Channel first-reproof refinements
+on:
+  push:
+    branches: ['review/channel-vts-qc-20261003']
+    paths: ['.github/workflows/channel-pilot-reproof-refinements.yml']
+permissions:
+  contents: write
+jobs:
+  refine:
+    if: github.repository == 'GerardP515/Global-VTS'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          ref: review/channel-vts-qc-20261003
+      - run: python3 -m pip install PyYAML==6.0.2
+      - run: python3 reviews/vts/corrections/apply_channel_021.py
+      - name: Commit only the exact refined dossier
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          import subprocess
+          changed=set(subprocess.check_output(['git','diff','--name-only'],text=True).splitlines())
+          if changed != {'research/vts/VTS-0001/dossier.md'}:
+              raise SystemExit('Unexpected changed paths: '+repr(changed))
+          PY
+          git config user.name 'VTS author reproof checkpoint'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add research/vts/VTS-0001/dossier.md
+          git commit -m 'Apply Channel first-reproof refinements 0.2.1; retain HOLD'
+          git push origin HEAD:refs/heads/review/channel-vts-qc-20261003
+          git rev-parse HEAD

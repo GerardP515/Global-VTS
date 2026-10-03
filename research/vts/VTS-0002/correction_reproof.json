@@ -1,0 +1,75 @@
+{
+  "role": "AUTHOR",
+  "recorded_utc": "2026-10-03T10:48:46.762008+00:00",
+  "input_review": "PILOT-02__fact_style_review_2026-10-03.md",
+  "first_pass": {
+    "scope": "All nine reader sections, canonical updates, original field and boundary values, new source bindings, F01-F10 and L01-L05",
+    "findings": [
+      "Order 1171 summary/table W inconsistency retained alongside the explicit Order 820 procedure.",
+      "Dangling EV-DELIVERY field path corrected to actual reporting-policy fields."
+    ],
+    "disposition": "Applied before the committed local correction snapshot"
+  },
+  "local_snapshot_before_second_pass": "2545c56df688eac463ac7706ff8bd7eadd0a69c7",
+  "second_pass": {
+    "scope": "Complete corrected reader, YAML/evidence mappings, both directions, all 15 field groups, ten coordinate rows, eight gaps, references, language and source qualifiers",
+    "result": "No further operational correction identified in this bounded pass; metadata cutoff refreshed."
+  },
+  "source_examination": {
+    "existing_bundle_manifest_files_verified": 88,
+    "additional_original": "P02-DK1171__20261003T104013Z__d7eeeb09921e",
+    "additional_original_sha256": "d7eeeb09921ed8d53efc666ef0a1ceed60d148ffc8f8c64c8438a26ae69d8db0",
+    "online_reopened": [
+      "Danish Order 820",
+      "Danish Order 1171",
+      "Provider VTS overview",
+      "Provider BELTREP page",
+      "MSC.332(90)",
+      "MSC.332(90)/Rev.1"
+    ],
+    "visual_pages_pdf_order_1_based": {
+      "P02-DK820": [
+        2,
+        3,
+        6,
+        7
+      ],
+      "P02-DK1171": [
+        1,
+        2,
+        7,
+        9
+      ],
+      "SRC-020": [
+        7,
+        8,
+        14,
+        15,
+        16
+      ],
+      "P02-IMO332REV1": [
+        2,
+        16
+      ]
+    },
+    "retained_comparison_sources": [
+      "P02-EN820 section 10(3)",
+      "SRC-039 section 7.3"
+    ]
+  },
+  "language_review": {
+    "complete_reader_read": true,
+    "drafting_commentary_reduced": true,
+    "numerical_qualifications_retained": true,
+    "no_authored_prose_sentences_over_20_words_under_recorded_check": true,
+    "tables_bibliography_metadata_excluded_from_sentence_count": true,
+    "new_plagiarism_scan": "NOT_PERFORMED"
+  },
+  "limitations": [
+    "Same-author review, not an independent review.",
+    "Complete national amendment chain, ALRS and current notices remain incomplete.",
+    "No authority resolution of ETR timing, exact-20m clauses, anchoring implementation or position encoding.",
+    "No durable source archive, marine approval, plotting approval or publication approval."
+  ],
+  "publication_ready": false
+}

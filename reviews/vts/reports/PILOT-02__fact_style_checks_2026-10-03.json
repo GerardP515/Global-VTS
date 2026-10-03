@@ -1,0 +1,51 @@
+{
+  "study_id": "PILOT-02",
+  "review_date": "2026-10-03",
+  "review_role": "Author-side follow-up in the same conversation; not independent",
+  "full_package_verdict": "INCOMPLETE_REVIEW",
+  "findings": {"ERROR": 1, "OMISSION": 6, "CHALLENGE": 2, "NOTE": 1, "language_findings": 5},
+  "input_repository_commit": "2fd660150e094240a29098aaa97cee05c44cef05",
+  "input_reading_copy_sha256": "f9d4b1bb2c23f8ba8776744d05839896f6f06db6e2797e9b1f37ef6138e3787a",
+  "proposed_reading_copy_sha256": "d979e562c63a90113155df7b6fb4c2a9d4462bcea6b2de1e62dcfdfd803bd5ef",
+  "proposed_reading_copy": "Great_Belt_VTS_Encyclopaedic_Entry_v2_Proposed.md",
+  "proposal_location": "Conversation review attachment; not a replacement canonical service dossier",
+  "source_bundle_files_verified": 88,
+  "source_hash_failures": [],
+  "source_acquisition_this_review": "No new retained original. Order 1171 was consulted live and requires a new source packet.",
+  "reader_checks": {
+    "result": "PASS",
+    "sections": 9,
+    "report_code_groups": 15,
+    "coordinate_rows_unchanged": 10,
+    "bibliography_records": 8,
+    "unique_anchors": 17,
+    "internal_links": 147,
+    "unresolved_internal_targets": 0,
+    "prose_sentences_over_20_words": [],
+    "sentence_check_exclusions": "Tables, bibliography, headings and metadata",
+    "negative_variants_rejected": [
+      "A/H mandatory wording lost",
+      "ETR arrival deadline changed to departure",
+      "West Bridge central width altered",
+      "Provider speed changed to inclusive",
+      "East Bridge exact-boundary issue hidden",
+      "New source anchor broken",
+      "Research HOLD removed",
+      "Plotting limitation removed"
+    ],
+    "negative_variant_count": 8,
+    "execution": "Local Python against mounted reading copies; no remote workflow claimed"
+  },
+  "scope_limits": [
+    "Reader structure, specified qualifications, source comparisons and professional language; no whole-package approval",
+    "Canonical YAML and packet unchanged; no new canonical validator run",
+    "Earlier 20 pilot-negative tests and 18 repository unit tests not rerun for this proposal",
+    "No new whole-web plagiarism or originality scan",
+    "ETR timing interaction, exact-20 m interpretation, anchoring implementation and position encoding remain unresolved",
+    "Complete current-notice chain, durable source storage and independent/marine/artwork approval remain outstanding"
+  ],
+  "publication_ready": false,
+  "canonical_dossier_changed": false,
+  "merge_authorised": false,
+  "release_authorised": false
+}

@@ -1,0 +1,32 @@
+{
+  "record_type": "source_retention_rights_check",
+  "study_id": "PILOT-01",
+  "checked_date": "2026-10-03",
+  "role": "Author-side retention assessment; not legal advice or evidence of publisher permission",
+  "repository_visibility": "public",
+  "purpose": "Commercial guide development",
+  "held_source_ids": [
+    "SRC-004",
+    "SRC-005"
+  ],
+  "held_basis": "MCA pages state Open Government Licence v3.0; identified third-party material is excluded.",
+  "pending_original_source_ids": [
+    "P01-IMO85",
+    "P01-IMO251",
+    "P01-TH-RS",
+    "P01-LIB-NCSR13",
+    "P01-DOVER-PORT",
+    "P01-A851"
+  ],
+  "policy_urls": [
+    "https://www.imo.org/en/about/pages/imo-website-terms-and-conditions-of-use.aspx",
+    "https://www.imo.org/en/publications/pages/permissionrequests.aspx",
+    "https://wwwcdn.imo.org/localresources/en/OurWork/Documents/POLICY%20ON%20INTELLECTUAL%20PROPERTY%20RIGHTS%20FOR%20THE%20IMO.pdf"
+  ],
+  "finding": "The public website terms do not establish permission to place complete IMO originals and derivatives in this commercial-development public archive. Any publisher-specific licence has not been supplied or confirmed.",
+  "action": "Confirm applicable publisher permission and an authorised review store; retain precise access references until the approved copies can be archived.",
+  "other_sources": "Permission to redistribute the other unretained originals has not been established; this is not a claim that such permission cannot be obtained.",
+  "new_source_originals_captured": 0,
+  "original_snapshots_replaced": false,
+  "limitations": "Live source comparison supports this author correction but is not an exact frozen-source review. Copyright and source currency are separate checks."
+}

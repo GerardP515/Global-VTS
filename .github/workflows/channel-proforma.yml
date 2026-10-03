@@ -1,0 +1,71 @@
+name: Channel guide pro forma
+
+on:
+  push:
+    branches: ['review/channel-vts-qc-20261003']
+    paths: ['.github/workflows/channel-proforma.yml']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: channel-proforma-one-shot
+  cancel-in-progress: false
+
+jobs:
+  present:
+    if: github.repository == 'GerardP515/Global-VTS'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          ref: ${{ github.sha }}
+          persist-credentials: true
+      - name: Install existing YAML dependency
+        run: python3 -m pip install PyYAML==6.0.2
+      - name: Check authorised input and apply presentation only
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          from hashlib import sha256
+          p=Path('research/vts/VTS-0001/dossier.md')
+          assert sha256(p.read_bytes()).hexdigest() == '5ac557049d0e7e2d644fc25167206b64831351ebd1aafbbb6f595ccf7eec0341', 'Input changed; do not overwrite'
+          PY
+          python3 scripts/render_channel_proforma.py --apply
+          git config user.name 'VTS presentation checkpoint'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add research/vts/VTS-0001/dossier.md research/vts/VTS-0001/presentation_check.json
+          git commit -m 'Apply referenced Channel VTS pro forma; preserve canonical YAML and HOLD'
+      - name: Rebuild packet and produce reading exports
+        run: |
+          python3 scripts/render_channel_proforma.py --packet --export-dir "$RUNNER_TEMP/channel-proforma"
+          python3 scripts/render_channel_proforma.py > "$RUNNER_TEMP/channel-proforma/presentation-validation.json"
+      - name: Check draft and preserved release blockers
+        run: |
+          python3 scripts/validate_channel_pilot_v2.py > "$RUNNER_TEMP/channel-proforma/draft-validation.json"
+          set +e
+          python3 scripts/validate_channel_pilot_v2.py --release > "$RUNNER_TEMP/channel-proforma/release-check.json"
+          status=$?
+          set -e
+          test "$status" = 2
+          python3 scripts/validate_registers.py > "$RUNNER_TEMP/channel-proforma/register-validation.txt"
+          python3 -m unittest discover -s tests -v > "$RUNNER_TEMP/channel-proforma/unit-tests.txt" 2>&1
+      - name: Check change scope and publish only this review branch
+        run: |
+          python3 - <<'PY'
+          import os,subprocess
+          allowed={'research/vts/VTS-0001/dossier.md','research/vts/VTS-0001/presentation_check.json','research/vts/VTS-0001/packet.json','research/vts/STATUS.csv'}
+          changed=set(subprocess.check_output(['git','diff','--name-only',os.environ['GITHUB_SHA']],text=True).splitlines())
+          assert changed <= allowed, changed-allowed
+          PY
+          git add research/vts/VTS-0001/packet.json research/vts/STATUS.csv
+          git commit -m 'Pin presentation packet and retain Channel research limitations'
+          git push origin HEAD:review/channel-vts-qc-20261003
+          git rev-parse HEAD > "$RUNNER_TEMP/channel-proforma/commit.txt"
+      - name: Export checked Markdown and validation records
+        uses: actions/upload-artifact@v4
+        with:
+          name: channel-vts-proforma
+          path: ${{ runner.temp }}/channel-proforma/
+          retention-days: 7

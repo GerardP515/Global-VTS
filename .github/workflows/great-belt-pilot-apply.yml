@@ -1,0 +1,128 @@
+name: Great Belt pilot apply and check
+on:
+  push:
+    branches: ['review/pilot-great-belt-20261003']
+    paths: ['.github/workflows/great-belt-pilot-apply.yml']
+permissions:
+  contents: write
+  actions: read
+concurrency:
+  group: great-belt-pilot-apply
+  cancel-in-progress: false
+jobs:
+  apply:
+    if: github.repository == 'GerardP515/Global-VTS'
+    runs-on: ubuntu-latest
+    timeout-minutes: 7
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          ref: ${{ github.sha }}
+          persist-credentials: true
+      - name: Decode and verify the bounded author submission
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import base64, hashlib, json, lzma
+          def sha(b): return hashlib.sha256(b).hexdigest()
+          prefix='reviews/vts/inputs/PILOT-02__author_submission.part'
+          parts=[Path(prefix+str(i)+'.b64') for i in range(1,5)]
+          encoded=''.join(p.read_text().strip() for p in parts)
+          compressed=base64.b64decode(encoded,validate=True)
+          assert sha(compressed)=='45e73212f9fcb0ad3b43d82c22d1631bcc615948c890c9767fdb4062f5df3387', 'Transfer bytes changed'
+          decoder=lzma.LZMADecompressor(memlimit=256*1024*1024)
+          raw=decoder.decompress(compressed,max_length=2_000_000)
+          assert decoder.eof and not decoder.unused_data, 'Unexpected compressed payload'
+          assert sha(raw)=='302c0c5ec4725b9101fe224650bc2f1963297a071bdcfb97f3003ecb8a80f6b1', 'Decoded package changed'
+          package=json.loads(raw)
+          allowed={'reviews/vts/reports/PILOT-02__workflow_test_2026-10-03.md','reviews/vts/checks/great_belt_pilot_check.py','research/vts/VTS-0002/author_check.json','research/vts/VTS-0002/assignment.json','research/vts/VTS-0002/dossier.md','research/vts/VTS-0002/effort.csv','research/vts/VTS-0002/source_catalogue.json','research/vts/VTS-0002/inspection_record.json','research/vts/VTS-0002/reproof_changes.json','research/vts/VTS-0002/language_originality_check.json','sources/manifests/PILOT-02/capture_result.json','docs/vts-production/GREAT_BELT_SCHEMA_ADDENDUM.md'}
+          assert set(package)==allowed
+          seed=Path('research/vts/VTS-0002/dossier.md')
+          assert sha(seed.read_bytes())=='3c35670dd7f01750e2b71f8a7a4ce402133a4a0979d92586325bb84357bcabaf', 'Seed changed; stop before overwrite'
+          for name,text in package.items():
+              p=Path(name)
+              assert isinstance(text,str) and not p.is_symlink()
+              assert name=='research/vts/VTS-0002/dossier.md' or not p.exists(), 'Unexpected existing file'
+          for name,text in package.items():
+              p=Path(name); p.parent.mkdir(parents=True,exist_ok=True); p.write_bytes(text.encode('utf-8'))
+          assert sha(seed.read_bytes())=='f4b13b90907b71d624f3d5b401b2fe157dd2a39aebb45806406c03358c83042e'
+          for p in parts:p.unlink()
+          print('Twelve exact authored files applied; temporary transfer parts removed.')
+          PY
+      - name: Retrieve the existing fixed source artefact
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p "$RUNNER_TEMP/great-belt-checks"
+          gh api /repos/GerardP515/Global-VTS/actions/artifacts/11270632198/zip > "$RUNNER_TEMP/source-bundle.zip"
+          python3 - <<'PY'
+          from pathlib import Path
+          import hashlib, os, zipfile
+          root=Path(os.environ['RUNNER_TEMP']); z=root/'source-bundle.zip'
+          assert hashlib.sha256(z.read_bytes()).hexdigest()=='4208b318397f88dc54ea68d88b5973b1cf7f6fc9a9a14446f1ae5a7ab305cbc5'
+          with zipfile.ZipFile(z) as archive:
+              for item in archive.infolist():
+                  p=Path(item.filename)
+                  assert not p.is_absolute() and '..' not in p.parts
+              archive.extractall(root/'great-belt-sources')
+          PY
+      - name: Run pilot and existing repository checks
+        run: |
+          python3 -m pip install PyYAML==6.0.2
+          python3 reviews/vts/checks/great_belt_pilot_check.py --sources "$RUNNER_TEMP/great-belt-sources" --output research/vts/VTS-0002/author_check.json > "$RUNNER_TEMP/great-belt-checks/pilot-check.json"
+          set +e
+          python3 reviews/vts/checks/great_belt_pilot_check.py --sources "$RUNNER_TEMP/great-belt-sources" --release > "$RUNNER_TEMP/great-belt-checks/release-check.json"
+          status=$?
+          set -e
+          test "$status" = 2
+          python3 scripts/validate_registers.py > "$RUNNER_TEMP/great-belt-checks/register-validation.txt"
+          python3 -m unittest discover -s tests -v > "$RUNNER_TEMP/great-belt-checks/unit-tests.txt" 2>&1
+      - name: Commit the checked research and assemble its exact packet
+        run: |
+          git config user.name 'VTS pilot research checkpoint'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add research/vts/VTS-0002 docs/vts-production/GREAT_BELT_SCHEMA_ADDENDUM.md sources/manifests/PILOT-02 reviews/vts/checks/great_belt_pilot_check.py reviews/vts/reports/PILOT-02__workflow_test_2026-10-03.md reviews/vts/inputs/
+          git commit -m 'Add Great Belt encyclopaedic dossier and tested author record; retain six HOLD gaps'
+          python3 - <<'PY'
+          from pathlib import Path
+          import csv, datetime as dt, hashlib, json, os, subprocess
+          root=Path('.'); folder=root/'research/vts/VTS-0002'; out=Path(os.environ['RUNNER_TEMP'])/'great-belt-checks'
+          commit=subprocess.check_output(['git','rev-parse','HEAD'],text=True).strip()
+          scope=list(folder.glob('*'))+[root/'sources/manifests/PILOT-02/capture_result.json',root/'reviews/vts/checks/great_belt_pilot_check.py',root/'reviews/vts/reports/PILOT-02__workflow_test_2026-10-03.md',root/'docs/vts-production/GREAT_BELT_SCHEMA_ADDENDUM.md',root/'VTS_RESEARCH_PROMPT.md',root/'VTS_GUIDE_SCHEMA.md',root/'docs/vts-production/GUIDE_PRESENTATION.md',root/'reviews/vts/REVIEWER_PROMPT.md',root/'reviews/vts/CORRECTION_REPROOF_PROMPT.md']
+          manifest=[{'path':p.as_posix(),'bytes':p.stat().st_size,'sha256':hashlib.sha256(p.read_bytes()).hexdigest()} for p in sorted(scope) if p.is_file()]
+          packet={'schema_version':'pilot-packet-0.1','study_id':'PILOT-02','service_ids':['VTS-0002'],'research_commit':commit,'packet_revision':'P02-0.1-HOLD','packet_state':'HOLD_PENDING_CURRENCY_DURABLE_STORAGE_AND_INDEPENDENT_REVIEW','files':manifest,'source_store':{'kind':'GitHub Actions review artefact','artifact_id':11270632198,'run_id':37113574518,'sha256':'4208b318397f88dc54ea68d88b5973b1cf7f6fc9a9a14446f1ae5a7ab305cbc5','expires_at':'2026-11-02T09:35:58Z','durable_archive_approved':False,'public_republication_rights':'NOT_ASSUMED'},'independent_review_state':'NOT_STARTED','marine_approval_record':None,'publication_ready':False,'assembly_utc':dt.datetime.now(dt.timezone.utc).isoformat(),'limits':['Pilot-specific structural checks are not source-currency or independent marine approval.','Six open gaps remain.','Temporary source archive must be transferred to an authorised durable store.']}
+          (folder/'packet.json').write_text(json.dumps(packet,indent=2)+'\n')
+          p=root/'research/vts/STATUS.csv'
+          with p.open(newline='') as f: reader=csv.DictReader(f); fields=reader.fieldnames; rows=list(reader)
+          other={r['study_id']:dict(r) for r in rows if r['study_id']!='PILOT-02'}
+          matches=[r for r in rows if r['study_id']=='PILOT-02']; assert len(matches)==1
+          matches[0].update(assignment_status='AUTHORISED_WORKFLOW_TEST',research_state='HOLD',research_commit=commit,source_packet_revision='P02-0.1-HOLD',notes='Entry-2/professional-1 Great Belt author draft; six gaps; 53 evidence records; future 1 December 2026 instrument separated; no independent approval or PDF.')
+          with p.open('w',newline='') as f: writer=csv.DictWriter(f,fieldnames=fields,lineterminator='\n'); writer.writeheader(); writer.writerows(rows)
+          assert {r['study_id']:dict(r) for r in rows if r['study_id']!='PILOT-02'}==other
+          record={'executed_utc':dt.datetime.now(dt.timezone.utc).isoformat(),'workflow_run':os.environ['GITHUB_RUN_ID'],'checkout':os.environ['GITHUB_SHA'],'research_commit':commit,'pilot_result':json.loads((out/'pilot-check.json').read_text()),'release_exit':2,'register_validation':'PASS','unit_tests_log':(out/'unit-tests.txt').read_text(),'independent_review':'NOT_STARTED','publication_ready':False}
+          (folder/'remote_check.json').write_text(json.dumps(record,indent=2)+'\n')
+          for name in ['packet.json','remote_check.json']:(out/name).write_bytes((folder/name).read_bytes())
+          raw=(folder/'dossier.md').read_text(); body=raw.split('---\n',2)[2].lstrip('\n').split('## Appendix A.')[0].rstrip()+'\n'
+          (out/'Great_Belt_VTS_Encyclopaedic_Entry_v1.md').write_bytes(body.encode())
+          (out/'Great_Belt_VTS_Workflow_Test.md').write_bytes((root/'reviews/vts/reports/PILOT-02__workflow_test_2026-10-03.md').read_bytes())
+          (out/'research-commit.txt').write_text(commit+'\n')
+          PY
+          git add research/vts/STATUS.csv research/vts/VTS-0002/packet.json research/vts/VTS-0002/remote_check.json
+          git commit -m 'Pin Great Belt review packet and remote checks; update PILOT-02 only'
+      - name: Verify change scope and push only this review branch
+        run: |
+          python3 - <<'PY'
+          import os, subprocess
+          changed=set(subprocess.check_output(['git','diff','--name-only',os.environ['GITHUB_SHA'],'HEAD'],text=True).splitlines())
+          exact={'research/vts/STATUS.csv','sources/manifests/PILOT-02/capture_result.json','reviews/vts/checks/great_belt_pilot_check.py','reviews/vts/reports/PILOT-02__workflow_test_2026-10-03.md','docs/vts-production/GREAT_BELT_SCHEMA_ADDENDUM.md'}
+          assert all(p in exact or p.startswith('research/vts/VTS-0002/') or p.startswith('reviews/vts/inputs/PILOT-02__author_submission.part') for p in changed),changed
+          PY
+          git push origin HEAD:review/pilot-great-belt-20261003
+          git rev-parse HEAD > "$RUNNER_TEMP/great-belt-checks/commit.txt"
+      - name: Export guide and executed check records
+        uses: actions/upload-artifact@v4
+        with:
+          name: great-belt-pilot-guide-and-checks
+          path: ${{ runner.temp }}/great-belt-checks/
+          retention-days: 30
+          if-no-files-found: error
