@@ -59,7 +59,7 @@ communications:
   call_sign: Gris-Nez Traffic
   communication_method: VHF voice
   calling_channel: '13'
-  working_channel: '13'
+  working_channel: null
   listening_watch: null
   alternative_method: null
   evidence_ids:
@@ -67,12 +67,16 @@ communications:
   - EV-CARGO-OPTION
   delivery_option_ids:
   - OPT-CONFIDENTIAL-CARGO
+  gap_ids:
+  - G04
+  channel_role_note: Calling channel retained from MGN 364 sections 3.10-3.11. A separate working-channel assignment
+    is not asserted.
 - contact_id: COM-DOVER
   recipient: Dover MRCC
   call_sign: Dover Coastguard
   communication_method: VHF voice
   calling_channel: '11'
-  working_channel: '11'
+  working_channel: null
   listening_watch: null
   alternative_method: null
   evidence_ids:
@@ -80,6 +84,10 @@ communications:
   - EV-CARGO-OPTION
   delivery_option_ids:
   - OPT-CONFIDENTIAL-CARGO
+  gap_ids:
+  - G04
+  channel_role_note: Calling channel retained from MGN 364 sections 3.10-3.11. A separate working-channel assignment
+    is not asserted.
 - contact_id: COM-CHANNEL-ITZ
   recipient: Channel VTS
   call_sign: null
@@ -797,6 +805,8 @@ gaps:
   affected_field_paths:
   - communications[*].listening_watch
   - communications[*].alternative_method
+  - communications[COM-GRISNEZ].working_channel
+  - communications[COM-DOVER].working_channel
   missing_information: Current watch, working-channel roles, AIS acceptance, non-verbal cargo delivery implementation
     and failure procedures.
   reason: The limited confidential-cargo option is now recorded. Current delivery addresses, accepted fields and
@@ -933,7 +943,7 @@ assurance:
   artwork_check_record: null
   release_record: null
 production:
-  research_revision: 0.2.0-author-correction
+  research_revision: 0.2.1-author-correction
   schema_revision: 1.0-draft+channel.1
   style_sheet_revision: null
   effort_record: effort.csv
@@ -975,7 +985,7 @@ scope_exclusions:
 
 # Channel VTS / CALDOVREP
 
-**Research correction 0.2.0 | 3 October 2026 | HOLD: not for navigation or publication**
+**Research correction 0.2.1 | 3 October 2026 | HOLD: not for navigation or publication**
 
 ## 1. Scope
 
@@ -990,10 +1000,10 @@ Port of Dover's harbour VTS is a different service. Its port-entry procedures ar
 
 These are published instructions recorded for research, pending the holds below. This is not a bridge-use reporting card.
 
-| Direction | Canonical entry timing | Published recipient / calling channel | Evidence |
-|---|---|---|---|
-| North-eastbound | two (2) nautical miles before crossing | Gris-Nez Traffic / VHF 13 | EV-NE, EV-THRESHOLD, EV-AMENDMENT, EV-EXEMPT |
-| South-westbound | Within VHF range of North Foreland and before the eastern reporting line; MGN states no later than crossing. | Dover Coastguard / VHF 11 | EV-SW, EV-THRESHOLD, EV-AMENDMENT, EV-EXEMPT, EV-SW-TIMING |
+| Direction | Reporting boundary | Canonical entry timing | Published recipient / calling channel | Evidence |
+|---|---|---|---|---|
+| North-eastbound | Western reporting line | two (2) nautical miles before crossing | Gris-Nez Traffic / VHF 13 | EV-NE, EV-THRESHOLD, EV-AMENDMENT, EV-EXEMPT |
+| South-westbound | Eastern reporting line | Within VHF range of North Foreland and before the eastern reporting line; MGN states no later than crossing. | Dover Coastguard / VHF 11 | EV-SW, EV-THRESHOLD, EV-AMENDMENT, EV-EXEMPT, EV-SW-TIMING |
 
 Each entry event links to the CALDOVREP report type in YAML.
 The NE two-mile trigger must not be copied to SW traffic.
@@ -1068,6 +1078,7 @@ It is a prospective change lead, not authority to add new reporting duties now.
 [P01-LIB-NCSR13, PDF pages 1-2, Routeing measures / Ship Reporting System in Europe]
 
 A.851(20) has been catalogued as the format-source route for G06; no encoded example is claimed.
+Calling channels are retained; separate working-channel assignments remain unknown under G04.
 Current ALRS, the full UKHO/French notices chain and current call-name convention require reconciliation before release.
 No claim is made that all applicable reporting requirements have been exhausted.
 
@@ -1077,7 +1088,7 @@ Four author dispositions address the threshold, amended report content, ferry tr
 Eight open gaps remain in YAML, covering retained evidence, geometry, notices, communications, conditional updates, formatting and approval.
 
 HOLD is a publication-research state. It does not change the existing 76-service inventory.
-The correction pass addresses QA-01 to QA-07 without closing the remaining evidence or release gates.
+The correction pass addresses QA-01 to QA-07 and records first-reproof refinements RR-01 to RR-03 without closing the remaining evidence or release gates.
 A complete retained source packet and independent evidence/marine review remain necessary before approved directional PDF production.
 
 ## 8. Sources and records
