@@ -1,0 +1,25 @@
+name: Channel pilot follow-up QA
+
+on:
+  push:
+    branches: ['review/channel-vts-qc-20261003']
+    paths:
+      - 'reviews/vts/checks/channel_pilot_qc_20261003.py'
+      - '.github/workflows/channel-pilot-qc-20261003.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  review-only:
+    if: github.repository == 'GerardP515/Global-VTS'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          persist-credentials: false
+      - name: Install the existing pilot parser version
+        run: python3 -m pip install PyYAML==6.0.2
+      - name: Check frozen input, packet hashes and validator coverage
+        run: python3 reviews/vts/checks/channel_pilot_qc_20261003.py
