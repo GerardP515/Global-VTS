@@ -344,6 +344,32 @@
       "archive_note": "Exact file in source artefact11270632198 and localreview workspace; notcommittedaspublicoriginal",
       "translation_note": null,
       "semantic_capture_state": "APPLICATION_SHELL_NOT_OPERATIONAL_SOURCE"
+    },
+    {
+      "source_id": "P02-DK1171",
+      "title": "Bekendtgørelse om indberetning af oplysninger om farligt gods via skibsmeldesystemet BELTREP",
+      "issuer": "Danish Ministry of the Environment",
+      "publication_or_adoption_date": "2013-10-03",
+      "effective_from": "2013-10-11",
+      "requested_url": "https://www.retsinformation.dk/eli/lta/2013/1171/pdf",
+      "final_url": "https://www.retsinformation.dk/eli/lta/2013/1171/pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "started_utc": "2026-10-03T10:40:12.512585+00:00",
+      "completed_utc": "2026-10-03T10:40:13.105420+00:00",
+      "capture_state": "HELD_TEMPORARY_REVIEW_ARTEFACT",
+      "snapshot_id": "P02-DK1171__20261003T104013Z__d7eeeb09921e",
+      "original_path": "P02-DK1171__20261003T104013Z__d7eeeb09921e.pdf",
+      "original_sha256": "d7eeeb09921ed8d53efc666ef0a1ceed60d148ffc8f8c64c8438a26ae69d8db0",
+      "original_bytes": 269617,
+      "source_artifact_id": 11271423361,
+      "source_artifact_expires_at": "2026-11-02T10:40:13Z",
+      "public_original_archive_path": null,
+      "public_republication_rights": "NOT_ASSESSED_NO_PUBLIC_REPOSITORY_COPY",
+      "usable_operational_content": true,
+      "inspection_role": "AUTHOR",
+      "inspection_scope": "Sections 1, 4-5, 8 and 10; Annex 4 including C, P, T and W summary/table differences",
+      "currency_state": "COMPLETE_AMENDMENT_CHAIN_NOT_VERIFIED"
     }
   ],
   "source_id_policy": "ReuseexistingSRCIDs;P02identifierslocalpending shared-registerreconciliation",
@@ -354,10 +380,29 @@
     "expires_at": "2026-11-02T09:35:58Z"
   },
   "counts": {
-    "captured_responses": 9,
-    "usable_document_responses": 8,
+    "captured_responses": 10,
+    "substantive_sources": 9,
     "application_shells": 1
   },
   "full_copy_rights": "Not cleared for wholesale public repository republication. Danish statutory text treated as official legal text; embedded charts not assumed free for detached reuse.",
-  "ancillary_research": "Danish Copyright Act1093/2023§9 checked live for official-text/independent-contribution distinction. No original captured for that ancillary question. Currentlawhistoryandfullrightsreviewnotclaimed."
+  "ancillary_research": "Danish Copyright Act1093/2023§9 checked live for official-text/independent-contribution distinction. No original captured for that ancillary question. Currentlawhistoryandfullrightsreviewnotclaimed.",
+  "additional_artifacts": [
+    {
+      "artifact_id": 11271423361,
+      "workflow_run": 37117171014,
+      "zip_sha256": "75a5f40bb7d4ecfab5014f7ac673a399262c877af3a10ca67fd7756a8b495dbd",
+      "expires_at": "2026-11-02T10:40:13Z",
+      "role": "Additional original source and exact pre-correction repository"
+    }
+  ],
+  "reader_reference_map": {
+    "R1": "P02-DK820",
+    "R2": "SRC-020",
+    "R3": "SRC-008",
+    "R4": "P02-DMA-VTS",
+    "R5": "SRC-039",
+    "R6": "P02-IMO332REV1",
+    "R7": "SRC-015",
+    "R8": "P02-DK1171"
+  }
 }

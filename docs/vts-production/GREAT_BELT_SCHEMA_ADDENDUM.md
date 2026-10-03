@@ -58,3 +58,22 @@ The entry carries a reassessment deadline, not automatic approval or scheduled b
 It checks selected invariants, relationships, formatting, negative cases and threshold/date boundaries.
 It does not prove every claim, independently interpret Danish law or certify current instructions.
 Source and publication holds remain in force.
+
+## Correction revision: 1.0-draft+greatbelt.2
+
+Recorded 3 October 2026. This extends only the Great Belt pilot.
+
+- `report_delivery_options[*].mandatory_identifiers`: A/H are mandatory when the optional advance method is used.
+- `reporting_policy.etr`: conditional arrival deadline, recommendation status, required VHF contact and unresolved combined timing.
+- `communications[*].watch_applicability`: watch duty applies to every radio-equipped-by-requirement ship within the source scope.
+- `participation.dangerous_goods_basis`: separate Order 1171 applicability and cargo definitions, not an inferred blanket exemption.
+- `reference_context.bridge_east.lane_use_qualification`: subsection 10(3), sailing vessels and the unresolved exact-20 m overlap.
+- `reference_context.bridge_east.speed_recommendations`: two recommendations with separate geographic scopes and operators.
+- `reference_context.bridge_west.span_clearance`: 104 m navigation spans, central 70 m clearance width and mean-water-level reference.
+- `reference_context.langeland`: separate recommended draught conditions for DW-T4 and Route Hotel.
+- `reporting_policy.anchoring`: qualified general-provider statement, not a newly invented complete reporting event.
+- `reference_context.temporary_works`: notice-check lead, without invented boundaries or current plotting approval.
+
+The eight open gap records are G01-G08. The revised checker validates their links and evidence field paths.
+The earlier six-gap checker and its historical results are not overwritten.
+This is not a migration of other dossiers or approval of an operational instruction.

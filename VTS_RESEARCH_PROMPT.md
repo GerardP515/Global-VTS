@@ -268,7 +268,8 @@ Retain internal identifiers and complete gap records there, with links to affect
 Do not conceal safety-bearing uncertainties in the appendix.
 Use concise limitations beside the affected instruction and a consolidated account in Section 8.
 
-Lead each substantive section with an explanation, then use tables for look-up information.
+Add explanatory prose where needed; a table may follow its heading directly when context and qualifications are already clear.
+Apply the professional-1 language standard in GUIDE_PRESENTATION.md; do not add compulsory table introductions.
 Give each direction or route variant its own treatment.
 Explain the service's role, scope, participants and reporting arrangements before presenting individual calls and data fields.
 Add background, functions, operating hours, traffic context and related services only where the assigned evidence supports them.
