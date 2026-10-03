@@ -1,4 +1,4 @@
 study_id,service_ids,assignment_status,research_state,research_commit,source_packet_revision,independent_review_record,marine_approval_record,layout_qa_record,release_record,notes
-PILOT-01,VTS-0001,AUTHORISED_SAMPLE,HOLD,f444892bc2dcd2bbfa6fbe1f730a12717aea2c91,P01-0.2.1-INCOMPLETE,,,,,"Author corrections and re-proof saved: reviews/vts/reports/PILOT-01__correction_reproof_2026-10-03.md; 2 directions; 6 events; 32 evidence records; 8 sources with 2 retained; 8 gaps; 22 defective-input tests rejected; no independent approval or PDF"
+PILOT-01,VTS-0001,AUTHORISED_SAMPLE,HOLD,38d4f6c64aa4c37e107e1164f65ccf59ba7ed865,P01-0.2.1-P1-INCOMPLETE,,,,,"0.2.1 canonical YAML unchanged; proforma-1 readable guide; HOLD; eight gaps; no new sources, independent approval or PDF."
 PILOT-02,VTS-0002,PROPOSED,NOT_STARTED,,,,,,,Great Belt candidate; no operational research executed by this scaffold
 PILOT-03,VTS-0006,PROPOSED,NOT_STARTED,,,,,,,Singapore study extent and adjoining service scope require confirmation
