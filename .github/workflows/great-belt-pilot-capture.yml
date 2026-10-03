@@ -1,0 +1,31 @@
+name: Great Belt pilot source capture
+on:
+  push:
+    branches: ['review/pilot-great-belt-20261003']
+    paths: ['.github/workflows/great-belt-pilot-capture.yml']
+permissions:
+  contents: read
+concurrency:
+  group: great-belt-pilot-source-capture
+  cancel-in-progress: false
+jobs:
+  capture:
+    if: github.repository == 'GerardP515/Global-VTS'
+    runs-on: ubuntu-latest
+    timeout-minutes: 9
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          ref: ${{ github.sha }}
+          persist-credentials: false
+      - name: Install extraction dependencies
+        run: python3 -m pip install PyMuPDF==1.26.3 beautifulsoup4==4.13.4
+      - name: Capture fixed public-source URLs and exact prompt inputs
+        run: python3 scripts/capture_great_belt_pilot.py --output "$RUNNER_TEMP/great-belt-review"
+      - name: Export bounded research workspace
+        uses: actions/upload-artifact@v4
+        with:
+          name: great-belt-pilot-sources
+          path: ${{ runner.temp }}/great-belt-review/
+          retention-days: 30
+          if-no-files-found: error

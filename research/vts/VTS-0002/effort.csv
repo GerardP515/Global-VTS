@@ -1,0 +1,5 @@
+phase,started_utc,completed_utc,elapsed_seconds,active_human_minutes,note
+acquisition,2026-10-03T09:35:47.152229+00:00,2026-10-03T09:35:58.659853+00:00,11.508,,Measured capture job only; excludes setup and author research
+author_research,,,,,Not separately timed; no retrospective estimate
+original_writing,,,,,Not separately timed
+reproof,,,,,Author-side only; not independently reviewed

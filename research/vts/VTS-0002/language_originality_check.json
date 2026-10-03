@@ -1,0 +1,60 @@
+{
+  "method": "Lowercase alphanumeric10-tokenwindows;mainentrybeforebibliography;Markdownlinks/HTMLstripped",
+  "comparison_corpus": [
+    {
+      "source_id": "SRC-008",
+      "matches": [],
+      "disposition": "No matching ten-token window"
+    },
+    {
+      "source_id": "SRC-015",
+      "matches": [],
+      "disposition": "No matching ten-token window"
+    },
+    {
+      "source_id": "SRC-020",
+      "matches": [
+        "should use the deep water route between hatter rev and",
+        "the deep water route between hatter rev and hatter barn",
+        "use the deep water route between hatter rev and hatter"
+      ],
+      "disposition": "Technical route names and resolution/date metadata; retained with citations. No distinctive copied paragraph identified in this bounded author review."
+    },
+    {
+      "source_id": "SRC-039",
+      "matches": [],
+      "disposition": "No matching ten-token window"
+    },
+    {
+      "source_id": "P02-IMO332REV1",
+      "matches": [
+        "on 1 december 2026 resolution msc 332 90 rev 1",
+        "should use the deep water route between hatter rev and",
+        "the deep water route between hatter rev and hatter barn",
+        "use the deep water route between hatter rev and hatter"
+      ],
+      "disposition": "Technical route names and resolution/date metadata; retained with citations. No distinctive copied paragraph identified in this bounded author review."
+    },
+    {
+      "source_id": "P02-EN820",
+      "matches": [],
+      "disposition": "No matching ten-token window"
+    },
+    {
+      "source_id": "P02-DMA-VTS",
+      "matches": [],
+      "disposition": "No matching ten-token window"
+    }
+  ],
+  "excluded_sources": [
+    "P02-DK820: no cross-language phrase-equivalence scan",
+    "P02-ETR: application shell not source prose"
+  ],
+  "whole_web_scan": "NOT_PERFORMED",
+  "independent_originality_review": "NOT_PERFORMED",
+  "language_review": "Author standalone read and value/qualifier comparison;notAI-authorshipdetection",
+  "sentences_over20words_in_authored_prose_excludingtablesbibliography": [],
+  "dossier_sha256": "f4b13b90907b71d624f3d5b401b2fe157dd2a39aebb45806406c03358c83042e",
+  "reading_copy_sha256": "f9d4b1bb2c23f8ba8776744d05839896f6f06db6e2797e9b1f37ef6138e3787a",
+  "completed_utc": "2026-10-03T09:52:16.346886+00:00"
+}

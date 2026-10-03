@@ -1,0 +1,35 @@
+{
+  "study_id": "PILOT-02",
+  "service_ids": [
+    "VTS-0002"
+  ],
+  "official_name_to_verify": "Great Belt VTS / BELTREP",
+  "study_extent": "Published BELTREP area; northbound and southbound through passages, alternative external entry lines, internal departure and conditional reports. Bridge and pilotage context only, not a complete passage plan.",
+  "directions_to_research": [
+    "NORTHBOUND",
+    "SOUTHBOUND"
+  ],
+  "route_variants": [
+    "RS or RSW entry",
+    "RN or RW entry"
+  ],
+  "vessel_scope": "Participating ships with explicit recreational and State-vessel exemptions; not a full small-craft routing guide",
+  "authorisation_basis": "Owner instruction: Ok do that then merge. Apply reviewed Great Belt corrections, re-proof and merge dependent review branches into main; no publication approval.",
+  "research_cutoff_utc": "2026-10-03T09:46:53.604267+00:00",
+  "repository": "GerardP515/Global-VTS",
+  "base_commit": "a134fe53a5d9af3a09e10f1a33ff1c7f1d8446b1",
+  "review_branch": "review/pilot-great-belt-20261003",
+  "role": "author",
+  "mode": "reproof",
+  "presentation_standard": "entry-2",
+  "language_standard": "professional-1",
+  "allow_new_sources": true,
+  "merge_authorised": true,
+  "release_authorised": false,
+  "prior_authorisation": {
+    "merge_authorised": false,
+    "release_authorised": false,
+    "basis": "Current owner request to create a second guide to test the workflow and prompts; Great Belt selected from PILOT_PLAN.md. Research/writing only; earlier artwork gates are not waived."
+  },
+  "correction_authorisation_recorded_utc": "2026-10-03T10:48:46.762008+00:00"
+}
