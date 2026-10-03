@@ -1,9 +1,17 @@
 <!--
-ENTRY-2 AUTHORING TEMPLATE. Not an operational guide or an implemented renderer.
+ENTRY-2 AUTHORING TEMPLATE. Language standard: professional-1.
+Not an operational guide or an implemented renderer.
 Use after VTS_RESEARCH_PROMPT.md v1.1 and docs/vts-production/GUIDE_PRESENTATION.md.
 Keep YAML in the existing service dossier. These placeholders supply no researched facts.
 Write original, referenced explanation; do not merely populate metadata tables.
+Apply section 4 of the presentation standard when drafting and during the final language pass.
+State facts and limitations directly, without drafting commentary, inflated wording or repetitive summaries.
+Use established maritime terminology and preserve every operational qualification and reference.
+The placeholders identify subjects, not a compulsory pattern of introduction, table and conclusion.
+Combine presentation blocks where needed; remove prose that only repeats a heading or table.
+Retain all nine sections, factual coverage and every material limitation.
 Replace all placeholders before a reading copy is issued.
+Complete the language pass and semantic comparison required by section 4.6 before export.
 Derive the status notice and limitations from actual records; never default an entry to approved.
 The historical guide.proforma.md is retained unchanged for its frozen review packet.
 -->
