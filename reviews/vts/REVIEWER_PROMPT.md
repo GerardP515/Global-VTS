@@ -1,8 +1,8 @@
 # VTS independent second-reader prompt
 
-Revision: 1.1, 3 October 2026. Includes the entry-2 presentation standard.
+Revision: 1.2, 3 October 2026. Includes entry-2 structure and the professional-1 language standard.
 Use with `VTS_RESEARCH_PROMPT.md` and an exact, versioned review packet.
-Read `docs/vts-production/GUIDE_PRESENTATION.md` before reviewing an entry-2 assignment.
+Read `docs/vts-production/GUIDE_PRESENTATION.md`, including section 4, before reviewing an entry-2 assignment.
 You are a reviewer, not the author. Do not silently modify research or source files.
 
 ## Preflight
@@ -63,6 +63,24 @@ Detailed archive and review records may remain in Appendix A, but unresolved ins
 Verify clickable contents, unique anchors, bibliography links and immutable-commit repository links in standalone copies.
 An authored rewrite requires semantic comparison; only a navigation-only export supports an exact reverse-text comparison.
 
+## Professional-language review
+
+Apply section 4 of `docs/vts-production/GUIDE_PRESENTATION.md` to the complete mariner-facing entry.
+Check for drafting commentary, empty framing, inflated wording, forced introductions, repetitive summaries and unnecessary explanation of familiar terms.
+Check direct sentence construction, consistent maritime terminology, UK spelling, sentence length, headings and punctuation.
+A table does not require an introduction when its purpose and qualifications are already clear.
+Do not require the same paragraph pattern under every heading or impose a word-reduction target.
+
+Distinguish redundant boilerplate from cautions needed beside independently used directions, tables and procedures.
+Reject shortening that loses a condition, source reference, requirement strength or unresolved operational limit.
+Check language edits against their pre-edit assertions, canonical records and available evidence, not only matching strings.
+Treat altered operational meaning as an evidence finding, not a stylistic preference.
+
+Record language findings separately, with entry locations and required edits; do not silently correct the author's text.
+Record any unavailable comparison material and the actual scope checked.
+An AI-detection score is not evidence of professional quality, originality or factual accuracy.
+A language-only review cannot support a whole-package approval or close source and marine-review gaps.
+
 ## Findings
 
 Use BLOCKER, ERROR, OMISSION, NOTE or CHALLENGE.
@@ -72,7 +90,8 @@ Each finding records:
 `finding_id | severity | claim/event/geometry ID | draft location | draft assertion | source snapshot | locator | source assertion | required action`.
 
 Record inspected sources and renders, checked and skipped populations, and input hashes.
-Record presentation and originality findings separately from operational-source findings where their scopes differ.
+Record presentation, language and originality findings separately from operational-source findings where their scopes differ.
+For language-only findings, use the applicable style clause; do not invent a source snapshot or operational claim ID.
 Name the actual reviewer or reviewer session; do not invent an independent agent.
 
 ## Verdict
