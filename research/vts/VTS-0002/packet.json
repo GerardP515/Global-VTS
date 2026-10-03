@@ -1,0 +1,115 @@
+{
+  "schema_version": "pilot-packet-0.1",
+  "study_id": "PILOT-02",
+  "service_ids": [
+    "VTS-0002"
+  ],
+  "research_commit": "389217403d911142edc81350d6a4e21d05b3c86d",
+  "packet_revision": "P02-0.1-HOLD",
+  "packet_state": "HOLD_PENDING_CURRENCY_DURABLE_STORAGE_AND_INDEPENDENT_REVIEW",
+  "files": [
+    {
+      "path": "VTS_GUIDE_SCHEMA.md",
+      "bytes": 14347,
+      "sha256": "5e7c45bfafd0fe48e43f8bb79b5de960332c8391bb483aa096499f3345e7e5a8"
+    },
+    {
+      "path": "VTS_RESEARCH_PROMPT.md",
+      "bytes": 34602,
+      "sha256": "1db3f4a8c120624bc903a883fbf38dd5354e4b403fb7632c59bad157579cf29f"
+    },
+    {
+      "path": "docs/vts-production/GREAT_BELT_SCHEMA_ADDENDUM.md",
+      "bytes": 3470,
+      "sha256": "a8864114fe0a62f1be87ab8243763643bf3aaa4553a0fb721b3d0196c4709fb9"
+    },
+    {
+      "path": "docs/vts-production/GUIDE_PRESENTATION.md",
+      "bytes": 18279,
+      "sha256": "94b65e1f71d2d3a41105f41125b15f3db4d63039c14d70b3fd3d4d024b947675"
+    },
+    {
+      "path": "research/vts/VTS-0002/assignment.json",
+      "bytes": 1268,
+      "sha256": "a498c81f9c467a39fa49b33c420da4f7fbf17927f115158d2ecbe67b6bd71073"
+    },
+    {
+      "path": "research/vts/VTS-0002/author_check.json",
+      "bytes": 1273,
+      "sha256": "37c9fa377ff287c10a339470750f4a388d842e33c81400ab4f65dbea84c2a4a2"
+    },
+    {
+      "path": "research/vts/VTS-0002/dossier.md",
+      "bytes": 82733,
+      "sha256": "f4b13b90907b71d624f3d5b401b2fe157dd2a39aebb45806406c03358c83042e"
+    },
+    {
+      "path": "research/vts/VTS-0002/effort.csv",
+      "bytes": 389,
+      "sha256": "f75eff6a78654bbbb2eb294dacfd0de52660f078cba8993804c738105c1a81e1"
+    },
+    {
+      "path": "research/vts/VTS-0002/inspection_record.json",
+      "bytes": 737,
+      "sha256": "90be49da636c74f2682f1137719e7bef480fdba10503f5b2fb95d4c623810129"
+    },
+    {
+      "path": "research/vts/VTS-0002/language_originality_check.json",
+      "bytes": 2323,
+      "sha256": "7a37c303dbc8ff18671d1d32e90f145bb61e1e539aa6acd5a022fd28993ddc06"
+    },
+    {
+      "path": "research/vts/VTS-0002/reproof_changes.json",
+      "bytes": 851,
+      "sha256": "59bab24e06e4300f2bd1ec8c7049f5218d9bec224f2ed332ab571f173cf02368"
+    },
+    {
+      "path": "research/vts/VTS-0002/source_catalogue.json",
+      "bytes": 21681,
+      "sha256": "d4eec9ed13a81a7dd01e639316516609f8653f6634a910a1e74a271e3166f682"
+    },
+    {
+      "path": "reviews/vts/CORRECTION_REPROOF_PROMPT.md",
+      "bytes": 5968,
+      "sha256": "375addf48df5e6b409c0a07bc35eb7a0ea326c97aff6a03a74d8055946b5df6e"
+    },
+    {
+      "path": "reviews/vts/REVIEWER_PROMPT.md",
+      "bytes": 7440,
+      "sha256": "2a1c7117c99cefdb151a3a3b4f6695ca4f18c22437802ca93a9739373424c024"
+    },
+    {
+      "path": "reviews/vts/checks/great_belt_pilot_check.py",
+      "bytes": 12499,
+      "sha256": "a05bf73eed9fecefda8a6feb0e1fa49200f45b8c44636e49382c8e918bfba77c"
+    },
+    {
+      "path": "reviews/vts/reports/PILOT-02__workflow_test_2026-10-03.md",
+      "bytes": 8823,
+      "sha256": "ee85b91babb9a8c5d2b5549f0716d3796c6b94bac3ecdd4ec20fb1dfa72b0f16"
+    },
+    {
+      "path": "sources/manifests/PILOT-02/capture_result.json",
+      "bytes": 18747,
+      "sha256": "a3762ecb8f57a609ebf879cd4bb512e536a6ccd7ee7efa03eae5e077193ec621"
+    }
+  ],
+  "source_store": {
+    "kind": "GitHub Actions review artefact",
+    "artifact_id": 11270632198,
+    "run_id": 37113574518,
+    "sha256": "4208b318397f88dc54ea68d88b5973b1cf7f6fc9a9a14446f1ae5a7ab305cbc5",
+    "expires_at": "2026-11-02T09:35:58Z",
+    "durable_archive_approved": false,
+    "public_republication_rights": "NOT_ASSUMED"
+  },
+  "independent_review_state": "NOT_STARTED",
+  "marine_approval_record": null,
+  "publication_ready": false,
+  "assembly_utc": "2026-10-03T10:04:28.519635+00:00",
+  "limits": [
+    "Pilot-specific structural checks are not source-currency or independent marine approval.",
+    "Six open gaps remain.",
+    "Temporary source archive must be transferred to an authorised durable store."
+  ]
+}
