@@ -1,0 +1,4 @@
+study_id,service_ids,assignment_status,research_state,research_commit,source_packet_revision,independent_review_record,marine_approval_record,layout_qa_record,release_record,notes
+PILOT-01,VTS-0001,AUTHORISED_SAMPLE,HOLD,38d4f6c64aa4c37e107e1164f65ccf59ba7ed865,P01-0.2.1-P1-INCOMPLETE,,,,,"0.2.1 canonical YAML unchanged; proforma-1 readable guide; HOLD; eight gaps; no new sources, independent approval or PDF."
+PILOT-02,VTS-0002,AUTHORISED_WORKFLOW_TEST,HOLD,131e5faf511178a964a690a888bb4943de4eff7c,P02-0.2-HOLD,,,,,0.2 canonical corrections and professional-language edit; 68 evidence records; eight gaps; owner authorised repository merge only; no independent/marine approval or PDF.
+PILOT-03,VTS-0006,PROPOSED,NOT_STARTED,,,,,,,Singapore study extent and adjoining service scope require confirmation

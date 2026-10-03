@@ -1,0 +1,37 @@
+name: Corrected Channel pilot checks
+on:
+  push:
+    branches: ['review/channel-vts-qc-20261003']
+    paths:
+      - '.github/workflows/channel-pilot-v2-check.yml'
+      - 'scripts/validate_channel_pilot_v2.py'
+      - 'research/vts/VTS-0001/**'
+      - 'docs/vts-production/CHANNEL_SCHEMA_ADDENDUM.md'
+permissions:
+  contents: read
+jobs:
+  check:
+    if: github.repository == 'GerardP515/Global-VTS'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          persist-credentials: false
+      - run: python3 -m pip install PyYAML==6.0.2
+      - name: Validate the actual corrected dossier and packet
+        run: python3 scripts/validate_channel_pilot_v2.py
+      - name: Confirm publication release remains blocked
+        shell: bash
+        run: |
+          set +e
+          python3 scripts/validate_channel_pilot_v2.py --release > /tmp/channel-release-check.json
+          code=$?
+          set -e
+          cat /tmp/channel-release-check.json
+          test "$code" -eq 2
+      - name: Check unchanged registers and existing regression tests
+        run: |
+          python3 scripts/validate_registers.py
+          python3 -m unittest discover -s tests -v
+          git diff --exit-code

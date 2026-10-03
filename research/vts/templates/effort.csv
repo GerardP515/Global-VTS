@@ -1,0 +1,1 @@
+study_id,direction_id,stage,actor_role,started_at_utc,ended_at_utc,active_human_minutes,elapsed_minutes,model_tool_usage,source_reuse,output_revision,notes

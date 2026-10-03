@@ -1,0 +1,64 @@
+{
+  "study_id": "PILOT-01",
+  "review_role": "AUTHOR_SELF_CHECK_ONLY",
+  "research_commit": "dd25fb71d0e642450d93a8d43bed86c9a49ebf03",
+  "reviewed_dossier_sha256": "c9cb6c3cb07f8856a3cede312894454eded7aa2d24ff04d9a6e1dbbf847f9ecf",
+  "structural_result": "PASS_WITH_DECLARED_LIMITATIONS",
+  "research_state": "HOLD",
+  "directions": 2,
+  "events": 4,
+  "report_code_groups": 13,
+  "evidence_records": 28,
+  "evidence_records_with_held_snapshot": 8,
+  "evidence_records_without_held_snapshot": 20,
+  "source_catalogue_records": 7,
+  "held_source_records": 2,
+  "live_only_source_records": 5,
+  "open_gaps": 7,
+  "author_conflict_dispositions": 4,
+  "independent_review_performed": false,
+  "publication_ready": false,
+  "executed_check": {
+    "command": "python3 scripts/validate_channel_pilot.py",
+    "workflow_run_id": 37036936429,
+    "job_id": 110937342570,
+    "finished_check_utc": "2026-10-02T16:53:05Z",
+    "result": "success",
+    "scope": "Actual committed YAML, IDs, references, order, source byte counts and hashes, eight deliberately defective inputs"
+  },
+  "negative_tests_passed": [
+    "duplicate YAML key rejected",
+    "invalid evidence rejected",
+    "duplicate event rejected",
+    "wrong sequence rejected",
+    "wrong snapshot binding rejected",
+    "unperformed approval rejected",
+    "old field list rejected",
+    "empty direction pack rejected"
+  ],
+  "author_source_checks": [
+    "Read archived MCA operational sections against live authority pages",
+    "Inspected IMO Annex 2 separately from the unrelated Annex 1",
+    "Read and visually checked MSC.251(83) Appendix; counted 13 code groups",
+    "Preserved threshold and SW timing discrepancies rather than silently normalising sources",
+    "Kept Royal Sovereign geometry, AIS acceptance, current call-name and notice checks open",
+    "Did not copy port-entry Dover VTS procedures into coastal Channel VTS instructions"
+  ],
+  "not_performed": [
+    "Complete retained source pack",
+    "Full general-purpose schema validation",
+    "Independent second-reader review and correction cycle",
+    "Competent-authority clarification",
+    "Marine-editor approval",
+    "Graphic and PDF production/checking"
+  ],
+  "effort": {
+    "active_human_minutes": null,
+    "research_stage_minutes": null,
+    "layout_minutes": null,
+    "reason": "No live human effort ledger was maintained. Model/tool elapsed time must not be presented as measured publishing effort."
+  },
+  "automation_lesson": "Local source downloads failed. A bounded one-shot job captured two fixed public OGL sources on the review branch. A separate read-only job verified hashes and structure. These jobs are not a general autonomous research pipeline.",
+  "merge_authorised": false,
+  "release_authorised": false
+}

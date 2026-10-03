@@ -1,0 +1,124 @@
+# Global VTS Guide data template. This is a draft model, not operational evidence.
+# Embed the mapping inside the existing dossier.md YAML front matter.
+# Null list entries below describe record shapes only. Use [] in an unresearched guide.
+# Preserve existing identity metadata. Never overwrite researched content with this template.
+# Read VTS_GUIDE_SCHEMA.md before use. A schema validator is not supplied by this template.
+
+schema_version: "1.0-draft"
+vts_id: null
+study_id: null
+region_code: null
+project_class: null
+research_state: NOT_STARTED
+provenance: REGISTER_SEED_ONLY
+
+guide_area:
+  area_id: null
+  publication_title: null
+  official_service_name: null
+  region_code: null
+  countries: []
+  associated_service_ids: []
+  related_tss_ids: []
+  geographical_scope: null
+  authority: null
+  provider: null
+  evidence_ids: []
+
+participation:
+  applicability_as_published: null
+  exemptions_as_published: null
+  requirement_strength: UNKNOWN
+  evidence_ids: []
+
+reporting_objects:
+  - object_id: null
+    official_name: null
+    graphic_label: null
+    geometry_type: UNKNOWN
+    geometry_as_published: null
+    datum_as_published: null
+    sector_id: null
+    evidence_ids: []
+
+communications:
+  - contact_id: null
+    recipient: null
+    call_sign: null
+    communication_method: null
+    calling_channel: null
+    working_channel: null
+    listening_watch: null
+    alternative_method: null
+    evidence_ids: []
+
+report_types:
+  - report_type_id: null
+    official_name: null
+    fields:
+      - field_id: null
+        sequence: null
+        code_as_published: null
+        information_required: null
+        requirement_strength: UNKNOWN
+        applicability_condition: null
+        evidence_ids: []
+
+directions:
+  - direction_id: null
+    direction_label: null
+    route_variant: null
+    geographical_scope: null
+    vessel_applicability: null
+    reporting_events:
+      - event_id: null
+        sequence: null
+        reporting_object_id: null
+        trigger_as_published: null
+        timing_as_published: null
+        requirement_strength: UNKNOWN
+        vessel_applicability: null
+        contact_id: null
+        report_type_id: null
+        exceptions: null
+        subsequent_action: null
+        evidence_ids: []
+    spread:
+      spread_id: null
+      title: null
+      layout: DOUBLE_PAGE
+      map_extent: null
+      reporting_object_ids: []
+      reporting_event_ids: []
+      graphics_dataset_path: null
+      base_material_reference: null
+      reproduction_permission_record: null
+
+evidence:
+  - evidence_id: null
+    source_id: null
+    snapshot_id: null
+    source_locator: null
+    supported_field_paths: []
+    wording_as_published: null
+    effective_from: null
+    effective_until: null
+    verification_state: UNCHECKED
+
+gaps: []
+conflicts: []
+
+assurance:
+  research_cutoff_utc: null
+  subsequent_notices_check: null
+  independent_review_record: null
+  marine_approval_record: null
+  artwork_check_record: null
+  release_record: null
+
+production:
+  research_revision: null
+  schema_revision: "1.0-draft"
+  style_sheet_revision: null
+  effort_record: null
+  pdf_output_paths: []

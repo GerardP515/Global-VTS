@@ -1,0 +1,193 @@
+name: Great Belt correction and merge checks
+on:
+  push:
+    branches: ['review/pilot-great-belt-20261003', 'main']
+    paths: ['.github/workflows/great-belt-correction-apply.yml']
+permissions:
+  contents: read
+  actions: read
+concurrency:
+  group: great-belt-correction-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  apply:
+    if: github.repository == 'GerardP515/Global-VTS' && github.ref == 'refs/heads/review/pilot-great-belt-20261003'
+    permissions:
+      contents: write
+      actions: read
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          ref: ${{ github.sha }}
+          persist-credentials: true
+      - name: Verify and apply the exact authorised correction package
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import base64, hashlib, json, lzma
+          def sha(b): return hashlib.sha256(b).hexdigest()
+          parts=[Path(f'reviews/vts/inputs/PILOT-02__correction_submission.part{i}.b64') for i in range(1,4)]
+          compressed=base64.b64decode(''.join(p.read_text().strip() for p in parts),validate=True)
+          assert sha(compressed)=='376af0f7acfe62e4e4fca91c1bc54d3fd548a1908d21bf51ac06aa91da10b4ed', 'Transfer changed'
+          decoder=lzma.LZMADecompressor(memlimit=256*1024*1024)
+          raw=decoder.decompress(compressed,max_length=1_000_000)
+          assert decoder.eof and not decoder.unused_data
+          assert sha(raw)=='1c0d4c0093bc6d0a4bdad71530289b373416cb82e432b0c2083b9eabf75efc8b', 'Package changed'
+          package=json.loads(raw)
+          allowed={'research/vts/VTS-0002/dossier.md','research/vts/VTS-0002/source_catalogue.json','research/vts/VTS-0002/correction_dispositions.json','research/vts/VTS-0002/correction_reproof.json','research/vts/VTS-0002/assignment.json','sources/manifests/PILOT-02/additional_order_1171.json','reviews/vts/packets/PILOT-02__0.1__packet.json','reviews/vts/checks/great_belt_correction_check.py','reviews/vts/reports/PILOT-02__canonical_correction_2026-10-03.md','docs/vts-production/GREAT_BELT_SCHEMA_ADDENDUM.md','VTS_RESEARCH_PROMPT.md'}
+          assert len(package['files'])==len(allowed) and {r['path'] for r in package['files']}==allowed
+          pending={}
+          for r in package['files']:
+              p=Path(r['path']); assert not p.is_symlink()
+              if r['before_sha256'] is None:
+                  assert not p.exists(), 'Unexpected existing target'
+                  output=r['content'].encode('utf-8')
+              else:
+                  original=p.read_bytes(); assert sha(original)==r['before_sha256'], 'Input changed: '+str(p)
+                  lines=original.decode('utf-8').splitlines(keepends=True)
+                  for e in reversed(r['edits']):
+                      assert ''.join(lines[e['start']:e['end']])==e['old'], 'Patch mismatch'
+                      lines[e['start']:e['end']]=e['new'].splitlines(keepends=True)
+                  output=''.join(lines).encode('utf-8')
+              assert sha(output)==r['after_sha256'], 'Output changed: '+str(p)
+              pending[p]=output
+          for p,b in pending.items(): p.parent.mkdir(parents=True,exist_ok=True); p.write_bytes(b)
+          for p in parts: p.unlink()
+          assert sha(Path('research/vts/VTS-0002/dossier.md').read_bytes())=='4fec09e293317f66cb0e546573f7e78cae29367668a3f34818e65096aece3c30'
+          print('Eleven exact files applied; transfer parts removed.')
+          PY
+      - name: Retrieve the two immutable source bundles
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p "$RUNNER_TEMP/checks"
+          gh api /repos/GerardP515/Global-VTS/actions/artifacts/11270632198/zip > "$RUNNER_TEMP/base.zip"
+          gh api /repos/GerardP515/Global-VTS/actions/artifacts/11271423361/zip > "$RUNNER_TEMP/additional.zip"
+          python3 - <<'PY'
+          from pathlib import Path
+          import hashlib, os, zipfile
+          root=Path(os.environ['RUNNER_TEMP'])
+          for name,digest in [('base','4208b318397f88dc54ea68d88b5973b1cf7f6fc9a9a14446f1ae5a7ab305cbc5'),('additional','75a5f40bb7d4ecfab5014f7ac673a399262c877af3a10ca67fd7756a8b495dbd')]:
+              p=root/(name+'.zip'); assert hashlib.sha256(p.read_bytes()).hexdigest()==digest
+              with zipfile.ZipFile(p) as z:
+                  for item in z.infolist():
+                      q=Path(item.filename); assert not q.is_absolute() and '..' not in q.parts
+                  z.extractall(root/name)
+          PY
+      - name: Execute canonical, release and repository checks
+        run: |
+          python3 -m pip install PyYAML==6.0.2
+          python3 reviews/vts/checks/great_belt_correction_check.py --sources "$RUNNER_TEMP/base" --additional "$RUNNER_TEMP/additional" --output research/vts/VTS-0002/correction_check.json > "$RUNNER_TEMP/checks/correction-check.json"
+          set +e
+          python3 reviews/vts/checks/great_belt_correction_check.py --sources "$RUNNER_TEMP/base" --additional "$RUNNER_TEMP/additional" --release > "$RUNNER_TEMP/checks/release-check.json"
+          status=$?
+          set -e
+          test "$status" = 2
+          python3 scripts/validate_registers.py > "$RUNNER_TEMP/checks/register-validation.txt"
+          python3 -m unittest discover -s tests -v > "$RUNNER_TEMP/checks/unit-tests.txt" 2>&1
+          python3 scripts/validate_channel_pilot_v2.py > "$RUNNER_TEMP/checks/channel-validation.json"
+          python3 scripts/render_channel_proforma.py > "$RUNNER_TEMP/checks/channel-presentation.json"
+      - name: Commit corrected canonical record and build its packet
+        run: |
+          git config user.name 'VTS correction checkpoint'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add research/vts/VTS-0002/dossier.md research/vts/VTS-0002/source_catalogue.json research/vts/VTS-0002/correction_dispositions.json research/vts/VTS-0002/correction_reproof.json research/vts/VTS-0002/assignment.json research/vts/VTS-0002/correction_check.json sources/manifests/PILOT-02/additional_order_1171.json reviews/vts/packets/PILOT-02__0.1__packet.json reviews/vts/checks/great_belt_correction_check.py reviews/vts/reports/PILOT-02__canonical_correction_2026-10-03.md docs/vts-production/GREAT_BELT_SCHEMA_ADDENDUM.md VTS_RESEARCH_PROMPT.md reviews/vts/inputs/
+          git commit -m 'Incorporate Great Belt factual and professional-language corrections; preserve unresolved duties'
+          python3 - <<'PY'
+          from pathlib import Path
+          import csv, datetime as dt, hashlib, json, os, subprocess
+          folder=Path('research/vts/VTS-0002'); out=Path(os.environ['RUNNER_TEMP'])/'checks'
+          commit=subprocess.check_output(['git','rev-parse','HEAD'],text=True).strip()
+          paths=['research/vts/VTS-0002/'+n for n in ['dossier.md','source_catalogue.json','assignment.json','correction_dispositions.json','correction_reproof.json','correction_check.json']]
+          paths+=['sources/manifests/PILOT-02/capture_result.json','sources/manifests/PILOT-02/additional_order_1171.json','reviews/vts/packets/PILOT-02__0.1__packet.json','reviews/vts/checks/great_belt_correction_check.py','reviews/vts/reports/PILOT-02__canonical_correction_2026-10-03.md','docs/vts-production/GREAT_BELT_SCHEMA_ADDENDUM.md','VTS_RESEARCH_PROMPT.md','VTS_GUIDE_SCHEMA.md','docs/vts-production/GUIDE_PRESENTATION.md','reviews/vts/REVIEWER_PROMPT.md','reviews/vts/CORRECTION_REPROOF_PROMPT.md']
+          manifest=[{'path':n,'bytes':Path(n).stat().st_size,'sha256':hashlib.sha256(Path(n).read_bytes()).hexdigest()} for n in sorted(paths)]
+          packet={'schema_version':'pilot-packet-0.1','study_id':'PILOT-02','service_ids':['VTS-0002'],'research_commit':commit,'research_revision':'0.2-author-correction','packet_revision':'P02-0.2-HOLD','packet_state':'HOLD_PENDING_CURRENCY_DURABLE_STORAGE_AND_INDEPENDENT_REVIEW','files':manifest,'previous_packet_path':'reviews/vts/packets/PILOT-02__0.1__packet.json','source_stores':[{'artifact_id':11270632198,'run_id':37113574518,'sha256':'4208b318397f88dc54ea68d88b5973b1cf7f6fc9a9a14446f1ae5a7ab305cbc5','expires_at':'2026-11-02T09:35:58Z'},{'artifact_id':11271423361,'run_id':37117171014,'sha256':'75a5f40bb7d4ecfab5014f7ac673a399262c877af3a10ca67fd7756a8b495dbd','expires_at':'2026-11-02T10:40:13Z'}],'durable_archive_approved':False,'public_republication_rights':'NOT_ASSUMED','independent_review_state':'NOT_STARTED','marine_approval_record':None,'publication_ready':False,'assembly_utc':dt.datetime.now(dt.timezone.utc).isoformat(),'limits':['Author-side correction and re-proof, not independent marine approval.','Eight open gaps remain.','Source originals remain in expiring review artefacts.','Historical 0.1 check records do not validate this new revision.']}
+          (folder/'packet.json').write_text(json.dumps(packet,indent=2)+'\n')
+          p=Path('research/vts/STATUS.csv')
+          with p.open(newline='') as f: reader=csv.DictReader(f); fields=reader.fieldnames; rows=list(reader)
+          before={r['study_id']:dict(r) for r in rows if r['study_id']!='PILOT-02'}
+          matches=[r for r in rows if r['study_id']=='PILOT-02']; assert len(matches)==1
+          matches[0].update(research_state='HOLD',research_commit=commit,source_packet_revision='P02-0.2-HOLD',notes='0.2 canonical corrections and professional-language edit; 68 evidence records; eight gaps; owner authorised repository merge only; no independent/marine approval or PDF.')
+          with p.open('w',newline='') as f: writer=csv.DictWriter(f,fieldnames=fields,lineterminator='\n'); writer.writeheader(); writer.writerows(rows)
+          assert {r['study_id']:dict(r) for r in rows if r['study_id']!='PILOT-02'}==before
+          result={'executed_utc':dt.datetime.now(dt.timezone.utc).isoformat(),'workflow_run':os.environ['GITHUB_RUN_ID'],'checkout':os.environ['GITHUB_SHA'],'research_commit':commit,'pilot_result':json.loads((out/'correction-check.json').read_text()),'release_exit':2,'register_validation':'PASS','unit_tests_log':(out/'unit-tests.txt').read_text(),'channel_validation':json.loads((out/'channel-validation.json').read_text()),'channel_presentation':json.loads((out/'channel-presentation.json').read_text()),'independent_review':'NOT_STARTED','publication_ready':False}
+          (folder/'correction_remote_check.json').write_text(json.dumps(result,indent=2)+'\n')
+          for n in ['packet.json','correction_remote_check.json']:(out/n).write_bytes((folder/n).read_bytes())
+          raw=(folder/'dossier.md').read_text(); body=raw.split('---\n',2)[2].lstrip('\n').split('## Appendix A.')[0].rstrip()+'\n'
+          b=body.encode('utf-8'); assert hashlib.sha256(b).hexdigest()=='dd494570bb061a93eb177475e94f1f075b4ebc111dfd3340dc3d0561142c6888'
+          (out/'Great_Belt_VTS_Encyclopaedic_Entry_v2.md').write_bytes(b)
+          (out/'Great_Belt_Canonical_Correction_Report.md').write_bytes(Path('reviews/vts/reports/PILOT-02__canonical_correction_2026-10-03.md').read_bytes())
+          (out/'research-commit.txt').write_text(commit+'\n')
+          PY
+          git add research/vts/STATUS.csv research/vts/VTS-0002/packet.json research/vts/VTS-0002/correction_remote_check.json
+          git commit -m 'Pin corrected Great Belt packet and executed checks; retain publication HOLD'
+      - name: Verify scope and push only the authorised review branch
+        run: |
+          python3 - <<'PY'
+          import os, subprocess
+          changed=set(subprocess.check_output(['git','diff','--name-only',os.environ['GITHUB_SHA'],'HEAD'],text=True).splitlines())
+          exact={'research/vts/STATUS.csv','sources/manifests/PILOT-02/additional_order_1171.json','reviews/vts/packets/PILOT-02__0.1__packet.json','reviews/vts/checks/great_belt_correction_check.py','reviews/vts/reports/PILOT-02__canonical_correction_2026-10-03.md','docs/vts-production/GREAT_BELT_SCHEMA_ADDENDUM.md','VTS_RESEARCH_PROMPT.md'}
+          assert all(p in exact or p.startswith('research/vts/VTS-0002/') or p.startswith('reviews/vts/inputs/PILOT-02__correction_submission.part') for p in changed),changed
+          PY
+          git push origin HEAD:review/pilot-great-belt-20261003
+          git rev-parse HEAD > "$RUNNER_TEMP/checks/commit.txt"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: great-belt-canonical-correction
+          path: ${{ runner.temp }}/checks/
+          retention-days: 30
+          if-no-files-found: error
+  verify-main:
+    if: github.repository == 'GerardP515/Global-VTS' && github.ref == 'refs/heads/main'
+    permissions:
+      contents: read
+      actions: read
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          ref: ${{ github.sha }}
+          persist-credentials: false
+      - name: Verify merged dossier, packet and source originals
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p "$RUNNER_TEMP/checks"
+          gh api /repos/GerardP515/Global-VTS/actions/artifacts/11270632198/zip > "$RUNNER_TEMP/base.zip"
+          gh api /repos/GerardP515/Global-VTS/actions/artifacts/11271423361/zip > "$RUNNER_TEMP/additional.zip"
+          python3 - <<'PY'
+          from pathlib import Path
+          import hashlib, json, os, zipfile
+          root=Path(os.environ['RUNNER_TEMP'])
+          assert hashlib.sha256(Path('research/vts/VTS-0002/dossier.md').read_bytes()).hexdigest()=='4fec09e293317f66cb0e546573f7e78cae29367668a3f34818e65096aece3c30'
+          p=json.loads(Path('research/vts/VTS-0002/packet.json').read_text()); assert p['packet_revision']=='P02-0.2-HOLD' and p['publication_ready'] is False
+          for r in p['files']:
+              b=Path(r['path']).read_bytes(); assert len(b)==r['bytes'] and hashlib.sha256(b).hexdigest()==r['sha256'],r['path']
+          for name,digest in [('base','4208b318397f88dc54ea68d88b5973b1cf7f6fc9a9a14446f1ae5a7ab305cbc5'),('additional','75a5f40bb7d4ecfab5014f7ac673a399262c877af3a10ca67fd7756a8b495dbd')]:
+              zpath=root/(name+'.zip'); assert hashlib.sha256(zpath.read_bytes()).hexdigest()==digest
+              with zipfile.ZipFile(zpath) as z:
+                  for item in z.infolist():
+                      q=Path(item.filename); assert not q.is_absolute() and '..' not in q.parts
+                  z.extractall(root/name)
+          print('Merged canonical dossier, packet and both source bundles matched.')
+          PY
+          python3 -m pip install PyYAML==6.0.2
+          python3 reviews/vts/checks/great_belt_correction_check.py --sources "$RUNNER_TEMP/base" --additional "$RUNNER_TEMP/additional" > "$RUNNER_TEMP/checks/main-pilot-check.json"
+          set +e
+          python3 reviews/vts/checks/great_belt_correction_check.py --sources "$RUNNER_TEMP/base" --additional "$RUNNER_TEMP/additional" --release > "$RUNNER_TEMP/checks/main-release-check.json"
+          status=$?
+          set -e
+          test "$status" = 2
+          python3 scripts/validate_registers.py > "$RUNNER_TEMP/checks/main-register-check.txt"
+          python3 -m unittest discover -s tests -v > "$RUNNER_TEMP/checks/main-unit-tests.txt" 2>&1
+          python3 scripts/validate_channel_pilot_v2.py > "$RUNNER_TEMP/checks/main-channel-check.json"
+          git rev-parse HEAD > "$RUNNER_TEMP/checks/main-commit.txt"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: great-belt-post-merge-verification
+          path: ${{ runner.temp }}/checks/
+          retention-days: 30
+          if-no-files-found: error

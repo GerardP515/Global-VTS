@@ -1,0 +1,26 @@
+name: Channel pilot structural checks
+
+on:
+  push:
+    branches: ['review/pilot-channel-vts-20261002']
+    paths:
+      - 'research/vts/VTS-0001/dossier.md'
+      - 'research/vts/VTS-0001/source_catalogue.json'
+      - 'scripts/validate_channel_pilot.py'
+      - '.github/workflows/pilot-channel-check.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  validate-pilot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Install pilot YAML parser
+        run: python3 -m pip install PyYAML==6.0.2
+      - name: Check actual dossier and held source hashes
+        run: python3 scripts/validate_channel_pilot.py

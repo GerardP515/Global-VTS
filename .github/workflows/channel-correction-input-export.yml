@@ -1,0 +1,31 @@
+name: Channel correction input archive
+
+on:
+  push:
+    branches: ['review/channel-vts-qc-20261003']
+    paths: ['.github/workflows/channel-correction-input-export.yml']
+
+permissions:
+  contents: read
+
+jobs:
+  archive:
+    if: github.repository == 'GerardP515/Global-VTS'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          persist-credentials: false
+      - name: Export exact repository input without Git credentials
+        run: |
+          mkdir -p /tmp/channel-correction-input
+          git rev-parse HEAD > /tmp/channel-correction-input/commit.txt
+          git archive --format=zip HEAD > /tmp/channel-correction-input/repository.zip
+          sha256sum /tmp/channel-correction-input/repository.zip
+      - uses: actions/upload-artifact@v4
+        with:
+          name: channel-correction-input
+          path: /tmp/channel-correction-input/
+          retention-days: 7
+          if-no-files-found: error
