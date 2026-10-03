@@ -1,0 +1,100 @@
+{
+  "record_type": "transcribed_executed_qa_summary",
+  "study_id": "PILOT-01",
+  "vts_id": "VTS-0001",
+  "target_research_commit": "c5fde2d0114b3dcec06e4a013c60a9241d1d553c",
+  "target_dossier_sha256": "c9cb6c3cb07f8856a3cede312894454eded7aa2d24ff04d9a6e1dbbf847f9ecf",
+  "executed_checkout": "c8338d1fa46a109042b3175eef21c390e4b5d6f8",
+  "command": "python3 reviews/vts/checks/channel_pilot_qc_20261003.py",
+  "workflow_run_id": 37105760130,
+  "workflow_job_id": 111153824033,
+  "workflow_url": "https://github.com/GerardP515/Global-VTS/actions/runs/37105760130",
+  "job_conclusion": "success",
+  "check_output_completed_utc": "2026-10-03T07:15:47Z",
+  "baseline_result": "PASS_WITH_DECLARED_LIMITATIONS",
+  "dossier_unchanged": true,
+  "population": {
+    "directions": 2,
+    "event_records": 4,
+    "report_types": 2,
+    "main_report_code_groups": 13,
+    "conditional_report_fields": 1,
+    "reporting_objects": 2,
+    "communications_records": 2,
+    "evidence_records": 28,
+    "evidence_records_with_held_snapshots": 8,
+    "evidence_records_without_held_snapshots": 20,
+    "catalogue_sources": 7,
+    "held_sources": 2,
+    "unretained_sources": 5,
+    "existing_gaps": 7,
+    "existing_conflict_dispositions": 4
+  },
+  "packet_file_checks": [
+    {"path": "research/vts/VTS-0001/dossier.md", "matches_packet_size_and_hash": true},
+    {"path": "research/vts/VTS-0001/source_catalogue.json", "matches_packet_size_and_hash": true},
+    {"path": "sources/archive/html/SRC-004__20261002T163852Z__2e5ab12c2a39.html", "matches_packet_size_and_hash": true},
+    {"path": "sources/extracted/SRC-004__20261002T163852Z__2e5ab12c2a39.txt", "matches_packet_size_and_hash": true},
+    {"path": "sources/archive/html/SRC-005__20261002T163852Z__1cafaed9fae8.html", "matches_packet_size_and_hash": true},
+    {"path": "sources/extracted/SRC-005__20261002T163852Z__1cafaed9fae8.txt", "matches_packet_size_and_hash": true}
+  ],
+  "baseline_negative_tests_rejected": [
+    "duplicate YAML key",
+    "invalid evidence",
+    "duplicate event",
+    "wrong sequence",
+    "wrong snapshot binding",
+    "unperformed approval",
+    "old field list",
+    "empty direction pack"
+  ],
+  "additional_probes": [
+    {"probe": "invalid_requirement_strength", "rejected_by_existing_validator": false},
+    {"probe": "mandatory_entry_without_recipient", "rejected_by_existing_validator": false},
+    {"probe": "communications_without_evidence", "rejected_by_existing_validator": false},
+    {"probe": "unresolvable_supported_field_path", "rejected_by_existing_validator": false},
+    {"probe": "spread_omits_entry_geometry", "rejected_by_existing_validator": false},
+    {"probe": "duplicate_spread_identity", "rejected_by_existing_validator": false},
+    {"probe": "invalid_geometry_type", "rejected_by_existing_validator": false}
+  ],
+  "undetected_structural_defects_in_test_inputs": 7,
+  "probe_interpretation": "These were in-memory test mutations. No such defects were written into the dossier. The result identifies validator coverage gaps, not seven stored navigational errors.",
+  "held_source_comparison_evidence_ids": [
+    "EV-IDENTITY", "EV-THRESHOLD", "EV-EXEMPT", "EV-NE", "EV-SW", "EV-SW-TIMING", "EV-OLD-LIST", "EV-AIS"
+  ],
+  "live_source_comparison_evidence_ids": [
+    "EV-THRESHOLD-IMO", "EV-FERRY", "EV-AMENDMENT", "EV-CHANGE", "EV-RS", "EV-FUTURE", "EV-PORT",
+    "EV-F01", "EV-F02", "EV-F03", "EV-F04", "EV-F05", "EV-F06", "EV-F07", "EV-F08", "EV-F09", "EV-F10", "EV-F11", "EV-F12", "EV-F13"
+  ],
+  "live_comparison_limit": "Reopening a source permits comparison with its present contents. It does not reproduce the author's exact unretained earlier snapshot.",
+  "review_report": "reviews/vts/reports/PILOT-01__qc_2026-10-03__c5fde2d.md",
+  "review_findings": [
+    {"id": "QA-01", "severity": "ERROR", "topic": "Canonical SW timing reconciliation"},
+    {"id": "QA-02", "severity": "ERROR", "topic": "Field W count missing from prompt"},
+    {"id": "QA-03", "severity": "OMISSION", "topic": "Q/R reporting scope compressed"},
+    {"id": "QA-04", "severity": "OMISSION", "topic": "X field-part conditionality"},
+    {"id": "QA-05", "severity": "OMISSION", "topic": "English ITZ conditional reporting scope"},
+    {"id": "QA-06", "severity": "OMISSION", "topic": "Confidential cargo non-verbal reporting option"},
+    {"id": "QA-07", "severity": "ERROR", "topic": "Missing structural validation checks"},
+    {"id": "QA-08", "severity": "NOTE", "topic": "A.851(20) partial route to G06 resolution"},
+    {"id": "QA-09", "severity": "NOTE", "topic": "Actual publishing effort remains unmeasured"}
+  ],
+  "findings_counts": {"ERROR": 3, "OMISSION": 4, "NOTE": 2},
+  "full_frozen_packet_review_verdict": "INCOMPLETE_REVIEW",
+  "qa_disposition": "FINDINGS_RECORDED_RETAIN_HOLD",
+  "review_role": "AUTHOR_SIDE_FOLLOW_UP_QA",
+  "independent_non_author_review_performed": false,
+  "marine_approval_performed": false,
+  "publication_ready": false,
+  "operational_corrections_applied": false,
+  "new_source_originals_archived": false,
+  "merge_authorised": false,
+  "limitations": [
+    "Five originals and their exact historical snapshots remain outside the frozen packet",
+    "Complete current ALRS and UK/French notices chain was not reconciled",
+    "Reporting geometry is not approved for plotting",
+    "No independent non-author reviewer or named marine approval",
+    "No graphics or PDF exist for artwork or print checks",
+    "The guide and discovery registers were not changed"
+  ]
+}

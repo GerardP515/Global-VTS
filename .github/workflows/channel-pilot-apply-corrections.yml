@@ -1,0 +1,39 @@
+name: Channel author correction checkpoint
+
+on:
+  push:
+    branches: ['review/channel-vts-qc-20261003']
+    paths: ['.github/workflows/channel-pilot-apply-corrections.yml']
+
+permissions:
+  contents: write
+
+jobs:
+  correct:
+    if: github.repository == 'GerardP515/Global-VTS'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          ref: review/channel-vts-qc-20261003
+      - run: python3 -m pip install PyYAML==6.0.2
+      - name: Apply the hash-locked one-guide changes
+        run: python3 reviews/vts/corrections/apply_channel_020.py
+      - name: Check scope and commit the review checkpoint
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          import subprocess
+          allowed = {'research/vts/VTS-0001/dossier.md', 'research/vts/VTS-0001/source_catalogue.json'}
+          changed = set(subprocess.check_output(['git', 'diff', '--name-only'], text=True).splitlines())
+          if changed != allowed:
+              raise SystemExit('Unexpected change scope: ' + repr(changed))
+          PY
+          git config user.name 'VTS author correction checkpoint'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add research/vts/VTS-0001/dossier.md research/vts/VTS-0001/source_catalogue.json
+          git commit -m 'Apply Channel pilot author corrections 0.2.0; retain publication HOLD'
+          git push origin HEAD:refs/heads/review/channel-vts-qc-20261003
+          git rev-parse HEAD

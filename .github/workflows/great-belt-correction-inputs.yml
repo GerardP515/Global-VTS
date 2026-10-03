@@ -1,0 +1,43 @@
+name: Great Belt correction inputs
+on:
+  push:
+    branches: ['review/pilot-great-belt-20261003']
+    paths: ['.github/workflows/great-belt-correction-inputs.yml']
+permissions:
+  contents: read
+jobs:
+  capture:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          persist-credentials: false
+      - name: Export exact repository and additional source
+        run: |
+          mkdir -p "$RUNNER_TEMP/correction-inputs"
+          git archive HEAD | gzip > "$RUNNER_TEMP/correction-inputs/repository.tar.gz"
+          git rev-parse HEAD > "$RUNNER_TEMP/correction-inputs/input-commit.txt"
+          python3 - <<'PY'
+          from pathlib import Path
+          import urllib.request, datetime, hashlib, json, os
+          out=Path(os.environ['RUNNER_TEMP'])/'correction-inputs'
+          url='https://www.retsinformation.dk/eli/lta/2013/1171/pdf'
+          record={'source_id':'P02-DK1171','requested_url':url,'started_utc':datetime.datetime.now(datetime.timezone.utc).isoformat(),'rights':'NOT_ASSESSED_FOR_PUBLIC_REPUBLICATION','storage':'Temporary review artefact, no original committed to repository'}
+          try:
+              with urllib.request.urlopen(url,timeout=40) as r:
+                  b=r.read(12000001);record.update(http_status=r.status,final_url=r.url,content_type=r.headers.get('Content-Type'))
+              assert len(b)<=12000000 and b.startswith(b'%PDF-'), 'Invalid PDF capture'
+              digest=hashlib.sha256(b).hexdigest();tag=datetime.datetime.now(datetime.timezone.utc).strftime('%Y%m%dT%H%M%SZ')
+              name=f'P02-DK1171__{tag}__{digest[:12]}.pdf';(out/name).write_bytes(b)
+              record.update(capture_state='HELD_TEMPORARY_REVIEW_ARTEFACT',path=name,bytes=len(b),sha256=digest,snapshot_id=name[:-4])
+          except Exception as exc:
+              record.update(capture_state='CAPTURE_FAILED',error=repr(exc))
+          record['completed_utc']=datetime.datetime.now(datetime.timezone.utc).isoformat()
+          (out/'additional_capture.json').write_text(json.dumps(record,indent=2)+'\n')
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: great-belt-correction-inputs
+          path: ${{ runner.temp }}/correction-inputs/
+          retention-days: 30

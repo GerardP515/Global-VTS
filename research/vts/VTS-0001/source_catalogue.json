@@ -21,7 +21,10 @@
       "capture_manifest": "sources/manifests/PILOT-01/capture_result.json",
       "inspection_basis": "Author read relevant archived extraction and live authority page; not independently reviewed",
       "public_reproduction_status": "Open Government Licence v3.0 for MCA text; identified third-party material excluded",
-      "limitations": ["Threshold wording is imprecise; report-content summary differs from the explicit IMO amendment"]
+      "limitations": [
+        "Threshold wording is imprecise; report-content summary differs from the explicit IMO amendment"
+      ],
+      "last_live_recheck_date": "2026-10-03"
     },
     {
       "source_id": "SRC-005",
@@ -41,7 +44,10 @@
       "capture_manifest": "sources/manifests/PILOT-01/capture_result.json",
       "inspection_basis": "Author read relevant archived extraction and live authority page; not independently reviewed",
       "public_reproduction_status": "Open Government Licence v3.0 for MCA text; identified third-party material excluded",
-      "limitations": ["Reporting-line datum and complete western geometry not stated in the cited paragraphs; current ALRS and notices require reconciliation"]
+      "limitations": [
+        "Reporting-line datum and complete western geometry not stated in the cited paragraphs; current ALRS and notices require reconciliation"
+      ],
+      "last_live_recheck_date": "2026-10-03"
     },
     {
       "source_id": "P01-IMO85",
@@ -57,7 +63,14 @@
       "original_sha256": null,
       "inspection_basis": "Live parsed text and PDF page screenshots inspected by the author",
       "public_reproduction_status": "Not assessed; original not copied to the public repository",
-      "limitations": ["Annex 1 concerns US right whales and is excluded", "Original section 3.2 is superseded by MSC.251(83)", "Old hardware and national-law descriptions are not reused as current rules", "No reproducible retained original/render packet yet"]
+      "limitations": [
+        "Annex 1 concerns US right whales and is excluded",
+        "Original section 3.2 is superseded by MSC.251(83)",
+        "Old hardware and national-law descriptions are not reused as current rules",
+        "No reproducible retained original/render packet yet"
+      ],
+      "last_live_recheck_date": "2026-10-03",
+      "retention_review": "PENDING_RIGHTS_OR_APPROVED_REPOSITORY; no new original copy claimed"
     },
     {
       "source_id": "P01-IMO251",
@@ -73,7 +86,11 @@
       "original_sha256": null,
       "inspection_basis": "Live text and Appendix page screenshot inspected by the author",
       "public_reproduction_status": "Not assessed; original not copied to the public repository",
-      "limitations": ["Permitted retained review copy and complete later-amendment reconciliation remain open"]
+      "limitations": [
+        "Permitted retained review copy and complete later-amendment reconciliation remain open"
+      ],
+      "last_live_recheck_date": "2026-10-03",
+      "retention_review": "PENDING_RIGHTS_OR_APPROVED_REPOSITORY; no new original copy claimed"
     },
     {
       "source_id": "P01-TH-RS",
@@ -89,7 +106,11 @@
       "original_sha256": null,
       "inspection_basis": "Live primary authority page inspected by the author",
       "public_reproduction_status": "Not assessed; original not copied to the public repository",
-      "limitations": ["Confirms topsides removal, not a new reporting-line location or cancellation"]
+      "limitations": [
+        "Confirms topsides removal, not a new reporting-line location or cancellation"
+      ],
+      "last_live_recheck_date": "2026-10-03",
+      "retention_review": "PENDING_RIGHTS_OR_APPROVED_REPOSITORY; no new original copy claimed"
     },
     {
       "source_id": "P01-LIB-NCSR13",
@@ -105,7 +126,11 @@
       "original_sha256": null,
       "inspection_basis": "Live first-hand meeting account inspected by the author",
       "public_reproduction_status": "Not assessed; original not copied to the public repository",
-      "limitations": ["Prospective change lead, not an adopted IMO instrument or an in-force reporting instruction"]
+      "limitations": [
+        "Prospective change lead, not an adopted IMO instrument or an in-force reporting instruction"
+      ],
+      "last_live_recheck_date": "2026-10-03",
+      "retention_review": "PENDING_RIGHTS_OR_APPROVED_REPOSITORY; no new original copy claimed"
     },
     {
       "source_id": "P01-DOVER-PORT",
@@ -121,7 +146,31 @@
       "original_sha256": null,
       "inspection_basis": "Live port-authority page inspected for scope separation only",
       "public_reproduction_status": "Not assessed; original not copied to the public repository",
-      "limitations": ["Port-entry source is excluded from CALDOVREP through-transit instructions"]
+      "limitations": [
+        "Port-entry source is excluded from CALDOVREP through-transit instructions"
+      ],
+      "last_live_recheck_date": "2026-10-03",
+      "retention_review": "PENDING_RIGHTS_OR_APPROVED_REPOSITORY; no new original copy claimed"
+    },
+    {
+      "source_id": "P01-A851",
+      "title": "Resolution A.851(20): ship-reporting format reference",
+      "issuer": "International Maritime Organization",
+      "publication_or_update_date": "1997-11-27",
+      "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.851(20).pdf",
+      "scope_locator": "Appendix paragraph 2, PDF pages 7-9, especially B/C/D/E/F/I. Generic report schedules are not adopted as CALDOVREP duties.",
+      "accessed_date": "2026-10-03",
+      "source_status": "LIVE_CONSULTED_NOT_HELD",
+      "snapshot_id": null,
+      "original_path": null,
+      "original_sha256": null,
+      "inspection_basis": "Current author correction: parsed text and table page images inspected live. No retained original or independent review.",
+      "public_reproduction_status": "Permission for this commercial-development public archive not established. IMO website terms and IP policy require assessment.",
+      "limitations": [
+        "Format-reference route only. No provider implementation, nil-report convention or new final-report duty inferred."
+      ],
+      "last_live_recheck_date": "2026-10-03",
+      "retention_review": "PENDING_RIGHTS_OR_APPROVED_REPOSITORY; no new original copy claimed"
     }
   ]
 }

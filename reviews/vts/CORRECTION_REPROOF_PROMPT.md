@@ -1,56 +1,95 @@
 # VTS five-stage correction and re-proof prompt
 
-Scope: one study package and its existing independent review findings.
+Revision: 1.2, 3 October 2026. Includes entry-2 structure and the professional-1 language standard.
+Scope: one study package and its existing review findings.
 The author performs corrections, not independent release approval.
 Work against complete held sources and the current committed research revision.
+Read `VTS_RESEARCH_PROMPT.md` and `docs/vts-production/GUIDE_PRESENTATION.md` before proceeding.
 
 ## Stage 1: disposition and correct
 
-Reopen the evidence for every finding before accepting it.
+Reopen evidence for every finding before accepting it.
 Record ACCEPT, PARTLY_ACCEPT, REBUT or NOT_CHECKED, with source snapshot and locator.
-Apply only supported changes to canonical data, then update dependent prose.
-Do not repair a coordinate from memory or fill a gap with a plausible value.
-Commit a scoped checkpoint and record the revision.
+Apply supported operational changes to canonical YAML, then update dependent prose and exports.
+Do not repair coordinates from memory or fill gaps with plausible values.
+
+For presentation-only work, preserve exact YAML bytes and factual meaning.
+Rewrite the entry as original explanation, not synonym substitution in source sentences.
+Keep exact codes, call signs, figures, units and conditions accurate.
+Apply the professional-language rules in section 4 of `docs/vts-production/GUIDE_PRESENTATION.md`.
+For language-only findings, cite the relevant style clause and entry location; do not invent source evidence.
+An encyclopaedic rewrite does not authorise extra local facts or remove HOLD status.
+Commit a scoped checkpoint and record research and presentation revisions separately.
 
 ## Stage 2: first complete re-proof
 
-Read the entire corrected dossier, evidence matrix, reporting matrix, report fields and geometry.
-Check both directions, route variants, applicability, exemptions, channels, report triggers and validity periods.
+Read the entire corrected dossier, evidence, reporting events, fields and geometry.
+Check every direction, variant, applicability condition, exemption, channel, trigger and validity period.
 Reconcile every number and locator to the held original.
-Read supporting tables and graphics as images.
-Record new findings before another edit.
+Inspect supporting tables and graphics as images.
+
+Check all nine entry-2 sections and their claim-level references.
+Compare rewritten assertions semantically with YAML and source meaning, not merely expected strings.
+Check that condition scope, obligation strength and event distinctions survived the rewrite.
+Review distinctive phrase overlap with source texts actually available; record the comparison scope and omissions.
+Technical labels and numerical values must not be altered to reduce similarity.
+Perform the complete professional-language pass specified in the presentation standard, section 4.6.
+Record language findings separately, including drafting commentary, stock framing, forced introductions and unnecessary repetition.
+Record new findings before making further changes.
 
 ## Stage 3: apply first re-proof findings
 
 Recheck new findings against originals and disposition them.
-Apply supported corrections, update gaps/conflicts, and regenerate dependent views.
-Increment the package revision for operational changes.
-Commit the corrected state before the next full read.
+Apply supported corrections, update gaps/conflicts and regenerate dependent views.
+Increment the research revision for operational changes and the presentation revision for prose changes.
+Do not conceal a substantive correction within a formatting commit.
+Commit the corrected state before the next complete read.
 
 ## Stage 4: second complete re-proof
 
 Start from the live committed package, not remembered text.
-Check all earlier fixes and nearby clauses for unintended changes.
-Check that no operational value was lost, duplicated or detached from its applicability.
-Verify source binding, event order, geometry labels and every repeated communications field.
+Check earlier corrections and adjacent provisions for unintended changes.
+No operational value may be lost, duplicated or detached from its applicability.
+Verify source binding, event semantics, geometry labels and repeated communications fields.
+
+Check the complete mariner-facing entry independently of its editorial appendix.
+Material limitations remain beside affected instructions and in the operational-limitations section.
+Internal evidence IDs and archive history do not replace the entry's explanation.
+Check that language fixes have not reintroduced repetitive framing, vague terminology or commentary about the writing process.
+Do not remove a caution needed beside an independently used direction or reference table.
+Check quotations, attribution and originality findings without inventing a plagiarism scan or certification.
 Record findings separately from Stage 2.
 
 ## Stage 5: final corrections and closing checks
 
 Recheck and apply supported final findings.
-Run available structural validators, recording commands, counts, skipped work and limitations.
-If a final change affects operational meaning, repeat Stage 4 before closing.
-Leave the package pending non-author follow-up review and named marine approval.
+Run available validators and record commands, counts, skipped work and limitations.
+For a final change affecting operational meaning, repeat Stage 4 before closing.
+Recheck the final prose edit and its affected citations, cross-references and warnings.
+Record the language review's actual scope and outcome separately from source and approval states.
+
+Verify unique section/reference anchors, immediate citations, clickable contents and standalone repository links.
+Reading copies may omit YAML and the editorial appendix, never operational qualifications or references.
+A navigation-only export requires an exact reverse-text comparison.
+An authored rewrite requires a semantic check, not a false byte-equality claim.
+Keep generated or proposed reading copies distinct from the single canonical service dossier.
+
+Do not reuse the frozen Channel proforma-1 validator as an entry-2 approval tool.
+An unavailable or incompatible test is NOT_RUN with a reason.
+After an authorised dossier migration, commit the new revision and rebuild its exact review packet.
+Preserve historical records and leave the package pending non-author follow-up review and named marine approval.
 
 ## Stop conditions
 
-HOLD if a required source or render is missing, an applicable source conflict remains, or the input revision changes unexpectedly.
-HOLD if a correction needs an unapproved scope change or invented operational value.
-Record the exact claims and outputs blocked; do not silently skip them.
+HOLD if required sources or renders are missing, conflicts remain, or the input revision changes unexpectedly.
+HOLD if a correction needs unapproved scope expansion or an invented operational value.
+Record precisely which claims and outputs are blocked; do not silently skip them.
+A bounded style review can proceed on an incomplete packet only with its limitations explicit.
+It cannot produce whole-package evidence approval or close the underlying gaps.
 
 ## Batch discipline
 
 Complete all five stages and checkpoint one study before starting another.
-After five studies, run a batch audit of inputs, source isolation, findings, revisions and status counts.
-A held study is not complete. Proceed past it only under the campaign's explicit hold/continue rule.
+After five studies, audit inputs, source isolation, findings, revisions and status counts.
+A held study is not complete. Proceed only under an explicit campaign hold/continue rule.
 No author-issued VERIFIED or RELEASED status is permitted.

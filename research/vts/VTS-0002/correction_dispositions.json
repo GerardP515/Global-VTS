@@ -1,0 +1,88 @@
+{
+  "input_dossier_sha256": "f4b13b90907b71d624f3d5b401b2fe157dd2a39aebb45806406c03358c83042e",
+  "input_review": "reviews/vts/reports/PILOT-02__fact_style_review_2026-10-03.md",
+  "role": "AUTHOR",
+  "research_revision": "0.2-author-correction",
+  "findings": [
+    {
+      "id": "F01",
+      "disposition": "ACCEPT",
+      "implementation": "CANONICAL_CORRECTION"
+    },
+    {
+      "id": "F02",
+      "disposition": "ACCEPT",
+      "implementation": "QUALIFICATION_AND_OPEN_GAP_RETAINED"
+    },
+    {
+      "id": "F03",
+      "disposition": "ACCEPT",
+      "implementation": "QUALIFICATION_AND_OPEN_GAP_RETAINED"
+    },
+    {
+      "id": "F04",
+      "disposition": "ACCEPT",
+      "implementation": "CANONICAL_CORRECTION"
+    },
+    {
+      "id": "F05",
+      "disposition": "ACCEPT",
+      "implementation": "CANONICAL_CORRECTION"
+    },
+    {
+      "id": "F06",
+      "disposition": "ACCEPT",
+      "implementation": "CANONICAL_CORRECTION"
+    },
+    {
+      "id": "F07",
+      "disposition": "ACCEPT",
+      "implementation": "CANONICAL_CORRECTION"
+    },
+    {
+      "id": "F08",
+      "disposition": "ACCEPT",
+      "implementation": "QUALIFICATION_AND_OPEN_GAP_RETAINED"
+    },
+    {
+      "id": "F09",
+      "disposition": "ACCEPT",
+      "implementation": "CANONICAL_CORRECTION"
+    },
+    {
+      "id": "F10",
+      "disposition": "ACCEPT",
+      "implementation": "QUALIFICATION_AND_OPEN_GAP_RETAINED"
+    },
+    {
+      "id": "L01",
+      "disposition": "ACCEPT",
+      "implementation": "READER_LANGUAGE_EDIT"
+    },
+    {
+      "id": "L02",
+      "disposition": "ACCEPT",
+      "implementation": "READER_LANGUAGE_EDIT"
+    },
+    {
+      "id": "L03",
+      "disposition": "ACCEPT",
+      "implementation": "READER_LANGUAGE_EDIT"
+    },
+    {
+      "id": "L04",
+      "disposition": "ACCEPT",
+      "implementation": "READER_LANGUAGE_EDIT"
+    },
+    {
+      "id": "L05",
+      "disposition": "ACCEPT",
+      "implementation": "READER_LANGUAGE_EDIT"
+    }
+  ],
+  "added_reproof_findings": [
+    "Order 1171 summary/table W discrepancy retained in C01 and reader.",
+    "EV-DELIVERY pointed to a missing field; mapped to existing policy fields."
+  ],
+  "publication_ready": false
+}
