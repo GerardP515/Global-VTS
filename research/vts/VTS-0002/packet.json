@@ -4,8 +4,9 @@
   "service_ids": [
     "VTS-0002"
   ],
-  "research_commit": "389217403d911142edc81350d6a4e21d05b3c86d",
-  "packet_revision": "P02-0.1-HOLD",
+  "research_commit": "131e5faf511178a964a690a888bb4943de4eff7c",
+  "research_revision": "0.2-author-correction",
+  "packet_revision": "P02-0.2-HOLD",
   "packet_state": "HOLD_PENDING_CURRENCY_DURABLE_STORAGE_AND_INDEPENDENT_REVIEW",
   "files": [
     {
@@ -15,13 +16,13 @@
     },
     {
       "path": "VTS_RESEARCH_PROMPT.md",
-      "bytes": 34602,
-      "sha256": "1db3f4a8c120624bc903a883fbf38dd5354e4b403fb7632c59bad157579cf29f"
+      "bytes": 34749,
+      "sha256": "138d5e31a0249e3f4491c0f247fb9dbfdb99304b38f4e347433dae75fd6777a4"
     },
     {
       "path": "docs/vts-production/GREAT_BELT_SCHEMA_ADDENDUM.md",
-      "bytes": 3470,
-      "sha256": "a8864114fe0a62f1be87ab8243763643bf3aaa4553a0fb721b3d0196c4709fb9"
+      "bytes": 5087,
+      "sha256": "91e7a506657f0a85db2fb6ae205a822ed27a49200b01deb848b99b913bff67d0"
     },
     {
       "path": "docs/vts-production/GUIDE_PRESENTATION.md",
@@ -30,43 +31,33 @@
     },
     {
       "path": "research/vts/VTS-0002/assignment.json",
-      "bytes": 1268,
-      "sha256": "a498c81f9c467a39fa49b33c420da4f7fbf17927f115158d2ecbe67b6bd71073"
+      "bytes": 1618,
+      "sha256": "87774ff2fe68f7ce9dee95091dc8986c71da8389a41a7d3ef82c9b7ae440f795"
     },
     {
-      "path": "research/vts/VTS-0002/author_check.json",
-      "bytes": 1273,
-      "sha256": "37c9fa377ff287c10a339470750f4a388d842e33c81400ab4f65dbea84c2a4a2"
+      "path": "research/vts/VTS-0002/correction_check.json",
+      "bytes": 1975,
+      "sha256": "34fb610cfd96df9fdd0101e5ba0893fbb22d5c40965b3d4749ad1341550d563a"
+    },
+    {
+      "path": "research/vts/VTS-0002/correction_dispositions.json",
+      "bytes": 2197,
+      "sha256": "80b2a83618e03625092a853af5f53f30dc49dc031868e464fb4b8484ea63ba13"
+    },
+    {
+      "path": "research/vts/VTS-0002/correction_reproof.json",
+      "bytes": 2617,
+      "sha256": "c9d5d258c002ec2dc5424b8112cadb5601729eedf68388fc8e4f487d410c931a"
     },
     {
       "path": "research/vts/VTS-0002/dossier.md",
-      "bytes": 82733,
-      "sha256": "f4b13b90907b71d624f3d5b401b2fe157dd2a39aebb45806406c03358c83042e"
-    },
-    {
-      "path": "research/vts/VTS-0002/effort.csv",
-      "bytes": 389,
-      "sha256": "f75eff6a78654bbbb2eb294dacfd0de52660f078cba8993804c738105c1a81e1"
-    },
-    {
-      "path": "research/vts/VTS-0002/inspection_record.json",
-      "bytes": 737,
-      "sha256": "90be49da636c74f2682f1137719e7bef480fdba10503f5b2fb95d4c623810129"
-    },
-    {
-      "path": "research/vts/VTS-0002/language_originality_check.json",
-      "bytes": 2323,
-      "sha256": "7a37c303dbc8ff18671d1d32e90f145bb61e1e539aa6acd5a022fd28993ddc06"
-    },
-    {
-      "path": "research/vts/VTS-0002/reproof_changes.json",
-      "bytes": 851,
-      "sha256": "59bab24e06e4300f2bd1ec8c7049f5218d9bec224f2ed332ab571f173cf02368"
+      "bytes": 99730,
+      "sha256": "4fec09e293317f66cb0e546573f7e78cae29367668a3f34818e65096aece3c30"
     },
     {
       "path": "research/vts/VTS-0002/source_catalogue.json",
-      "bytes": 21681,
-      "sha256": "d4eec9ed13a81a7dd01e639316516609f8653f6634a910a1e74a271e3166f682"
+      "bytes": 23657,
+      "sha256": "36607d3fe6cc49921271e77830eb519c667236d0faaa5f7d0873f93a5ad8d484"
     },
     {
       "path": "reviews/vts/CORRECTION_REPROOF_PROMPT.md",
@@ -79,14 +70,24 @@
       "sha256": "2a1c7117c99cefdb151a3a3b4f6695ca4f18c22437802ca93a9739373424c024"
     },
     {
-      "path": "reviews/vts/checks/great_belt_pilot_check.py",
-      "bytes": 12499,
-      "sha256": "a05bf73eed9fecefda8a6feb0e1fa49200f45b8c44636e49382c8e918bfba77c"
+      "path": "reviews/vts/checks/great_belt_correction_check.py",
+      "bytes": 20819,
+      "sha256": "83f723812066600caa35069b66815360e9cd5a36cf5e89d4fbb0a81505c7e694"
     },
     {
-      "path": "reviews/vts/reports/PILOT-02__workflow_test_2026-10-03.md",
-      "bytes": 8823,
-      "sha256": "ee85b91babb9a8c5d2b5549f0716d3796c6b94bac3ecdd4ec20fb1dfa72b0f16"
+      "path": "reviews/vts/packets/PILOT-02__0.1__packet.json",
+      "bytes": 4010,
+      "sha256": "a49800c3144546b4a0c19af9b70e7a48cce36cf86fc3f4898f0a7c2b58a740ab"
+    },
+    {
+      "path": "reviews/vts/reports/PILOT-02__canonical_correction_2026-10-03.md",
+      "bytes": 8032,
+      "sha256": "1403ef1fd4dd2d8af733143094d3c91afe650d0717ca510ef3dc411d53bb6e5d"
+    },
+    {
+      "path": "sources/manifests/PILOT-02/additional_order_1171.json",
+      "bytes": 1335,
+      "sha256": "fe75a4ff4c11e8103850dc8c5b522d2bcd916022c07b1e4b04d6c2cdb8cdac74"
     },
     {
       "path": "sources/manifests/PILOT-02/capture_result.json",
@@ -94,22 +95,31 @@
       "sha256": "a3762ecb8f57a609ebf879cd4bb512e536a6ccd7ee7efa03eae5e077193ec621"
     }
   ],
-  "source_store": {
-    "kind": "GitHub Actions review artefact",
-    "artifact_id": 11270632198,
-    "run_id": 37113574518,
-    "sha256": "4208b318397f88dc54ea68d88b5973b1cf7f6fc9a9a14446f1ae5a7ab305cbc5",
-    "expires_at": "2026-11-02T09:35:58Z",
-    "durable_archive_approved": false,
-    "public_republication_rights": "NOT_ASSUMED"
-  },
+  "previous_packet_path": "reviews/vts/packets/PILOT-02__0.1__packet.json",
+  "source_stores": [
+    {
+      "artifact_id": 11270632198,
+      "run_id": 37113574518,
+      "sha256": "4208b318397f88dc54ea68d88b5973b1cf7f6fc9a9a14446f1ae5a7ab305cbc5",
+      "expires_at": "2026-11-02T09:35:58Z"
+    },
+    {
+      "artifact_id": 11271423361,
+      "run_id": 37117171014,
+      "sha256": "75a5f40bb7d4ecfab5014f7ac673a399262c877af3a10ca67fd7756a8b495dbd",
+      "expires_at": "2026-11-02T10:40:13Z"
+    }
+  ],
+  "durable_archive_approved": false,
+  "public_republication_rights": "NOT_ASSUMED",
   "independent_review_state": "NOT_STARTED",
   "marine_approval_record": null,
   "publication_ready": false,
-  "assembly_utc": "2026-10-03T10:04:28.519635+00:00",
+  "assembly_utc": "2026-10-03T10:58:36.028040+00:00",
   "limits": [
-    "Pilot-specific structural checks are not source-currency or independent marine approval.",
-    "Six open gaps remain.",
-    "Temporary source archive must be transferred to an authorised durable store."
+    "Author-side correction and re-proof, not independent marine approval.",
+    "Eight open gaps remain.",
+    "Source originals remain in expiring review artefacts.",
+    "Historical 0.1 check records do not validate this new revision."
   ]
 }
